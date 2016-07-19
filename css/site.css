@@ -1,0 +1,30 @@
+/* @override 
+	http://127.0.0.1:8000/css/site.css */
+
+h1 {
+  font-size: x-large;
+}
+
+h2 {
+  font-size: large;
+}
+
+h3 {
+  font-size: medium;
+}
+
+#title {
+  font: xx-large Georgia, "Times New Roman", Times, serif;
+  font-variant: small-caps;
+}
+
+#titlebox {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#author {
+  font: Georgia, "Times New Roman", Times, serif;
+  font-variant: small-caps;
+  margin-top: 6ex;
+}
