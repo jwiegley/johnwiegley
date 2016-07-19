@@ -1,0 +1,41 @@
+code, pre {
+        font-family: Georgia, serif;
+        background-color: transparent;
+}
+pre {   
+        padding: 1em;
+        margin: 0;
+        border: none;
+}
+
+.entry {
+	padding-top: 2em;
+	padding-left: 2em;
+	padding-right: 3em;
+        font-size: 130%;
+}
+
+blockquote {
+       padding-bottom: 0;
+       margin-bottom: 0;
+}
+
+.suf-widget .gmail {
+    background-image: url(http://johnwiegley.com/files/Gmail-16x16.png);
+}
+.suf-widget .rss {
+    background-image: url(http://johnwiegley.com/files/Feed-16x16.png);
+}
+.suf-widget .twitter {
+    background-image: url(http://johnwiegley.com/files/Twitter-16x16.png);
+}
+
+blockquote > p + p { text-indent: 0; }
+
+#wrapper { border: 0px; }
+#nav { border-bottom: 0px; }
+#header-container { margin-top: 15px; }
+#header { display: inline; }
+
+body.custom-background { background-image: url(images/bosch_tree1.jpg); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+

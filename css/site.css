@@ -31,3 +31,7 @@ h3 {
   /*font-variant: small-caps;*/
   margin-top: 7.5ex;
 }
+
+body {
+	font-size: 100%;
+}
