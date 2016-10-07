@@ -54,7 +54,8 @@ to selflessness; not by denying itself, but by shifting its locus of awareness
 to a higher plane. On that plane, all cells are equal, because their purpose,
 their joy, their ultimate goal, is equal. In the physical plane they differ by
 function, but on this higher plane, of the being they support, they differ not
-at all. I think of this when reading the following statement by Bahá'u'lláh:
+at all. I think of this when reading the following Islamic tradition, also
+quoted by Bahá'u'lláh:
 
 > "Manifold and mysterious is My relationship with God. I am He, Himself, and
 > He is I, Myself, except that I am that I am, and He is that He is." So too,
