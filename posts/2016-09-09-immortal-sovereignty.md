@@ -1,3 +1,9 @@
+---
+title: Immortal sovereignty
+date: 2016-10-07 10:15
+category: Journal
+---
+
 What follows are some musings on the following Hidden Word:
 
 > O Son of My Handmaid! Didst thou behold immortal sovereignty, thou wouldst

@@ -1,3 +1,9 @@
+---
+title: Dear reader!
+date: 2016-10-07 10:15
+category: Poems
+---
+
     Dear reader!
     
     You are the unsought treasure.

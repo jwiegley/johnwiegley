@@ -1,3 +1,9 @@
+---
+title: The mysteries of grace
+date: 2016-10-07 10:15
+category: Poems
+---
+
     Two men prayed to God:
     One said only one word
     and was given a life of bounty in response.

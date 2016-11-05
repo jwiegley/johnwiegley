@@ -1,37 +1,87 @@
 /* @override 
 	http://127.0.0.1:8000/css/site.css */
 
- @override
-	http://127.0.0.1:8000/css/site.css 
-
-h1 {
-  font-size: x-large;
-}
-
-h2 {
-  font-size: large;
-}
-
-h3 {
-  font-size: medium;
+body {
+    margin:  1in;
+    margin-top: 6ex;
+    font-family: Palatino, serif;
+    font-size: 140%;
 }
 
 #title {
-  font: xx-large Georgia, "Times New Roman", Times, serif;
-  /*font-variant: small-caps;*/
+    font-size: 150%;
+    font-weight: bold;
+    padding-bottom: 1ex;
 }
 
-#titlebox {
-  margin-top: 25px;
-  margin-bottom: 25px;
+#header {
+    border-bottom: 1px solid #333;
 }
 
-#author {
-  font: Georgia, "Times New Roman", Times, serif;
-  /*font-variant: small-caps;*/
-  margin-top: 7.5ex;
+#header, #footer {
+    text-align: center;
 }
 
-body {
-	font-size: 100%;
+#menu {
+    font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    font-variant: small-caps;
+}
+
+#menu ul {
+    list-style: none;
+}
+
+#menu li {
+    display: inline-block;
+    padding-right: 1em;
+}
+
+.article {
+    margin: 2em;
+}
+
+.article-title {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.article-date {
+    float: right;
+    padding-right: 1em;
+}
+
+.article-content {
+    margin: 2em;
+    margin-top: 1.5em;
+    margin-right: 3em;
+    line-height: 3ex;
+    text-align: justify;
+}
+
+#footer {
+    border-top: 1px solid #333;
+    font-style: italic;
+    padding-top: 2ex;
+    text-align: right;
+}
+
+blockquote {
+	font-family: Palatino, serif;
+	font-style: italic;
+}
+
+pre {
+    margin: 2em;
+}
+
+code {
+    font-family: Palatino, serif;
+}
+
+#navlinks {
+	margin: 1em;
+}
+
+#navlinkolder {
+	float:  right;
 }

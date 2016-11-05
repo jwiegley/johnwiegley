@@ -1,6 +1,6 @@
 ---
 title: I understand it not
-date: [2016-10-07 Fri 10:15]
+date: 2016-10-07 10:15
 category: Poems
 ---
 

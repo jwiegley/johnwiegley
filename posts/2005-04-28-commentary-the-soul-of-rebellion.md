@@ -1,6 +1,6 @@
 ---
 id: 69
-title: Commentary: The soul of rebellion
+title: "Commentary: The soul of rebellion"
 date: Thu, 28 Apr 2005 12:00:00 +0000
 category: Journal
 ---
