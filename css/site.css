@@ -1,8 +1,10 @@
 /* @override 
-	http://127.0.0.1:8000/css/site.css */
+	http://127.0.0.1:8000/css/site.css
+	http://johnwiegley.com/css/site.css */
 
 body {
-    background-color: rgba(21, 155, 180, 0.27);
+    background-color: rgba(252, 238, 209, 0.71);
+    background-image: url(/images/beige-paper.png);
 }
 
 #container {
@@ -12,7 +14,8 @@ body {
     padding-top: 5ex;
     font-family: Palatino, serif;
     font-size: 130%;
-    background-color: #ffffff;
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.22);
 }
 
 #title {
