@@ -1,5 +1,4 @@
 ---
-id: 325
 title: "Movie: *What the #$?! do we (k)now?*"
 date: Wed, 12 May 2004 12:00:00 +0000
 category: Journal

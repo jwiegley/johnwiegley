@@ -1,5 +1,4 @@
 ---
-id: 690
 title: Virginia autumn II
 date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Poems

@@ -1,5 +1,4 @@
 ---
-id: 370
 title: Beside the Yarra river
 date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Poems

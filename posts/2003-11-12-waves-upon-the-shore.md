@@ -1,5 +1,4 @@
 ---
-id: 700
 title: Waves upon the shore
 date: Wed, 12 Nov 2003 12:00:00 +0000
 category: Poems

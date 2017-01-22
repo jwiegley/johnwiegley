@@ -1,5 +1,4 @@
 ---
-id: 1224
 title: The hidden door
 date: Sat, 08 Oct 2011 11:37:00 +0000
 category: Journal

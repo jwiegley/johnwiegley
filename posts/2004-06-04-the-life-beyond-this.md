@@ -1,5 +1,4 @@
 ---
-id: 236
 title: The life beyond this
 date: Fri, 04 Jun 2004 12:00:00 +0000
 category: Journal

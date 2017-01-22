@@ -1,5 +1,4 @@
 ---
-id: 732
 title: The destiny of the soul
 date: Thu, 03 Mar 2005 17:00:00 +0000
 category: Essays

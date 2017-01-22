@@ -1,5 +1,4 @@
 ---
-id: 430
 title: Finding Thee
 date: Sat, 02 Apr 2005 12:00:00 +0000
 category: Poems

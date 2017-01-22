@@ -1,5 +1,4 @@
 ---
-id: 1192
 title: The prisoner
 date: Tue, 23 Aug 2011 11:48:31 +0000
 category: Journal

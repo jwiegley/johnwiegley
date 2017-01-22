@@ -1,5 +1,4 @@
 ---
-id: 622
 title: Sweet girl
 date: Sun, 17 Apr 2005 12:00:00 +0000
 category: Poems

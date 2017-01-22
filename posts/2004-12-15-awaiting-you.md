@@ -1,5 +1,4 @@
 ---
-id: 367
 title: Awaiting you
 date: Wed, 15 Dec 2004 12:00:00 +0000
 category: Poems

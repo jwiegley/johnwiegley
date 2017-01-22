@@ -1,5 +1,4 @@
 ---
-id: 763
 title: Nickels and dimes
 date: Sat, 06 Mar 2004 12:00:00 +0000
 category: Essays

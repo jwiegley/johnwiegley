@@ -1,5 +1,4 @@
 ---
-id: 593
 title: Sleeping earth
 date: Fri, 18 Jun 2004 12:00:00 +0000
 category: Poems

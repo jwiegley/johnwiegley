@@ -1,5 +1,4 @@
 ---
-id: 49
 title: The beauty of things
 date: Fri, 02 May 2008 12:00:00 +0000
 category: Journal

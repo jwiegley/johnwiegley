@@ -1,5 +1,4 @@
 ---
-id: 192
 title: Seeing beyond sight
 date: Sat, 11 Sep 2004 12:00:00 +0000
 category: Journal

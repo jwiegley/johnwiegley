@@ -1,5 +1,4 @@
 ---
-id: 422
 title: Finding the path
 date: Tue, 28 Oct 2003 12:00:00 +0000
 category: Poems

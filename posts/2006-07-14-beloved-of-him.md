@@ -1,5 +1,4 @@
 ---
-id: 59
 title: Beloved of Him
 date: Fri, 14 Jul 2006 12:00:00 +0000
 category: Journal

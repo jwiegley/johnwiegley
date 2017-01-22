@@ -1,5 +1,4 @@
 ---
-id: 725
 title: Backbiting
 date: Mon, 11 Jul 2005 12:00:00 +0000
 category: Essays

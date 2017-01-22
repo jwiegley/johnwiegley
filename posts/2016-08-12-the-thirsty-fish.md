@@ -1,5 +1,4 @@
 ---
-id: 1553
 title: The thirsty fish
 date: Fri, 12 Aug 2016 15:03:21 +0000
 category: Journal

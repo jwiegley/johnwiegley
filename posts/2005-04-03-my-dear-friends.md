@@ -1,5 +1,4 @@
 ---
-id: 515
 title: My dear friends
 date: Sun, 03 Apr 2005 12:00:00 +0000
 category: Poems

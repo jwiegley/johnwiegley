@@ -1,5 +1,4 @@
 ---
-id: 705
 title: Waiting II
 date: Wed, 30 Nov 2005 12:00:00 +0000
 category: Poems

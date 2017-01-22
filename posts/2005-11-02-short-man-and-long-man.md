@@ -1,5 +1,4 @@
 ---
-id: 195
 title: Short man and long man
 date: Wed, 02 Nov 2005 12:00:00 +0000
 category: Journal

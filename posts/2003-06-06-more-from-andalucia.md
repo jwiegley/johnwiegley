@@ -1,5 +1,4 @@
 ---
-id: 142
 title: More from Andalucia
 date: Fri, 06 Jun 2003 12:00:00 +0000
 category: Journal

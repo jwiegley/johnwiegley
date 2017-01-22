@@ -1,5 +1,4 @@
 ---
-id: 565
 title: Reading scripture
 date: Mon, 16 Oct 2006 12:00:00 +0000
 category: Poems

@@ -1,5 +1,4 @@
 ---
-id: 90
 title: Even more pictures
 date: Tue, 13 Sep 2005 12:00:00 +0000
 category: Journal

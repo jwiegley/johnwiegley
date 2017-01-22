@@ -1,5 +1,4 @@
 ---
-id: 333
 title: A cherished sound
 date: Thu, 23 Jan 2003 12:00:00 +0000
 category: Poems

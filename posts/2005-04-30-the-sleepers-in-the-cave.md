@@ -1,5 +1,4 @@
 ---
-id: 257
 title: The Sleepers in the Cave
 date: Sat, 30 Apr 2005 12:00:00 +0000
 category: Journal

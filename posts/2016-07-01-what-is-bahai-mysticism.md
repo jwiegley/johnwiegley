@@ -1,5 +1,4 @@
 ---
-id: 1530
 title: What is Bahá’í mysticism?
 date: Fri, 01 Jul 2016 14:59:37 +0000
 category: Essays

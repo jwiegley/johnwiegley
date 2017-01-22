@@ -1,5 +1,4 @@
 ---
-id: 644
 title: The long journey
 date: Sat, 12 Nov 2005 12:00:00 +0000
 category: Poems

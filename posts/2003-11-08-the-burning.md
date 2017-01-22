@@ -1,5 +1,4 @@
 ---
-id: 627
 title: The burning
 date: Sat, 08 Nov 2003 12:00:00 +0000
 category: Poems

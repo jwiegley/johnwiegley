@@ -1,5 +1,4 @@
 ---
-id: 474
 title: Just a pawn
 date: Sat, 11 Oct 2003 12:00:00 +0000
 category: Poems

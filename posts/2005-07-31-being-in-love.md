@@ -1,5 +1,4 @@
 ---
-id: 377
 title: Being in love
 date: Sun, 31 Jul 2005 12:00:00 +0000
 category: Poems

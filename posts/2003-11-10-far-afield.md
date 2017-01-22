@@ -1,5 +1,4 @@
 ---
-id: 423
 title: Far afield
 date: Mon, 10 Nov 2003 12:00:00 +0000
 category: Poems

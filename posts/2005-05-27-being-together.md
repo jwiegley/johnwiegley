@@ -1,5 +1,4 @@
 ---
-id: 376
 title: Being together
 date: Fri, 27 May 2005 12:00:00 +0000
 category: Poems

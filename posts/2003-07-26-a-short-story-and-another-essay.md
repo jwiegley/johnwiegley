@@ -1,5 +1,4 @@
 ---
-id: 16
 title: A short story and another essay
 date: Sat, 26 Jul 2003 12:00:00 +0000
 category: Journal

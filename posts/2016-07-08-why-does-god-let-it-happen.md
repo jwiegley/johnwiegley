@@ -1,5 +1,4 @@
 ---
-id: 1537
 title: Why does God let it happen?
 date: Fri, 08 Jul 2016 15:26:52 +0000
 category: Essays

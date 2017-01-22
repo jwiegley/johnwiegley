@@ -1,5 +1,4 @@
 ---
-id: 693
 title: Vanishing
 date: Mon, 13 Sep 2004 12:00:00 +0000
 category: Poems

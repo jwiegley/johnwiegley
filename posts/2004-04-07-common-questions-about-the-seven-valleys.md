@@ -1,5 +1,4 @@
 ---
-id: 772
 title: Common questions about the Seven Valleys
 date: Wed, 07 Apr 2004 12:00:00 +0000
 category: Essays

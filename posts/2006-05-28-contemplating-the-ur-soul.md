@@ -1,5 +1,4 @@
 ---
-id: 71
 title: Contemplating the Ur-soul
 date: Sun, 28 May 2006 12:00:00 +0000
 category: Journal

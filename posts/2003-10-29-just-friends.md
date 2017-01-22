@@ -1,5 +1,4 @@
 ---
-id: 476
 title: Just friends
 date: Wed, 29 Oct 2003 12:00:00 +0000
 category: Poems

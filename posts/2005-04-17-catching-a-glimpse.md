@@ -1,5 +1,4 @@
 ---
-id: 402
 title: Catching a glimpse
 date: Sun, 17 Apr 2005 12:00:00 +0000
 category: Poems

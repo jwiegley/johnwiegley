@@ -1,5 +1,4 @@
 ---
-id: 1212
 title: Examining religion
 date: Fri, 23 Dec 2011 11:13:59 +0000
 category: Journal

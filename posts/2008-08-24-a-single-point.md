@@ -1,5 +1,4 @@
 ---
-id: 25
 title: A single point
 date: Sun, 24 Aug 2008 12:00:00 +0000
 category: Journal

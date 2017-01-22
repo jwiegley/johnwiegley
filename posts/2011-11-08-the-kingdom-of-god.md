@@ -1,5 +1,4 @@
 ---
-id: 1218
 title: The Kingdom of God
 date: Tue, 08 Nov 2011 12:11:12 +0000
 category: Journal

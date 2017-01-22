@@ -1,5 +1,4 @@
 ---
-id: 497
 title: When a loving eye takes extra pains
 date: Sun, 15 Jun 2003 12:00:00 +0000
 category: Poems

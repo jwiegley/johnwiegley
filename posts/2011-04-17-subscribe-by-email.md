@@ -1,5 +1,4 @@
 ---
-id: 1126
 title: Subscribe by email
 date: Mon, 18 Apr 2011 01:37:54 +0000
 category: 

@@ -1,5 +1,4 @@
 ---
-id: 1472
 title: Fear not, little seed
 date: Sat, 21 Nov 2015 01:12:43 +0000
 category: Poems

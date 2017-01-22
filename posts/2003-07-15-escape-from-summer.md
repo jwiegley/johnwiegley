@@ -1,5 +1,4 @@
 ---
-id: 414
 title: Escape from summer
 date: Tue, 15 Jul 2003 12:00:00 +0000
 category: Poems

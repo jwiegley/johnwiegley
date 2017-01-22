@@ -1,5 +1,4 @@
 ---
-id: 855
 title: The Divine Unity
 date: Sun, 15 May 2011 11:05:59 +0000
 category: Journal

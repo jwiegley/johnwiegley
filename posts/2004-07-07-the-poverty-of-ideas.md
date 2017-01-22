@@ -1,5 +1,4 @@
 ---
-id: 250
 title: The poverty of ideas
 date: Wed, 07 Jul 2004 12:00:00 +0000
 category: Journal

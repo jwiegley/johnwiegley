@@ -1,5 +1,4 @@
 ---
-id: 471
 title: The Irony of Truth
 date: Sun, 18 Jun 2006 12:00:00 +0000
 category: Poems

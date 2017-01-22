@@ -1,5 +1,4 @@
 ---
-id: 161
 title: Other forms of memory
 date: Mon, 01 Jan 1996 12:00:00 +0000
 category: Journal

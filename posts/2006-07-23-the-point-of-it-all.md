@@ -1,5 +1,4 @@
 ---
-id: 178
 title: The point of it all
 date: Sun, 23 Jul 2006 12:00:00 +0000
 category: Journal

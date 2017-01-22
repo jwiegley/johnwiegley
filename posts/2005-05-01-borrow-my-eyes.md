@@ -1,5 +1,4 @@
 ---
-id: 389
 title: Borrow my eyes
 date: Sun, 01 May 2005 12:00:00 +0000
 category: Poems

@@ -1,5 +1,4 @@
 ---
-id: 424
 title: Feel of the midnight wind
 date: Mon, 01 Dec 2003 12:00:00 +0000
 category: Poems

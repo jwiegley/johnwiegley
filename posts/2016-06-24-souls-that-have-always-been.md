@@ -1,5 +1,4 @@
 ---
-id: 1524
 title: Souls that have always been
 date: Fri, 24 Jun 2016 23:15:37 +0000
 category: Essays

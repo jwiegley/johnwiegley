@@ -1,5 +1,4 @@
 ---
-id: 665
 title: To a beautiful girl
 date: Sat, 04 Oct 2003 12:00:00 +0000
 category: Poems

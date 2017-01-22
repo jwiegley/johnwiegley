@@ -1,5 +1,4 @@
 ---
-id: 833
 title: Paean for the Broken
 date: Thu, 26 Aug 2010 12:45:16 +0000
 category: Poems

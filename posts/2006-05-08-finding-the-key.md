@@ -1,5 +1,4 @@
 ---
-id: 107
 title: Finding the key
 date: Mon, 08 May 2006 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 40
 title: An unfailing love
 date: Fri, 28 Apr 2006 12:00:00 +0000
 category: Journal

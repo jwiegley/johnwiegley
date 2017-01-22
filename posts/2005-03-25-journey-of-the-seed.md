@@ -1,5 +1,4 @@
 ---
-id: 481
 title: Journey of the seed
 date: Fri, 25 Mar 2005 12:00:00 +0000
 category: Poems

@@ -1,5 +1,4 @@
 ---
-id: 55
 title: "Bread and Tulips"
 date: Fri, 16 Jan 2004 12:00:00 +0000
 category: Journal

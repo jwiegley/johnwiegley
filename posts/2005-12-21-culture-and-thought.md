@@ -1,5 +1,4 @@
 ---
-id: 78
 title: Culture and thought
 date: Wed, 21 Dec 2005 12:00:00 +0000
 category: Journal

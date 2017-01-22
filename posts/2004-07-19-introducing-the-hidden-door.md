@@ -1,5 +1,4 @@
 ---
-id: 238
 title: "Introducing: The hidden door"
 date: Mon, 19 Jul 2004 12:00:00 +0000
 category: Journal

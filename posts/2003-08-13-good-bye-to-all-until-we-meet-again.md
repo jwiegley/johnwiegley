@@ -1,5 +1,4 @@
 ---
-id: 109
 title: Good bye to all, until we meet again
 date: Wed, 13 Aug 2003 12:00:00 +0000
 category: Journal

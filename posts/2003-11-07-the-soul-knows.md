@@ -1,5 +1,4 @@
 ---
-id: 649
 title: The soul knows
 date: Fri, 07 Nov 2003 12:00:00 +0000
 category: Poems

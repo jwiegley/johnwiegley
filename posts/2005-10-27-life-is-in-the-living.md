@@ -1,5 +1,4 @@
 ---
-id: 131
 title: Life is in the living
 date: Thu, 27 Oct 2005 12:00:00 +0000
 category: Journal

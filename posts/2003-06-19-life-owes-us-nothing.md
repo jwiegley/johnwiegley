@@ -1,5 +1,4 @@
 ---
-id: 133
 title: Life owes us nothing
 date: Thu, 19 Jun 2003 12:00:00 +0000
 category: Journal

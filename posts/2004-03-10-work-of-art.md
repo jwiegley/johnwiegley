@@ -1,5 +1,4 @@
 ---
-id: 711
 title: Work of art
 date: Wed, 10 Mar 2004 12:00:00 +0000
 category: Poems

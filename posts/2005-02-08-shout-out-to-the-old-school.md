@@ -1,5 +1,4 @@
 ---
-id: 201
 title: Shout out to the old school
 date: Tue, 08 Feb 2005 12:00:00 +0000
 category: Journal

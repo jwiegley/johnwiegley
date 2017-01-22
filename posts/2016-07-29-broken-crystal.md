@@ -1,5 +1,4 @@
 ---
-id: 1547
 title: Broken crystal
 date: Fri, 29 Jul 2016 15:28:06 +0000
 category: Poems

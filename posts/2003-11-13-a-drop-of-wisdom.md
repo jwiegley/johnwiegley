@@ -1,5 +1,4 @@
 ---
-id: 337
 title: A drop of wisdom
 date: Thu, 13 Nov 2003 12:00:00 +0000
 category: Poems

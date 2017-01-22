@@ -1,5 +1,4 @@
 ---
-id: 427
 title: Farewell to a love
 date: Fri, 24 Sep 2004 12:00:00 +0000
 category: Poems

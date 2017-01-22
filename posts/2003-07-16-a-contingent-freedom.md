@@ -1,5 +1,4 @@
 ---
-id: 7
 title: A contingent freedom
 date: Wed, 16 Jul 2003 12:00:00 +0000
 category: Journal

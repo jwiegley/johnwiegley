@@ -1,5 +1,4 @@
 ---
-id: 128
 title: Kingdom of Names
 date: Tue, 13 Jul 2004 12:00:00 +0000
 category: Journal

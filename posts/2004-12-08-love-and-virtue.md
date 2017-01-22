@@ -1,5 +1,4 @@
 ---
-id: 136
 title: Love and virtue
 date: Wed, 08 Dec 2004 12:00:00 +0000
 category: Journal

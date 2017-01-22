@@ -1,5 +1,4 @@
 ---
-id: 342
 title: A tender suffering
 date: Sun, 19 Oct 2003 12:00:00 +0000
 category: Poems

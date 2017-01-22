@@ -1,5 +1,4 @@
 ---
-id: 214
 title: Tales of Cataluña
 date: Wed, 18 Jun 2003 12:00:00 +0000
 category: Journal

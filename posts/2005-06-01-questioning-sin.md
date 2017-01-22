@@ -1,5 +1,4 @@
 ---
-id: 184
 title: Questioning "sin"
 date: Wed, 01 Jun 2005 12:00:00 +0000
 category: Journal

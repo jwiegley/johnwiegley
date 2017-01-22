@@ -1,5 +1,4 @@
 ---
-id: 146
 title: More thoughts on ego
 date: Sun, 24 Apr 2005 12:00:00 +0000
 category: Journal

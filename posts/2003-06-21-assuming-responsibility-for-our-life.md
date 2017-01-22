@@ -1,5 +1,4 @@
 ---
-id: 43
 title: Assuming responsibility for our life
 date: Sat, 21 Jun 2003 12:00:00 +0000
 category: Journal

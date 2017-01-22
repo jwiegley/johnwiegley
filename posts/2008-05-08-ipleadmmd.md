@@ -1,5 +1,4 @@
 ---
-id: 472
 title: I Plead
 date: Thu, 08 May 2008 12:00:00 +0000
 category: Poems

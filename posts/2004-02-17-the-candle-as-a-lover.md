@@ -1,5 +1,4 @@
 ---
-id: 225
 title: The candle as a lover
 date: Tue, 17 Feb 2004 12:00:00 +0000
 category: Journal

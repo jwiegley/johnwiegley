@@ -1,5 +1,4 @@
 ---
-id: 867
 title: Absorption in the Deity
 date: Tue, 31 May 2011 11:54:37 +0000
 category: Journal

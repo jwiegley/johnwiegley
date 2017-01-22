@@ -1,5 +1,4 @@
 ---
-id: 513
 title: Mystic Manifesto
 date: Sat, 18 Sep 2004 12:00:00 +0000
 category: Poems

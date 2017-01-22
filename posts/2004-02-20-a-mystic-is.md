@@ -1,5 +1,4 @@
 ---
-id: 346
 title: A Mystic is...
 date: Fri, 20 Feb 2004 12:00:00 +0000
 category: Poems

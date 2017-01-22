@@ -1,5 +1,4 @@
 ---
-id: 583
 title: Seeking the soul-destroyer
 date: Mon, 22 Nov 2004 12:00:00 +0000
 category: Poems

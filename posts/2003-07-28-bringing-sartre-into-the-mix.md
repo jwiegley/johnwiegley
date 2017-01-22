@@ -1,5 +1,4 @@
 ---
-id: 60
 title: Bringing Sartre into the mix
 date: Mon, 28 Jul 2003 12:00:00 +0000
 category: Journal

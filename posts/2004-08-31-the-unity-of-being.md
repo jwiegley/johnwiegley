@@ -1,5 +1,4 @@
 ---
-id: 790
 title: The Unity of Being
 date: Tue, 31 Aug 2004 12:00:00 +0000
 category: Essays

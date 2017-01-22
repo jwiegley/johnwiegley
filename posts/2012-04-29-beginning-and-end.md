@@ -1,5 +1,4 @@
 ---
-id: 1240
 title: The beginning and the end
 date: Sun, 29 Apr 2012 15:05:11 +0000
 category: Essays

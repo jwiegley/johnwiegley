@@ -1,5 +1,4 @@
 ---
-id: 48
 title: Aspen in fall
 date: Sun, 25 Sep 2005 12:00:00 +0000
 category: Journal

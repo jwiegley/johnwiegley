@@ -1,5 +1,4 @@
 ---
-id: 279
 title: Thoughts on time travel
 date: Fri, 24 Jun 2005 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 829
 title: God and the impossible rock
 date: Sat, 08 May 2010 09:52:31 +0000
 category: godJournallogicpower

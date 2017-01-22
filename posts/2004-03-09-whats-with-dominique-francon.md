@@ -1,5 +1,4 @@
 ---
-id: 730
 title: What's with Dominique Francon?
 date: Tue, 09 Mar 2004 12:00:00 +0000
 category: Essays

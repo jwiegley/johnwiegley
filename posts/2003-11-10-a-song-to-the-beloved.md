@@ -1,5 +1,4 @@
 ---
-id: 596
 title: A Song to the Beloved
 date: Mon, 10 Nov 2003 12:00:00 +0000
 category: Poems

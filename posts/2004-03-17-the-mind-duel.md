@@ -1,5 +1,4 @@
 ---
-id: 635
 title: The mind duel
 date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Poems

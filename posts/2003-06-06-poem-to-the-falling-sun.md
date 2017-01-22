@@ -1,5 +1,4 @@
 ---
-id: 535
 title: Poem to the falling sun
 date: Fri, 06 Jun 2003 12:00:00 +0000
 category: Poems

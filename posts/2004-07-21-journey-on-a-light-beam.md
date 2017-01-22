@@ -1,5 +1,4 @@
 ---
-id: 129
 title: Journey on a light beam
 date: Wed, 21 Jul 2004 12:00:00 +0000
 category: Journal

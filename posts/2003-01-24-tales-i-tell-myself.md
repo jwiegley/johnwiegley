@@ -1,5 +1,4 @@
 ---
-id: 615
 title: Tales I tell myself
 date: Fri, 24 Jan 2003 12:00:00 +0000
 category: Poems

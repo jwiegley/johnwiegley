@@ -1,5 +1,4 @@
 ---
-id: 174
 title: Paying respects
 date: Sat, 29 Jan 2005 12:00:00 +0000
 category: Journal

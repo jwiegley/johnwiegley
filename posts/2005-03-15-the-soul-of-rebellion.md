@@ -1,5 +1,4 @@
 ---
-id: 603
 title: The soul of rebellion
 date: Tue, 15 Mar 2005 12:00:00 +0000
 category: Poems

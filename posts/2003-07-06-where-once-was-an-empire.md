@@ -1,5 +1,4 @@
 ---
-id: 322
 title: Where once was an empire...
 date: Sun, 06 Jul 2003 12:00:00 +0000
 category: Journal

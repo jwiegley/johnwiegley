@@ -1,5 +1,4 @@
 ---
-id: 405
 title: Different worlds
 date: Sat, 27 Sep 2003 12:00:00 +0000
 category: Poems

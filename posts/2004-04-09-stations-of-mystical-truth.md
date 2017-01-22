@@ -1,5 +1,4 @@
 ---
-id: 209
 title: Stations of mystical truth
 date: Fri, 09 Apr 2004 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 432
 title: Flight of the Archaeopteryx
 date: Wed, 01 Jan 1992 12:00:00 +0000
 category: Poems

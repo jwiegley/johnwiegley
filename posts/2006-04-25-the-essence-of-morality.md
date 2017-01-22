@@ -1,5 +1,4 @@
 ---
-id: 91
 title: The essence of morality
 date: Tue, 25 Apr 2006 12:00:00 +0000
 category: Journal

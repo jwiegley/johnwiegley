@@ -1,5 +1,4 @@
 ---
-id: 83
 title: Detachment and emotions
 date: Fri, 15 Apr 2005 12:00:00 +0000
 category: Journal

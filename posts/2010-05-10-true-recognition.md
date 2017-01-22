@@ -1,5 +1,4 @@
 ---
-id: 830
 title: True recognition
 date: Mon, 10 May 2010 08:10:44 +0000
 category: Journal

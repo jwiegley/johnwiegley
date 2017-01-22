@@ -1,5 +1,4 @@
 ---
-id: 514
 title: Mystic prince
 date: Sun, 02 Jan 2005 12:00:00 +0000
 category: Poems

@@ -1,5 +1,4 @@
 ---
-id: 254
 title: The reality of everyday existence
 date: Mon, 01 Jan 1996 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 429
 title: Fertile ground
 date: Sat, 11 Dec 2004 12:00:00 +0000
 category: Poems

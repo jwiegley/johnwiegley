@@ -1,5 +1,4 @@
 ---
-id: 713
 title: The winding river
 date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Poems

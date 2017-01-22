@@ -1,5 +1,4 @@
 ---
-id: 605
 title: The Spirit of Fire
 date: Sun, 15 Jun 2003 12:00:00 +0000
 category: Poems

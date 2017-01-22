@@ -1,5 +1,4 @@
 ---
-id: 375
 title: A beloved insanity
 date: Thu, 28 Oct 2004 12:00:00 +0000
 category: Poems

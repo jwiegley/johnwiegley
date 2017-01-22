@@ -1,5 +1,4 @@
 ---
-id: 156
 title: Of what can we be proud?
 date: Mon, 23 Feb 2004 12:00:00 +0000
 category: Journal

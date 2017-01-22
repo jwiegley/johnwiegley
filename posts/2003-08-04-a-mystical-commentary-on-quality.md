@@ -1,5 +1,4 @@
 ---
-id: 12
 title: A mystical commentary on Quality
 date: Mon, 04 Aug 2003 12:00:00 +0000
 category: Journal

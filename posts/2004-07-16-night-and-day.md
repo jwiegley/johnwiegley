@@ -1,5 +1,4 @@
 ---
-id: 524
 title: Night and Day
 date: Fri, 16 Jul 2004 12:00:00 +0000
 category: Poems

@@ -1,5 +1,4 @@
 ---
-id: 273
 title: The will to be
 date: Sun, 24 Oct 2004 12:00:00 +0000
 category: Journal

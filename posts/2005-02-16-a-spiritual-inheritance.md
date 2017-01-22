@@ -1,5 +1,4 @@
 ---
-id: 23
 title: A spiritual inheritance
 date: Wed, 16 Feb 2005 12:00:00 +0000
 category: Journal

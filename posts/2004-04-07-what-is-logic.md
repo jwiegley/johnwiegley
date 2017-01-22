@@ -1,5 +1,4 @@
 ---
-id: 796
 title: What is logic?
 date: Wed, 07 Apr 2004 12:00:00 +0000
 category: Essays

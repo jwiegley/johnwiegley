@@ -1,5 +1,4 @@
 ---
-id: 899
 title: The Four Valleys again
 date: Mon, 31 Oct 2011 11:28:05 +0000
 category: Journal

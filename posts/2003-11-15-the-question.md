@@ -1,5 +1,4 @@
 ---
-id: 650
 title: The question
 date: Sat, 15 Nov 2003 12:00:00 +0000
 category: Poems

@@ -1,5 +1,4 @@
 ---
-id: 1549
 title: Hot dogs and knowledge
 date: Fri, 05 Aug 2016 15:43:54 +0000
 category: Journal

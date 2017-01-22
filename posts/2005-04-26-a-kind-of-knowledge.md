@@ -1,5 +1,4 @@
 ---
-id: 482
 title: A kind of knowledge
 date: Tue, 26 Apr 2005 12:00:00 +0000
 category: Poems

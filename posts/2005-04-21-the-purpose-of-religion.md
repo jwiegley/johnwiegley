@@ -1,5 +1,4 @@
 ---
-id: 256
 title: The purpose of religion
 date: Thu, 21 Apr 2005 12:00:00 +0000
 category: Journal

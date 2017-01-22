@@ -1,5 +1,4 @@
 ---
-id: 265
 title: The soul and perfection
 date: Thu, 08 Apr 2004 12:00:00 +0000
 category: Journal

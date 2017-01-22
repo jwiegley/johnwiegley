@@ -1,5 +1,4 @@
 ---
-id: 285
 title: Today and Tomorrow
 date: Sat, 29 Dec 2007 12:00:00 +0000
 category: Journal

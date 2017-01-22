@@ -1,5 +1,4 @@
 ---
-id: 266
 title: The steed of pain
 date: Sun, 22 Aug 2004 12:00:00 +0000
 category: Journal

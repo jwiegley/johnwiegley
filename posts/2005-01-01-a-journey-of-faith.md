@@ -1,5 +1,4 @@
 ---
-id: 753
 title: A Journey of Faith
 date: Sat, 01 Jan 2005 12:00:00 +0000
 category: Essays

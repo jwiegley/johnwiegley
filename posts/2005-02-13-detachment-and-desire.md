@@ -1,5 +1,4 @@
 ---
-id: 75
 title: Detachment and desire
 date: Sun, 13 Feb 2005 12:00:00 +0000
 category: Journal

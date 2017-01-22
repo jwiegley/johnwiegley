@@ -1,5 +1,4 @@
 ---
-id: 1487
 title: The path of knowledge
 date: Fri, 04 Mar 2016 15:12:10 +0000
 category: Poems

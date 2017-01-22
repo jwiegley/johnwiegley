@@ -1,5 +1,4 @@
 ---
-id: 182
 title: Rand's vision of Atlantis
 date: Mon, 04 Aug 2003 12:00:00 +0000
 category: Journal

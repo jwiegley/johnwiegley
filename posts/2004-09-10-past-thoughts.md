@@ -1,5 +1,4 @@
 ---
-id: 173
 title: Past thoughts
 date: Fri, 10 Sep 2004 12:00:00 +0000
 category: Journal

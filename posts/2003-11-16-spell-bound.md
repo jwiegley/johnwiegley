@@ -1,5 +1,4 @@
 ---
-id: 610
 title: Spell bound
 date: Sun, 16 Nov 2003 12:00:00 +0000
 category: Poems

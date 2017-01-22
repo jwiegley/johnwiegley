@@ -1,5 +1,4 @@
 ---
-id: 595
 title: Sound of sorrow
 date: Fri, 03 Oct 2003 12:00:00 +0000
 category: Poems

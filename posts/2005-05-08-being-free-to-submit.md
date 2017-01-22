@@ -1,5 +1,4 @@
 ---
-id: 57
 title: Being free to submit
 date: Sun, 08 May 2005 12:00:00 +0000
 category: Journal

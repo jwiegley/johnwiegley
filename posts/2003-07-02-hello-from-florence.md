@@ -1,5 +1,4 @@
 ---
-id: 108
 title: Hello from Florence!
 date: Wed, 02 Jul 2003 12:00:00 +0000
 category: Journal

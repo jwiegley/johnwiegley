@@ -1,5 +1,4 @@
 ---
-id: 793
 title: Thoughts on the Valley of Unity
 date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Essays

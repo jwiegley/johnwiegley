@@ -1,5 +1,4 @@
 ---
-id: 44
 title: Back home in San Francisco
 date: Thu, 19 Feb 2004 12:00:00 +0000
 category: Journal

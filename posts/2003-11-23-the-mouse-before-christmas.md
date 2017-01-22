@@ -1,5 +1,4 @@
 ---
-id: 508
 title: The Mouse Before Christmas
 date: Sun, 23 Nov 2003 12:00:00 +0000
 category: Poems

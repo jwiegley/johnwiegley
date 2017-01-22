@@ -1,5 +1,4 @@
 ---
-id: 738
 title: Faced with a Puzzle
 date: Tue, 21 Aug 2001 12:00:00 +0000
 category: Essays

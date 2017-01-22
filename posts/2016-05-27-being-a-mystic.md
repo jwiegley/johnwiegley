@@ -1,5 +1,4 @@
 ---
-id: 1517
 title: Being a mystic
 date: Fri, 27 May 2016 15:06:51 +0000
 category: Journal

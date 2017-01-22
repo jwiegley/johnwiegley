@@ -1,5 +1,4 @@
 ---
-id: 81
 title: Detachment
 date: Sat, 05 Jun 2004 12:00:00 +0000
 category: Journal

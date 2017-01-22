@@ -1,5 +1,4 @@
 ---
-id: 170
 title: Planning for life
 date: Fri, 30 Apr 2004 12:00:00 +0000
 category: Journal

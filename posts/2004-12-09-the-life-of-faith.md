@@ -1,5 +1,4 @@
 ---
-id: 240
 title: The life of faith
 date: Thu, 09 Dec 2004 12:00:00 +0000
 category: Journal

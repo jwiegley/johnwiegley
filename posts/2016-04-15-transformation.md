@@ -1,5 +1,4 @@
 ---
-id: 1220
 title: Transformation
 date: Fri, 15 Apr 2016 15:25:59 +0000
 category: Journal

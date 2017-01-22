@@ -1,5 +1,4 @@
 ---
-id: 6
 title: A cappuccino in every hand
 date: Sun, 27 Jul 2003 12:00:00 +0000
 category: Journal

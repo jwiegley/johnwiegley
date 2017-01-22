@@ -1,5 +1,4 @@
 ---
-id: 217
 title: The beauty of existence
 date: Wed, 20 Oct 2004 12:00:00 +0000
 category: Journal

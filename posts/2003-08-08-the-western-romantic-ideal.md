@@ -1,5 +1,4 @@
 ---
-id: 776
 title: The Western Romantic Ideal
 date: Fri, 08 Aug 2003 12:00:00 +0000
 category: Essays

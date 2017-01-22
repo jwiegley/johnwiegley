@@ -1,5 +1,4 @@
 ---
-id: 1229
 title: Perceiving with divine insight
 date: Fri, 22 Apr 2016 15:52:04 +0000
 category: Journal

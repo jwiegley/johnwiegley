@@ -1,5 +1,4 @@
 ---
-id: 372
 title: Being a man
 date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Poems

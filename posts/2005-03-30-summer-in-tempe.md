@@ -1,5 +1,4 @@
 ---
-id: 621
 title: Summer in Tempe
 date: Wed, 30 Mar 2005 12:00:00 +0000
 category: Poems

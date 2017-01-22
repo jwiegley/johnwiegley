@@ -1,5 +1,4 @@
 ---
-id: 218
 title: The absolute additive
 date: Wed, 26 Oct 2005 12:00:00 +0000
 category: Journal

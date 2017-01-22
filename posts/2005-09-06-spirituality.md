@@ -1,5 +1,4 @@
 ---
-id: 203
 title: Spirituality
 date: Tue, 06 Sep 2005 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 233
 title: The love of God
 date: Mon, 01 Dec 2003 12:00:00 +0000
 category: Journal

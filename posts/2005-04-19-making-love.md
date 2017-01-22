@@ -1,5 +1,4 @@
 ---
-id: 505
 title: Making love
 date: Tue, 19 Apr 2005 12:00:00 +0000
 category: Poems

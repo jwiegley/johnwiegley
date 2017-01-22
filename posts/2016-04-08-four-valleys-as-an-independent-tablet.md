@@ -1,5 +1,4 @@
 ---
-id: 882
 title: Four Valleys as an independent tablet
 date: Fri, 08 Apr 2016 15:01:48 +0000
 category: Journal

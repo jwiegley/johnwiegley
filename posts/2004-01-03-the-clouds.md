@@ -1,5 +1,4 @@
 ---
-id: 628
 title: The clouds
 date: Sat, 03 Jan 2004 12:00:00 +0000
 category: Poems

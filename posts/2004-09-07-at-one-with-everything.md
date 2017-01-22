@@ -1,5 +1,4 @@
 ---
-id: 45
 title: At one with everything?
 date: Tue, 07 Sep 2004 12:00:00 +0000
 category: Journal

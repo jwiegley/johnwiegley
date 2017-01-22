@@ -1,5 +1,4 @@
 ---
-id: 88
 title: Estrucan tombs, and the open sea
 date: Tue, 05 Aug 2003 12:00:00 +0000
 category: Journal

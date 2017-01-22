@@ -1,5 +1,4 @@
 ---
-id: 138
 title: Making mistakes
 date: Mon, 02 May 2005 12:00:00 +0000
 category: Journal

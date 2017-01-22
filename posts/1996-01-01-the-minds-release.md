@@ -1,5 +1,4 @@
 ---
-id: 246
 title: The mind's release
 date: Mon, 01 Jan 1996 12:00:00 +0000
 category: Journal

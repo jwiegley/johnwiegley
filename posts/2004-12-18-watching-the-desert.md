@@ -1,5 +1,4 @@
 ---
-id: 704
 title: Watching the desert
 date: Sat, 18 Dec 2004 12:00:00 +0000
 category: Poems

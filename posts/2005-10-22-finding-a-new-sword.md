@@ -1,5 +1,4 @@
 ---
-id: 106
 title: Finding a new sword
 date: Sat, 22 Oct 2005 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 17
 title: A poem and three short essays from Florence
 date: Fri, 25 Jul 2003 12:00:00 +0000
 category: Journal

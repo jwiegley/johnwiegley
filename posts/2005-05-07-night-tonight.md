@@ -1,5 +1,4 @@
 ---
-id: 526
 title: Night, tonight
 date: Sat, 07 May 2005 12:00:00 +0000
 category: Poems

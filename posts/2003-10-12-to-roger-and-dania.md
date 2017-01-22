@@ -1,5 +1,4 @@
 ---
-id: 679
 title: To Roger and Dania
 date: Sun, 12 Oct 2003 12:00:00 +0000
 category: Poems

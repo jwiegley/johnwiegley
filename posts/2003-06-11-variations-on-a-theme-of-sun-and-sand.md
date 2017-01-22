@@ -1,5 +1,4 @@
 ---
-id: 316
 title: Variations on a theme of sun and sand...
 date: Wed, 11 Jun 2003 12:00:00 +0000
 category: Journal

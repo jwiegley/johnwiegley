@@ -1,5 +1,4 @@
 ---
-id: 157
 title: On self-knowledge
 date: Thu, 18 Mar 2004 12:00:00 +0000
 category: Journal

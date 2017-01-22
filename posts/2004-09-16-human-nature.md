@@ -1,5 +1,4 @@
 ---
-id: 116
 title: Human nature
 date: Thu, 16 Sep 2004 12:00:00 +0000
 category: Journal

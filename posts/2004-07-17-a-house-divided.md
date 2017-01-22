@@ -1,5 +1,4 @@
 ---
-id: 13
 title: A house divided
 date: Sat, 17 Jul 2004 12:00:00 +0000
 category: Journal

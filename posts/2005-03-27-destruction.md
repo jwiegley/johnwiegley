@@ -1,5 +1,4 @@
 ---
-id: 410
 title: Destruction
 date: Sun, 27 Mar 2005 12:00:00 +0000
 category: Poems

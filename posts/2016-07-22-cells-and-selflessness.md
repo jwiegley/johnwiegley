@@ -1,5 +1,4 @@
 ---
-id: 1545
 title: Cells and selflessness
 date: Fri, 22 Jul 2016 15:15:55 +0000
 category: Essays

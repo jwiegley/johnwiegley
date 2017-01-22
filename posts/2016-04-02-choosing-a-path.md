@@ -1,5 +1,4 @@
 ---
-id: 1200
 title: Choosing a path
 date: Sat, 02 Apr 2016 15:06:57 +0000
 category: Journal

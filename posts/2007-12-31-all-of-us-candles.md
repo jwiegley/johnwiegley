@@ -1,5 +1,4 @@
 ---
-id: 37
 title: All of us candles
 date: Mon, 31 Dec 2007 12:00:00 +0000
 category: Journal

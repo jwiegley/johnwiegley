@@ -1,5 +1,4 @@
 ---
-id: 483
 title: Letter to the Watchman
 date: Sat, 18 Jan 2003 12:00:00 +0000
 category: Poems

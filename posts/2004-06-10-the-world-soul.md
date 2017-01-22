@@ -1,5 +1,4 @@
 ---
-id: 272
 title: The world soul
 date: Thu, 10 Jun 2004 12:00:00 +0000
 category: Journal

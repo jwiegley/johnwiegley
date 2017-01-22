@@ -1,5 +1,4 @@
 ---
-id: 1236
 title: Original valley of knowledge
 date: Fri, 30 Sep 2011 11:58:37 +0000
 category: Journal

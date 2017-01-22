@@ -1,5 +1,4 @@
 ---
-id: 1425
 title: The mystic sailor
 date: Tue, 30 Aug 2011 04:42:17 +0000
 category: Poems

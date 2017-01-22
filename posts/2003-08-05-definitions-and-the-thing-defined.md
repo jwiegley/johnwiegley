@@ -1,5 +1,4 @@
 ---
-id: 73
 title: Definitions and the-thing-defined
 date: Tue, 05 Aug 2003 12:00:00 +0000
 category: Journal

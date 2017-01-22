@@ -1,5 +1,4 @@
 ---
-id: 1196
 title: Remembering Ashley
 date: Fri, 16 Dec 2011 12:57:19 +0000
 category: Journal

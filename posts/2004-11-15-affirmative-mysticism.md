@@ -1,5 +1,4 @@
 ---
-id: 35
 title: Affirmative mysticism
 date: Mon, 15 Nov 2004 12:00:00 +0000
 category: Journal

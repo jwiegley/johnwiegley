@@ -1,5 +1,4 @@
 ---
-id: 412
 title: Days like diamonds
 date: Wed, 19 Apr 2006 12:00:00 +0000
 category: Poems

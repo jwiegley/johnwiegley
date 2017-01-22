@@ -1,5 +1,4 @@
 ---
-id: 207
 title: Strange feeling of excitement
 date: Wed, 17 Dec 2003 12:00:00 +0000
 category: Journal

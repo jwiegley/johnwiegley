@@ -1,5 +1,4 @@
 ---
-id: 235
 title: The greatest happiness
 date: Tue, 09 Dec 2003 12:00:00 +0000
 category: Journal

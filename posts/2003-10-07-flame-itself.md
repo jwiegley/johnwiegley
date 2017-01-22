@@ -1,5 +1,4 @@
 ---
-id: 434
 title: Flame itself
 date: Tue, 07 Oct 2003 12:00:00 +0000
 category: Poems

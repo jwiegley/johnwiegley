@@ -1,5 +1,4 @@
 ---
-id: 601
 title: Something I thought you said
 date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Poems

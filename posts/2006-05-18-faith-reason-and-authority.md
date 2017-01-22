@@ -1,5 +1,4 @@
 ---
-id: 97
 title: Faith, reason and authority
 date: Thu, 18 May 2006 12:00:00 +0000
 category: Journal

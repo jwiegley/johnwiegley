@@ -1,5 +1,4 @@
 ---
-id: 785
 title: Serving joyfully
 date: Tue, 16 Mar 2004 12:00:00 +0000
 category: Essays

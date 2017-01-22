@@ -1,5 +1,4 @@
 ---
-id: 494
 title: Like the wind
 date: Sun, 05 Jun 2005 12:00:00 +0000
 category: Poems

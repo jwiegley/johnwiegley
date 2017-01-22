@@ -1,5 +1,4 @@
 ---
-id: 127
 title: Joys of photography
 date: Sun, 06 Jun 2004 12:00:00 +0000
 category: Journal

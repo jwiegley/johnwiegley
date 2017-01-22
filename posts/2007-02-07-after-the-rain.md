@@ -1,5 +1,4 @@
 ---
-id: 359
 title: After the rain
 date: Wed, 07 Feb 2007 12:00:00 +0000
 category: Poems

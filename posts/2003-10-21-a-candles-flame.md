@@ -1,5 +1,4 @@
 ---
-id: 331
 title: A candle's flame
 date: Tue, 21 Oct 2003 12:00:00 +0000
 category: Poems

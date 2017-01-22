@@ -1,5 +1,4 @@
 ---
-id: 154
 title: On perfection
 date: Tue, 27 Jan 2004 12:00:00 +0000
 category: Journal

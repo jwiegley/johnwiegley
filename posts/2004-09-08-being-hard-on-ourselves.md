@@ -1,5 +1,4 @@
 ---
-id: 56
 title: Being hard on ourselves
 date: Wed, 08 Sep 2004 12:00:00 +0000
 category: Journal

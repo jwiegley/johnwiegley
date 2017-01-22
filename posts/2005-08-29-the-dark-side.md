@@ -1,5 +1,4 @@
 ---
-id: 231
 title: The dark side
 date: Mon, 29 Aug 2005 12:00:00 +0000
 category: Journal

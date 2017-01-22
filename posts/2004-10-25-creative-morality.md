@@ -1,5 +1,4 @@
 ---
-id: 74
 title: Creative morality
 date: Mon, 25 Oct 2004 12:00:00 +0000
 category: Journal

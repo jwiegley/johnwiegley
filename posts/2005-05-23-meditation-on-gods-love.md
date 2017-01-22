@@ -1,5 +1,4 @@
 ---
-id: 147
 title: Meditation on God's love
 date: Mon, 23 May 2005 12:00:00 +0000
 category: Journal

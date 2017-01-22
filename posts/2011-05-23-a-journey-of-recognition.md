@@ -1,5 +1,4 @@
 ---
-id: 863
 title: A journey of recognition
 date: Mon, 23 May 2011 11:53:15 +0000
 category: Journal

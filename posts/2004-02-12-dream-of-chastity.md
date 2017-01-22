@@ -1,5 +1,4 @@
 ---
-id: 418
 title: Dream of Chastity
 date: Thu, 12 Feb 2004 12:00:00 +0000
 category: Poems

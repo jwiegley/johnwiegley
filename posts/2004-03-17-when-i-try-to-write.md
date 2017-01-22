@@ -1,5 +1,4 @@
 ---
-id: 715
 title: When I try to write
 date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Poems

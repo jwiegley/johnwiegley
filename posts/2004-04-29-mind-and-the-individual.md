@@ -1,5 +1,4 @@
 ---
-id: 143
 title: '"Mind" and the individual'
 date: Thu, 29 Apr 2004 12:00:00 +0000
 category: Journal

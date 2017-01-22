@@ -1,5 +1,4 @@
 ---
-id: 572
 title: The sea and her secrets
 date: Sun, 15 Jun 2003 12:00:00 +0000
 category: Poems

@@ -1,5 +1,4 @@
 ---
-id: 216
 title: Teach all in mediocrity, or a few but well?
 date: Thu, 05 Feb 2004 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 736
 title: Duty and recognition
 date: Thu, 08 Apr 2004 12:00:00 +0000
 category: Essays

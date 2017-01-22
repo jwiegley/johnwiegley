@@ -1,5 +1,4 @@
 ---
-id: 695
 title: Wandering II
 date: Sat, 18 Oct 2003 12:00:00 +0000
 category: Poems

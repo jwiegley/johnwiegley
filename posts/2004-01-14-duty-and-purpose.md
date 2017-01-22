@@ -1,5 +1,4 @@
 ---
-id: 80
 title: Duty and purpose
 date: Wed, 14 Jan 2004 12:00:00 +0000
 category: Journal

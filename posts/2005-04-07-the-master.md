@@ -1,5 +1,4 @@
 ---
-id: 640
 title: The Master
 date: Thu, 07 Apr 2005 12:00:00 +0000
 category: Poems

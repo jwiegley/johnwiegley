@@ -1,5 +1,4 @@
 ---
-id: 751
 title: Introduction to the Bahá'í Faith
 date: Sat, 06 Mar 2004 12:00:00 +0000
 category: Essays

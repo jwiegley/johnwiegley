@@ -1,5 +1,4 @@
 ---
-id: 1361
 title: Re-telling the tale (3 of 3)
 date: Sat, 23 Jul 2011 06:53:13 +0000
 category: Journal

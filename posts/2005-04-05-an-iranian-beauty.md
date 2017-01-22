@@ -1,5 +1,4 @@
 ---
-id: 470
 title: An Iranian beauty
 date: Tue, 05 Apr 2005 12:00:00 +0000
 category: Poems

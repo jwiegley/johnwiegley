@@ -1,5 +1,4 @@
 ---
-id: 193
 title: Religion's object
 date: Tue, 14 Dec 2004 12:00:00 +0000
 category: Journal

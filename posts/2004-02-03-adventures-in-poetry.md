@@ -1,5 +1,4 @@
 ---
-id: 33
 title: Adventures in Poetry
 date: Tue, 03 Feb 2004 12:00:00 +0000
 category: Journal

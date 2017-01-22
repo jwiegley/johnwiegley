@@ -1,5 +1,4 @@
 ---
-id: 82
 title: Driving and the self
 date: Wed, 03 Nov 2004 12:00:00 +0000
 category: Journal

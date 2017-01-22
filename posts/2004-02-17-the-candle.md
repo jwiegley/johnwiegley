@@ -1,5 +1,4 @@
 ---
-id: 629
 title: The Candle
 date: Tue, 17 Feb 2004 12:00:00 +0000
 category: Poems

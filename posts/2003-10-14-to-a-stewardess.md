@@ -1,5 +1,4 @@
 ---
-id: 666
 title: To a stewardess
 date: Tue, 14 Oct 2003 12:00:00 +0000
 category: Poems

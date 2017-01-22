@@ -1,5 +1,4 @@
 ---
-id: 144
 title: Mysticism
 date: Mon, 07 Jun 2004 12:00:00 +0000
 category: Journal

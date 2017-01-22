@@ -1,5 +1,4 @@
 ---
-id: 744
 title: Fear of God like spiritual inhibition
 date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Essays

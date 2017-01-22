@@ -1,5 +1,4 @@
 ---
-id: 808
 title: In Search Of
 date: Sat, 06 Mar 2004 12:00:00 +0000
 category: Stories

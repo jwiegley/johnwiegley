@@ -1,5 +1,4 @@
 ---
-id: 594
 title: Somber sea
 date: Sun, 29 Aug 2004 12:00:00 +0000
 category: Poems

@@ -1,5 +1,4 @@
 ---
-id: 122
 title: Images of Aptos, California
 date: Sun, 02 May 2004 12:00:00 +0000
 category: Journal

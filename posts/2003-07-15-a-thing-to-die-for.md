@@ -1,5 +1,4 @@
 ---
-id: 654
 title: A thing to die for
 date: Tue, 15 Jul 2003 12:00:00 +0000
 category: Poems

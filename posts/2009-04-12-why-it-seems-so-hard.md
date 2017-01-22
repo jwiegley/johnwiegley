@@ -1,5 +1,4 @@
 ---
-id: 827
 title: Why it seems so hard
 date: Sun, 12 Apr 2009 08:50:08 +0000
 category: Journal

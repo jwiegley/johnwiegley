@@ -1,5 +1,4 @@
 ---
-id: 84
 title: Dream of another life
 date: Sat, 27 Aug 2005 12:00:00 +0000
 category: Journal

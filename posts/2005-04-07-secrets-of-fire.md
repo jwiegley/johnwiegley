@@ -1,5 +1,4 @@
 ---
-id: 585
 title: Secrets of fire
 date: Thu, 07 Apr 2005 12:00:00 +0000
 category: Poems

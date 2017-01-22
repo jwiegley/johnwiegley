@@ -1,5 +1,4 @@
 ---
-id: 431
 title: Feeling rich
 date: Sat, 09 Apr 2005 12:00:00 +0000
 category: Poems

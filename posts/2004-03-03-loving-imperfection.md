@@ -1,5 +1,4 @@
 ---
-id: 134
 title: Loving imperfection
 date: Wed, 03 Mar 2004 12:00:00 +0000
 category: Journal

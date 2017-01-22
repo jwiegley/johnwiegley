@@ -1,5 +1,4 @@
 ---
-id: 828
 title: Spirit and thought
 date: Sun, 10 May 2009 09:25:57 +0000
 category: Journalspirit

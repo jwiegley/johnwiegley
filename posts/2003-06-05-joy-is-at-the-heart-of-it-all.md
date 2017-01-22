@@ -1,5 +1,4 @@
 ---
-id: 749
 title: Joy is at the Heart of it All
 date: Thu, 05 Jun 2003 12:00:00 +0000
 category: Essays

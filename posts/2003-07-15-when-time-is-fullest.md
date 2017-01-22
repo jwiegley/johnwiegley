@@ -1,5 +1,4 @@
 ---
-id: 707
 title: When time is fullest
 date: Tue, 15 Jul 2003 12:00:00 +0000
 category: Poems

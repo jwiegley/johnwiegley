@@ -1,5 +1,4 @@
 ---
-id: 215
 title: The Arno in the late sun...
 date: Thu, 31 Jul 2003 12:00:00 +0000
 category: Journal

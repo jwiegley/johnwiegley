@@ -1,5 +1,4 @@
 ---
-id: 584
 title: Seize the day
 date: Thu, 31 Mar 2005 12:00:00 +0000
 category: Poems

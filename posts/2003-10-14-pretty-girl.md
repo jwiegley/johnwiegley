@@ -1,5 +1,4 @@
 ---
-id: 547
 title: Pretty girl
 date: Tue, 14 Oct 2003 12:00:00 +0000
 category: Poems

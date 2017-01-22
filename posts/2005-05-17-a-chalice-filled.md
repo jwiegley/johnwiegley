@@ -1,5 +1,4 @@
 ---
-id: 340
 title: A chalice filled
 date: Tue, 17 May 2005 12:00:00 +0000
 category: Poems

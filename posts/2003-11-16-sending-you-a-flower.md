@@ -1,5 +1,4 @@
 ---
-id: 580
 title: Sending you a flower
 date: Sun, 16 Nov 2003 12:00:00 +0000
 category: Poems

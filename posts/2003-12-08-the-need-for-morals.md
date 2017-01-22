@@ -1,5 +1,4 @@
 ---
-id: 248
 title: The need for morals
 date: Mon, 08 Dec 2003 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 196
 title: Righteousness deserves no focus
 date: Mon, 09 Jun 2008 12:00:00 +0000
 category: Journal

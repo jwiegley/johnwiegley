@@ -1,5 +1,4 @@
 ---
-id: 485
 title: Looking for the words to write
 date: Sat, 08 Nov 2003 12:00:00 +0000
 category: Poems

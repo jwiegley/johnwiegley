@@ -1,5 +1,4 @@
 ---
-id: 10
 title: A different reality
 date: Tue, 13 Dec 2005 12:00:00 +0000
 category: Journal

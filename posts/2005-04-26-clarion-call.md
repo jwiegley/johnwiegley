@@ -1,5 +1,4 @@
 ---
-id: 403
 title: Clarion call
 date: Tue, 26 Apr 2005 12:00:00 +0000
 category: Poems

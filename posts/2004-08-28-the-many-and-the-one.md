@@ -1,5 +1,4 @@
 ---
-id: 243
 title: The many and the one
 date: Sat, 28 Aug 2004 12:00:00 +0000
 category: Journal

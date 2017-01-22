@@ -1,5 +1,4 @@
 ---
-id: 373
 title: Becoming nothing
 date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Poems

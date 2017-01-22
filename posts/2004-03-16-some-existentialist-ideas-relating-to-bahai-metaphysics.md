@@ -1,5 +1,4 @@
 ---
-id: 735
 title: Some existentialist ideas relating to Bahá'í metaphysics
 date: Tue, 16 Mar 2004 12:00:00 +0000
 category: Essays

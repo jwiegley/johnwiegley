@@ -1,5 +1,4 @@
 ---
-id: 255
 title: The prodigal car returns
 date: Tue, 20 Jul 2004 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 198
 title: Sitting with the Friend
 date: Mon, 01 Nov 2004 12:00:00 +0000
 category: Journal

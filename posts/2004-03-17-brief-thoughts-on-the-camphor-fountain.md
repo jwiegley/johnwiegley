@@ -1,5 +1,4 @@
 ---
-id: 784
 title: Brief thoughts on "the camphor fountain"
 date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Essays

@@ -1,5 +1,4 @@
 ---
-id: 571
 title: A sea of arms and legs
 date: Tue, 03 Jun 2003 12:00:00 +0000
 category: Poems

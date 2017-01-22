@@ -1,5 +1,4 @@
 ---
-id: 234
 title: "The Last Samurai"
 date: Fri, 05 Dec 2003 12:00:00 +0000
 category: Journal

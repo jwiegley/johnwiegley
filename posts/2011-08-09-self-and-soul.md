@@ -1,5 +1,4 @@
 ---
-id: 874
 title: Self and soul
 date: Tue, 09 Aug 2011 11:58:05 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 870
 title: Origins of the self
 date: Thu, 30 Jun 2011 06:56:08 +0000
 category: Journal

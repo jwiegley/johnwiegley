@@ -1,5 +1,4 @@
 ---
-id: 259
 title: The real world
 date: Fri, 14 Oct 2005 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 495
 title: Lock and key
 date: Wed, 28 Sep 2005 12:00:00 +0000
 category: Poems

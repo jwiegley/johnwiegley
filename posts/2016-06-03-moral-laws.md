@@ -1,5 +1,4 @@
 ---
-id: 1519
 title: Moral laws
 date: Fri, 03 Jun 2016 15:08:36 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 102
 title: From sight to sound
 date: Wed, 14 Jul 2004 12:00:00 +0000
 category: Journal

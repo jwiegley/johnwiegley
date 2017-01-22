@@ -1,5 +1,4 @@
 ---
-id: 30
 title: An essay to tie the pieces
 date: Mon, 28 Jul 2003 12:00:00 +0000
 category: Journal

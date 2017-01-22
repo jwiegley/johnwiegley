@@ -1,5 +1,4 @@
 ---
-id: 681
 title: To sail away
 date: Sat, 08 May 2004 12:00:00 +0000
 category: Poems

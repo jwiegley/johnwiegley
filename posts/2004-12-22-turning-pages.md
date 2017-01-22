@@ -1,5 +1,4 @@
 ---
-id: 294
 title: Turning pages
 date: Wed, 22 Dec 2004 12:00:00 +0000
 category: Journal

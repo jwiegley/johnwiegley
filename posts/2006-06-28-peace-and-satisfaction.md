@@ -1,5 +1,4 @@
 ---
-id: 204
 title: Peace and satisfaction
 date: Wed, 28 Jun 2006 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 220
 title: Talk on the Seven Valleys
 date: Sun, 05 Aug 2007 12:00:00 +0000
 category: Journal

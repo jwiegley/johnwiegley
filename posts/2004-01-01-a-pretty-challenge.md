@@ -1,5 +1,4 @@
 ---
-id: 345
 title: A pretty challenge
 date: Thu, 01 Jan 2004 12:00:00 +0000
 category: Poems

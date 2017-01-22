@@ -1,5 +1,4 @@
 ---
-id: 85
 title: Discipline and energy
 date: Wed, 16 Nov 2005 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 32
 title: After a quick trip to the hospital
 date: Sun, 03 Aug 2003 12:00:00 +0000
 category: Journal

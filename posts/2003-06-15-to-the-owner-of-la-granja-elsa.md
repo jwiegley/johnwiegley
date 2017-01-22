@@ -1,5 +1,4 @@
 ---
-id: 473
 title: To the owner of La Granja Elsa
 date: Sun, 15 Jun 2003 12:00:00 +0000
 category: Poems

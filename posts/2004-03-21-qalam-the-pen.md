@@ -1,5 +1,4 @@
 ---
-id: 558
 title: Qalam (the Pen)
 date: Sun, 21 Mar 2004 12:00:00 +0000
 category: Poems

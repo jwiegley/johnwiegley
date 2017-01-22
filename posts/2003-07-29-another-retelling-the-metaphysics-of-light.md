@@ -1,5 +1,4 @@
 ---
-id: 247
 title: "Another retelling: The metaphysics of light"
 date: Tue, 29 Jul 2003 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 224
 title: The beauty of truth
 date: Mon, 01 Jan 1996 12:00:00 +0000
 category: Journal

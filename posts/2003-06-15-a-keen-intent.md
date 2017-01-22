@@ -1,5 +1,4 @@
 ---
-id: 440
 title: A Keen Intent
 date: Sun, 15 Jun 2003 12:00:00 +0000
 category: Poems

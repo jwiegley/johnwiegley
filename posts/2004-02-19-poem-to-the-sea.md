@@ -1,5 +1,4 @@
 ---
-id: 548
 title: Poem to the Sea
 date: Thu, 19 Feb 2004 12:00:00 +0000
 category: Poems

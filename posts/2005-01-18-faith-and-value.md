@@ -1,5 +1,4 @@
 ---
-id: 96
 title: Faith and value
 date: Tue, 18 Jan 2005 12:00:00 +0000
 category: Journal

@@ -1,5 +1,4 @@
 ---
-id: 880
 title: Seven Valleys as a treasure map
 date: Thu, 08 Sep 2011 11:01:08 +0000
 category: Journal

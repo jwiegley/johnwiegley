@@ -1,5 +1,4 @@
 ---
-id: 70
 title: Competition and spirituality
 date: Sat, 31 Dec 2005 12:00:00 +0000
 category: Journal

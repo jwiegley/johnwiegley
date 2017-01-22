@@ -1,5 +1,4 @@
 ---
-id: 148
 title: Moving forward
 date: Fri, 14 Nov 2008 12:00:00 +0000
 category: Journal

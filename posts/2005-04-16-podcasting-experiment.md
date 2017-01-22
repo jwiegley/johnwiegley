@@ -1,5 +1,4 @@
 ---
-id: 175
 title: Podcasting experiment
 date: Sat, 16 Apr 2005 12:00:00 +0000
 category: Journal

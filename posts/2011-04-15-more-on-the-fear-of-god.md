@@ -1,5 +1,4 @@
 ---
-id: 847
 title: More on the Fear of God
 date: Sat, 16 Apr 2011 02:58:12 +0000
 category: Journal

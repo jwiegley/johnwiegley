@@ -1,5 +1,4 @@
 ---
-id: 19
 title: A realization
 date: Sun, 28 Aug 2005 12:00:00 +0000
 category: Journal

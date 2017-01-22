@@ -1,5 +1,4 @@
 ---
-id: 884
 title: Translation of the Rashh-i-`Amá
 date: Fri, 23 Sep 2011 07:02:45 +0000
 category: Journal

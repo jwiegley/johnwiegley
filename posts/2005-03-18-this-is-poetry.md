@@ -1,5 +1,4 @@
 ---
-id: 661
 title: This is poetry
 date: Fri, 18 Mar 2005 12:00:00 +0000
 category: Poems

@@ -1,5 +1,4 @@
 ---
-id: 694
 title: Trying to return
 date: Tue, 05 Apr 2005 12:00:00 +0000
 category: Poems

@@ -1,5 +1,4 @@
 ---
-id: 31
 title: An analogy of the self
 date: Wed, 30 Jul 2003 12:00:00 +0000
 category: Journal

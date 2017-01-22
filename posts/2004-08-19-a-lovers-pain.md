@@ -1,5 +1,4 @@
 ---
-id: 14
 title: A lover's pain
 date: Thu, 19 Aug 2004 12:00:00 +0000
 category: Journal

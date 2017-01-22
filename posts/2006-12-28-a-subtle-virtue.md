@@ -1,5 +1,4 @@
 ---
-id: 24
 title: A subtle virtue
 date: Thu, 28 Dec 2006 12:00:00 +0000
 category: Journal

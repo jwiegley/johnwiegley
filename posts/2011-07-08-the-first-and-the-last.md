@@ -1,5 +1,4 @@
 ---
-id: 1342
 title: The First and the Last (1 of 3)
 date: Fri, 08 Jul 2011 11:32:32 +0000
 category: Journal

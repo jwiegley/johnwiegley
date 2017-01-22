@@ -1,5 +1,4 @@
 ---
-id: 253
 title: The pauper is a prince
 date: Sat, 25 Jun 2005 12:00:00 +0000
 category: Journal

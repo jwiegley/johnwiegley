@@ -1,5 +1,4 @@
 ---
-id: 177
 title: Pictures from Colorado
 date: Tue, 30 Aug 2005 12:00:00 +0000
 category: Journal

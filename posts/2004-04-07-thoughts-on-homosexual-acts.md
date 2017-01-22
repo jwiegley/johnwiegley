@@ -1,5 +1,4 @@
 ---
-id: 747
 title: Thoughts on homosexual acts
 date: Wed, 07 Apr 2004 12:00:00 +0000
 category: Essays
