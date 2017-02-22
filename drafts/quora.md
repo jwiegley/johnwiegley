@@ -1,3 +1,82 @@
+# If God knows everything, God knows the future. If God knows the future, how can there be free will?
+
+If the future is already known, then it can't be changed, and therefore there
+cannot be free will.
+
+And why does God get angry about events when he already knows what is going to
+happen?
+
+Date: 2017-02-21
+
+Others have noted that part of the problem with this question is that it
+assumes time is linear for everyone, including God.
+
+Imagine you knew everything. Not just everything that is, but everything that
+can be: every possible universe that could result from every possible choice.
+And you don’t just know one or some of them, but all of them. You know my
+whole future if I choose to drink coffee today, and you know my whole future
+if I choose not to. After all, if your knowledge is infinite, there’s no
+capacity problem. You would know every future, resulting from every choice,
+for every person in existence.
+
+This means that God doesn’t need to fore-know what I’ll choose, because it
+wouldn’t make a difference; He already knows every divergent outcome: billions
+upon billions of possible futures, resulting from every conceivable choice I
+might make.
+
+Does it limit my freedom that the future exists? Does it limit my freedom that
+God knows all of them?
+
+I think what your original question assumes is that, if God knows which final
+future I will choose, it eliminates all the other possibilities from the
+beginning. But maybe this isn’t how God’s knowledge of the future works… if
+He’s not linear.
+
+I also think this is where fate and free will co-exist. Free will creates the
+set of futures we can choose from, while fate limits that set to what God
+makes allowable. It’s like a diner at a buffet, who can choice any one of a
+hundred foods, but his choice is still limited to those hundred.
+
+So if God decrees that a certain thing must happen in my life, it becomes
+fated, and all my futures now contain that thing. But how exactly I get there
+would still be up to me, without either affecting His foreknowledge of what
+must happen, or my free in how I get there.
+
+# Does true faith mean never giving up your beliefs?
+
+I'm totally open to suggestions!!! please join the discussion, i'd love to
+hear any opinions. this is for an english project; the questions were assigned
+to us.
+
+Date: 2017-02-21
+
+I think true faith means being willing to give up every one of your beliefs in
+the name of truth. Because truth is the truth, and your beliefs are just… your
+beliefs. One is absolute and independent, while the other is relative to what
+you know, understand and perceive.
+
+This doesn’t necessarily mean that one day you’ll stop believing in God, or
+not God, or whatever is most important to you; but your beliefs about it
+should change as you progress in life, because beliefs are, after all, mostly
+ideas. The thought that one’s beliefs wouldn’t change in the face of new
+knowledge and experience isn’t faith, it’s blindness.
+
+Faith is knowing that someone loves you, and is absolutely good, even if they
+act in a way that seems 100% the opposite. This is because you have faith in
+the person, and so choose to believe that you haven’t fully understood the
+situation.
+
+# What is the opposite of zen?
+
+Date: 2017-02-16
+
+If I had to guess what the perfect opposite of Zen is, I’d say: getting
+carried away with defining Zen. If Zen represents freedom from the limiting
+constraints of conception, and how desire turns those conceptions into a
+self-reflective prison, the effort to define Zen would be like exchanging the
+very path to freedom for a painting of that path on your cell wall, and then
+believing you’d found the way out.
+
 # What is the best comment in source code that you have ever encountered?
 
 Date: 2017-02-09

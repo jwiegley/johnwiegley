@@ -1,4 +1,15 @@
                                    COMMENTS
+                                   
+# Feeling lost, need some help
+
+I think the Christian attitude toward this is very helpful, from 1 Timothy
+1:15:
+
+> The saying is trustworthy and deserving of full acceptance, that Christ
+  Jesus came into the world to save sinners, of whom I am the foremost.
+
+Religion is not sent for those who barely need it. The power of God is borne
+out in the transformation of those who, it seemed, were almost lost.
 
 # The Bahá’í Faith, for the most part, seems pretty great, but...
 
