@@ -1,5 +1,37 @@
                                    COMMENTS
-                                   
+
+# Any former atheists here? What's your story?
+
+I was brought up a Christian (though very liberal), and became an atheist when
+I turned 14. I was a pretty rabid atheist too, and disliked all religions
+quite intensely. Later I became an agnostic, since it seemed presumptuous to
+be so certain about something I could not verify either way.
+
+So why am I a Bahá’í? It was not because of something I learned or experienced
+that was unavailable to me before. What it boiled down to was that Bahá’u’lláh
+made a claim I felt compelled, as a lover of truth, to verify.
+
+With most human authors, bogusness can be detected pretty early on. Even if it
+seems rosy from the start, inconsistencies begin to pop up here and there.
+After my first discussions with a Bahá’í I had met, there were surprisingly
+few of these, so I asked for a book to intensify my study, looking for the
+hole that would unravel the lie behind the beautiful sentiments.
+
+The religious side of my journey, especially the relationship with God, did
+not happen until much, much later. I would say that my first religious
+experiences did not occur until 12 years after this study began, and I was
+unable to genuinely appreciate prayer for more than 20 years. All this, even
+though I declared as a Bahá’í 11 days after discovering it: not because I was
+certain it was true, but because I wanted to continue my exploration "from the
+inside".
+
+So can I offer any words that will prompt you to faith? I don't think so. What
+I would suggest is, rather than focusing on abstract concepts like "faith",
+"soul" and "God" that humans may never resolve, focus on the concrete matter
+of Bahá’u’lláh's life and declaration, and whether you see the divine in His
+words and teachings. That is how I finally noticed God, after ideas and belief
+alone could not get me there.
+
 # Feeling lost, need some help
 
 I think the Christian attitude toward this is very helpful, from 1 Timothy

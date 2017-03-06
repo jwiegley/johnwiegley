@@ -1,3 +1,160 @@
+# Life is totally meaningless. We live. We die. So what's the point?
+
+Don't give me any religious reasons as that's just a coping mechanism.
+
+We are simply alive a biological function of reproduction as all biological C
+14 creatures exist. Our job is to vision mission and value our lives learn who
+am I why am I here and how can I serve these are all imindfulness ideals
+
+Date: 2017-03-04
+
+Keep in mind that, as children, “play” was totally meaningless too. It had no
+societal benefit, no ultimate effect. We played, it ended, so what was the
+point?
+
+As conscious beings, our reality is to *be conscious*. It does not necessarily
+require a higher moral value, or an ultimate destination. If being aware is
+all we can truly possess or achieve, then the goal should be to refine our
+acute appreciation of what life has to offer, and the nature of things,
+however impermanent — maybe even because they’re impermanent.
+
+Why do this, if everything is transient and perishing? Because. I think you’re
+brushing up against a meaning of enlightenment here: Being is its own truth,
+which the wanderings of mind will never fathom.
+
+# Is truth relative? Does absolute truth exist?
+
+Date: 2017-02-25
+
+Absolute truth does exist, but often when you cast it into terms of human
+language and conception, it becomes relative to those assumptions.
+
+For example: Does the sun radiate heat? Absolutely, this is a physical and
+verifiable fact. Is the sun hot? Yes, and no. It’s certainly hot to those of
+us living on Earth; but it’s downright frigid compared to the temperatures of
+the Big Bang.
+
+As the absolute truth you’re seeking gets more and more abstract, it becomes
+harder to find an expression of it that is not made relative by the expression
+itself. For example, for centuries Sufi mystics have argued whether God is
+found in all things, or all things are God. There are compelling religious
+foundations for both viewpoints; but since the subject (God) is so abstracted
+from human experience, the terminology used to explore the problem means that
+even when such statements are relatively true, no one of them is absolutely
+so. The absolute truth must be approached in the union of these perspectives.
+
+So if you seek an absolute truth, be very careful of how you phrase it, and
+the terms used to describe it. It may remind you of Rumi’s story about the
+elephant in the dark:
+
+> Some Hindus have an elephant to show.  
+> No one here has ever seen an elephant.  
+> They bring it at night to a dark room.
+> 
+> One by one, we go in the dark and come out  
+> saying how we experience the animal.  
+> One of us happens to touch the trunk.  
+> A water-pipe kind of creature.
+> 
+> Another, the ear. A strong, always moving  
+> back and forth, fan-animal. Another, the leg.  
+> I find it still, like a column on a temple.
+> 
+> Another touches the curve back.  
+> A leathery throne. Another, the cleverest,  
+> feels the tusk. A rounded sword made of porcelain.  
+> He is proud of his description.
+> 
+> Each of us touches one place  
+> and understands the whole in that way.  
+> The palm and the fingers feeling in the dark  
+> are how the senses explore the reality of the elephant.
+> 
+> If each of us held a candle there,  
+> and if we went in together, we could see it.
+
+# What religion has the answer?
+
+Date: 2017-02-25
+
+They all have the answer: Treat others as you would be treated. Some religions
+add “for the sake of God”, and others go so far as to unify your concept of
+self with that of “others”, but in the end, it comes down to being the most
+humane human being you can be.
+
+# What do you do when someone attacks a religious system?
+
+I’ve seen many people who like to attack religions. This end up generating a
+lot of misconceptions, prejudice and hatred between people.
+
+How to maintain peace and unity when someone is often attacking someone’s
+religion? (Any religion)
+
+Date: 2017-02-25
+
+If I notice that a person is directly attacking another’s set of beliefs, then
+there is nothing to be gained by engaging in argumentation with them — unless
+they’re openly and earnestly asking for clarification. Since the disagreement
+is about beliefs, and not necessarily logic, things too often degrade into
+frustrated emotion.
+
+Perhaps the best response is to learn more about the beliefs of that person,
+and why they’re so invested in their position. Since I always have a ton more
+to learn about other faiths, I use it as an opportunity to learn from someone
+who is deeply set in their point of view. I may not agree, but it offers a
+chance to see from another perspective. And it’s important to pay close enough
+attention to the basis of their attack, that it even begins to make sense,
+were you to accept the foundation of their viewpoint. Once you learn what they
+truly care about, you might discover you have more common ground that you
+thought.
+
+# I'm majoring in Computer Science but I feel stupid when doing math. Is it a warning sign?
+
+Date: 2017-02-22
+
+I was absolutely the worst at math for the first 40 years of my life, even
+though I began programming professionally at age 16, and did no other type of
+work since.
+
+Then I was introduced to category theory, and abstract algebra, and it dawned
+on me that math is about symbolic relationships, not “number recipes”… that
+was when the light bulb went on and I began *loving* math. I still wouldn’t
+say I’m very good at it, but now I can read a book on algebraic structures
+with pleasure, which is a total change from before.
+
+So you really don’t need math to program. The farthest I ever went was
+logarithms in my earlier days; and converting between decimal, octal, binary
+and hexadecimal. Some things would have been easier with a maths background
+(example: graph theory), but it never stopped me from getting the job done.
+
+# How did we decide that 1 + 1 = 2?
+
+You may be thinking that 1 and 2 are somehow pre-existing entities, and that
+we “discovered” they are related by addition, but the real picture is much
+simpler: 1 + 1 = 2 because that’s precisely how we’ve defined the meaning of
+1, 2 and +.
+
+In the reckoning of numbers, there is zero, and there is “one more than
+another number”. Here zero is just a name, and so is “one more”.
+
+0 is the symbol used to denote “zero”.
+
+1 is the symbol used to denote “one more than zero”.
+
+2 is the symbol used to denote “one more than one”, etc.
+
+What is addition? “x + 0 = x”, and “x + one more than y = one more than (x +
+y)”.
+
+By that definition, 1 + 1 = 1 + one more than zero = one more than (1 + 0) =
+one more than 1 = 2.
+
+The point here is that all of this is “by definition”. It doesn’t have any
+meaning beyond these statements, even though the terms can be used to
+represent quantities in the real world. *We supply the meaning by how we use
+the terms*, but the terms themselves are just relationships defined among
+arbitrary symbols.
+
 # If God knows everything, God knows the future. If God knows the future, how can there be free will?
 
 If the future is already known, then it can't be changed, and therefore there
