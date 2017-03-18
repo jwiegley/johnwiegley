@@ -5,5 +5,5 @@ category: Poems
 ---
 
     moon on the water
-    many bright faces dancing
+    bright faces dancing, dancing
     wind calms, they head home
