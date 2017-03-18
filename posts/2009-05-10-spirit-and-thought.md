@@ -1,6 +1,6 @@
 ---
 title: Spirit and thought
-tags: journalspirit
+tags: journal
 ---
 
 The following idea came up during a discussion this week.  We were reading a quote that said "at the hour of the soul's separation from the body", and someone asked how could the soul separate from the if it's not really in the body, but only associated with it.  Why would the Writings use the term separation?
