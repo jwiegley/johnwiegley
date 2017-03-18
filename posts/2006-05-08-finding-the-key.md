@@ -1,7 +1,7 @@
 ---
 title: Finding the key
 category: Journal
-location: Nasim's house: 239 Misty Creek Drive, Monument, Colorado
+location: Nasim's house, 239 Misty Creek Drive, Monument, Colorado
 ---
 
 A few days ago I wrote that the essence of morality lies in valuing
