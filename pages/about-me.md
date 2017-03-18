@@ -31,8 +31,9 @@ have many hobbies, and develop fascinations quickly and fiercely. It can be
 anything too, from books to knives to soap. I never know myself what will
 capture my interest next.
 
-I am in my early thirties, and think of myself primarily as a mystic trying to
-get along in the world. I have [ADHD](http://en.wikipedia.org/wiki/ADHD),
-which makes for quite a number of difficulties in adapting, but I've been
-successful enough to survive so far. The biggest victim is that many of the
-plans I have never make it as far as reality.
+I can be reached via the following services:
+
+    - [E-mail](mailto:jwiegley@gmail.com)
+    - [Twitter](https://twitter.com/jwiegley)
+    - [Facebook](https://www.facebook.com/zuck)
+    - [LinkedIn](https://www.linkedin.com/in/jwiegley/)
