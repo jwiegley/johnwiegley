@@ -164,6 +164,50 @@ code {
 
 @media print {
 
+#title {
+    display:  None;
+    font-size: 160%;
+    font-weight: bold;
+    padding-bottom: 2ex;
+}
+
+.article {
+    margin: 2em;
+}
+
+.article-title {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.article-date {
+    padding-bottom: 1em;
+}
+
+.article-content {
+    margin: 2em;
+    margin-top: 1.5em;
+    margin-right: 3em;
+    line-height: 3ex;
+    text-align: justify;
+}
+
+pre {
+    margin: 1em;
+}
+
+code {
+    font-family: Palatino, serif;
+}
+
+#footer {
+    margin: 2em;
+}
+
+#subscribe {
+    display: none;
+}
+
 }
 
 }
