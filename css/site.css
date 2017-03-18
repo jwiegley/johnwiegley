@@ -172,7 +172,7 @@ code {
 }
 
 .article-title {
-    font-size: 120%;
+    font-size: 150%;
     font-weight: bold;
 }
 
@@ -198,6 +198,10 @@ code {
 
 #footer {
     margin: 2em;
+}
+
+#copyright {
+    text-align: right;
 }
 
 #subscribe {
