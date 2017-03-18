@@ -1,6 +1,6 @@
 ---
 title: Mystic prince
-category: Poems
+tags: poetry
 edited: 03/15/2005
 location: Epic Cafe, 4th Ave and University, Tucson, AZ
 ---

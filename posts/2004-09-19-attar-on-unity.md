@@ -1,6 +1,6 @@
 ---
 title: "`Attár on Unity"
-category: Journal
+tags: journal
 ---
 
 Farídu'd-Dín `Attár, a 12th century Sufi poet, wrote a mystical poem

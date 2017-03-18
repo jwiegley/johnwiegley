@@ -1,6 +1,6 @@
 ---
 title: Musings on the Seven Valleys
-category: Essays
+tags: essays
 ---
 
 Within the Seven Valleys, Bahá'u'lláh distinguishes three particular stations,

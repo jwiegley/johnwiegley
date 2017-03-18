@@ -1,6 +1,6 @@
 ---
 title: Rand's philosophy
-category: Journal
+tags: journal
 ---
 
 What's funny is that Rand would not want to be followed, according to

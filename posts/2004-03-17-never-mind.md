@@ -1,6 +1,6 @@
 ---
 title: Never mind
-category: Poems
+tags: poetry
 ---
 
     Never mind that I just ignored you,

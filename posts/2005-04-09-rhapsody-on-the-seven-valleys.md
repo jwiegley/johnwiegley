@@ -1,6 +1,6 @@
 ---
 title: Rhapsody on the Seven Valleys
-category: Essays
+tags: essays
 ---
 
 In the valley of Search, one seeks out an entrance, looks for some

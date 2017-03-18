@@ -1,6 +1,6 @@
 ---
 title: Thoughts on the Five Year Plan (2016-2021)
-category: Essays
+tags: essays
 ---
 
 I prepared the following speech for our Unit Convention today, about the

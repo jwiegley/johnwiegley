@@ -1,6 +1,6 @@
 ---
 title: Rand's vision of Atlantis
-category: Journal
+tags: journal
 ---
 
 I walked away after the last message to have a Panini sandwich with

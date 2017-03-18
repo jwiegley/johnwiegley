@@ -1,6 +1,6 @@
 ---
 title: Bright Andalucia
-category: Journal
+tags: journal
 ---
 
 Now I am writing to you all on paper, day by day, to be typed in later.

@@ -1,6 +1,6 @@
 ---
 title: Detachment
-category: Journal
+tags: journal
 ---
 
 Detachment can be a tricky concept.  It underlies most spiritual

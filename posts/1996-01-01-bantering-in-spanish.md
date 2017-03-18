@@ -1,6 +1,6 @@
 ---
 title: Bantering in Spanish
-category: Journal
+tags: journal
 ---
 
 At Conchita's Ice Cream this afternoon, while eating a double-scoop of

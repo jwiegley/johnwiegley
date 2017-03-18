@@ -1,6 +1,6 @@
 ---
 title: Seeking the ideal beauty
-category: Essays
+tags: essays
 ---
 
 One of the underlying thoughts in religion, and more ancient philosophic

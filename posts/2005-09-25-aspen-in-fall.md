@@ -1,6 +1,6 @@
 ---
 title: Aspen in fall
-category: Journal
+tags: journal
 ---
 
 Yesterday I drove up to Aspen, Colorado on what might have been one of

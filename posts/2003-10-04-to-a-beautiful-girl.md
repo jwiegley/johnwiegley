@@ -1,6 +1,6 @@
 ---
 title: To a beautiful girl
-category: Poems
+tags: poetry
 edited: 11/08/2003
 location: 280 Esplanade Ave #211
 ---

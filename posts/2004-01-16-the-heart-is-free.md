@@ -1,6 +1,6 @@
 ---
 title: The heart is free
-category: Poems
+tags: poetry
 edited: 03/19/2004
 location: 380 Esplanade #211
 ---

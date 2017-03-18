@@ -1,6 +1,6 @@
 ---
 title: Christianity and damnation
-category: Essays
+tags: essays
 ---
 
 Christianity has always seemed to me to offer religion as an alternative

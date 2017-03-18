@@ -1,6 +1,6 @@
 ---
 title: The space between souls
-category: Poems
+tags: poetry
 ---
 
     A flower reaches to the sun:

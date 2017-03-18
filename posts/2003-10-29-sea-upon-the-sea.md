@@ -1,6 +1,6 @@
 ---
 title: Sea upon the sea
-category: Poems
+tags: poetry
 edited: 04/14/2005
 ---
 

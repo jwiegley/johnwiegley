@@ -1,6 +1,6 @@
 ---
 title: The sun says goodbye
-category: Poems
+tags: poetry
 ---
 
     So gentle, the sun's light,

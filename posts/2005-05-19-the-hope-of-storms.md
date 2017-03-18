@@ -1,6 +1,6 @@
 ---
 title: The hope of storms
-category: Poems
+tags: poetry
 location: Nasim's house, 239 Misty Creek Drive, Monument, Colorado
 ---
 

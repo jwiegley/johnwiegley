@@ -1,6 +1,6 @@
 ---
 title: Definitions and the-thing-defined
-category: Journal
+tags: journal
 ---
 
 The following selection is from pages 221-2 of *Zen*:

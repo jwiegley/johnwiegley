@@ -1,6 +1,6 @@
 ---
 title: Eastern methods of instruction, and the Valley of Search
-category: Essays
+tags: essays
 ---
 
 This morning I finished re-reading Eugen Herrigel's lovely little book,

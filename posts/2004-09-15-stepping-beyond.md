@@ -1,6 +1,6 @@
 ---
 title: Stepping beyond
-category: Journal
+tags: journal
 ---
 
 Having described the veil, and the merits of the veil, I was struck by a

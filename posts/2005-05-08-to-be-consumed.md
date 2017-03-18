@@ -1,6 +1,6 @@
 ---
 title: To be consumed
-category: Poems
+tags: poetry
 edited: 05/12/2005
 location: 7373 N. 71st Place, Paradise Valley, Arizona
 ---

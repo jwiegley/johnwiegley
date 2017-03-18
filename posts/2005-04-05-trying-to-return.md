@@ -1,6 +1,6 @@
 ---
 title: Trying to return
-category: Poems
+tags: poetry
 edited: 04/09/2005
 location: Biltmore Fashion Park, Phoenix, AZ
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nothingness and self
-category: Journal
+tags: journal
 ---
 
 A friend has asked me to include my current streams of thinking, along

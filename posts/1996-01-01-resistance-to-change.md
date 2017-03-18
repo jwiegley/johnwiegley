@@ -1,6 +1,6 @@
 ---
 title: Resistance to change
-category: Journal
+tags: journal
 ---
 
 The things we try to change in ourselves are resistant to that change,

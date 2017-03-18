@@ -1,6 +1,6 @@
 ---
 title: The steed of pain
-category: Journal
+tags: journal
 ---
 
 In the mystical journeys of the Seven Valleys, a point occurs in the

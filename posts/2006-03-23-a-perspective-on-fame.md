@@ -1,6 +1,6 @@
 ---
 title: A perspective on fame
-category: Journal
+tags: journal
 ---
 
 A friend and I have often questioned the pursuit of fame.  One hopes to

@@ -1,6 +1,6 @@
 ---
 title: The need for morals
-category: Journal
+tags: journal
 ---
 
 After wondering why I have been emphasizing morality so much lately

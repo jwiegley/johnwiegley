@@ -1,6 +1,6 @@
 ---
 title: Little bird
-category: Poems
+tags: poetry
 edited: 05/02/2005
 location: Biltmore Fashion Park, Phoenix, Arizona
 ---

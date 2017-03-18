@@ -1,6 +1,6 @@
 ---
 title: Poem to the falling sun
-category: Poems
+tags: poetry
 edited: 11/21/2003
 location: Plaza Industria, Sitges, Spain
 ---

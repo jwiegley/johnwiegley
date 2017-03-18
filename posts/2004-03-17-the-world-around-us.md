@@ -1,6 +1,6 @@
 ---
 title: The world around us
-category: Poems
+tags: poetry
 ---
 
     To see the summer sun

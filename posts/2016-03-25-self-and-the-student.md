@@ -1,6 +1,6 @@
 ---
 title: Self and the student
-category: Journal
+tags: journal
 ---
 
 I've mentioned before that perhaps spirituality consists of the degree to

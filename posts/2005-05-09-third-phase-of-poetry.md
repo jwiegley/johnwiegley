@@ -1,6 +1,6 @@
 ---
 title: Third phase of poetry
-category: Journal
+tags: journal
 ---
 
 I had thought there were two phases of writing poetry, but now I find

@@ -1,6 +1,6 @@
 ---
 title: A sun's love
-category: Poems
+tags: poetry
 ---
 
     The sun's heart burns like fire cannot burn.

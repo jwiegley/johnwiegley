@@ -1,6 +1,6 @@
 ---
 title: Implications of E=mc2
-category: Journal
+tags: journal
 ---
 
 *(I no longer see as much value in the following theory, but it has its

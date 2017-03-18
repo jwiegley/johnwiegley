@@ -1,6 +1,6 @@
 ---
 title: Orders of existence
-category: Journal
+tags: journal
 ---
 
 Philosophy and religion have long debated the meaning of existence as it

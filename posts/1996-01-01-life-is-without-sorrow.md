@@ -1,6 +1,6 @@
 ---
 title: Life is without sorrow
-category: Journal
+tags: journal
 ---
 
 Life sends us no sorrow.  It is only our perception of it -- our

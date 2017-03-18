@@ -1,6 +1,6 @@
 ---
 title: Living with ADHD
-category: Essays
+tags: essays
 ---
 
 Since the age of four, it was noticed by doctors that I did not pay

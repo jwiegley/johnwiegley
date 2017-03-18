@@ -1,6 +1,6 @@
 ---
 title: Fear not, little seed
-category: Poems
+tags: poetry
 location: Chicago, 2015, written for Lori Vodden.
 ---
 

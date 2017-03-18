@@ -1,6 +1,6 @@
 ---
 title: The beauty of southern Oregon
-category: Journal
+tags: journal
 ---
 
 This past weekend I went on a camping trip with my brother, my

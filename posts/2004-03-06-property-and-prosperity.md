@@ -1,6 +1,6 @@
 ---
 title: Property and prosperity
-category: Essays
+tags: essays
 ---
 
 If I walk into a computer store and pick up a laptop, without paying for

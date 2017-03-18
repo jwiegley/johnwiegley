@@ -1,6 +1,6 @@
 ---
 title: The glory of limitation
-category: Journal
+tags: journal
 ---
 
 In limitation there is a special beauty.  Whatever is limited is more

@@ -1,6 +1,6 @@
 ---
 title: To the owner of La Granja Elsa
-category: Poems
+tags: poetry
 edited: 03/07/2004
 location: Sitges, Spain
 ---

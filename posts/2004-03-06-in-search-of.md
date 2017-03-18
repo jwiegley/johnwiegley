@@ -1,6 +1,6 @@
 ---
 title: In Search Of
-category: Stories
+tags: stories
 ---
 
 Lily sat by the sea and clutched her hands tightly to her chest.  It was

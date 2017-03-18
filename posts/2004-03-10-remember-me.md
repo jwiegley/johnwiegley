@@ -1,6 +1,6 @@
 ---
 title: Remember me
-category: Poems
+tags: poetry
 ---
 
     Do you remember me?

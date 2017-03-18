@@ -1,6 +1,6 @@
 ---
 title: Linguistic style of the Bahá'í Writings
-category: Essays
+tags: essays
 ---
 
 The difference between plain English and "high" English is roughly

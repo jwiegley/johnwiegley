@@ -1,6 +1,6 @@
 ---
 title: An essay to tie the pieces
-category: Journal
+tags: journal
 ---
 
 Thank you to all for your letters back.  I will right to you more

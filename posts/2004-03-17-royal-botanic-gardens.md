@@ -1,6 +1,6 @@
 ---
 title: Royal Botanic Gardens
-category: Poems
+tags: poetry
 ---
 
     Today my soul is a butterfly

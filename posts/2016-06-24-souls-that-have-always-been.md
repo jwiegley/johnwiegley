@@ -1,6 +1,6 @@
 ---
 title: Souls that have always been
-category: Essays
+tags: essays
 ---
 
 I have always wondered about the meaning of this selection from "The Hidden

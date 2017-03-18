@@ -1,6 +1,6 @@
 ---
 title: That perfect moment
-category: Poems
+tags: poetry
 ---
 
     I was not made to be perfect.

@@ -1,6 +1,6 @@
 ---
 title: Immediate knowing
-category: Poems
+tags: poetry
 ---
 
     A soul can laugh a hundred times

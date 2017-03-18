@@ -1,6 +1,6 @@
 ---
 title: Liberty and the lover
-category: Journal
+tags: journal
 ---
 
 Liberty means being free.  But for the lover, this can only mean freedom

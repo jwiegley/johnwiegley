@@ -1,6 +1,6 @@
 ---
 title: Thoughts of March
-category: Journal
+tags: journal
 ---
 
 The Fast has reached its end.  What an interesting month it's been, with

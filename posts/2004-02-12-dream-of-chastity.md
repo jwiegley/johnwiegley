@@ -1,6 +1,6 @@
 ---
 title: Dream of Chastity
-category: Poems
+tags: poetry
 location: 325 Morrow Road
 ---
 

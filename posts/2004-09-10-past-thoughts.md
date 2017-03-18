@@ -1,6 +1,6 @@
 ---
 title: Past thoughts
-category: Journal
+tags: journal
 ---
 
 Before the advent of blogging, I used to jot my thoughts on paper in

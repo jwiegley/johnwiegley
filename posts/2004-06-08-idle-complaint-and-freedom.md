@@ -1,6 +1,6 @@
 ---
 title: Idle complaint and freedom
-category: Journal
+tags: journal
 ---
 
 Something I've been thinking about for several years is the phenomenon

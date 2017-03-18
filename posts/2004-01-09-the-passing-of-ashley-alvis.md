@@ -1,6 +1,6 @@
 ---
 title: The passing of Ashley Alvis
-category: Journal
+tags: journal
 ---
 
 I learned this evening that my friend, and companion on the mystical

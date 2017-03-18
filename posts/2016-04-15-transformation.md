@@ -1,6 +1,6 @@
 ---
 title: Transformation
-category: Journal
+tags: journal
 ---
 
 I believe that within each of us lies a door -- a hidden door -- that opens

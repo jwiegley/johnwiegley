@@ -1,6 +1,6 @@
 ---
 title: From language to words
-category: Poems
+tags: poetry
 ---
 
     I wish I had a switch

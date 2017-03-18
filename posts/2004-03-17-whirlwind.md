@@ -1,6 +1,6 @@
 ---
 title: Whirlwind
-category: Poems
+tags: poetry
 ---
 
     Gathering together its full force

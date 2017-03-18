@@ -1,6 +1,6 @@
 ---
 title: Inclination
-category: Poems
+tags: poetry
 ---
 
     Poetry, music, or art

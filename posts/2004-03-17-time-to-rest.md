@@ -1,6 +1,6 @@
 ---
 title: Time to rest
-category: Poems
+tags: poetry
 ---
 
     It is too late at night

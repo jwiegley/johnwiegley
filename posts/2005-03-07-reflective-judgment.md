@@ -1,6 +1,6 @@
 ---
 title: Reflective judgment
-category: Journal
+tags: journal
 ---
 
 This random thought came into my head a while back, and I wanted to jot

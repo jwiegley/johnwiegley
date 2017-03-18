@@ -1,6 +1,6 @@
 ---
 title: Faith and value
-category: Journal
+tags: journal
 ---
 
 The perception of value determines behavior; the soul of virtue is bound

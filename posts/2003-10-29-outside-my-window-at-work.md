@@ -1,6 +1,6 @@
 ---
 title: Outside my window at work
-category: Poems
+tags: poetry
 ---
 
     I was awed by life.

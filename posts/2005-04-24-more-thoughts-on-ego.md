@@ -1,6 +1,6 @@
 ---
 title: More thoughts on ego
-category: Journal
+tags: journal
 ---
 
 When I'm doing something that goes well, I think about how I'm seeing

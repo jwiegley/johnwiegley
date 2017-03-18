@@ -1,6 +1,6 @@
 ---
 title: What we love to do
-category: Journal
+tags: journal
 ---
 
 The following is a copy of a response I sent to one person's questions.

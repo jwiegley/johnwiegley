@@ -1,6 +1,6 @@
 ---
 title: Began weblog
-category: Journal
+tags: journal
 ---
 
 Began a weblog today for the purpose of publishing poems and essays as

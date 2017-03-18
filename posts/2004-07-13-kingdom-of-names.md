@@ -1,6 +1,6 @@
 ---
 title: Kingdom of Names
-category: Journal
+tags: journal
 ---
 
 The first task of Adam, in the book of Genesis, was to name everything

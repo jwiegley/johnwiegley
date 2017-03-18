@@ -1,6 +1,6 @@
 ---
 title: Stations of mystical truth
-category: Journal
+tags: journal
 ---
 
 There are many levels of truth, one might say.  In one station, that of

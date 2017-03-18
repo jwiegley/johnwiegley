@@ -1,6 +1,6 @@
 ---
 title: Enjoying what the world offers
-category: Essays
+tags: essays
 ---
 
 Recently I have been thinking about one's attachment to the world, and

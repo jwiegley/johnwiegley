@@ -1,6 +1,6 @@
 ---
 title: No absolute existence
-category: Journal
+tags: journal
 ---
 
 There is no absolute existence for anything but God.  No evil, etc.  But

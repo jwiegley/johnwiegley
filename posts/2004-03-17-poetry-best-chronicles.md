@@ -1,6 +1,6 @@
 ---
 title: Poetry best chronicles
-category: Poems
+tags: poetry
 ---
 
     Poetry best chronicles the devastation of the heart.

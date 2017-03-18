@@ -1,6 +1,6 @@
 ---
 title: Perfection
-category: Journal
+tags: journal
 ---
 
 When talking about God, heaven and this life, one often hears the word

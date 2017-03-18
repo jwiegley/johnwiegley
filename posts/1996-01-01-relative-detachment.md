@@ -1,6 +1,6 @@
 ---
 title: Relative detachment
-category: Journal
+tags: journal
 ---
 
 The detachment mentioned in the Seven Valleys is not absolute

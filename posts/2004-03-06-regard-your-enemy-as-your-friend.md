@@ -1,6 +1,6 @@
 ---
 title: "Regard your enemy as your friend..."
-category: Essays
+tags: essays
 ---
 
 As nearly everyone has found, this principle cannot be applied brute

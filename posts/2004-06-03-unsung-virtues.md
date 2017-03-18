@@ -1,6 +1,6 @@
 ---
 title: Unsung virtues
-category: Journal
+tags: journal
 ---
 
 There are some attributes of character which are commonly regarded as

@@ -1,6 +1,6 @@
 ---
 title: The absolute additive
-category: Journal
+tags: journal
 ---
 
 Peter Lee sent in a comment and question regarding the last few blog

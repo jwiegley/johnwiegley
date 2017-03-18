@@ -1,6 +1,6 @@
 ---
 title: The mirror
-category: Poems
+tags: poetry
 location: Manijeh's house, Gilbert, Arizona
 ---
 

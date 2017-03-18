@@ -1,6 +1,6 @@
 ---
 title: Unknowable essences
-category: Essays
+tags: essays
 ---
 
 If we ponder a moment, we realize that the essence of light is not

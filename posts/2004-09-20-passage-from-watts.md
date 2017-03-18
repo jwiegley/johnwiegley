@@ -1,6 +1,6 @@
 ---
 title: Passage from Watts
-category: Journal
+tags: journal
 ---
 
 Continuing on with my reading of Alan Watts, I came across these

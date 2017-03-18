@@ -1,6 +1,6 @@
 ---
 title: To Roger and Dania
-category: Poems
+tags: poetry
 edited: 10/29/2003
 location: Basement of 325 Morrow Road
 ---

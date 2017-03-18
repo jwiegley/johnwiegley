@@ -1,6 +1,6 @@
 ---
 title: A realization
-category: Journal
+tags: journal
 ---
 
 Something that's been puzzling me a lot lately is my reaction to

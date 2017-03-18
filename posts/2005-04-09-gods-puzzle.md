@@ -1,6 +1,6 @@
 ---
 title: God's puzzle
-category: Journal
+tags: journal
 ---
 
 I propose that all aspects of religion make sense in the context of a

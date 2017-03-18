@@ -1,6 +1,6 @@
 ---
 title: Melbourne Zoo
-category: Poems
+tags: poetry
 ---
 
     Giraffe: tall, long-headed -- a tongue of 40cm

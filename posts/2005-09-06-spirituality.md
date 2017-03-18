@@ -1,6 +1,6 @@
 ---
 title: Spirituality
-category: Journal
+tags: journal
 ---
 
 On the subject of spiritual things, I think that true religion always

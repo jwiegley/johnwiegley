@@ -1,6 +1,6 @@
 ---
 title: Why does God let it happen?
-category: Essays
+tags: essays
 ---
 
 It is sometimes thought that while life could be wonderful, mankind is just

@@ -1,6 +1,6 @@
 ---
 title: Qalam (the Pen)
-category: Poems
+tags: poetry
 edited: 04/14/2005
 location: 4161 W. Melinda Lane, Tucson
 ---

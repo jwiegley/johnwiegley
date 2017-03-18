@@ -1,6 +1,6 @@
 ---
 title: The First and the Last (1 of 3)
-category: Journal
+tags: journal
 ---
 
 In the Writings there is a quote from the Qur'án mentioned in several places,

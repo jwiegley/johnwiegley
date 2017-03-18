@@ -1,6 +1,6 @@
 ---
 title: Thoughts on awareness
-category: Journal
+tags: journal
 ---
 
 These are a few notes jotted down during my trip to Oregon:

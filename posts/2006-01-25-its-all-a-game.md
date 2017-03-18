@@ -1,6 +1,6 @@
 ---
 title: It's all a game
-category: Journal
+tags: journal
 ---
 
 Again, I am immersed in the world of fantasy role-playing games, this

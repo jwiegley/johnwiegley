@@ -1,6 +1,6 @@
 ---
 title: Being in love
-category: Poems
+tags: poetry
 edited: 08/23/2005
 location: A bowling alley, Scottsdale, Arizona
 ---

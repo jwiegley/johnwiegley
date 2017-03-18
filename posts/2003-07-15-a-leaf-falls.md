@@ -1,6 +1,6 @@
 ---
 title: A leaf falls
-category: Poems
+tags: poetry
 edited: 03/22/2004
 location: Italy
 ---

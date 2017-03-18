@@ -1,6 +1,6 @@
 ---
 title: Affirmative mysticism
-category: Journal
+tags: journal
 ---
 
 The Sufi path (tariqat) in general seeks renunciation to achieve

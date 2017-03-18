@@ -1,6 +1,6 @@
 ---
 title: Insouciance
-category: Poems
+tags: poetry
 ---
 
     there are soft breezes blowing

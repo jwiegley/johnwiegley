@@ -1,6 +1,6 @@
 ---
 title: Have faith
-category: Poems
+tags: poetry
 ---
 
     Great is the mountain,

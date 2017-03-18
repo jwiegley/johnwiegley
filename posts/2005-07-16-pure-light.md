@@ -1,6 +1,6 @@
 ---
 title: Pure light
-category: Journal
+tags: journal
 ---
 
 A few times I've talked about God's being invisible, and that we know

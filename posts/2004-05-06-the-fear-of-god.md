@@ -1,6 +1,6 @@
 ---
 title: The Fear of God
-category: Essays
+tags: essays
 ---
 
 The clearest way I have ever understood the fear of God is this: Pain is

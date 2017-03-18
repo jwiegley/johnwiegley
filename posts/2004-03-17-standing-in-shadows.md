@@ -1,6 +1,6 @@
 ---
 title: Standing in shadows
-category: Poems
+tags: poetry
 ---
 
     I say: let them burn the Mona Lisa!

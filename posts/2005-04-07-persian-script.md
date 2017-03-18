@@ -1,6 +1,6 @@
 ---
 title: Persian script
-category: Poems
+tags: poetry
 edited: 04/19/2005
 location: Kerr Cultural Center, Scottsdale, Arizona
 ---

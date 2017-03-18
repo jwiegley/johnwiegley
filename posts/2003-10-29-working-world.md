@@ -1,6 +1,6 @@
 ---
 title: Working world
-category: Poems
+tags: poetry
 ---
 
     Liberate me from the woe,

@@ -1,6 +1,6 @@
 ---
 title: Common questions about the Seven Valleys
-category: Essays
+tags: essays
 ---
 
 Note: My answers to these questions are my own opinions, since none of

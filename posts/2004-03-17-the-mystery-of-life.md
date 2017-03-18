@@ -1,6 +1,6 @@
 ---
 title: The mystery of life
-category: Poems
+tags: poetry
 ---
 
     When this poem started,

@@ -1,6 +1,6 @@
 ---
 title: Personality test
-category: Journal
+tags: journal
 ---
 
 Out of interest, took the [Meyers-Briggs Personality Test](http://www.humanmetrics.com/cgi-win/JTypes2.asp) today.  I

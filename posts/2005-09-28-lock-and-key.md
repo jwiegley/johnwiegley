@@ -1,6 +1,6 @@
 ---
 title: Lock and key
-category: Poems
+tags: poetry
 edited: 10/01/2005
 location: Colorado Springs
 ---

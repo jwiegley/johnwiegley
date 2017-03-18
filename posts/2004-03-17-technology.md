@@ -1,6 +1,6 @@
 ---
 title: Technology
-category: Poems
+tags: poetry
 ---
 
     Where is the ode's cry,

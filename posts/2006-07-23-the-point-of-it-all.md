@@ -1,6 +1,6 @@
 ---
 title: The point of it all
-category: Journal
+tags: journal
 location: 239 Misty Creek Dr, Monument, CO
 ---
 

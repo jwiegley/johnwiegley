@@ -1,6 +1,6 @@
 ---
 title: Fertile ground
-category: Poems
+tags: poetry
 edited: 01/21/2005
 location: Coffee Exchange, Campbell & Grant, Tucson, AZ
 ---

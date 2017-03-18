@@ -1,6 +1,6 @@
 ---
 title: Images of Aptos, California
-category: Journal
+tags: journal
 ---
 
 A friend and I looked after a mutual friend's kids for a little while,

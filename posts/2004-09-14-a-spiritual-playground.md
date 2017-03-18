@@ -1,6 +1,6 @@
 ---
 title: A spiritual playground
-category: Journal
+tags: journal
 ---
 
 If the world around us is a living metaphor for the world of the spirit,

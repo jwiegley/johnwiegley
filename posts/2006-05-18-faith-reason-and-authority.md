@@ -1,6 +1,6 @@
 ---
 title: Faith, reason and authority
-category: Journal
+tags: journal
 location: Nasim's house, 239 Misty Creek Dr, Monument, CO
 ---
 

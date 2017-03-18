@@ -1,6 +1,6 @@
 ---
 title: Self reflection
-category: Poems
+tags: poetry
 location: Viva Italiano
 ---
 

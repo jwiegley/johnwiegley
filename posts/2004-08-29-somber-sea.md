@@ -1,6 +1,6 @@
 ---
 title: Somber sea
-category: Poems
+tags: poetry
 edited: 03/30/2006
 location: Starbucks, Daly City, off of John Daly Blvd.
 ---

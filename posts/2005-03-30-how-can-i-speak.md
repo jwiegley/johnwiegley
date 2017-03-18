@@ -1,6 +1,6 @@
 ---
 title: How can I speak
-category: Poems
+tags: poetry
 edited: 04/19/2005
 location: 7373 N. 71st Place, PV, AZ
 ---

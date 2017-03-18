@@ -1,6 +1,6 @@
 ---
 title: The beauty of existence
-category: Journal
+tags: journal
 ---
 
 The Sufis tell that when the nafs (self, or individual soul) is finally

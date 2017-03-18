@@ -1,6 +1,6 @@
 ---
 title: Writing haiku
-category: Poems
+tags: poetry
 ---
 
 The formula is simple: It follows a similar philosophy to the Chinese

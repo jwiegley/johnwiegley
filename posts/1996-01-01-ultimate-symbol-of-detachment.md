@@ -1,6 +1,6 @@
 ---
 title: Ultimate symbol of detachment
-category: Journal
+tags: journal
 ---
 
 That "la" in the phrase "La ilaha illa al-llah" is the ultimate symbol

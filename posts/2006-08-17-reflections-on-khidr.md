@@ -1,6 +1,6 @@
 ---
 title: Reflections on Khidr
-category: Journal
+tags: journal
 location: 239 Misty Creek Drive, Monument, CO, 80132
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: At midnight
-category: Poems
+tags: poetry
 ---
 
     There is peace upon the ocean:

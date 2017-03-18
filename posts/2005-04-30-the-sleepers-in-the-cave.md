@@ -1,6 +1,6 @@
 ---
 title: The Sleepers in the Cave
-category: Journal
+tags: journal
 ---
 
 There is a particular story in the Qur'án which until now has made no

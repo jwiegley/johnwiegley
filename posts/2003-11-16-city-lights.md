@@ -1,6 +1,6 @@
 ---
 title: City lights
-category: Poems
+tags: poetry
 ---
 
     The city is strung with lights,

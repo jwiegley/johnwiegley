@@ -1,6 +1,6 @@
 ---
 title: "Commentary: The soul of rebellion"
-category: Journal
+tags: journal
 ---
 
 Someone asked recently what the inspiration was behind the poem

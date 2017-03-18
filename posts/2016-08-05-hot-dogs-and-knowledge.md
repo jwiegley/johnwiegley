@@ -1,6 +1,6 @@
 ---
 title: Hot dogs and knowledge
-category: Journal
+tags: journal
 ---
 
 A quick analogy occurred to me concerning the different between Ilm and

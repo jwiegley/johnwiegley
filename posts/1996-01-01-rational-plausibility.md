@@ -1,6 +1,6 @@
 ---
 title: Rational plausibility
-category: Journal
+tags: journal
 ---
 
 Rational plausibility is a hermenuetical technique of interpreting

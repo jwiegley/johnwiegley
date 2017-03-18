@@ -1,6 +1,6 @@
 ---
 title: Hidden essences
-category: Journal
+tags: journal
 ---
 
 No one has known my soul; not even I.  Like a Platonic Form, it shies

@@ -1,6 +1,6 @@
 ---
 title: Duty and recognition
-category: Essays
+tags: essays
 ---
 
 What does it means to have a duty to recognize God's Messenger?

@@ -1,6 +1,6 @@
 ---
 title: Exploring the unknown
-category: Essays
+tags: essays
 ---
 
 Every set of laws describes a system.  The extent of each system -- all

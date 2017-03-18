@@ -1,6 +1,6 @@
 ---
 title: Afterwards
-category: Poems
+tags: poetry
 ---
 
     The pen and paper are for later.

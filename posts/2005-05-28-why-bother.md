@@ -1,6 +1,6 @@
 ---
 title: Why bother?
-category: Journal
+tags: journal
 ---
 
 When one climbs a mountaintop to watch the sunset, what is the object?

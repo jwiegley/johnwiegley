@@ -1,6 +1,6 @@
 ---
 title: Virginia autumn II
-category: Poems
+tags: poetry
 ---
 
     Virginia autumn, when leaves regale

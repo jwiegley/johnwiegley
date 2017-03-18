@@ -1,6 +1,6 @@
 ---
 title: Sitting with the Friend
-category: Journal
+tags: journal
 ---
 
 As I ponder about God and existence, it becomes harder and harder to

@@ -1,6 +1,6 @@
 ---
 title: The power of love
-category: Journal
+tags: journal
 ---
 
 The supreme motivating force in creation is Love.  It is the only truly

@@ -1,6 +1,6 @@
 ---
 title: Grandfather clock
-category: Poems
+tags: poetry
 ---
 
     She's only six, and the tension is terrible;

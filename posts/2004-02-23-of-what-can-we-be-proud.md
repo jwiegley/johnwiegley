@@ -1,6 +1,6 @@
 ---
 title: Of what can we be proud?
-category: Journal
+tags: journal
 ---
 
 After all these thoughts on ego, I ask myself: Of what can a man be

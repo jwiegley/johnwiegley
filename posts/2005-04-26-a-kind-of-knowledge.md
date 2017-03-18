@@ -1,6 +1,6 @@
 ---
 title: A kind of knowledge
-category: Poems
+tags: poetry
 edited: 05/03/2005
 location: Barnes & Noble, Shea Blvd, Scottsdale, AZ
 ---

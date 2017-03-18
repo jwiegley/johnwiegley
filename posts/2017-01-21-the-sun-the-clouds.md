@@ -1,6 +1,6 @@
 ---
 title: The sun, the clouds
-category: Poems
+tags: poetry
 ---
 
     Do the clouds have any power

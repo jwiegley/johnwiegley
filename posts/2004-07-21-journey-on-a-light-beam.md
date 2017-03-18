@@ -1,6 +1,6 @@
 ---
 title: Journey on a light beam
-category: Journal
+tags: journal
 ---
 
 The physical world is composed of energy, which began as an

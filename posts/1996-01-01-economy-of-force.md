@@ -1,6 +1,6 @@
 ---
 title: Economy of force
-category: Journal
+tags: journal
 ---
 
 The Chinese classic reads "use four ounces to deflect a thousand

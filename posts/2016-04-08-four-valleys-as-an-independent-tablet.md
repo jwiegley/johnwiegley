@@ -1,6 +1,6 @@
 ---
 title: Four Valleys as an independent tablet
-category: Journal
+tags: journal
 ---
 
 As I read the Four Valleys, it gives me the impression that, like the

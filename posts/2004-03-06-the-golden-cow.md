@@ -1,6 +1,6 @@
 ---
 title: The Golden Cow
-category: Stories
+tags: stories
 ---
 
 How could I know the boat would rock so softly?  The motion of it became

@@ -1,6 +1,6 @@
 ---
 title: The mind duel
-category: Poems
+tags: poetry
 ---
 
     We all struggle with the mind duel,

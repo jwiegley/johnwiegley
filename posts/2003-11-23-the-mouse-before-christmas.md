@@ -1,6 +1,6 @@
 ---
 title: The Mouse Before Christmas
-category: Poems
+tags: poetry
 edited: 04/15/2005
 location: Weseloh Honda, Mission Viejo, CA
 ---

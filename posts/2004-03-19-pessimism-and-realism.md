@@ -1,6 +1,6 @@
 ---
 title: Pessimism and realism
-category: Journal
+tags: journal
 ---
 
 Idealism and realism are different in concept from that between

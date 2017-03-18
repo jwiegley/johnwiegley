@@ -1,6 +1,6 @@
 ---
 title: The long journey
-category: Poems
+tags: poetry
 location: Nasim's house in Monument, CO
 ---
 

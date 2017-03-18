@@ -1,6 +1,6 @@
 ---
 title: Far away blue
-category: Poems
+tags: poetry
 ---
 
     Far-away blue

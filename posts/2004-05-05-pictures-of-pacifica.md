@@ -1,6 +1,6 @@
 ---
 title: Pictures of Pacifica
-category: Journal
+tags: journal
 ---
 
 Finally! I can show some images of my home town, Pacifica, California

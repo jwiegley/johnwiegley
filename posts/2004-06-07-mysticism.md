@@ -1,6 +1,6 @@
 ---
 title: Mysticism
-category: Journal
+tags: journal
 ---
 
 All knowledge furthers the development of vision.  If one study

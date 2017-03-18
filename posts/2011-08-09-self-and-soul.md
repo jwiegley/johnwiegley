@@ -1,6 +1,6 @@
 ---
 title: Self and soul
-category: Journal
+tags: journal
 ---
 
 The following are just some thoughts on the different natures of self and

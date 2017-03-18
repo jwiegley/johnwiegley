@@ -1,6 +1,6 @@
 ---
 title: An absence of Freedom
-category: Journal
+tags: journal
 ---
 
 I live in a part of the world where I can mostly take freedom for granted.

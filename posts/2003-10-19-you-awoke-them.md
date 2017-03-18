@@ -1,6 +1,6 @@
 ---
 title: You awoke them
-category: Poems
+tags: poetry
 edited: 11/12/2003
 location: Guest room in the Rhodes' house, 312 Palmer Ave
 ---

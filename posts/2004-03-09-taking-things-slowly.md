@@ -1,6 +1,6 @@
 ---
 title: Taking things slowly
-category: Journal
+tags: journal
 ---
 
 There is an exercise I've been working on for the past week, which has

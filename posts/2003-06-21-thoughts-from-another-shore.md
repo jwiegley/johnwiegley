@@ -1,6 +1,6 @@
 ---
 title: Thoughts from another shore
-category: Journal
+tags: journal
 ---
 
 I am at the exit of the Parc Guëll now (paark-goo way), a park designed

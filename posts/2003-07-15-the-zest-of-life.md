@@ -1,6 +1,6 @@
 ---
 title: The zest of life
-category: Essays
+tags: essays
 edited: 03/22/2004
 location: Italy
 ---

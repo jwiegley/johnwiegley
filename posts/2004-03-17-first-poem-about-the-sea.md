@@ -1,6 +1,6 @@
 ---
 title: First poem about the sea
-category: Poems
+tags: poetry
 ---
 
     If I speak to you of the sea,

@@ -1,6 +1,6 @@
 ---
 title: The Unknown
-category: Journal
+tags: journal
 ---
 
 Every Wednesday I meet up with my friend Chris at a local cafe, and we

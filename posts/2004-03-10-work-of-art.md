@@ -1,6 +1,6 @@
 ---
 title: Work of art
-category: Poems
+tags: poetry
 ---
 
     I fall in love,

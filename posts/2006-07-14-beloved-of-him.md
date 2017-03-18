@@ -1,6 +1,6 @@
 ---
 title: Beloved of Him
-category: Journal
+tags: journal
 location: 239 Misty Creek Dr, Monument, CO
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: After watching the news
-category: Poems
+tags: poetry
 ---
 
     Power often changes hands,

@@ -1,6 +1,6 @@
 ---
 title: Sleep calls to me
-category: Poems
+tags: poetry
 edited: 11/07/2003
 location: Guest room in the Rhodes' house, 312 Palmer Ave
 ---

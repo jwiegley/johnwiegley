@@ -1,6 +1,6 @@
 ---
 title: Unwritable
-category: Poems
+tags: poetry
 ---
 
     A pen-painted picture

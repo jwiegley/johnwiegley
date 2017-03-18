@@ -1,6 +1,6 @@
 ---
 title: The Cause of Joy
-category: Journal
+tags: journal
 ---
 
 I have heard a sentiment from many people over the years which I would

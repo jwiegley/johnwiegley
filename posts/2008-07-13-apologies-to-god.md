@@ -1,6 +1,6 @@
 ---
 title: Apologies to God
-category: Journal
+tags: journal
 ---
 
 Dear God,

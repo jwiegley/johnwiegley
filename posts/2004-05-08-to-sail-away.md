@@ -1,6 +1,6 @@
 ---
 title: To sail away
-category: Poems
+tags: poetry
 edited: 09/13/2004
 location: 380 Esplanade #211
 ---

@@ -1,6 +1,6 @@
 ---
 title: The beginning and the end
-category: Essays
+tags: essays
 ---
 
 There is a recurring theme in the Writings, both Islamic and Bahá'í, of four

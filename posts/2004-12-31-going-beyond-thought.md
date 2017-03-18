@@ -1,6 +1,6 @@
 ---
 title: Going beyond thought
-category: Journal
+tags: journal
 ---
 
 We experience a reality which so far appears unlimited both in its depth

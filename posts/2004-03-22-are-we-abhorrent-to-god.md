@@ -1,6 +1,6 @@
 ---
 title: Are we abhorrent to God?
-category: Essays
+tags: essays
 ---
 
     Nay!  When the earth is pounded to powder,

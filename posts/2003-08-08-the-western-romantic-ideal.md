@@ -1,6 +1,6 @@
 ---
 title: The Western Romantic Ideal
-category: Essays
+tags: essays
 ---
 
 Men and women seem to believe -- according to the romanticized ideal of

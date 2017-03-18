@@ -1,6 +1,6 @@
 ---
 title: Nightfall at the lighthouse
-category: Poems
+tags: poetry
 ---
 
     The sun's light grows cold;

@@ -1,6 +1,6 @@
 ---
 title: Falling rain
-category: Poems
+tags: poetry
 location: 27342 Via Burgos, Mission Viejo, CA
 ---
 

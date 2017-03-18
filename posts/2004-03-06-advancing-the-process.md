@@ -1,6 +1,6 @@
 ---
 title: Advancing the process
-category: Essays
+tags: essays
 ---
 
 The following analogy looks at the relationship between effort and

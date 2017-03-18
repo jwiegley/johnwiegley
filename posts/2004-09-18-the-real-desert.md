@@ -1,6 +1,6 @@
 ---
 title: The real desert
-category: Poems
+tags: poetry
 location: Norikonoko, Telegraph Road, Berkeley, CA
 ---
 

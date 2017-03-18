@@ -1,6 +1,6 @@
 ---
 title: The mountains are also clouds
-category: Journal
+tags: journal
 ---
 
 On the idea of forms existing only through our perception of time, I

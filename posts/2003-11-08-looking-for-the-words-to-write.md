@@ -1,6 +1,6 @@
 ---
 title: Looking for the words to write
-category: Poems
+tags: poetry
 ---
 
     Today they have all left me:

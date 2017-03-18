@@ -1,6 +1,6 @@
 ---
 title: The soul knows
-category: Poems
+tags: poetry
 ---
 
     What the soul knows cannot be said --

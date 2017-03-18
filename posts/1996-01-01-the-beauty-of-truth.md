@@ -1,6 +1,6 @@
 ---
 title: The beauty of truth
-category: Journal
+tags: journal
 ---
 
 The beauty of truth is neither tawdry, nor specious.  In fact, in the

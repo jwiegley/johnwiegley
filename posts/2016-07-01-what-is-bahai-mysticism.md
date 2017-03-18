@@ -1,6 +1,6 @@
 ---
 title: What is Bahá’í mysticism?
-category: Essays
+tags: essays
 ---
 
 The word "mysticism" has taken on various meanings throughout history, as have

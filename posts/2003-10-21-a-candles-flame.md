@@ -1,6 +1,6 @@
 ---
 title: A candle's flame
-category: Poems
+tags: poetry
 ---
 
     The darker the evening, the warmer its light --

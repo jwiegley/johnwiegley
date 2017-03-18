@@ -1,6 +1,6 @@
 ---
 title: Transcending suffering
-category: Journal
+tags: journal
 ---
 
 The spiritual world "bestows only the joy"; suffering comes from this

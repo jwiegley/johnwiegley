@@ -1,6 +1,6 @@
 ---
 title: The mysteries of grace
-category: Poems
+tags: poetry
 ---
 
     Two men prayed to God:

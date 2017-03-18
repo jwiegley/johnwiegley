@@ -1,6 +1,6 @@
 ---
 title: Being together
-category: Poems
+tags: poetry
 location: Diedrich's Coffee, Marguerite, Mission Viejo, CA
 ---
 

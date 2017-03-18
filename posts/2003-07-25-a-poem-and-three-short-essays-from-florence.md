@@ -1,6 +1,6 @@
 ---
 title: A poem and three short essays from Florence
-category: Journal
+tags: journal
 ---
 
 Seeing people walk through the Uffizi:

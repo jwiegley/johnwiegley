@@ -1,6 +1,6 @@
 ---
 title: My life is my life
-category: Poems
+tags: poetry
 ---
 
     They wonder why I need to be free from the world,

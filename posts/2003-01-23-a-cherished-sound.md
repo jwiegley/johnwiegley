@@ -1,6 +1,6 @@
 ---
 title: A cherished sound
-category: Poems
+tags: poetry
 edited: 08/20/2004
 location: 380 Esplanade #211
 ---

@@ -1,6 +1,6 @@
 ---
 title: A precious bestowal
-category: Essays
+tags: essays
 ---
 
 "All that is in heaven and earth I have ordained for thee, except the human

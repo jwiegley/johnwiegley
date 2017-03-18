@@ -1,6 +1,6 @@
 ---
 title: A chalice filled
-category: Poems
+tags: poetry
 location: Sina's apartment in NYC, 512 Seminary Row, Manhatten
 ---
 

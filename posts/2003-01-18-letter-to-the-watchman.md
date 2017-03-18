@@ -1,6 +1,6 @@
 ---
 title: Letter to the Watchman
-category: Poems
+tags: poetry
 edited: 02/11/2004
 location: 380 Esplanade
 ---

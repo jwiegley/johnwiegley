@@ -1,6 +1,6 @@
 ---
 title: No knowledge
-category: Poems
+tags: poetry
 ---
 
     Sufficient knowledge has lead to me to a place of no knowledge.

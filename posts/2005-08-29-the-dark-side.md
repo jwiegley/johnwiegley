@@ -1,6 +1,6 @@
 ---
 title: The dark side
-category: Journal
+tags: journal
 ---
 
 The past few months I have been working on a theory of personality to

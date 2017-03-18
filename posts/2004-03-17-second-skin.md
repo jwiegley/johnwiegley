@@ -1,6 +1,6 @@
 ---
 title: Second skin
-category: Poems
+tags: poetry
 ---
 
     Even as mystery is an air

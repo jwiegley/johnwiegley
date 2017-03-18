@@ -1,6 +1,6 @@
 ---
 title: Absorption in the Deity
-category: Journal
+tags: journal
 ---
 
 I do not know if the concept of "annihilation" (or, nothingness) expressed

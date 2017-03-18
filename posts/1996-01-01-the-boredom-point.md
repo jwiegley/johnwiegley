@@ -1,6 +1,6 @@
 ---
 title: The boredom point
-category: Journal
+tags: journal
 ---
 
 I seems to be facing a block which I cannot get past.  By its feeling, I

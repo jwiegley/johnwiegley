@@ -1,6 +1,6 @@
 ---
 title: A Mystic is...
-category: Poems
+tags: poetry
 edited: 03/16/2004
 location: 380 Esplanade Ave #211
 ---

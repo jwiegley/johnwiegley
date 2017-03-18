@@ -1,6 +1,6 @@
 ---
 title: Strange feeling of excitement
-category: Journal
+tags: journal
 ---
 
 This morning I was awoken by a strange phenomenon.  At around 9:30am, I

@@ -1,6 +1,6 @@
 ---
 title: The melding
-category: Poems
+tags: poetry
 ---
 
     Looking at a blank sheet

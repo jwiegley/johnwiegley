@@ -1,6 +1,6 @@
 ---
 title: Waiting II
-category: Poems
+tags: poetry
 ---
 
     Life hammers its minute nails

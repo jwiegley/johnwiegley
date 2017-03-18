@@ -1,6 +1,6 @@
 ---
 title: At a park in Watsonville
-category: Poems
+tags: poetry
 ---
 
     Don Juan Matus!

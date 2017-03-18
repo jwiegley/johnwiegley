@@ -1,6 +1,6 @@
 ---
 title: A Cup for the Rain
-category: Stories
+tags: stories
 ---
 
 I don't remember how we came to be in that place, gathered beneath that

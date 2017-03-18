@@ -1,6 +1,6 @@
 ---
 title: Finding a new sword
-category: Journal
+tags: journal
 ---
 
 I love to play fantasy adventure games on my laptop, especially right

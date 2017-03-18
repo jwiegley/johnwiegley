@@ -1,6 +1,6 @@
 ---
 title: Analogies of relationship
-category: Essays
+tags: essays
 ---
 
 There are many analogies which have been used to portray the soul's

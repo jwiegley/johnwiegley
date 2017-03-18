@@ -1,6 +1,6 @@
 ---
 title: From San Diego
-category: Journal
+tags: journal
 ---
 
 I'm typing now from a coffee shop in San Diego, visiting with a computer

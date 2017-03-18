@@ -1,6 +1,6 @@
 ---
 title: The concept of self and the Kitáb-i-Íqán
-category: Essays
+tags: essays
 ---
 
 The word "self" is used in different contexts in the Bahá'í Writings.

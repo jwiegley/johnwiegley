@@ -1,6 +1,6 @@
 ---
 title: "Movie: *What the #$?! do we (k)now?*"
-category: Journal
+tags: journal
 ---
 
 This movie was playing in an arts theater in Tempe, Arizona.  A girl in

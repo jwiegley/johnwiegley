@@ -1,6 +1,6 @@
 ---
 title: To be raazi
-category: Journal
+tags: journal
 ---
 
 In Arabic there is a word which means: accepting, contented, pleased

@@ -1,6 +1,6 @@
 ---
 title: Becoming nothing
-category: Poems
+tags: poetry
 ---
 
     The longing of a lover's eyes,

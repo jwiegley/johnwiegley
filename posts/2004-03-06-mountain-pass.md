@@ -1,6 +1,6 @@
 ---
 title: Mountain Pass
-category: Stories
+tags: stories
 ---
 
 It was a strange day when the man rode in.  He wore leather boots of a

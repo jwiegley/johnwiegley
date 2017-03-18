@@ -1,6 +1,6 @@
 ---
 title: Land of dreams
-category: Poems
+tags: poetry
 ---
 
     Leave me to sleep

@@ -1,6 +1,6 @@
 ---
 title: Her name means "thoughtful"
-category: Poems
+tags: poetry
 ---
 
     How much do we ponder

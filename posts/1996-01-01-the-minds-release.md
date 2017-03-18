@@ -1,6 +1,6 @@
 ---
 title: The mind's release
-category: Journal
+tags: journal
 ---
 
 When, through meditation, the mind has a release from the conscious

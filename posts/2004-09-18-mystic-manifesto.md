@@ -1,6 +1,6 @@
 ---
 title: Mystic Manifesto
-category: Poems
+tags: poetry
 edited: 04/10/2005
 location: 380 Esplanade #211, Pacifica, CA
 ---

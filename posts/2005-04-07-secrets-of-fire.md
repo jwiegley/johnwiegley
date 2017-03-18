@@ -1,6 +1,6 @@
 ---
 title: Secrets of fire
-category: Poems
+tags: poetry
 location: Chocolate Iguana, Tucson, Arizona
 ---
 

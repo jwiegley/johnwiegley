@@ -1,6 +1,6 @@
 ---
 title: The love of poetry
-category: Poems
+tags: poetry
 ---
 
     Forgive me if my words aren't to your liking,

@@ -1,6 +1,6 @@
 ---
 title: Poem to the Sea
-category: Poems
+tags: poetry
 location: 380 Esplanade
 ---
 

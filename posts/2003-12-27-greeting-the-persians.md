@@ -1,6 +1,6 @@
 ---
 title: Greeting the Persians
-category: Journal
+tags: journal
 ---
 
 Yesterday and today were spent serving at the Grand Canyon Bahá'í

@@ -1,6 +1,6 @@
 ---
 title: The Ride of Zan Shin
-category: Stories
+tags: stories
 ---
 
 With his hair waving in the wind, Zan Shin laughed.  His beautiful hair

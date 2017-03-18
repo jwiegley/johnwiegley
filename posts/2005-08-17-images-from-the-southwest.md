@@ -1,6 +1,6 @@
 ---
 title: Images from the Southwest
-category: Journal
+tags: journal
 ---
 
 Starting from south of Phoenix, this month I went to Albuquerque, then

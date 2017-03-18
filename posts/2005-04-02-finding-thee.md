@@ -1,6 +1,6 @@
 ---
 title: Finding Thee
-category: Poems
+tags: poetry
 location: La Borgata, Paradise Valley, Arizona
 ---
 

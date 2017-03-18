@@ -1,6 +1,6 @@
 ---
 title: Italian skies are also blue
-category: Journal
+tags: journal
 ---
 
 A poem with a very special place in my history, because it is the first

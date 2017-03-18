@@ -1,6 +1,6 @@
 ---
 title: Original valley of knowledge
-category: Journal
+tags: journal
 ---
 
 *The Conference of the Birds* is a story of thirty birds who are all seeking

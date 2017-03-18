@@ -1,6 +1,6 @@
 ---
 title: Moving mountains
-category: Poems
+tags: poetry
 ---
 
     One drop of water holds a grain;

@@ -1,6 +1,6 @@
 ---
 title: Striving for sorrow?
-category: Journal
+tags: journal
 ---
 
 I have been paying attention recently to people's "life ethic", or the

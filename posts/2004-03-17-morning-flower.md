@@ -1,6 +1,6 @@
 ---
 title: Morning flower
-category: Poems
+tags: poetry
 ---
 
     At dawn she reclined in thought,

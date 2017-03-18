@@ -1,6 +1,6 @@
 ---
 title: All things
-category: Poems
+tags: poetry
 ---
 
     When tasting a bitter cup,

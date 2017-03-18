@@ -1,6 +1,6 @@
 ---
 title: Beliefs and desire
-category: Journal
+tags: journal
 ---
 
 A quiet day, just spent at home writing programs, eating at the Chinese

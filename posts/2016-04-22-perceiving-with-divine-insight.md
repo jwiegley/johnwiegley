@@ -1,6 +1,6 @@
 ---
 title: Perceiving with divine insight
-category: Journal
+tags: journal
 ---
 
 In the Seven Valleys, each Valley depicts a different world-view.  Bahá'u'lláh

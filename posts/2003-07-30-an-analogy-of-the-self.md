@@ -1,6 +1,6 @@
 ---
 title: An analogy of the self
-category: Journal
+tags: journal
 ---
 
 An analogy of the self, described as a racing car:

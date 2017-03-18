@@ -1,6 +1,6 @@
 ---
 title: Wandering II
-category: Poems
+tags: poetry
 edited: 11/30/2005
 location: 380 Esplanade Ave #211
 ---

@@ -1,6 +1,6 @@
 ---
 title: A beloved insanity
-category: Poems
+tags: poetry
 location: 9700 Calle Loma Linda, Tucson, AZ
 ---
 

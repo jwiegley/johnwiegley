@@ -1,6 +1,6 @@
 ---
 title: Don't wait too long
-category: Poems
+tags: poetry
 ---
 
     Perhaps, before my tears dry?

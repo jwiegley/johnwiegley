@@ -1,6 +1,6 @@
 ---
 title: The world soul
-category: Journal
+tags: journal
 ---
 
 In the [entry on detachment](detachment), the essential split was between reality and

@@ -1,6 +1,6 @@
 ---
 title: Religion and Ethics
-category: Essays
+tags: essays
 ---
 
 > ... it is the relationship of the individual soul to God and the

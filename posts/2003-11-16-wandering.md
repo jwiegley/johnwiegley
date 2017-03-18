@@ -1,6 +1,6 @@
 ---
 title: Wandering
-category: Poems
+tags: poetry
 ---
 
     My soul walks on and on,

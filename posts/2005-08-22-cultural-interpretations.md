@@ -1,6 +1,6 @@
 ---
 title: Cultural interpretations
-category: Journal
+tags: journal
 ---
 
 While reading further in one of my favorite books today, *Decline and

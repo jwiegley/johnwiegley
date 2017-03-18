@@ -1,6 +1,6 @@
 ---
 title: Step outside
-category: Poems
+tags: poetry
 edited: 04/10/2004
 location: Italy
 ---

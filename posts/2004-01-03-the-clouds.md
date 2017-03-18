@@ -1,6 +1,6 @@
 ---
 title: The clouds
-category: Poems
+tags: poetry
 edited: 06/07/2005
 location: El Conquistador hotel, at Dave and Halleh's wedding
 ---

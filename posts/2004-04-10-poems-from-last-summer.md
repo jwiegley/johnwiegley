@@ -1,6 +1,6 @@
 ---
 title: Poems from last summer
-category: Journal
+tags: journal
 ---
 
 In the poetry section of this site there is now a compilation of all the

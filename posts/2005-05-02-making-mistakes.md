@@ -1,6 +1,6 @@
 ---
 title: Making mistakes
-category: Journal
+tags: journal
 ---
 
 As I live, I continue to make mistakes, too often to count.  But what is

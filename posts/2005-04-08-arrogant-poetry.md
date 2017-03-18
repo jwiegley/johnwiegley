@@ -1,6 +1,6 @@
 ---
 title: Arrogant poetry
-category: Journal
+tags: journal
 ---
 
 A friend and I sat down today to make a mystical exercise out of writing

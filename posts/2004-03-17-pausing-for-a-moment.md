@@ -1,6 +1,6 @@
 ---
 title: Pausing for a moment
-category: Poems
+tags: poetry
 ---
 
     All I would need is to hang like a fish

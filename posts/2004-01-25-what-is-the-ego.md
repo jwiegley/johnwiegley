@@ -1,6 +1,6 @@
 ---
 title: What is the ego?
-category: Journal
+tags: journal
 ---
 
 Shooting from the hip, but: Our ego is how define ourselves, which must

@@ -1,6 +1,6 @@
 ---
 title: Examining religion
-category: Journal
+tags: journal
 ---
 
 Can religion really satisfy human needs?  Hasn't it been the product of

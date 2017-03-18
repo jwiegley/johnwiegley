@@ -1,6 +1,6 @@
 ---
 title: Finding the path
-category: Poems
+tags: poetry
 ---
 
     Leave me alone --

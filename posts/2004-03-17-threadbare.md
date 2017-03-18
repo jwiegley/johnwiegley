@@ -1,6 +1,6 @@
 ---
 title: Threadbare
-category: Poems
+tags: poetry
 ---
 
     My connection to the world

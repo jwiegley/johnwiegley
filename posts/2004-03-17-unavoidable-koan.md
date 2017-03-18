@@ -1,6 +1,6 @@
 ---
 title: Unavoidable koan
-category: Poems
+tags: poetry
 ---
 
     In a dream, I imagine I've lost my arm.

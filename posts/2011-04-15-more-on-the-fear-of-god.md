@@ -1,6 +1,6 @@
 ---
 title: More on the Fear of God
-category: Journal
+tags: journal
 ---
 
 I'm not sure if you've ever done any sailing, or forging of metal, or shooting

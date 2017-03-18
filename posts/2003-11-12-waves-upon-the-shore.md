@@ -1,6 +1,6 @@
 ---
 title: Waves upon the shore
-category: Poems
+tags: poetry
 ---
 
     Into the receding dark, we each must slip away.

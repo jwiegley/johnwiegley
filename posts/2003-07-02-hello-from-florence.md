@@ -1,6 +1,6 @@
 ---
 title: Hello from Florence!
-category: Journal
+tags: journal
 ---
 
 This e-mail begins back in Sitges, where we last left off...

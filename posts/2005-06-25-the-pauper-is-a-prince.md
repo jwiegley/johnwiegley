@@ -1,6 +1,6 @@
 ---
 title: The pauper is a prince
-category: Journal
+tags: journal
 ---
 
 When I came out of the movie theater a couple of days ago, the sky was

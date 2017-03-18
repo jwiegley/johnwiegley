@@ -1,6 +1,6 @@
 ---
 title: Multilinearity and Free Will
-category: Essays
+tags: essays
 ---
 
 The problem of free will concerns the domain of humanity's possible

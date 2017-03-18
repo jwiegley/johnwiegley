@@ -1,6 +1,6 @@
 ---
 title: Programming
-category: Poems
+tags: poetry
 ---
 
     Silently I peer into my computer,

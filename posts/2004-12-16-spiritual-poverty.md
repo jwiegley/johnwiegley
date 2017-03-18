@@ -1,6 +1,6 @@
 ---
 title: Spiritual poverty
-category: Journal
+tags: journal
 ---
 
 In the mystic literature I have encountered a theme which I think of as

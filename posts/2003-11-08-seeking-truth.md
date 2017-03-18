@@ -1,6 +1,6 @@
 ---
 title: Seeking truth
-category: Poems
+tags: poetry
 ---
 
     Seek truth where it may be found:

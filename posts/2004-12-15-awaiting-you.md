@@ -1,6 +1,6 @@
 ---
 title: Awaiting you
-category: Poems
+tags: poetry
 location: Sina's House, Tucson, AZ
 ---
 

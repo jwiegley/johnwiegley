@@ -1,6 +1,6 @@
 ---
 title: Doves who cry
-category: Poems
+tags: poetry
 ---
 
     There are doves who cry

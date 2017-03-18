@@ -1,6 +1,6 @@
 ---
 title: Like clouds
-category: Poems
+tags: poetry
 ---
 
     Ideas should be like clouds:

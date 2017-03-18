@@ -1,6 +1,6 @@
 ---
 title: Black and white
-category: Essays
+tags: essays
 ---
 
 People say that life is not black and white, but is made up of varying

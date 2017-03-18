@@ -1,6 +1,6 @@
 ---
 title: Significance of morality
-category: Journal
+tags: journal
 ---
 
 Why morality may be significant: In life there seem to be two essential

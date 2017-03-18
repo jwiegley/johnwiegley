@@ -1,6 +1,6 @@
 ---
 title: The reality of everyday existence
-category: Journal
+tags: journal
 ---
 
 I am starting to doubt the "reality" of our conscious, everyday,

@@ -1,6 +1,6 @@
 ---
 title: The many and the one
-category: Journal
+tags: journal
 ---
 
 Alan Watts, in his book [The Wisdom of Insecurity](http://www.amazon.com/exec/obidos/tg/detail/-/0394704681/qid=1093753840/sr=8-1/ref=sr_8_xs_ap_i1_xgl14/102-6635401-8402514?v=glance&s=books&n=507846), wrote:

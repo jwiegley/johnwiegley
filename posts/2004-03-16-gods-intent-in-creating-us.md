@@ -1,6 +1,6 @@
 ---
 title: God's intent in creating us
-category: Essays
+tags: essays
 ---
 
 Someone on soc.religion.bahai wrote: "It doesn't make sense to me that

@@ -1,6 +1,6 @@
 ---
 title: The Moth King
-category: Poems
+tags: poetry
 location: Chocolate Iguana, Tucson, Arizona
 ---
 

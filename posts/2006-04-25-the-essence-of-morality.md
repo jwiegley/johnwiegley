@@ -1,6 +1,6 @@
 ---
 title: The essence of morality
-category: Journal
+tags: journal
 location: 90 Watch Hill Drive Apt B, Colorado Springs, 80906
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The distorting effects of time
-category: Essays
+tags: essays
 ---
 
 Time can play funny tricks when we look at the world.  Seen today, it is

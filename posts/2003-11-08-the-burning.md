@@ -1,6 +1,6 @@
 ---
 title: The burning
-category: Poems
+tags: poetry
 ---
 
     What do I learn

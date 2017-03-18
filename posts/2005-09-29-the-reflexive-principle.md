@@ -1,6 +1,6 @@
 ---
 title: The reflexive principle
-category: Journal
+tags: journal
 ---
 
 An idea I've been working with in my spiritual pursuits lately is

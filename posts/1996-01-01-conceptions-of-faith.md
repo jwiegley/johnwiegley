@@ -1,6 +1,6 @@
 ---
 title: Conceptions of faith
-category: Journal
+tags: journal
 ---
 
 It seems so awfully strange, that we should be bound to agree with the

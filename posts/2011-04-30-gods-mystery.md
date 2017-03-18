@@ -1,6 +1,6 @@
 ---
 title: God's mystery
-category: Journal
+tags: journal
 ---
 
 When we look at the world, we notice many qualities in varying degree, such as

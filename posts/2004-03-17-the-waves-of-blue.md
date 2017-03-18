@@ -1,6 +1,6 @@
 ---
 title: The waves of blue
-category: Poems
+tags: poetry
 ---
 
     Remind me of that time

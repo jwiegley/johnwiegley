@@ -1,6 +1,6 @@
 ---
 title: Love is a Veil
-category: Essays
+tags: essays
 ---
 
 > Love is a veil betwixt the lover and the beloved.[^1]

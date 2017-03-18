@@ -1,6 +1,6 @@
 ---
 title: Podcasting experiment
-category: Journal
+tags: journal
 ---
 
 [Podcasting](http://en.wikipedia.org/wiki/Podcasting) is a means for broadcasting audio content through a medium

@@ -1,6 +1,6 @@
 ---
 title: The stages of chess mastery
-category: Journal
+tags: journal
 ---
 
 # The reactionary player

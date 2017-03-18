@@ -1,6 +1,6 @@
 ---
 title: Thoughts on homosexual acts
-category: Essays
+tags: essays
 ---
 
 We know for certain the Bahá'í Faith disallows homosexual copulation.

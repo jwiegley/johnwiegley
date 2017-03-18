@@ -1,6 +1,6 @@
 ---
 title: Meditation on God's love
-category: Journal
+tags: journal
 ---
 
 One of my very dear friends moved to this country a few years ago and

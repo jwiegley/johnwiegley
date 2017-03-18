@@ -1,6 +1,6 @@
 ---
 title: The love of God
-category: Journal
+tags: journal
 ---
 
 A long drive today (nine hours).  And a discovery: In the past year or

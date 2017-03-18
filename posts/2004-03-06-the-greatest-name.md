@@ -1,6 +1,6 @@
 ---
 title: The Greatest Name
-category: Essays
+tags: essays
 ---
 
 > Glory be unto Thee, O Lord of the world and Desire of the nations, O

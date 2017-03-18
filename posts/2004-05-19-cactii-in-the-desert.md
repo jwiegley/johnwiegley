@@ -1,6 +1,6 @@
 ---
 title: Cactii in the Desert
-category: Journal
+tags: journal
 ---
 
 These past two weeks I have been traveling between California and

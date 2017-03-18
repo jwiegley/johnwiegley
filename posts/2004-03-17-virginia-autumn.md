@@ -1,6 +1,6 @@
 ---
 title: Virginia autumn
-category: Poems
+tags: poetry
 ---
 
     The wind... the wind...

@@ -1,6 +1,6 @@
 ---
 title: Feel of the midnight wind
-category: Poems
+tags: poetry
 edited: 04/09/2005
 location: Food court, Laguna Hills mall
 ---

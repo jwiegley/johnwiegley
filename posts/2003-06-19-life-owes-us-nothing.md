@@ -1,6 +1,6 @@
 ---
 title: Life owes us nothing
-category: Journal
+tags: journal
 ---
 
 One of the major themes of recent thought has been the idea that life

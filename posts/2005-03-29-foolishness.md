@@ -1,6 +1,6 @@
 ---
 title: Foolishness
-category: Poems
+tags: poetry
 edited: 04/16/2005
 location: 7373 N. 71st Place, Paradise Valley, Arizona
 ---

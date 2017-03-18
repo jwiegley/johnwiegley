@@ -1,6 +1,6 @@
 ---
 title: Lethology
-category: Stories
+tags: stories
 ---
 
 Now what was I going to tell you?

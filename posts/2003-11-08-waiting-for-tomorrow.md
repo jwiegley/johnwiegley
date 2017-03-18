@@ -1,6 +1,6 @@
 ---
 title: Waiting for tomorrow
-category: Poems
+tags: poetry
 ---
 
     I lost myself to tomorrow.

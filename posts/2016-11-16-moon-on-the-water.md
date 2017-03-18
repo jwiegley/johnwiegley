@@ -1,6 +1,6 @@
 ---
 title: Moon on the water
-category: Poems
+tags: poetry
 ---
 
     moon on the water

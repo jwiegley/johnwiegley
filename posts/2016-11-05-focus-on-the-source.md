@@ -1,6 +1,6 @@
 ---
 title: Focus on the Source
-category: Journal
+tags: journal
 ---
 
 The mountain in front of you can be conquered step by step. Connect with

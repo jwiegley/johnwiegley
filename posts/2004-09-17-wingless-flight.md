@@ -1,6 +1,6 @@
 ---
 title: Wingless flight
-category: Poems
+tags: poetry
 edited: 11/10/2004
 location: 380 Esplanade #211
 ---

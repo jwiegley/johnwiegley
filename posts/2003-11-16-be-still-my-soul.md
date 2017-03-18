@@ -1,6 +1,6 @@
 ---
 title: Be still my soul
-category: Poems
+tags: poetry
 ---
 
     Nighttime -- a quiet footstep.

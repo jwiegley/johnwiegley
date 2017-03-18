@@ -1,6 +1,6 @@
 ---
 title: Days like diamonds
-category: Poems
+tags: poetry
 location: 90 Watch Hill Drive Apt B, Colorado Springs, 80906
 ---
 

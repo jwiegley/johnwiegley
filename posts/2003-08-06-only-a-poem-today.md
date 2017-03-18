@@ -1,6 +1,6 @@
 ---
 title: Only a poem today
-category: Journal
+tags: journal
 ---
 
 After this, I will send only if something really beautiful comes up.  If

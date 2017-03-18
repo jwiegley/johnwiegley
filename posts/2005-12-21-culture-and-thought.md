@@ -1,6 +1,6 @@
 ---
 title: Culture and thought
-category: Journal
+tags: journal
 ---
 
 Lately I have been thinking a lot about culture and how our cultural

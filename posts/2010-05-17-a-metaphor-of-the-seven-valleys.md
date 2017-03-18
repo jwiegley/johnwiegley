@@ -1,6 +1,6 @@
 ---
 title: A metaphor of the Seven Valleys
-category: Journal
+tags: journal
 ---
 
 In some ways, the story of the Seven Valleys closely parallels that of human romance.

@@ -1,6 +1,6 @@
 ---
 title: Thoughts on humility
-category: Journal
+tags: journal
 ---
 
 # Being humble

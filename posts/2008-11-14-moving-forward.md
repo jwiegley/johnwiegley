@@ -1,6 +1,6 @@
 ---
 title: Moving forward
-category: Journal
+tags: journal
 ---
 
 It strikes me how earnestly many of us strive for ultimate acceptance.  I see

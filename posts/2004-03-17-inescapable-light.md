@@ -1,6 +1,6 @@
 ---
 title: Inescapable light
-category: Poems
+tags: poetry
 ---
 
     Each drop of light

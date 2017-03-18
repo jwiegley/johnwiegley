@@ -1,6 +1,6 @@
 ---
 title: The hidden door
-category: Journal
+tags: journal
 ---
 
 [Today's entry is a re-post of something I posted in 2004, but that was

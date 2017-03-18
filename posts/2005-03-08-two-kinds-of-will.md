@@ -1,6 +1,6 @@
 ---
 title: Two kinds of will
-category: Journal
+tags: journal
 ---
 
 A theme in mystical philosophy is the recognition of one's inability to

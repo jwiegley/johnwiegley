@@ -1,6 +1,6 @@
 ---
 title: Reading the newspaper
-category: Poems
+tags: poetry
 ---
 
     Ahead of me faced a long hall

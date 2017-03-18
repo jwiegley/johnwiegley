@@ -1,6 +1,6 @@
 ---
 title: Vanishing
-category: Poems
+tags: poetry
 ---
 
     The evanescence of vapor;

@@ -1,6 +1,6 @@
 ---
 title: Adventures in Poetry
-category: Journal
+tags: journal
 ---
 
 I have been thinking about poetry recently, and how the experience of

@@ -1,6 +1,6 @@
 ---
 title: Love, change, community
-category: Journal
+tags: journal
 ---
 
 Even though things are not as they could be, things at the present are as they

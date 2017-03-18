@@ -1,6 +1,6 @@
 ---
 title: Breakable
-category: Poems
+tags: poetry
 ---
 
     Things that crack,

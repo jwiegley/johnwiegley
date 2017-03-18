@@ -1,6 +1,6 @@
 ---
 title: Re-telling the tale (3 of 3)
-category: Journal
+tags: journal
 ---
 
 This entry repeats the ideas of the previous three, but using a different

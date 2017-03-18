@@ -1,6 +1,6 @@
 ---
 title: Birthday wishes
-category: Poems
+tags: poetry
 ---
 
     If all the years

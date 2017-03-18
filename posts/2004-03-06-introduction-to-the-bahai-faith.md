@@ -1,6 +1,6 @@
 ---
 title: Introduction to the Bahá'í Faith
-category: Essays
+tags: essays
 ---
 
 People need only two things to realize their perfection as human beings:

@@ -1,6 +1,6 @@
 ---
 title: Casting spells
-category: Journal
+tags: journal
 ---
 
 "spell" in Old English meant "speak", and casting a spell means speaking

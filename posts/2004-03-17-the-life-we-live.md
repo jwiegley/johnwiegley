@@ -1,6 +1,6 @@
 ---
 title: The life we live
-category: Poems
+tags: poetry
 ---
 
     The deepest part of my being

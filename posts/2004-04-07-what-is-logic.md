@@ -1,6 +1,6 @@
 ---
 title: What is logic?
-category: Essays
+tags: essays
 ---
 
 Logic is a sure way of finding the relationship between a set of

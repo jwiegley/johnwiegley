@@ -1,6 +1,6 @@
 ---
 title: More from Andalucia
-category: Journal
+tags: journal
 ---
 
 A favorite place after four is now the Plaça Industria, where a pair of

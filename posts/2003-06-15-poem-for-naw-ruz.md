@@ -1,6 +1,6 @@
 ---
 title: Poem for Naw-Rúz
-category: Poems
+tags: poetry
 edited: 03/16/2004
 location: Sitges, Spain
 ---

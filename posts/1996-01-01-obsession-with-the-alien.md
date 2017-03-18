@@ -1,6 +1,6 @@
 ---
 title: Obsession with the alien
-category: Journal
+tags: journal
 ---
 
 People's obsession with alien abduction may boil down to a feeling that

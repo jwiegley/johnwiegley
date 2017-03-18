@@ -1,6 +1,6 @@
 ---
 title: Backbiting
-category: Essays
+tags: essays
 ---
 
 The Writings are fortunately very clear on what back-biting is:

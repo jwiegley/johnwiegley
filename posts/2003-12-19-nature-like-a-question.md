@@ -1,6 +1,6 @@
 ---
 title: Nature like a question
-category: Journal
+tags: journal
 ---
 
 I will be away for a little while, off for the holidays to my mother's

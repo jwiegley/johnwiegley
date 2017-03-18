@@ -1,6 +1,6 @@
 ---
 title: The question
-category: Poems
+tags: poetry
 ---
 
     All of life is a question.

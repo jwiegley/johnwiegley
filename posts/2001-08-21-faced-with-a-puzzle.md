@@ -1,6 +1,6 @@
 ---
 title: Faced with a Puzzle
-category: Essays
+tags: essays
 ---
 
 When I'm at Feast, I'm almost always with the "active" believers, people

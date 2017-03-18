@@ -1,6 +1,6 @@
 ---
 title: Clarion call
-category: Poems
+tags: poetry
 edited: 05/02/2005
 location: 7373 N. 71st Place, PV, AZ
 ---

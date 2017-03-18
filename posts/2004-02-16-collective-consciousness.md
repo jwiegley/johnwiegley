@@ -1,6 +1,6 @@
 ---
 title: Collective consciousness
-category: Journal
+tags: journal
 ---
 
 The past few days I've been musing on a psychological mechanism not

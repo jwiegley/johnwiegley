@@ -1,6 +1,6 @@
 ---
 title: For teachers
-category: Poems
+tags: poetry
 ---
 
     "In a drop thou beholdest the secrets of the sea"

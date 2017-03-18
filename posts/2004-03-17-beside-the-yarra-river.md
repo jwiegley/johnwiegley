@@ -1,6 +1,6 @@
 ---
 title: Beside the Yarra river
-category: Poems
+tags: poetry
 ---
 
     On the grass

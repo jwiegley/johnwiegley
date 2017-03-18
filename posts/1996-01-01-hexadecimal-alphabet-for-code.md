@@ -1,6 +1,6 @@
 ---
 title: Hexadecimal alphabet for code
-category: Journal
+tags: journal
 ---
 
 A set of digits that can represent hexdecimal, in a manner without

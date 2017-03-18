@@ -1,6 +1,6 @@
 ---
 title: The Way of Love
-category: Essays
+tags: essays
 ---
 
 Humanity stands in dire need of a mystical approach: the way of love.

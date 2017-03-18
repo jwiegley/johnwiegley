@@ -1,6 +1,6 @@
 ---
 title: A drop of wisdom
-category: Poems
+tags: poetry
 ---
 
     Ask the lover for a drop of wisdom

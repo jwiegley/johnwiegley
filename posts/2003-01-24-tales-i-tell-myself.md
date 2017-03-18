@@ -1,6 +1,6 @@
 ---
 title: Tales I tell myself
-category: Poems
+tags: poetry
 edited: 02/03/2004
 location: 380 Esplanade #211
 ---

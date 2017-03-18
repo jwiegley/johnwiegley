@@ -1,6 +1,6 @@
 ---
 title: The danger of praise
-category: Journal
+tags: journal
 ---
 
 As for the danger of praise, it is only so venemous as the desire to

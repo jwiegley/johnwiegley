@@ -1,6 +1,6 @@
 ---
 title: Religious truth and the Covenant
-category: Journal
+tags: journal
 ---
 
 Religious truth can at times seem obscure and difficult to fathom:

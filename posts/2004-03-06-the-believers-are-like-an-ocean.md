@@ -1,6 +1,6 @@
 ---
 title: The believers are like an ocean
-category: Essays
+tags: essays
 ---
 
 > The aim of the appearance of the Blessed Perfection -- may my life be

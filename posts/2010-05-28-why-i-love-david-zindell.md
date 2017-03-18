@@ -1,6 +1,6 @@
 ---
 title: Why I love David Zindell
-category: Journal
+tags: journal
 ---
 
 Because he writes like this:

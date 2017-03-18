@@ -1,6 +1,6 @@
 ---
 title: Nostalgia
-category: Poems
+tags: poetry
 ---
 
     I remember sun.

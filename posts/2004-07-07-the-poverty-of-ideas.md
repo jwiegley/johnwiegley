@@ -1,6 +1,6 @@
 ---
 title: The poverty of ideas
-category: Journal
+tags: journal
 ---
 
 This is excerpted from a recent chat with a friend.  Many of the ideas

@@ -1,6 +1,6 @@
 ---
 title: A spiritual inheritance
-category: Journal
+tags: journal
 ---
 
 I was thinking this morning about pain and hardship, especially those

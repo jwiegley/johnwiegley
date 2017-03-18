@@ -1,6 +1,6 @@
 ---
 title: "Bread and Tulips"
-category: Journal
+tags: journal
 ---
 
 Watched a wonderful movie tonight, named "Bread and Tulips" (Pane e

@@ -1,6 +1,6 @@
 ---
 title: Building a bridge between Rand and Sartre
-category: Stories
+tags: stories
 ---
 
 First, some implications of Sartre's theory of being.  The for-itself

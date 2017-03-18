@@ -1,6 +1,6 @@
 ---
 title: Where did "I" go?
-category: Journal
+tags: journal
 ---
 
 Because concepts can never embrace reality, I find myself faced with the

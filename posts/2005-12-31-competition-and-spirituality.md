@@ -1,6 +1,6 @@
 ---
 title: Competition and spirituality
-category: Journal
+tags: journal
 ---
 
 One of the fundamental principles of material life is limitation -- in

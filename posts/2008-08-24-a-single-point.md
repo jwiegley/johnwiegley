@@ -1,6 +1,6 @@
 ---
 title: A single point
-category: Journal
+tags: journal
 ---
 
 I have come to believe that all knowledge and understanding derives from a

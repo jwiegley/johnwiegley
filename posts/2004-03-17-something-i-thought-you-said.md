@@ -1,6 +1,6 @@
 ---
 title: Something I thought you said
-category: Poems
+tags: poetry
 ---
 
     You feel that you're past poetry;

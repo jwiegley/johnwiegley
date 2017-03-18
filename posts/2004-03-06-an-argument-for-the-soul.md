@@ -1,6 +1,6 @@
 ---
 title: An argument for the soul
-category: Essays
+tags: essays
 ---
 
 The world we live in is one of transience, flux and malleability.  Yet

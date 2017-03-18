@@ -1,6 +1,6 @@
 ---
 title: Athirst in Love's Desert
-category: Stories
+tags: stories
 ---
 
 The rocks crumbling underfoot went unnoticed next to the burning sun

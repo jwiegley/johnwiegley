@@ -1,6 +1,6 @@
 ---
 title: Religion and authority
-category: Essays
+tags: essays
 ---
 
 Is religion an authority in life?  Are humans meant to explore truth

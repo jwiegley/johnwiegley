@@ -1,6 +1,6 @@
 ---
 title: Questioning "sin"
-category: Journal
+tags: journal
 ---
 
 In the original Hebrew the meaning of sin was "to miss the mark": to not

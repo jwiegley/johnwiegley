@@ -1,6 +1,6 @@
 ---
 title: Unity is life
-category: Journal
+tags: journal
 ---
 
 I ran across this quote today, which I like very much.  It is by

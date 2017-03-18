@@ -1,6 +1,6 @@
 ---
 title: Emotional memory
-category: Journal
+tags: journal
 ---
 
 What if memory is really an emotional process?  For example, when I

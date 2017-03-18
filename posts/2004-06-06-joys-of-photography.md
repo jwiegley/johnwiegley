@@ -1,6 +1,6 @@
 ---
 title: Joys of photography
-category: Journal
+tags: journal
 ---
 
 Photography, my recent hobby, has been a source of unexpected joys --

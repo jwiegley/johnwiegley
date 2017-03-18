@@ -1,6 +1,6 @@
 ---
 title: A place along sunset beach
-category: Poems
+tags: poetry
 ---
 
     Where the ever-deepening silence

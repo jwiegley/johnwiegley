@@ -1,6 +1,6 @@
 ---
 title: The concept of ownership
-category: Journal
+tags: journal
 ---
 
 The concept of ownership is one that holds true only when the scope of

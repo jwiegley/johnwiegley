@@ -1,6 +1,6 @@
 ---
 title: Some existentialist ideas relating to Bahá'í metaphysics
-category: Essays
+tags: essays
 ---
 
 # The being of the world, and the non-being of consciousness

@@ -1,6 +1,6 @@
 ---
 title: All of us candles
-category: Journal
+tags: journal
 location: Bahji
 ---
 

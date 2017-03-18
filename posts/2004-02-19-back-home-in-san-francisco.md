@@ -1,6 +1,6 @@
 ---
 title: Back home in San Francisco
-category: Journal
+tags: journal
 ---
 
 I have arrived safely back home in San Francisco -- where it is *much*

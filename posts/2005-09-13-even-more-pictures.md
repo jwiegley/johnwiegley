@@ -1,6 +1,6 @@
 ---
 title: Even more pictures
-category: Journal
+tags: journal
 ---
 
 Been having lots of fun with the new camera lately.  It seems that

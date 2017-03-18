@@ -1,6 +1,6 @@
 ---
 title: Assuming responsibility for our life
-category: Journal
+tags: journal
 ---
 
 The present course of my thoughts requires that I take responsibility

@@ -1,6 +1,6 @@
 ---
 title: Teach all in mediocrity, or a few but well?
-category: Journal
+tags: journal
 ---
 
 Imagine a free university, in which anyone can attend the first level

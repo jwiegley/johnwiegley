@@ -1,6 +1,6 @@
 ---
 title: Back on the road
-category: Journal
+tags: journal
 ---
 
 Today I was driving up north from Albuquerque to Colorado Springs, to

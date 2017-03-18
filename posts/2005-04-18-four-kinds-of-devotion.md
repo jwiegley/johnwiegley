@@ -1,6 +1,6 @@
 ---
 title: Four kinds of devotion
-category: Journal
+tags: journal
 ---
 
 In my experiences lately I have found there to be four basic kinds of

@@ -1,6 +1,6 @@
 ---
 title: Introvert and extravert
-category: Journal
+tags: journal
 ---
 
 Today I picked up Jung's *Psychology of Types* and resumed reading where I

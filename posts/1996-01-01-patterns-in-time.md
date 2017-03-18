@@ -1,6 +1,6 @@
 ---
 title: Patterns in time
-category: Journal
+tags: journal
 ---
 
 There's something about patterns that only occur in a dilated time view,

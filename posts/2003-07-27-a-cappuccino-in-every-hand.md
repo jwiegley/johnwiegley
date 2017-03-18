@@ -1,6 +1,6 @@
 ---
 title: A cappuccino in every hand
-category: Journal
+tags: journal
 ---
 
 This trip, spending time alone in new places, has proven its value ten

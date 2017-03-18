@@ -1,6 +1,6 @@
 ---
 title: Today and Tomorrow
-category: Journal
+tags: journal
 location: The Bahji pilgrim centre
 ---
 

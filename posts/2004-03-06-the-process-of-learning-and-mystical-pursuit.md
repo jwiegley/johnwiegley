@@ -1,6 +1,6 @@
 ---
 title: The process of learning and mystical pursuit
-category: Essays
+tags: essays
 ---
 
 In her essay on faná' and baqá'[^1], Alison Marshall wrote:

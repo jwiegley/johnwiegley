@@ -1,6 +1,6 @@
 ---
 title: A spirit's rhapsody
-category: Poems
+tags: poetry
 ---
 
     In a single clap of thunder

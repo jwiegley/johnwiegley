@@ -1,6 +1,6 @@
 ---
 title: Ode to a salmon
-category: Poems
+tags: poetry
 ---
 
     Flesh: pink, cold, oily:

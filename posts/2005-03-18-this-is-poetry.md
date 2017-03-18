@@ -1,6 +1,6 @@
 ---
 title: This is poetry
-category: Poems
+tags: poetry
 edited: 04/21/2005
 location: 7373 N. 71st Street, Paradise Valley, Arizona
 ---

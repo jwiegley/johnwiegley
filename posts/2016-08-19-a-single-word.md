@@ -1,6 +1,6 @@
 ---
 title: A single word
-category: Journal
+tags: journal
 ---
 
 If the Manifestation only wished for people to know the truth of things, this

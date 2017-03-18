@@ -1,6 +1,6 @@
 ---
 title: Night and Day
-category: Poems
+tags: poetry
 edited: 05/09/2005
 location: 380 Esplanade Ave #211
 ---

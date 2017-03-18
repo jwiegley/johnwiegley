@@ -1,6 +1,6 @@
 ---
 title: Like the wind
-category: Poems
+tags: poetry
 location: Sedona Cafe, Sedona, Arizona
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Catching a glimpse
-category: Poems
+tags: poetry
 edited: 04/25/2005
 location: Horizon Park Center, Scottsdale, Arizona
 ---

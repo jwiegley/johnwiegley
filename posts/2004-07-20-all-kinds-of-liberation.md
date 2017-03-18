@@ -1,6 +1,6 @@
 ---
 title: All kinds of liberation
-category: Journal
+tags: journal
 ---
 
 In an elegantly ironic move by our friend, the Universe, even as I wrote

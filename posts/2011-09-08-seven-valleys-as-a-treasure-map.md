@@ -1,6 +1,6 @@
 ---
 title: Seven Valleys as a treasure map
-category: Journal
+tags: journal
 ---
 
 When I was a kid, I remember being strangely fascinated with the idea of

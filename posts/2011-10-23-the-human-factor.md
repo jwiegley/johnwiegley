@@ -1,6 +1,6 @@
 ---
 title: The human factor
-category: Journal
+tags: journal
 ---
 
 When we set out to comprehend Truth, our greatest barrier is the mind we do so

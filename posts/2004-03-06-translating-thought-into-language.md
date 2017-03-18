@@ -1,6 +1,6 @@
 ---
 title: Translating thought into language
-category: Essays
+tags: essays
 ---
 
 The essence of one's thought is a very hard thing to describe.  And even

@@ -1,6 +1,6 @@
 ---
 title: Turning pages
-category: Journal
+tags: journal
 ---
 
 Listening to someone talk about "being in the present" the other day, I

@@ -1,6 +1,6 @@
 ---
 title: The purpose of religion
-category: Journal
+tags: journal
 ---
 
 # The soul's aim

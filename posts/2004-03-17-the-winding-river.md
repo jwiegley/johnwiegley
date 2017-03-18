@@ -1,6 +1,6 @@
 ---
 title: The winding river
-category: Poems
+tags: poetry
 ---
 
     Slowly wends the winding river,

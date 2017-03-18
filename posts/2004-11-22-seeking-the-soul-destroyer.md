@@ -1,6 +1,6 @@
 ---
 title: Seeking the soul-destroyer
-category: Poems
+tags: poetry
 ---
 
     I am seeking the soul-destroyer!

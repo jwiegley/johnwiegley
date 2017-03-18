@@ -1,6 +1,6 @@
 ---
 title: At one with everything?
-category: Journal
+tags: journal
 ---
 
 As I drive along the highway, losing myself to the being of Driving, I

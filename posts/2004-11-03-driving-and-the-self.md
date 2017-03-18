@@ -1,6 +1,6 @@
 ---
 title: Driving and the self
-category: Journal
+tags: journal
 ---
 
 If "self" is our conscious will -- which determines our experience of

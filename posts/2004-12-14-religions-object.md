@@ -1,6 +1,6 @@
 ---
 title: Religion's object
-category: Journal
+tags: journal
 ---
 
 Looking at religion as a system of morals and teachings directed toward

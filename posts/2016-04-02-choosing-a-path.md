@@ -1,6 +1,6 @@
 ---
 title: Choosing a path
-category: Journal
+tags: journal
 ---
 
 How do we choose a "Way" to follow?  We have to ascertain whether someone is

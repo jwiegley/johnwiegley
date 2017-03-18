@@ -1,6 +1,6 @@
 ---
 title: A subtle virtue
-category: Journal
+tags: journal
 location: 239 Misty Creek Drive, Monument, Colorado
 ---
 

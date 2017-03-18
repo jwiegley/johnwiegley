@@ -1,6 +1,6 @@
 ---
 title: Love for it all
-category: Journal
+tags: journal
 ---
 
 I have been reading, on blogs and bulletin boards, about killing Mara,

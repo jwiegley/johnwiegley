@@ -1,6 +1,6 @@
 ---
 title: Non-dualism and maya
-category: Journal
+tags: journal
 ---
 
 In the philosophy of non-dualism, it is often the thinker's goal to "go

@@ -1,6 +1,6 @@
 ---
 title: Thought on aging
-category: Journal
+tags: journal
 ---
 
 Although I'm only thirty-three years old, I've aged enough for

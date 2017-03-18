@@ -1,6 +1,6 @@
 ---
 title: Spirituality
-category: Poems
+tags: poetry
 edited: 09/13/2004
 location: Spain
 ---

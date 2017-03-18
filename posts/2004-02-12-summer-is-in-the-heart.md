@@ -1,6 +1,6 @@
 ---
 title: Summer is in the heart
-category: Poems
+tags: poetry
 location: 325 Morrow Road
 ---
 

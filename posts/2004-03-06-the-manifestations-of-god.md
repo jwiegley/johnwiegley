@@ -1,6 +1,6 @@
 ---
 title: The Manifestations of God
-category: Essays
+tags: essays
 ---
 
 For a long time I have been puzzling as to the meaning of the title

@@ -1,6 +1,6 @@
 ---
 title: Ways of the Force
-category: Stories
+tags: stories
 ---
 
 # Attack

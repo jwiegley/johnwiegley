@@ -1,6 +1,6 @@
 ---
 title: Modes of Seeing Reality
-category: Essays
+tags: essays
 ---
 
 The sun that arose yesterday and the sun that rises tomorrow are

@@ -1,6 +1,6 @@
 ---
 title: Being human
-category: Poems
+tags: poetry
 ---
 
     Dumb.  Blind.  Awkward.

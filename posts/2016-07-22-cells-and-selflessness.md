@@ -1,6 +1,6 @@
 ---
 title: Cells and selflessness
-category: Essays
+tags: essays
 ---
 
 An analogy I've been giving some thought to lately is that of cells in a human

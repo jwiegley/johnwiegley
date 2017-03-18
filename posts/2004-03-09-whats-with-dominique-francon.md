@@ -1,6 +1,6 @@
 ---
 title: What's with Dominique Francon?
-category: Essays
+tags: essays
 ---
 
 There have been a lot of people asking about the character of Dominique

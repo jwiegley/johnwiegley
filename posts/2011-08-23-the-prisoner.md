@@ -1,6 +1,6 @@
 ---
 title: The prisoner
-category: Journal
+tags: journal
 ---
 
 Our eye is a prisoner, trapped by the limits of its very function.  It

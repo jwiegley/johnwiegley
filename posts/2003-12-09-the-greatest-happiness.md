@@ -1,6 +1,6 @@
 ---
 title: The greatest happiness
-category: Journal
+tags: journal
 ---
 
 If (name here) is the soul's fulfillment, it represents the greatest

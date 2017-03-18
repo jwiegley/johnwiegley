@@ -1,6 +1,6 @@
 ---
 title: Fear of God like spiritual inhibition
-category: Essays
+tags: essays
 ---
 
 Picture you're in a 7-11, and the clerk steps out of the store

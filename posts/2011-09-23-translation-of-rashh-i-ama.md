@@ -1,6 +1,6 @@
 ---
 title: Translation of the Rashh-i-`Amá
-category: Journal
+tags: journal
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Change is natural
-category: Essays
+tags: essays
 ---
 
 Change occurs naturally.  It has always, and will always occur.  The

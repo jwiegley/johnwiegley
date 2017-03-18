@@ -1,6 +1,6 @@
 ---
 title: Soul's journey
-category: Poems
+tags: poetry
 ---
 
     Through the rose, man comprehend's beauty;

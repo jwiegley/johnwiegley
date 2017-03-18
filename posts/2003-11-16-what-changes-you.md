@@ -1,6 +1,6 @@
 ---
 title: What changes you
-category: Poems
+tags: poetry
 ---
 
     If it's the sun,

@@ -1,6 +1,6 @@
 ---
 title: The soul's tears
-category: Poems
+tags: poetry
 ---
 
     The eyes of the soul

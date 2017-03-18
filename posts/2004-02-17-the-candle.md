@@ -1,6 +1,6 @@
 ---
 title: The Candle
-category: Poems
+tags: poetry
 location: 325 Morrow Road
 ---
 

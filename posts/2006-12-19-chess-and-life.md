@@ -1,6 +1,6 @@
 ---
 title: Chess and life
-category: Journal
+tags: journal
 location: 239 Misty Creek Drive, Monument, Colorado, USA
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The mystic's path
-category: Journal
+tags: journal
 ---
 
 This world is joined to another, in the way that these words are joined to the

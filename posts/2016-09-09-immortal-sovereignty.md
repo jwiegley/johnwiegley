@@ -1,6 +1,6 @@
 ---
 title: Immortal sovereignty
-category: Journal
+tags: journal
 ---
 
 What follows are some musings on the following Hidden Word:

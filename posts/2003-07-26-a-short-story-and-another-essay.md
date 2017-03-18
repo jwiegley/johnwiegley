@@ -1,6 +1,6 @@
 ---
 title: A short story and another essay
-category: Journal
+tags: journal
 ---
 
 Another essay, refining some of the thoughts from yesterday's second.

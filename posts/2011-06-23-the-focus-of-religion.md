@@ -1,6 +1,6 @@
 ---
 title: The focus of religion
-category: Journal
+tags: journal
 ---
 
 It's starting to seem to me that religion has a very clear focus:

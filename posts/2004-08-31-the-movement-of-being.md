@@ -1,6 +1,6 @@
 ---
 title: The movement of being
-category: Journal
+tags: journal
 ---
 
 A fellow wayfarer in the wilds of the mind wrote:

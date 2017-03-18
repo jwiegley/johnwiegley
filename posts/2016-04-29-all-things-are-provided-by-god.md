@@ -1,6 +1,6 @@
 ---
 title: All things are provided by God
-category: Essays
+tags: essays
 ---
 
 I wonder if God didn't create our imperfect natures on purpose.  That is, here

@@ -1,6 +1,6 @@
 ---
 title: Thoughts on time travel
-category: Journal
+tags: journal
 ---
 
 We tend to think of the universe as a stable system progressing from one

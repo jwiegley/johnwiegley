@@ -1,6 +1,6 @@
 ---
 title: Duty and purpose
-category: Journal
+tags: journal
 ---
 
 From early this morning, a simpler thought on duty and love that seems

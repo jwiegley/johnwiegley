@@ -1,6 +1,6 @@
 ---
 title: The effect of religion
-category: Journal
+tags: journal
 ---
 
 I think the spiritual world is real, but it is like a seeing man looking for

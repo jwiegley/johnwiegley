@@ -1,6 +1,6 @@
 ---
 title: In Him, we are the sea
-category: Journal
+tags: journal
 ---
 
 I think the most profound communication of one's love for God lies in complete

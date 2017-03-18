@@ -1,6 +1,6 @@
 ---
 title: Butterflies
-category: Poems
+tags: poetry
 ---
 
     Why they make a nest of my stomach, I'll never know.

@@ -1,6 +1,6 @@
 ---
 title: "Another retelling: The metaphysics of light"
-category: Journal
+tags: journal
 ---
 
 I would like to resummarize what I've been saying, again, by talking

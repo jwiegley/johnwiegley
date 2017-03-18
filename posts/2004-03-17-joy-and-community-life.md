@@ -1,6 +1,6 @@
 ---
 title: Joy and Community Life
-category: Essays
+tags: essays
 ---
 
 # What is a Bahá'í?

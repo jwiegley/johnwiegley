@@ -1,6 +1,6 @@
 ---
 title: Its own reason
-category: Journal
+tags: journal
 ---
 
 When you go to a mountain-top to watch the sunset, what is the objective?  And

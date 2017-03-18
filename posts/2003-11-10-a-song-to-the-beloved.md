@@ -1,6 +1,6 @@
 ---
 title: A Song to the Beloved
-category: Poems
+tags: poetry
 edited: 11/22/2004
 location: 380 Esplanade Ave #211, Pacifica
 ---

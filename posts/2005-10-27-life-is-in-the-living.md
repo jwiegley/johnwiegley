@@ -1,6 +1,6 @@
 ---
 title: Life is in the living
-category: Journal
+tags: journal
 ---
 
 Peter had asked, "I understand the power and value that Faith itself *can*

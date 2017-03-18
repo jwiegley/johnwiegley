@@ -1,6 +1,6 @@
 ---
 title: A different reality
-category: Journal
+tags: journal
 ---
 
 I woke up this morning from a very powerful dream; the feeling of it is

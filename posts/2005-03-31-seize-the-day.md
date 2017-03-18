@@ -1,6 +1,6 @@
 ---
 title: Seize the day
-category: Poems
+tags: poetry
 location: 7373 N. 71st Place, Paradise Valley, Arizona
 ---
 

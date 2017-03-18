@@ -1,6 +1,6 @@
 ---
 title: The Unity of Being
-category: Essays
+tags: essays
 ---
 
 # The many and the one

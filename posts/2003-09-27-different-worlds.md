@@ -1,6 +1,6 @@
 ---
 title: Different worlds
-category: Poems
+tags: poetry
 edited: 03/10/2004
 location: Chit Chat Cafe
 ---

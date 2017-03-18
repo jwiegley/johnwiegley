@@ -1,6 +1,6 @@
 ---
 title: Take off from SF
-category: Poems
+tags: poetry
 ---
 
     Beneath me, far below, the small houses

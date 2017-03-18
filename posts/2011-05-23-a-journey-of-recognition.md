@@ -1,6 +1,6 @@
 ---
 title: A journey of recognition
-category: Journal
+tags: journal
 ---
 
 An infant learns pretty soon to recognize her mother, and who she is; but

@@ -1,6 +1,6 @@
 ---
 title: The weary world
-category: Poems
+tags: poetry
 edited: 03/10/2004
 ---
 

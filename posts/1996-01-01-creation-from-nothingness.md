@@ -1,6 +1,6 @@
 ---
 title: Creation from nothingness
-category: Journal
+tags: journal
 ---
 
 Any physical creation exists within a pre-determined set of bounds,

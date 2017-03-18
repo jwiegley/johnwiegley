@@ -1,6 +1,6 @@
 ---
 title: "Introducing: The hidden door"
-category: Journal
+tags: journal
 ---
 
 Today's essay, written over several pieces of the most delectable

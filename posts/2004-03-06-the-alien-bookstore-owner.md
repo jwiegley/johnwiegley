@@ -1,6 +1,6 @@
 ---
 title: The Alien Bookstore Owner
-category: Stories
+tags: stories
 ---
 
 Last night I had a very strange dream as well.  I was in a neighborhood

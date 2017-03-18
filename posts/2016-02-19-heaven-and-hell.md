@@ -1,6 +1,6 @@
 ---
 title: Heaven and hell
-category: Poems
+tags: poetry
 ---
 
     In Heaven

@@ -1,6 +1,6 @@
 ---
 title: A river of fog
-category: Journal
+tags: journal
 ---
 
 As I was driving down to San Jose this weekend, when I saw something on

@@ -1,6 +1,6 @@
 ---
 title: I understand it not
-category: Poems
+tags: poetry
 ---
 
     So good is my King

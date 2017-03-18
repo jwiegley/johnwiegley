@@ -1,6 +1,6 @@
 ---
 title: A lover's pain
-category: Journal
+tags: journal
 ---
 
 What comes below follows directly from earlier essay, [The Hidden Door](the.hidden.door),

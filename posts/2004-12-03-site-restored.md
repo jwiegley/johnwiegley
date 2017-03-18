@@ -1,6 +1,6 @@
 ---
 title: Site restored
-category: Journal
+tags: journal
 ---
 
 After much thought, and letters from encouraging friends, I've decided

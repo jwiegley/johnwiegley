@@ -1,6 +1,6 @@
 ---
 title: Unseen arms
-category: Poems
+tags: poetry
 ---
 
     I cannot touch what I long to hold,

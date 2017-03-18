@@ -1,6 +1,6 @@
 ---
 title: Thoughts on the Four Valleys
-category: Essays
+tags: essays
 ---
 
 After some thought on the scheme of the Four Valleys, the following is

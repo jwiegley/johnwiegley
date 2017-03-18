@@ -1,6 +1,6 @@
 ---
 title: The Arno in the late sun...
-category: Journal
+tags: journal
 ---
 
 I walk over the river Arno each day, crossing the Ponte Vecchio to make

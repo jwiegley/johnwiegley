@@ -1,6 +1,6 @@
 ---
 title: Tear apart the world's veil
-category: Poems
+tags: poetry
 ---
 
     Tear apart the world's veil:

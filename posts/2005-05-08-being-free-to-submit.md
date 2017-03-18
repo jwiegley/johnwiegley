@@ -1,6 +1,6 @@
 ---
 title: Being free to submit
-category: Journal
+tags: journal
 ---
 
 Freedom is an interesting concept.  We basically want to be free in

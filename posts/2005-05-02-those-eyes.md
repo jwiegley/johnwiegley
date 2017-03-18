@@ -1,6 +1,6 @@
 ---
 title: Those eyes
-category: Poems
+tags: poetry
 edited: 05/07/2005
 location: Biltmore Fashion Park, Phoenix, Arizona
 ---

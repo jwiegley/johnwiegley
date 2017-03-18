@@ -1,6 +1,6 @@
 ---
 title: Pictures from Colorado
-category: Journal
+tags: journal
 ---
 
 The other day I had a chance to go hiking with my father at the Seven

@@ -1,6 +1,6 @@
 ---
 title: Journey of the seed
-category: Poems
+tags: poetry
 edited: 04/26/2005
 location: Royal Car Wash, Campbell and Camp Lowell, Tucson, Arizona
 ---

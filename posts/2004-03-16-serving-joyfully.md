@@ -1,6 +1,6 @@
 ---
 title: Serving joyfully
-category: Essays
+tags: essays
 ---
 
 Someone asked: *What is happiness?  What does the Bahá'í Faith say about

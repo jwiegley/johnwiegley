@@ -1,6 +1,6 @@
 ---
 title: The Irony of Truth
-category: Poems
+tags: poetry
 location: Room 373, Bay Tower, Royal Kona Resort, Kailua-Kona, Hawai'i
 ---
 

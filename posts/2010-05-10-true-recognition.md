@@ -1,6 +1,6 @@
 ---
 title: True recognition
-category: Journal
+tags: journal
 ---
 
 There are two different kinds of recognition: surface recognition, or acknowledgement; and true recognition, where one understands the fullness of a thing and its implications -- not merely its shape or name.

@@ -1,6 +1,6 @@
 ---
 title: The secret
-category: Poems
+tags: poetry
 location: 7373 N. 71st St., Paradise Valley, AZ
 ---
 

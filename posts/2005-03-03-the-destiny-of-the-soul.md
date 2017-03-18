@@ -1,6 +1,6 @@
 ---
 title: The destiny of the soul
-category: Essays
+tags: essays
 ---
 
 # The soul's origin

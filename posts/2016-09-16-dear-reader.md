@@ -1,6 +1,6 @@
 ---
 title: Dear reader!
-category: Poems
+tags: poetry
 ---
 
     Dear reader!

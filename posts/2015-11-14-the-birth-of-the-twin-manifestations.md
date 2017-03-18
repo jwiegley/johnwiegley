@@ -1,6 +1,6 @@
 ---
 title: The Birth of the Twin Manifestations
-category: Essays
+tags: essays
 ---
 
 The Bahá’í Faith originated in Persian in the middle of the 19th century, at a time when the Industrial Revolution was just underway; when woman did not have the right to vote in America; when the world was connected at best by steam ships; when the South was still an advocate of slavery; and when monarchies were still rivaling for power in the Old World.

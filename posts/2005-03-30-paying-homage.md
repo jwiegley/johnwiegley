@@ -1,6 +1,6 @@
 ---
 title: Paying homage
-category: Poems
+tags: poetry
 edited: 04/01/2005
 location: McClintock and Southern Ave, Tempe, Arizona
 ---

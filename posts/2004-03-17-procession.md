@@ -1,6 +1,6 @@
 ---
 title: Procession
-category: Poems
+tags: poetry
 ---
 
     In the palace of the sky,

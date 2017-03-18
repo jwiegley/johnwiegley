@@ -1,6 +1,6 @@
 ---
 title: The thirsty fish
-category: Journal
+tags: journal
 ---
 
 I believe that this world is a crucible, within which the pure of heart are

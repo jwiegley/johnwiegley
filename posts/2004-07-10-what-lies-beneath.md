@@ -1,6 +1,6 @@
 ---
 title: What lies beneath
-category: Journal
+tags: journal
 ---
 
 The vast wilderness of the real opens to view, and I am struck mute.  A

@@ -1,6 +1,6 @@
 ---
 title: More on spiritual poverty
-category: Journal
+tags: journal
 ---
 
 An individual has two parts, his spiritual, or divine nature, and his self,

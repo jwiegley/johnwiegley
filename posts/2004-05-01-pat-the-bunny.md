@@ -1,6 +1,6 @@
 ---
 title: Pat the Bunny
-category: Journal
+tags: journal
 ---
 
 Today I took the plunge and bought a camera (digital) for the first time

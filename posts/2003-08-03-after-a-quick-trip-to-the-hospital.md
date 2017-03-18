@@ -1,6 +1,6 @@
 ---
 title: After a quick trip to the hospital
-category: Journal
+tags: journal
 ---
 
 I decided to visit the hospital since the pain in my hand was pretty

@@ -1,6 +1,6 @@
 ---
 title: Talk on the Seven Valleys
-category: Journal
+tags: journal
 location: Colorado
 ---
 

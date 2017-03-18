@@ -1,6 +1,6 @@
 ---
 title: Night, tonight
-category: Poems
+tags: poetry
 edited: 05/12/2005
 location: Manijeh's house, Gilbert, Arizona
 ---

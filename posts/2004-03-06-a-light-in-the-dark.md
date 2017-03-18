@@ -1,6 +1,6 @@
 ---
 title: A Light in the Dark
-category: Essays
+tags: essays
 ---
 
 People have asked me at times why I don't do certain things it seems I

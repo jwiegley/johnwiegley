@@ -1,6 +1,6 @@
 ---
 title: Sending you a flower
-category: Poems
+tags: poetry
 ---
 
     I meant to send you a rose today;

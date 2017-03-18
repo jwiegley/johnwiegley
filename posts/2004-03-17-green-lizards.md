@@ -1,6 +1,6 @@
 ---
 title: Green lizards
-category: Stories
+tags: stories
 ---
 
 The road was clear of traffic, open, leading to the inner heart of the

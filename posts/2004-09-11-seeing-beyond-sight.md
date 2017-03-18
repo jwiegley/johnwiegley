@@ -1,6 +1,6 @@
 ---
 title: Seeing beyond sight
-category: Journal
+tags: journal
 ---
 
 I was thinking today how if we focus on the parts of the body, each

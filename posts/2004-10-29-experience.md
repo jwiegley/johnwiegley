@@ -1,6 +1,6 @@
 ---
 title: Experience
-category: Journal
+tags: journal
 ---
 
 This is one side of a chat with a friend earlier this evening, which

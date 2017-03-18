@@ -1,6 +1,6 @@
 ---
 title: The beauty of things
-category: Journal
+tags: journal
 ---
 
 As I look around at the world, I find many things to admire.  Certainly there

@@ -1,6 +1,6 @@
 ---
 title: Other forms of memory
-category: Journal
+tags: journal
 ---
 
 When we can't remember something, but we know what it isn't, this is a

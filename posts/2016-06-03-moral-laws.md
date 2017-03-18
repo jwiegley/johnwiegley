@@ -1,6 +1,6 @@
 ---
 title: Moral laws
-category: Journal
+tags: journal
 ---
 
 On its own, a violin is just string, wood and glue; but played well, it can produce wonderful music.

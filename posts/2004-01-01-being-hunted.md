@@ -1,6 +1,6 @@
 ---
 title: Being hunted
-category: Poems
+tags: poetry
 edited: 04/19/2005
 ---
 

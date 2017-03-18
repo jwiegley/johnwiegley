@@ -1,6 +1,6 @@
 ---
 title: On self-knowledge
-category: Journal
+tags: journal
 ---
 
 What can we truly know about ourselves?  Whatever I call myself depends

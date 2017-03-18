@@ -1,6 +1,6 @@
 ---
 title: Shout out to the old school
-category: Journal
+tags: journal
 ---
 
 Back when the Apple IIe was *the* machine for home computing, and every

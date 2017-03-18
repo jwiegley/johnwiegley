@@ -1,6 +1,6 @@
 ---
 title: Tales of Cataluña
-category: Journal
+tags: journal
 ---
 
 Cataluña is the name of the district, or state, in northern Andalucia,

@@ -1,6 +1,6 @@
 ---
 title: I Plead
-category: Poems
+tags: poetry
 edited: 01/03/2009
 ---
 

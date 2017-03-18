@@ -1,6 +1,6 @@
 ---
 title: Closer than our life's vein
-category: Journal
+tags: journal
 ---
 
 God is nearer to us than our life's vein, and we are always "but one step away

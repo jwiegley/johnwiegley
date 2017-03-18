@@ -1,6 +1,6 @@
 ---
 title: Reflections on the Fast
-category: Essays
+tags: essays
 ---
 
 **Provides** a striking contrast to our everyday life which allows us to

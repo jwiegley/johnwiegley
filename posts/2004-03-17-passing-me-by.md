@@ -1,6 +1,6 @@
 ---
 title: Passing me by
-category: Poems
+tags: poetry
 ---
 
     I repose with sadness

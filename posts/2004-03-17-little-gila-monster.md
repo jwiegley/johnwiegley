@@ -1,6 +1,6 @@
 ---
 title: Little Gila monster!
-category: Poems
+tags: poetry
 ---
 
     Little Gila monster!

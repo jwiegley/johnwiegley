@@ -1,6 +1,6 @@
 ---
 title: Looking at the moon
-category: Poems
+tags: poetry
 ---
 
     I look at the moon:

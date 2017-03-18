@@ -1,6 +1,6 @@
 ---
 title: Falling in love
-category: Journal
+tags: journal
 ---
 
 When I fall in love, I notice two things happen: First, I begin to

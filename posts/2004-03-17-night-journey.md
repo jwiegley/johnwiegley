@@ -1,6 +1,6 @@
 ---
 title: Night journey
-category: Poems
+tags: poetry
 ---
 
     Blue and black it all becomes

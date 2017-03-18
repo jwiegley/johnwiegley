@@ -1,6 +1,6 @@
 ---
 title: Genuine certitude
-category: Journal
+tags: journal
 ---
 
 I think real certitude is the product of assiduously striving to gain a

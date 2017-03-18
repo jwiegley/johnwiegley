@@ -1,6 +1,6 @@
 ---
 title: The Faith Dynamic
-category: Essays
+tags: essays
 ---
 
 Quantum mechanics indicates that for all physical events on the

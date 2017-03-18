@@ -1,6 +1,6 @@
 ---
 title: Planning for life
-category: Journal
+tags: journal
 ---
 
 Of what does a life consist?  Written in hopes of finding a better way

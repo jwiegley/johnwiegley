@@ -1,6 +1,6 @@
 ---
 title: Desert sands
-category: Poems
+tags: poetry
 ---
 
     Adrift... so terribly adrift.

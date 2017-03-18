@@ -1,6 +1,6 @@
 ---
 title: When I try to write
-category: Poems
+tags: poetry
 ---
 
     When I try to write

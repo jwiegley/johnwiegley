@@ -1,6 +1,6 @@
 ---
 title: Two sides of a coin
-category: Journal
+tags: journal
 ---
 
 If I seek pleasure, and reject pain[^1], I lose what both are a part of:

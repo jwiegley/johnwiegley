@@ -1,6 +1,6 @@
 ---
 title: A holy pain
-category: Poems
+tags: poetry
 location: 380 Esplanade #211
 ---
 

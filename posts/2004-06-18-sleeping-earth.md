@@ -1,6 +1,6 @@
 ---
 title: Sleeping earth
-category: Poems
+tags: poetry
 location: 380 Esplanade Ave #211
 ---
 

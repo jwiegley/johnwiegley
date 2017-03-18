@@ -1,6 +1,6 @@
 ---
 title: Contexts of perception
-category: Journal
+tags: journal
 ---
 
 After thinking, here is another analogy to explain the functional,

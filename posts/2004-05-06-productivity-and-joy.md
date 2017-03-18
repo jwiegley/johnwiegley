@@ -1,6 +1,6 @@
 ---
 title: Productivity and joy
-category: Essays
+tags: essays
 ---
 
 All of my life people around me have focused on the "bottom line" (using

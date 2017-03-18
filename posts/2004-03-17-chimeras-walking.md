@@ -1,6 +1,6 @@
 ---
 title: Chimeras walking
-category: Poems
+tags: poetry
 ---
 
     Caprice, clad in epidermal cloth;

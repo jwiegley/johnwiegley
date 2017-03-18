@@ -1,6 +1,6 @@
 ---
 title: Further on the passion of possibility
-category: Journal
+tags: journal
 ---
 
 It must be so wonderful to play in a band.  When I listen to musicians,

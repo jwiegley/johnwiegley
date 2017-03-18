@@ -1,6 +1,6 @@
 ---
 title: What is philosophy?
-category: Essays
+tags: essays
 ---
 
 This is an opinion of mine which is perhaps not shared by many, but

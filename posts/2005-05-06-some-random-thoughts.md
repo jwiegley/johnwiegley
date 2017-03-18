@@ -1,6 +1,6 @@
 ---
 title: Some random thoughts
-category: Journal
+tags: journal
 ---
 
 # The Cause of God

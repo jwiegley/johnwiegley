@@ -1,6 +1,6 @@
 ---
 title: Human relationships
-category: Journal
+tags: journal
 ---
 
 Our relationship with our spouse can be our closest relationship to God.

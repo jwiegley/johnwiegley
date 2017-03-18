@@ -1,6 +1,6 @@
 ---
 title: Freedom to investigate truth
-category: Essays
+tags: essays
 edited: 04/27/2006
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Adventures in Poetry
-category: Essays
+tags: essays
 ---
 
 After many years of writing poetry, the experience has greatly changed

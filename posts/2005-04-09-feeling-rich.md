@@ -1,6 +1,6 @@
 ---
 title: Feeling rich
-category: Poems
+tags: poetry
 ---
 
     Colors, like purple;

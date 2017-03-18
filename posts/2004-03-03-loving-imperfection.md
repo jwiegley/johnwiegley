@@ -1,6 +1,6 @@
 ---
 title: Loving imperfection
-category: Journal
+tags: journal
 ---
 
 Loving what is perfect alone leads to a distaste for what is imperfect,

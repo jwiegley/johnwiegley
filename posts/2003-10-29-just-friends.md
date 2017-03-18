@@ -1,6 +1,6 @@
 ---
 title: Just friends
-category: Poems
+tags: poetry
 ---
 
     Sometimes, a person just wants to remember

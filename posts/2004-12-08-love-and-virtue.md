@@ -1,6 +1,6 @@
 ---
 title: Love and virtue
-category: Journal
+tags: journal
 ---
 
 I think love is really the mother of all virtue.  Take patience, for

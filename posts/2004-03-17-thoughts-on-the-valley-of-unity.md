@@ -1,6 +1,6 @@
 ---
 title: Thoughts on the Valley of Unity
-category: Essays
+tags: essays
 ---
 
 # Qualities of the wayfarer

@@ -1,6 +1,6 @@
 ---
 title: Social wealth
-category: Essays
+tags: essays
 ---
 
 It seems to me that most people in a position of wealth do not know what

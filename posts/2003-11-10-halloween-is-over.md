@@ -1,6 +1,6 @@
 ---
 title: Halloween is over
-category: Poems
+tags: poetry
 edited: 11/21/2003
 location: 380 Esplanade
 ---

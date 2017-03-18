@@ -1,6 +1,6 @@
 ---
 title: Where once was an empire...
-category: Journal
+tags: journal
 ---
 
 [storm.in.italy](storm.in.italy)

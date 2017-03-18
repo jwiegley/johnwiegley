@@ -1,6 +1,6 @@
 ---
 title: Moonlight Sonata
-category: Stories
+tags: stories
 ---
 
 I remember there was dark everywhere -- dark and smoke.  The smoke

@@ -1,6 +1,6 @@
 ---
 title: Transparency
-category: Journal
+tags: journal
 ---
 
 Everything hidden requires a manifestation to first become known, just

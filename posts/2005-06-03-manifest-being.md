@@ -1,6 +1,6 @@
 ---
 title: Manifest being
-category: Journal
+tags: journal
 ---
 
 "Manifest being" is a thought which works for me as a kind of union

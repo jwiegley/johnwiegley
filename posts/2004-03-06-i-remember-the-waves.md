@@ -1,6 +1,6 @@
 ---
 title: I remember the waves...
-category: Stories
+tags: stories
 ---
 
 > *Dedicated to Mary, and the souls she helped whose bodies would not

@@ -1,6 +1,6 @@
 ---
 title: Nickels and dimes
-category: Essays
+tags: essays
 ---
 
 When we make choices in this life, do we make them based on knowledge,

@@ -1,6 +1,6 @@
 ---
 title: A moment's peace
-category: Poems
+tags: poetry
 ---
 
     I picture you running, with arms wide,

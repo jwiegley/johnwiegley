@@ -1,6 +1,6 @@
 ---
 title: Bridalveil Falls
-category: Poems
+tags: poetry
 ---
 
     Looking up we saw a face,

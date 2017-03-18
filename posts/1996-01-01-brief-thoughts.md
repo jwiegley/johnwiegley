@@ -1,6 +1,6 @@
 ---
 title: Brief thoughts
-category: Journal
+tags: journal
 ---
 
 Altruism of belief is belief that's given with entire freedom, without

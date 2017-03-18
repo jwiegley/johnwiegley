@@ -1,6 +1,6 @@
 ---
 title: Turn thereunto
-category: Journal
+tags: journal
 ---
 
 Today's entry is about a word that appears in the Bahá'í Writings: *tawajjuh*, or "attention".

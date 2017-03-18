@@ -1,6 +1,6 @@
 ---
 title: Favorite movies and songs
-category: Journal
+tags: journal
 ---
 
 Wrote up a [list of my favorite movies](GoodMovies).  If you have recommendations for

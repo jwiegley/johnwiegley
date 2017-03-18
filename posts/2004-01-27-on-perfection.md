@@ -1,6 +1,6 @@
 ---
 title: On perfection
-category: Journal
+tags: journal
 ---
 
 A perfect Creator makes only perfection; but in the world we see

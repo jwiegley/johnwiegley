@@ -1,6 +1,6 @@
 ---
 title: Joy is at the Heart of it All
-category: Essays
+tags: essays
 ---
 
 Human beings were created to know joy.  "He [the Ancient Beauty] hath

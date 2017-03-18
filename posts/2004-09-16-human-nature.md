@@ -1,6 +1,6 @@
 ---
 title: Human nature
-category: Journal
+tags: journal
 ---
 
 Although religion tells us that none is worthy of admiration, save God,

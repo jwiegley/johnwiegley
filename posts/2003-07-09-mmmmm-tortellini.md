@@ -1,6 +1,6 @@
 ---
 title: Mmmmm... Tortellini
-category: Journal
+tags: journal
 ---
 
 Greetings again from the Florentine hills!  Each day, from my hotel room

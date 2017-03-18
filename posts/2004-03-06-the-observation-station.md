@@ -1,6 +1,6 @@
 ---
 title: The observation station
-category: Stories
+tags: stories
 ---
 
 There was a group of us in an observing station, based somewhere on the

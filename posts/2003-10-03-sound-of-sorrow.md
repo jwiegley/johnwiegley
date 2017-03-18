@@ -1,6 +1,6 @@
 ---
 title: Sound of sorrow
-category: Poems
+tags: poetry
 edited: 09/02/2005
 location: Chit Chat Cafe, Pacifica, California
 ---

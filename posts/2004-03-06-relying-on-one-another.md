@@ -1,6 +1,6 @@
 ---
 title: Relying on one another
-category: Essays
+tags: essays
 ---
 
 Upon the great ocean of life we sit in a boat.  This boat represents the

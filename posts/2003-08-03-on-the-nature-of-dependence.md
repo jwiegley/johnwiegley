@@ -1,6 +1,6 @@
 ---
 title: On the nature of dependence
-category: Journal
+tags: journal
 ---
 
 Hello to everyone, and good bye!!

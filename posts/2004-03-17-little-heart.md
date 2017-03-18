@@ -1,6 +1,6 @@
 ---
 title: Little heart
-category: Poems
+tags: poetry
 ---
 
     Little heart:

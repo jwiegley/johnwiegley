@@ -1,6 +1,6 @@
 ---
 title: Contemplating the Ur-soul
-category: Journal
+tags: journal
 location: Dad's house, 90 Watch Hill Drive, Apt B, Colorado Springs
 ---
 

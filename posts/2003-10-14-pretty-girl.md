@@ -1,6 +1,6 @@
 ---
 title: Pretty girl
-category: Poems
+tags: poetry
 edited: 11/08/2003
 location: American Airlines flight 177 JFK-SFO
 ---

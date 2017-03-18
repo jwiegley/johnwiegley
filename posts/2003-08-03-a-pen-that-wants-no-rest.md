@@ -1,6 +1,6 @@
 ---
 title: A pen that wants no rest
-category: Journal
+tags: journal
 ---
 
 Ok, I told my heart it could stop creating and also go on vacation, but

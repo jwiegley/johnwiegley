@@ -1,6 +1,6 @@
 ---
 title: To Youth in the Bahá'í Faith
-category: Journal
+tags: journal
 ---
 
 You have all been hearing, countless times, about your responsibilities

@@ -1,6 +1,6 @@
 ---
 title: Being a man
-category: Poems
+tags: poetry
 ---
 
     At times the pain of life is such that not living would be easier.

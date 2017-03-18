@@ -1,6 +1,6 @@
 ---
 title: Paean for the Broken
-category: Poems
+tags: poetry
 ---
 
     My light is a feeble thing.

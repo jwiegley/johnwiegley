@@ -1,6 +1,6 @@
 ---
 title: Judging life
-category: Journal
+tags: journal
 ---
 
 How do we judge life, as a quality?  Is it merely a question of a

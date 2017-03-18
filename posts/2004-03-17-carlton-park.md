@@ -1,6 +1,6 @@
 ---
 title: Carlton Park
-category: Poems
+tags: poetry
 ---
 
     The green army raises their swords,

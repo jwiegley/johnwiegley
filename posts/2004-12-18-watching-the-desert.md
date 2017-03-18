@@ -1,6 +1,6 @@
 ---
 title: Watching the desert
-category: Poems
+tags: poetry
 edited: 04/19/2005
 location: IHOP, Oracle Road, Tucson, AZ
 ---

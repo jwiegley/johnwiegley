@@ -1,6 +1,6 @@
 ---
 title: A mystical commentary on Quality
-category: Journal
+tags: journal
 ---
 
 The following uses the concept of Quality, as discussed in all the

@@ -1,6 +1,6 @@
 ---
 title: Detachment and emotions
-category: Journal
+tags: journal
 ---
 
 If the world is like a mirror reflecting the attributes of God, we can

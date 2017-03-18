@@ -1,6 +1,6 @@
 ---
 title: Discipline and energy
-category: Journal
+tags: journal
 ---
 
 A while ago, when talking about the [light and dark sides](j2005#thedarkside) I think we all

@@ -1,6 +1,6 @@
 ---
 title: Faith, love and perfection
-category: Journal
+tags: journal
 ---
 
 These three ideas have been on my mind a great deal lately.  Let me see

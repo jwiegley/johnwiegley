@@ -1,6 +1,6 @@
 ---
 title: Krishnamurti and "religion"
-category: Essays
+tags: essays
 ---
 
 Concerning the philosophy of Krishnamurti, reviewed from one Bahá'í's

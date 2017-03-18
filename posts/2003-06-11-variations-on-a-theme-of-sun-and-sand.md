@@ -1,6 +1,6 @@
 ---
 title: Variations on a theme of sun and sand...
-category: Journal
+tags: journal
 ---
 
 There has not been much novel happening, unless you count the ideas in

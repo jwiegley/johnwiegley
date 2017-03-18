@@ -1,6 +1,6 @@
 ---
 title: The heart's sparrow
-category: Poems
+tags: poetry
 ---
 
     To make your way anywhere,

@@ -1,6 +1,6 @@
 ---
 title: The dervish and the thirsty one
-category: Journal
+tags: journal
 ---
 
 Once a poor man, burning with thirst, approached a merchant.  He

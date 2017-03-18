@@ -1,6 +1,6 @@
 ---
 title: A contingent freedom
-category: Journal
+tags: journal
 ---
 
 I am writing now from inside the cathedral of Santa Maria Novella, which

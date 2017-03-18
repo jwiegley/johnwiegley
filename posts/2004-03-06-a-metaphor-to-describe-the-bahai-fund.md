@@ -1,6 +1,6 @@
 ---
 title: A metaphor to describe the Bahá'í Fund
-category: Essays
+tags: essays
 ---
 
 Imagine a society quite like our own: there is a city, a power plant,

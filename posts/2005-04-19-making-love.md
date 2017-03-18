@@ -1,6 +1,6 @@
 ---
 title: Making love
-category: Poems
+tags: poetry
 edited: 04/28/2005
 location: Uncle Sam's Deli, Shea Blvd, Scottsdale, Arizona
 ---

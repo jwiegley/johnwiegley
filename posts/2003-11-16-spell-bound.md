@@ -1,6 +1,6 @@
 ---
 title: Spell bound
-category: Poems
+tags: poetry
 ---
 
     Soft light scatters in an empty room,

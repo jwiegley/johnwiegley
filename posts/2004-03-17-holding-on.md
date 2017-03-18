@@ -1,6 +1,6 @@
 ---
 title: Holding on
-category: Poems
+tags: poetry
 ---
 
     Sadness sits down with me for tea,

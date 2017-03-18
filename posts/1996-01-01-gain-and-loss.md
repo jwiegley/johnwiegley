@@ -1,6 +1,6 @@
 ---
 title: Gain and loss
-category: Journal
+tags: journal
 ---
 
 Someone who has nothing gains at every turn; but someone who has too

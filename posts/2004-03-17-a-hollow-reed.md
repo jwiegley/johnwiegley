@@ -1,6 +1,6 @@
 ---
 title: A hollow reed
-category: Poems
+tags: poetry
 ---
 
     I am like a reed of flesh,

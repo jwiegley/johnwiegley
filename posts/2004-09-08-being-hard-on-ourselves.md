@@ -1,6 +1,6 @@
 ---
 title: Being hard on ourselves
-category: Journal
+tags: journal
 ---
 
 In 13th century Christianity, a practice arose among the believers of

@@ -1,6 +1,6 @@
 ---
 title: The unexamined life
-category: Journal
+tags: journal
 ---
 
 Imagine one friend gives another an amazing piece of Arabic calligraphy,

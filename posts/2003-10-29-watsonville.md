@@ -1,6 +1,6 @@
 ---
 title: Watsonville
-category: Poems
+tags: poetry
 ---
 
     A cowboy buries hands in jean pockets,

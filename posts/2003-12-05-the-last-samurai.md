@@ -1,6 +1,6 @@
 ---
 title: "The Last Samurai"
-category: Journal
+tags: journal
 ---
 
 Saw the movie "The Last Samurai" tonight.  It transported me.  The way

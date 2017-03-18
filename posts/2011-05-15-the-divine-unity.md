@@ -1,6 +1,6 @@
 ---
 title: The Divine Unity
-category: Journal
+tags: journal
 ---
 
 I believe that the worlds of limitation and differentiation, and the world

@@ -1,6 +1,6 @@
 ---
 title: Lovers lament
-category: Poems
+tags: poetry
 ---
 
     One perfect tear, falling into the ocean waves.

@@ -1,6 +1,6 @@
 ---
 title: Dream of another life
-category: Journal
+tags: journal
 ---
 
 In a dream I was climbing a long tower.  I asked, "Where are we going?"

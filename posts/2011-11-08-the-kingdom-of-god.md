@@ -1,6 +1,6 @@
 ---
 title: The Kingdom of God
-category: Journal
+tags: journal
 ---
 
 One of the things religion aims to teach people is how to appreciate God's

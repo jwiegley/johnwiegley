@@ -1,6 +1,6 @@
 ---
 title: Why does God send Prophets?
-category: Journal
+tags: journal
 ---
 
 If God is All-Powerful, He doesn't need a Prophet to make Himself known to

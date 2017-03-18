@@ -1,6 +1,6 @@
 ---
 title: Revealing God
-category: Journal
+tags: journal
 ---
 
 The Revelation of God, as the term should imply, is about revealing

@@ -1,6 +1,6 @@
 ---
 title: The Beloved as the sun
-category: Journal
+tags: journal
 ---
 
 I wish I could talk about what I'm going to talk about.  You can tell

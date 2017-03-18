@@ -1,6 +1,6 @@
 ---
 title: What hell might be
-category: Essays
+tags: essays
 ---
 
 Imagine that our lives were like that of a foundling bird in its nest.

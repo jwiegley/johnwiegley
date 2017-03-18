@@ -1,6 +1,6 @@
 ---
 title: Sudden flash
-category: Poems
+tags: poetry
 location: 5130 (Barbara Swenson's house), Tucson, AZ
 ---
 

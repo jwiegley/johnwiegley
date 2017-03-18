@@ -1,6 +1,6 @@
 ---
 title: They call it poetry
-category: Poems
+tags: poetry
 ---
 
     When the soul's cry

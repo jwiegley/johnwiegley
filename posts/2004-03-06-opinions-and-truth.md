@@ -1,6 +1,6 @@
 ---
 title: Opinions and truth
-category: Essays
+tags: essays
 ---
 
 > *This essay was written a short while before I learned about the

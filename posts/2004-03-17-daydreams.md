@@ -1,6 +1,6 @@
 ---
 title: Daydreams
-category: Poems
+tags: poetry
 ---
 
     The deer in the park

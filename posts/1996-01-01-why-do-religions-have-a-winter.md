@@ -1,6 +1,6 @@
 ---
 title: Why do religions have a winter?
-category: Journal
+tags: journal
 ---
 
 Why is it that every Dispensation has a winter?  A time when the

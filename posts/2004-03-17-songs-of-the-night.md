@@ -1,6 +1,6 @@
 ---
 title: Songs of the night
-category: Poems
+tags: poetry
 ---
 
     "So dry, so dry,

@@ -1,6 +1,6 @@
 ---
 title: Our idea of God
-category: Essays
+tags: essays
 ---
 
 Each person has a certain conception of "God" that exists in his mind.

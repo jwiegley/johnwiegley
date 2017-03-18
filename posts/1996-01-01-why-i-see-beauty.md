@@ -1,6 +1,6 @@
 ---
 title: Why I see beauty
-category: Journal
+tags: journal
 ---
 
 I realize now why I find beautiful things beautiful: because I miss God.

@@ -1,6 +1,6 @@
 ---
 title: Why it seems so hard
-category: Journal
+tags: journal
 location: AcademyLand Apts, #5, True Blue, Grenada, West Indies
 ---
 

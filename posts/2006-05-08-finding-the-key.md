@@ -1,6 +1,6 @@
 ---
 title: Finding the key
-category: Journal
+tags: journal
 location: Nasim's house, 239 Misty Creek Drive, Monument, Colorado
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Privacy and diaries
-category: Journal
+tags: journal
 ---
 
 A reason for a diary to be kept private is that it contains one's

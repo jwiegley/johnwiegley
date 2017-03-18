@@ -1,6 +1,6 @@
 ---
 title: Artistic endeavor
-category: Journal
+tags: journal
 ---
 
 In pursuit of artistic endeavor, the goal is to capture from an event

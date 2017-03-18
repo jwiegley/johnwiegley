@@ -1,6 +1,6 @@
 ---
 title: Patience and impatience
-category: Journal
+tags: journal
 ---
 
 One analogy that makes the concept of both requiring and abandoning patience

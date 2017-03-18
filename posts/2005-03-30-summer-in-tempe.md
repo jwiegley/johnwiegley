@@ -1,6 +1,6 @@
 ---
 title: Summer in Tempe
-category: Poems
+tags: poetry
 edited: 04/19/2005
 location: McClintock and Southern Ave, Tempe, Arizona
 ---

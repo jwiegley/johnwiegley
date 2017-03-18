@@ -1,6 +1,6 @@
 ---
 title: The life of faith
-category: Journal
+tags: journal
 ---
 
 There are countless mental frameworks to describe the variety of life.

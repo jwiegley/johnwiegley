@@ -1,6 +1,6 @@
 ---
 title: Creative morality
-category: Journal
+tags: journal
 ---
 
 After writing yesterday's entry, I came across the following quote from

@@ -1,6 +1,6 @@
 ---
 title: Taking another look
-category: Journal
+tags: journal
 ---
 
 I've often heard Adolf Hitler used as an example of human evil.  With

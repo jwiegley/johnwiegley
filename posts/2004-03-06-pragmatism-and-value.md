@@ -1,6 +1,6 @@
 ---
 title: Pragmatism and value
-category: Essays
+tags: essays
 ---
 
 A theme in society that has often bothered me is that which says, "what

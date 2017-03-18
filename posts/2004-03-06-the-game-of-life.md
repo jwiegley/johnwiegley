@@ -1,6 +1,6 @@
 ---
 title: The game of life
-category: Essays
+tags: essays
 ---
 
 Recently, there have been many interactive video games made available

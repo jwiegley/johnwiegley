@@ -1,6 +1,6 @@
 ---
 title: The mystic sailor
-category: Poems
+tags: poetry
 location: Uncle Jim's house in Lake Geneva, Wisconsin
 ---
 

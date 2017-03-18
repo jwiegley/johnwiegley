@@ -1,6 +1,6 @@
 ---
 title: I've found you
-category: Poems
+tags: poetry
 ---
 
     I have waited so long for a companion,

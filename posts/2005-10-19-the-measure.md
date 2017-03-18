@@ -1,6 +1,6 @@
 ---
 title: The measure
-category: Journal
+tags: journal
 ---
 
 What if progress along the mystical path toward God is measured by our

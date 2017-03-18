@@ -1,6 +1,6 @@
 ---
 title: Remembering Ashley
-category: Journal
+tags: journal
 ---
 
 I first met Ashley Alvis, I don't know how -- in that way things happen which are

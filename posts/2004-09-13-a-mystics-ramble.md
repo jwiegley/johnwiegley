@@ -1,6 +1,6 @@
 ---
 title: A mystic's ramble
-category: Poems
+tags: poetry
 ---
 
     when tragedy befalls the truly kind,

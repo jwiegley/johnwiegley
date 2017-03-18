@@ -1,6 +1,6 @@
 ---
 title: Just a pawn
-category: Poems
+tags: poetry
 edited: 10/22/2003
 location: 325 Morrow Road
 ---

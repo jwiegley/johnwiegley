@@ -1,6 +1,6 @@
 ---
 title: From sight to sound
-category: Journal
+tags: journal
 ---
 
 After all these entries on seeing and perception, something different:

@@ -1,6 +1,6 @@
 ---
 title: Sacrifice and pain
-category: Journal
+tags: journal
 ---
 
 I've heard it said a few times that sacrifice is when we do something

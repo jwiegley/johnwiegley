@@ -1,6 +1,6 @@
 ---
 title: Destruction
-category: Poems
+tags: poetry
 ---
 
     If poetry is devastating,

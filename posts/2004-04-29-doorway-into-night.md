@@ -1,6 +1,6 @@
 ---
 title: Doorway into Night
-category: Poems
+tags: poetry
 location: 380 Esplanade #211
 ---
 

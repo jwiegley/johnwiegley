@@ -1,6 +1,6 @@
 ---
 title: An easy exercise
-category: Journal
+tags: journal
 ---
 
 When listening to love songs on the radio, wherever you are, imagine the

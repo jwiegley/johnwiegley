@@ -1,6 +1,6 @@
 ---
 title: Flame itself
-category: Poems
+tags: poetry
 edited: 11/07/2003
 location: Cafe Torrefazione Italiano
 ---

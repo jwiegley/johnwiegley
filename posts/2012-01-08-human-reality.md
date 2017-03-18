@@ -1,6 +1,6 @@
 ---
 title: Human reality
-category: Journal
+tags: journal
 ---
 
 If human reality is a mirror, then it only shines because of the sun

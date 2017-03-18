@@ -1,6 +1,6 @@
 ---
 title: We awaken through understanding
-category: Journal
+tags: journal
 ---
 
 We are so constituted that our nature is awakened through understanding.

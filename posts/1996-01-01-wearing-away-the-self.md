@@ -1,6 +1,6 @@
 ---
 title: Wearing away the self
-category: Journal
+tags: journal
 ---
 
 Our selves can sometimes be like the crust of Earth, which hides the

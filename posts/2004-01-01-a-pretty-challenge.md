@@ -1,6 +1,6 @@
 ---
 title: A pretty challenge
-category: Poems
+tags: poetry
 edited: 03/27/2005
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The Traveler
-category: Stories
+tags: stories
 ---
 
 A harsh light from the noon-day sun washed over a little grove of pine

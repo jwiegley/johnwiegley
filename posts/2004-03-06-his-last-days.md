@@ -1,6 +1,6 @@
 ---
 title: His Last Days
-category: Stories
+tags: stories
 ---
 
 Some people ask why I spent so much time with John in his last days.

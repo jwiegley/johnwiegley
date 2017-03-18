@@ -1,6 +1,6 @@
 ---
 title: Male Fantasy
-category: Poems
+tags: poetry
 edited: 05/08/2004
 location: American Airlines flight 177 JFK-SFO
 ---

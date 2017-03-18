@@ -1,6 +1,6 @@
 ---
 title: Righteousness deserves no focus
-category: Journal
+tags: journal
 ---
 
 This entry is dedicated to my friend Sina, considering how many times we've

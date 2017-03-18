@@ -1,6 +1,6 @@
 ---
 title: Borrow my eyes
-category: Poems
+tags: poetry
 edited: 05/05/2005
 location: Harkins Shae 14 (theater), Scottsdale, Arizona
 ---

@@ -1,6 +1,6 @@
 ---
 title: The mood of night
-category: Poems
+tags: poetry
 edited: 03/07/2004
 location: Sitges, Spain
 ---

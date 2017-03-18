@@ -1,6 +1,6 @@
 ---
 title: The aim of religion
-category: Essays
+tags: essays
 ---
 
 Although it is true that every religion upholds the "twin pillars of

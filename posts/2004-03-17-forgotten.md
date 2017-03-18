@@ -1,6 +1,6 @@
 ---
 title: Forgotten
-category: Poems
+tags: poetry
 ---
 
     The paper was pure white,

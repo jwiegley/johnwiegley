@@ -1,6 +1,6 @@
 ---
 title: Human thought
-category: Poems
+tags: poetry
 ---
 
     Human thought is a parade of ignorance:

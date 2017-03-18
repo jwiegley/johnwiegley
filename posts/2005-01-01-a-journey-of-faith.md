@@ -1,6 +1,6 @@
 ---
 title: A Journey of Faith
-category: Essays
+tags: essays
 ---
 
 I would like to tell story of my encounters with faith.  It is a story

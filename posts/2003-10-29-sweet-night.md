@@ -1,6 +1,6 @@
 ---
 title: Sweet night
-category: Poems
+tags: poetry
 ---
 
     Alone, the night too black --

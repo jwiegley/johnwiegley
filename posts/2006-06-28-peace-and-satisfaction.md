@@ -1,6 +1,6 @@
 ---
 title: Peace and satisfaction
-category: Journal
+tags: journal
 location: 373 Bay Tower, Royal Koan Resort, Kailua-Kona, Big Island, Hawai'i
 ---
 

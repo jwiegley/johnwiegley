@@ -1,6 +1,6 @@
 ---
 title: An unfailing love
-category: Journal
+tags: journal
 location: 90 Watch Hill Dr Apt B, Colorado Springs, 80906
 ---
 

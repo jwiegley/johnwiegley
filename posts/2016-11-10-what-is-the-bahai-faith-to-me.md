@@ -1,6 +1,6 @@
 ---
 title: What is the Bahá'í Faith to me?
-category: Journal
+tags: journal
 ---
 
 This physical life we are born into is just a beginning: not only of body and

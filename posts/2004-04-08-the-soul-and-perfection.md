@@ -1,6 +1,6 @@
 ---
 title: The soul and perfection
-category: Journal
+tags: journal
 ---
 
 The soul can love only perfection.  But first it must learn how to

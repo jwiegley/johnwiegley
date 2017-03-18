@@ -1,6 +1,6 @@
 ---
 title: Levels of awareness
-category: Journal
+tags: journal
 ---
 
 It seems strange, but there appear to be at least two levels of

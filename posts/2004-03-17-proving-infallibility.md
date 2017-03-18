@@ -1,6 +1,6 @@
 ---
 title: Proving infallibility
-category: Essays
+tags: essays
 ---
 
 > Someone asked of Bahá'u'lláh: *But as I have gone over and over the

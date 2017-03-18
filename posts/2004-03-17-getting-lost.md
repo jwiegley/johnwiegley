@@ -1,6 +1,6 @@
 ---
 title: Getting lost
-category: Poems
+tags: poetry
 ---
 
     We are all butterflies,

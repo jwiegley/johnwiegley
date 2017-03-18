@@ -1,6 +1,6 @@
 ---
 title: Moonlight
-category: Poems
+tags: poetry
 written: 10/29/2003
 ---
 

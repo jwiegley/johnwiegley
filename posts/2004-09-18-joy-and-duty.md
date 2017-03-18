@@ -1,6 +1,6 @@
 ---
 title: Joy and duty
-category: Journal
+tags: journal
 ---
 
 Since perceiving the unity of duality in my thinking, there is another

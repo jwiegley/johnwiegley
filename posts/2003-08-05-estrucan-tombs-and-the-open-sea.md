@@ -1,6 +1,6 @@
 ---
 title: Estrucan tombs, and the open sea
-category: Journal
+tags: journal
 ---
 
 I am writing this evening from an old Roman amphitheater in Fiesole,

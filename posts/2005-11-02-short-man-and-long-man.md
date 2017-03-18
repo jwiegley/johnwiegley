@@ -1,6 +1,6 @@
 ---
 title: Short man and long man
-category: Journal
+tags: journal
 ---
 
 This theory has been part of my thinking since it first occurred to me

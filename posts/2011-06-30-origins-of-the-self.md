@@ -1,6 +1,6 @@
 ---
 title: Origins of the self
-category: Journal
+tags: journal
 ---
 
 The following is just a collection of thoughts inspired from readings in

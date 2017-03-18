@@ -1,6 +1,6 @@
 ---
 title: The inner life
-category: Journal
+tags: journal
 ---
 
 What is the power of the imagination?  As I was watching the movie

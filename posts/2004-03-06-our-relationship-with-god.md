@@ -1,6 +1,6 @@
 ---
 title: Our relationship with God
-category: Essays
+tags: essays
 ---
 
 A relationship with any living thing involves a certain degree of

@@ -1,6 +1,6 @@
 ---
 title: Nightingale's song
-category: Poems
+tags: poetry
 ---
 
     Two brothers sat, admiring the song of a nightingale.

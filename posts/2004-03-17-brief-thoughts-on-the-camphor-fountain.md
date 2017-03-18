@@ -1,6 +1,6 @@
 ---
 title: Brief thoughts on "the camphor fountain"
-category: Essays
+tags: essays
 ---
 
 In the Qur'án, verse 76:5, we find:

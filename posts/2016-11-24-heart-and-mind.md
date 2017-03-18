@@ -1,6 +1,6 @@
 ---
 title: Heart and mind
-category: Journal
+tags: journal
 ---
 
 Imagine someone you've known for many, many years: maybe a spouse, a friend, a

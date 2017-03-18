@@ -1,6 +1,6 @@
 ---
 title: A Cigarette Butt (on the night of Sant Joan)
-category: Poems
+tags: poetry
 edited: 03/22/2004
 location: Spain
 ---

@@ -1,6 +1,6 @@
 ---
 title: Body and spirit
-category: Journal
+tags: journal
 ---
 
 If the world is like a body, "God" is the spirit of that body.  His Will

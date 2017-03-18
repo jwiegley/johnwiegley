@@ -1,6 +1,6 @@
 ---
 title: Farewell to a love
-category: Poems
+tags: poetry
 location: 380 Esplanade #211
 ---
 

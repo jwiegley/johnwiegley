@@ -1,6 +1,6 @@
 ---
 title: The real world
-category: Journal
+tags: journal
 ---
 
 I was asked recently what I thought about the nature of beauty and

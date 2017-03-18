@@ -1,6 +1,6 @@
 ---
 title: The prodigal car returns
-category: Journal
+tags: journal
 ---
 
 After less than a day, thanks to the efforts of my local police, my car

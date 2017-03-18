@@ -1,6 +1,6 @@
 ---
 title: The Four Valleys again
-category: Journal
+tags: journal
 ---
 
 At the end of the Seven Valleys, Bahá’u’lláh makes a statement about the furthering journeys of the spiritual wayfarer:

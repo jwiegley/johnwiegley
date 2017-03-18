@@ -1,6 +1,6 @@
 ---
 title: Faith and reality
-category: Journal
+tags: journal
 ---
 
 I have come to believe that faith has the power to create new realities.

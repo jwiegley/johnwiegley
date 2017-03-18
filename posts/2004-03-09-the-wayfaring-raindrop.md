@@ -1,6 +1,6 @@
 ---
 title: The Wayfaring Raindrop
-category: Stories
+tags: stories
 ---
 
 In the skies above the ocean sat a cloud to dwarf the heavens.  It was

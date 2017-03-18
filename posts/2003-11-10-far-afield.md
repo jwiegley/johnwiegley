@@ -1,6 +1,6 @@
 ---
 title: Far afield
-category: Poems
+tags: poetry
 edited: 09/13/2004
 location: 380 Esplanade Ave #211, Pacifica
 ---

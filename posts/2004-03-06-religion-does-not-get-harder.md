@@ -1,6 +1,6 @@
 ---
 title: Religion does not get harder
-category: Essays
+tags: essays
 ---
 
 I am doubtful of the conventional Western attitude toward religion, that

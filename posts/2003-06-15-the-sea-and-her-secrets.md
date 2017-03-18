@@ -1,6 +1,6 @@
 ---
 title: The sea and her secrets
-category: Poems
+tags: poetry
 edited: 03/17/2004
 location: Sitges, Spain
 ---

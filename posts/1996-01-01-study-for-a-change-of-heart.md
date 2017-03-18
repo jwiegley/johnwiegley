@@ -1,6 +1,6 @@
 ---
 title: Study for a change of heart
-category: Journal
+tags: journal
 ---
 
 The reason why I study most things is not for the knowledge that I might

@@ -1,6 +1,6 @@
 ---
 title: Thought and ignorance
-category: Journal
+tags: journal
 ---
 
 Thought is based in ignorance, since the motive for engaging in thought

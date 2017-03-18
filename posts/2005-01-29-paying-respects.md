@@ -1,6 +1,6 @@
 ---
 title: Paying respects
-category: Journal
+tags: journal
 ---
 
 I would like to take a moment to pay my respects to some of the writers

@@ -1,6 +1,6 @@
 ---
 title: Springtime
-category: Poems
+tags: poetry
 edited: 04/28/2005
 location: California Pizza Kitchen, Biltmore Fashion Park, Phx, AZ
 ---

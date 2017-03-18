@@ -1,6 +1,6 @@
 ---
 title: Day in the Snow
-category: Stories
+tags: stories
 ---
 
 It was a cold light that filtered down, one winter morning.  Lighting up

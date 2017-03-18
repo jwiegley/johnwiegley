@@ -1,6 +1,6 @@
 ---
 title: The Iceberg Principle
-category: Essays
+tags: essays
 ---
 
 There is an interesting dynamic in our Faith between what we "do". and what we

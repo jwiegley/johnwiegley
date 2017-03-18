@@ -1,6 +1,6 @@
 ---
 title: Nothing better to write
-category: Poems
+tags: poetry
 ---
 
     Poems can be so poor at depicting understanding;

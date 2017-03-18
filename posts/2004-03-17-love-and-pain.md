@@ -1,6 +1,6 @@
 ---
 title: Love and pain
-category: Poems
+tags: poetry
 ---
 
     I have taken Pain into my arms

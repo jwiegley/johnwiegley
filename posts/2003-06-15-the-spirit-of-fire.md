@@ -1,6 +1,6 @@
 ---
 title: The Spirit of Fire
-category: Poems
+tags: poetry
 edited: 03/22/2004
 location: Spain
 ---

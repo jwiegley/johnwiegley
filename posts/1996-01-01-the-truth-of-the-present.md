@@ -1,6 +1,6 @@
 ---
 title: The truth of the present
-category: Journal
+tags: journal
 ---
 
 The only truth we encounter is the present, and the words of the

@@ -1,6 +1,6 @@
 ---
 title: Seeing imperfection in others
-category: Journal
+tags: journal
 ---
 
 As I watch the cars and drivers during my trek to Connecticut each

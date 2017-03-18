@@ -1,6 +1,6 @@
 ---
 title: On the runway in LA
-category: Poems
+tags: poetry
 ---
 
     This is a schoolyard where souls learn patience:

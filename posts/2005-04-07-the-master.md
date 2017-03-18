@@ -1,6 +1,6 @@
 ---
 title: The Master
-category: Poems
+tags: poetry
 location: Chocolate Iguana, Tucson, Arizona
 ---
 

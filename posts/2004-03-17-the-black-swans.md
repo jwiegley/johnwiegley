@@ -1,6 +1,6 @@
 ---
 title: The black swans
-category: Poems
+tags: poetry
 ---
 
     Sunlight fell on everything,

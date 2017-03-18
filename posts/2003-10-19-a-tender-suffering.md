@@ -1,6 +1,6 @@
 ---
 title: A tender suffering
-category: Poems
+tags: poetry
 edited: 11/21/2003
 location: Guest room in the Rhodes' house, 312 Palmer Ave
 ---

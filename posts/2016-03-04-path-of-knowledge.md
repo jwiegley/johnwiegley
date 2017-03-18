@@ -1,6 +1,6 @@
 ---
 title: The path of knowledge
-category: Poems
+tags: poetry
 ---
 
     First, He beckons you, to see if you will come;

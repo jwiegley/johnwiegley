@@ -1,6 +1,6 @@
 ---
 title: On meditation
-category: Essays
+tags: essays
 ---
 
 As for any set form of meditation, we have the following from the

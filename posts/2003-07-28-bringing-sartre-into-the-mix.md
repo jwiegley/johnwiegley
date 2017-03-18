@@ -1,6 +1,6 @@
 ---
 title: Bringing Sartre into the mix
-category: Journal
+tags: journal
 ---
 
 In my last message I left out one of my favorites, Jean Paul Sartre.  He

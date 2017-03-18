@@ -1,6 +1,6 @@
 ---
 title: A house divided
-category: Journal
+tags: journal
 ---
 
 Why is following certain standards so hard?  Why can we not "whip

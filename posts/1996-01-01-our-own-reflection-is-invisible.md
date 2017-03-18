@@ -1,6 +1,6 @@
 ---
 title: Our own reflection is invisible
-category: Journal
+tags: journal
 ---
 
 If I were placed in a room with no reflecting surfaces, it would be

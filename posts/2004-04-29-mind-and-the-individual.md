@@ -1,6 +1,6 @@
 ---
 title: '"Mind" and the individual'
-category: Journal
+tags: journal
 ---
 
 People living in America seem to place too great an emphasis on the

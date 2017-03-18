@@ -1,6 +1,6 @@
 ---
 title: By the sandy shore
-category: Poems
+tags: poetry
 written: 2 Lane Ave Apt 4, Caldwell, NJ
 ---
 

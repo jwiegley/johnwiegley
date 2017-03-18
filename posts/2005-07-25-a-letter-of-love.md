@@ -1,6 +1,6 @@
 ---
 title: A letter of love
-category: Journal
+tags: journal
 ---
 
 This love letter is a composite of several letters written over a long

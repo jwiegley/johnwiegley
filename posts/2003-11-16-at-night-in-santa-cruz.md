@@ -1,6 +1,6 @@
 ---
 title: At night in Santa Cruz
-category: Poems
+tags: poetry
 ---
 
     Pale evening and a lone, bright star;

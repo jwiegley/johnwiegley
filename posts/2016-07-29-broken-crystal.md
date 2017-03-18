@@ -1,6 +1,6 @@
 ---
 title: Broken crystal
-category: Poems
+tags: poetry
 ---
 
     I lived upon a landscape of broken crystal.

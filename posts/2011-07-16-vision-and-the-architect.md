@@ -1,6 +1,6 @@
 ---
 title: Vision and the architect (2 of 3)
-category: Journal
+tags: journal
 ---
 
 What I'd like to examine next is how different types of people relate to the

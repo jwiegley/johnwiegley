@@ -1,6 +1,6 @@
 ---
 title: Living in the now
-category: Journal
+tags: journal
 ---
 
 I find that many people have a hard time "being in the present" because

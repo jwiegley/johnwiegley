@@ -1,6 +1,6 @@
 ---
 title: A metaphor for the self
-category: Essays
+tags: essays
 ---
 
 The Buddhist Writings say that there is no individual self which is

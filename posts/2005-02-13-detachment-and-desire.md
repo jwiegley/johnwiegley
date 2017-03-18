@@ -1,6 +1,6 @@
 ---
 title: Detachment and desire
-category: Journal
+tags: journal
 ---
 
 My thoughts have been leading me toward the belief that all religious

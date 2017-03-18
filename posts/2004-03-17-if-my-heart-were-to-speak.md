@@ -1,6 +1,6 @@
 ---
 title: If my heart were to speak...
-category: Poems
+tags: poetry
 ---
 
     If my heart were to speak

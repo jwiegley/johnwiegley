@@ -1,6 +1,6 @@
 ---
 title: About religious discipline
-category: Journal
+tags: journal
 ---
 
 A [friend](http://www.employees.org/~nkv/blog/) wrote on the two modes of religion, discussing their

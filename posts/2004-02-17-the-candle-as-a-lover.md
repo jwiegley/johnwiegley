@@ -1,6 +1,6 @@
 ---
 title: The candle as a lover
-category: Journal
+tags: journal
 ---
 
 Today a poem, using the well-known metaphor of [The Candle](the.candle) to depict the

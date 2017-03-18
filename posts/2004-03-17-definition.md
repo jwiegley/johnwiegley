@@ -1,6 +1,6 @@
 ---
 title: Definition
-category: Poems
+tags: poetry
 ---
 
     I saw a tree in a forest,

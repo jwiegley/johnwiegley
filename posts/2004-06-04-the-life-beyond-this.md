@@ -1,6 +1,6 @@
 ---
 title: The life beyond this
-category: Journal
+tags: journal
 ---
 
 What if the world we see is like an image reflecting off of still water;

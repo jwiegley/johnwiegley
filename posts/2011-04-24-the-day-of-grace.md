@@ -1,6 +1,6 @@
 ---
 title: The Day of Grace
-category: Journal
+tags: journal
 ---
 
 ‘Abdu’l-Bahá wrote:

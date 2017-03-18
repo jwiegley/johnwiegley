@@ -1,6 +1,6 @@
 ---
 title: Introducing the Seven Valleys
-category: Essays
+tags: essays
 ---
 
 The Seven Valleys was written by Bahá'u'lláh near the 1860s.  In it He

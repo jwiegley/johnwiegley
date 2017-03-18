@@ -1,6 +1,6 @@
 ---
 title: A thought experiment
-category: Journal
+tags: journal
 ---
 
 Since today we commemorate the life of Dr. Martin Luther King, Jr., here

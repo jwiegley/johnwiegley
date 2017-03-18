@@ -1,6 +1,6 @@
 ---
 title: The will to be
-category: Journal
+tags: journal
 ---
 
 I have often wondered why I do not find more joy in the world at being

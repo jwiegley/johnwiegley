@@ -1,6 +1,6 @@
 ---
 title: Reading scripture
-category: Poems
+tags: poetry
 location: 239 Misty Creek Drive, Monument, Colorado
 ---
 

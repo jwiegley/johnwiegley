@@ -1,6 +1,6 @@
 ---
 title: To know God
-category: Journal
+tags: journal
 ---
 
 I believe that God created us out of love, since love is an attribute of His

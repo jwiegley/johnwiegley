@@ -1,6 +1,6 @@
 ---
 title: Spellcaster
-category: Poems
+tags: poetry
 ---
 
     Silence. Cold thoughts.

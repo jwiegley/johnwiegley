@@ -1,6 +1,6 @@
 ---
 title: Una fantasia della notte
-category: Journal
+tags: journal
 ---
 
 The mood of the lake at midnight was like the waters it contained.

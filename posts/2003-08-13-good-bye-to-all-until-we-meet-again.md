@@ -1,6 +1,6 @@
 ---
 title: Good bye to all, until we meet again
-category: Journal
+tags: journal
 ---
 
 Now this really is good-bye, because the week is ending, the shops are
