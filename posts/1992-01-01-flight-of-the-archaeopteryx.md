@@ -1,6 +1,6 @@
 ---
 title: Flight of the Archaeopteryx
-category: Poems
+tags: poetry
 edited: 03/17/2004
 ---
 
