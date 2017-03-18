@@ -52,8 +52,8 @@ body {
     margin: 2em;
 }
 
-.article-title {
-    font-size: 120%;
+.article-title h1 {
+    font-size: 130%;
     font-weight: bold;
 }
 
@@ -171,8 +171,8 @@ code {
     padding-bottom: 2ex;
 }
 
-.article-title {
-    font-size: 150%;
+.article-title h1 {
+    font-size: 130%;
     font-weight: bold;
 }
 
