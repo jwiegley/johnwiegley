@@ -1,5 +1,21 @@
                                    COMMENTS
 
+# Good and Evil at the End
+
+I wonder if an analogy might apply: While our bodies are developing in the
+womb, it's possible for some parts to develop poorly, just as others do well.
+Then we have to live out this life with those weaknesses and strengths. In
+that sense, some parts of our body afterward might be described as physically
+heavenly, and others as hellish.
+
+I know many religions are boolean in their view of heaven and hell: either
+you're in one or the other. But perhaps the degree of virtue we achieve in
+this life is like developing a healthy soul, which is able to thrive in
+another world intended for its nature. We may even be able to keep developing
+once this life is past, but just like development here: however much we can
+still accomplish amazing things, whether deaf or disabled or blind, we can't
+change what we start with after the developmental stage is done.
+
 # Why do the Central Figures get to reinterpret the Bible and the Qur'an in new ways that hadn't been done before them?
 
 /u/The_Goa_Force makes the point: the Books are sealed, and the Manifestation
