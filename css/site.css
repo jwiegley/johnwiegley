@@ -1,6 +1,6 @@
 /* @override 
-	http://127.0.0.1:8000/css/site.css
-	http://johnwiegley.com/css/site.css */
+    http://127.0.0.1:8000/css/site.css
+    http://johnwiegley.com/css/site.css */
 
 body {
     background-color: rgba(252, 238, 209, 0.71);
@@ -125,12 +125,16 @@ body {
     border-top: 1px solid #333;
     font-style: italic;
     padding-top: 2ex;
-    text-align: center;
+    text-align: left;
+}
+
+#subscribe {
+    float:  right;
 }
 
 blockquote {
-	font-family: Palatino, serif;
-	font-style: italic;
+    font-family: Palatino, serif;
+    font-style: italic;
 }
 
 pre {
@@ -142,9 +146,9 @@ code {
 }
 
 #navlinks {
-	margin: 1em;
+    margin: 1em;
 }
 
 #navlinkolder {
-	float:  right;
+    float:  right;
 }
