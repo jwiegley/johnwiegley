@@ -1,5 +1,210 @@
                                    COMMENTS
 
+# Why do the Central Figures get to reinterpret the Bible and the Qur'an in new ways that hadn't been done before them?
+
+/u/The_Goa_Force makes the point: the Books are sealed, and the Manifestation
+opens them in the Day of His Resurrection. This is also referred to as the
+"sealed, choice Wine".
+
+Why are they sealed in the first place? Because the books do not just convey
+spiritual understanding, they are also a test to those who read them:
+
+> Know verily that the purpose underlying all these symbolic terms and
+  abstruse allusions, which emanate from the Revealers of God's holy Cause,
+  hath been to test and prove the peoples of the world; that thereby the earth
+  of the pure and illuminated hearts may be known from the perishable and
+  barren soil. From time immemorial such hath been the way of God amidst His
+  creatures, and to this testify the records of the sacred books.
+
+Could He have been more obvious? Certainly. In fact, He could have made
+everything clear as day with a single word:
+
+> Within the treasury of Our Wisdom there lieth unrevealed a knowledge, one
+  word of which, if we chose to divulge it to mankind, would cause every human
+  being to recognize the Manifestation of God and to acknowledge His
+  omniscience, would enable every one to discover the secrets of all the
+  sciences, and to attain so high a station as to find himself wholly
+  independent of all past and future learning.
+
+This points at a Divine purpose behind the sealing of the books, and there is
+more going on than just education of the people.
+
+# Provenance of 'Cities' and 'Valleys' in the Seven valleys and Four Valleys?
+
+You may already know that the Seven Valleys only sometimes refers to the
+stages as valleys. They are:
+
+- Valley of Search
+- Valley of Love
+- City (madinah) of Knowledge
+- Station (maqám) of Unity
+- City (madinah) of Contentment
+- Valley of Wonderment
+- Valley of True Poverty and Absolute Nothingness
+
+Further, these seven stages are fit within a larger scheme of three stations:
+
+- Station of Limitation (Search, Love, Knowledge)
+- Station of Unity (Unity, Contentment, Wonderment)
+- Station of Annihilation of Self and Eternity in God (True Poverty and
+  Absolute Nothingness)
+
+Even within a "valley", Bahá’u’lláh may sometimes call it a city, and vice
+versa. They are also sometimes referred to as degrees (marátib) or stations
+(maqámát), leading me to believe that the idea is to convey a progression of
+deepening awareness of the Divine, rather than ascribing particular meaning to
+the choice of noun. But I'd love to hear if there's been research to indicate
+otherwise!
+
+After that reading, perhaps try another where "awareness of the Divine" refers
+to the degree of our recognition of the nature of the Manifestations of God.
+
+These are just a few recent thoughts, for whatever they may offer:
+
+In the limited realm of Násút, we see Them through Their humanity, and observe
+and weigh them using standards we apply to other human beings. At best in this
+realm They are seen as wonderful souls and peerless hearts, Who sacrifice
+Themselves for the benefit of humanity. Their Divine origin is taken as an
+article of faith, whose evidence remains indirect. They are also seen as quite
+different from each Other, in terms of language, teachings, social customs,
+etc.
+
+In the realm of Malakút, the place of eternal appearances, we see Them by
+Their divine qualities, and realize that just as two perfect roses may be
+understood as the same rose in terms of the everlasting Ideal they realize, so
+too the Manifestations represent the same Purpose, the same Mission and the
+same fundamental Reality. They are one Soul and one Being, Who is continually
+resurrected to proclaim the same Message. This is the realm where Their unity
+dissolves all distinctions, and it becomes impossible to tell One apart from
+the Other, unless one make reference to the humanity among whom They appeared.
+
+In the realm of Jabarút, the place of the Unseen: if we are beings of light
+and shadow, They are the Sun, eclipsing every other seeming reality. Here the
+Primal Will is recognized to be the cynosure of all hopes, and the ultimate
+goal of existence. Heaven is defined by faith in Their Cause, and hell by the
+least separation. It does not matter even if we lose our very selves in this
+path, because in finding Him, we have found all.
+
+It is my thinking lately that these three worlds (excepting Láhút, which we
+cannot comprehend or experience) may map to the three stations of the believer
+who experiences these worlds: limitation, unity and annihilation of self
+leading to eternal life in Him.
+
+# Christianity and Buddhism
+
+I'm not sure if "Buddhists don't believe in God" is entirely accurate...
+
+From what I understand -- though I'm not a Buddhist -- Buddhism rejects any
+and all conceptions of mind as an interface to True Reality. Instead, we are
+one with that reality, but willfully fail to see this due to various
+illusions: a separation that leads to suffering. Only by becoming free from
+self can one experience the truth and reach nirvana.
+
+What is the character of True Reality? Is it God? Is it not God? I'm not sure
+Buddhism even addresses this. What I've read is much more directed at freeing
+the individual from his prison of self, than trying to explain -- in terms
+that would only tighten the lock on that prison -- something that mind/self
+has no hope of ever comprehending.
+
+So I'd say that Buddhists don't believe in God, as in the conception "God"
+that makes us think we can talk about "God" and be talking about anything
+meaningful. But if by God you're just pointing (without understanding) to that
+Reality which the prison mind is part of while still not seeing it, then sure,
+God is as good a word as any, and to some extent the descriptions even match
+up.
+
+One dimension that Christians and other theists add to the word "God" is the
+idea that He directly intervenes in the affairs of mankind. I'm not sure I've
+met a Buddhist yet who would say that Divine Reality would do this, as if it
+had a human-like persona.
+
+Another way to describe this difference is to say that Buddha emphasized
+experiencing Reality through freedom and enlightenment, rather than theorizing
+about Reality through study and contemplation. Since God can't be experienced
+(infinite vs. finite), He necessarily will not be found as a subject of this
+experiential doctrine.
+
+# In a comment
+
+Love needs the veil to exist, otherwise the heart could not withstand the
+beauty of the Beloved, it would become devotion itself, without choice. "Love
+is a veil betwixt the lover and the Loved One".
+
+# Every person creates his own reality
+
+What this idea seems to be lacking is that even if I do create my own reality,
+other people still have to live with it, and their own creative efforts often
+have little impact on mine.
+
+Yet, also in support of this idea, from
+http://www.huffingtonpost.com/kathy-gottberg/the-truth-behind-you-get-_b_6780858.html:
+
+> While the exact phrase, "you create your own reality" may have come from
+  Jane Roberts back in the 1970s, others have expressed similar ideas for
+  several millennia. The Buddha said, "What you dwell upon you become."
+  Jesus said, "It is done unto you as you believe." Hindu mysticism from
+  Shankaracharya says, "Whatever a person's mind dwells on intensely and
+  with firm resolve, that is exactly what he becomes." It says in the
+  Talmud, "We do not see things as they are, we see them as we are."
+
+# I have a hard time believing in the God I was raised to believe
+
+I think many of us are taught to view God as a power player in what is
+principally a human drama -- something that makes little sense, if you think
+about it. Why would God develop feelings of antipathy toward us just because
+we're weak and ignorant and always still learning? Faith isn't obvious: it can
+take a lifetime to develop, and *not* having faith is even sometimes part of
+that journey (e.g., the Apostle Paul himself).
+
+I wouldn't worry so much about what you've done, or what you think God will do
+in response. He's a better friend/parent/confidant than we can ever give Him
+credit for. Instead, focus on your own heart, and whether it is sincere and
+pure. I'm not even talking about a need to believe right now. Just purify and
+cleanse your heart as best you can, and find out from there what will move you
+along on your journey.
+
+As for the Old Testament God: Much of the Hebrew bible does not quote a
+Prophet giving revelation that such and such a thing happened. What we know is
+only what has come down to us as stories in these books.
+
+For example, the destruction of Sodom and Gomorrah: let's assume the cities
+existed, that they were destroyed, and that the people who lived in them were
+as morally corrupt as the Bible says. Now some natural disaster occurs that
+seems like a freak occurrence, as we know does happen. It's easy to imagine
+that the God-fearing people of the time, seeing the immorality of those
+Sodomites, would believe their destruction was a just retribution. They would
+say "it was from God", and really who would argue with that? Even today we
+might say the same thing, if a particularly evil person gets his comeuppance
+through a freak event, an "act of God".
+
+It's therefore highly likely that, as a record of the times and a striking
+moral example, it would be written down for future generations to observe and
+reflect on. This doesn't necessarily mean this was Revelation, though, or that
+it accurately portrays what God was thinking and feeling.
+
+Different readers of the Bible will have different interpretations, of course,
+and some who hold to the entire Bible as the infallible Word of God will think
+it means exactly what it says. But perhaps the point of the Torah here, being
+divinely inspired, was to provide the spiritual lessons humanity needed to
+move forward in their progress as a nation. That is: *these are human focused
+stories*, meant to educate us along the Right Path, rather than accurate
+indicators of the personality of an Infinite and Unknowable Being, by Whose
+Own Revelation in the later words of Christ is all goodness, love and mercy.
+
+# Confused and In Search: Please Give Me Your Best Ideas
+
+As you approach the philosophical God, keep in mind the limitations of the one
+doing the seeking: However much we may love a pet cat, for example, and even
+if they understand physically what's going on when we move them from one
+apartment to another, they'll never understand our motivations or reasons for
+doing so.
+
+Most of the uses of the word "God", to me, have nothing to do with the Reality
+we're discussing now. At best they serve as mystical placeholders, or points
+of reference; but they are not and cannot be definitional in any way, because
+that would presuppose a frame of reference greater than God, within which He
+could be defined.
+
 # A Question about the Relationship Between the Reformed Interpretation of Soteriology in Christianity and the Bahá’í Faith
 
 I think the difficulty lies in the statement "this is really what the Bible

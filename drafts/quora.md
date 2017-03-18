@@ -1,3 +1,17 @@
+# What is the science behind faith, many people believe God is not real but the feeling/power of faith is interesting?
+
+Date: 2017-03-13
+
+Many seem to think that belief in God should be based on His being obvious,
+and easily proven to exist. Yet the nature of this life, with all its apparent
+contradictions, causes me to wonder if His not being obvious is part of the
+point of why we’re here.
+
+Say you’re the most famous person in all of existence; wouldn’t you like to
+know who your real friends are before you let them into your home? And as
+Hollywood has shown in many films, sometimes you don’t discover who your real
+friends are until you test them.
+
 # Life is totally meaningless. We live. We die. So what's the point?
 
 Don't give me any religious reasons as that's just a coping mechanism.
