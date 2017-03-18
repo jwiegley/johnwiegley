@@ -1,6 +1,5 @@
 ---
 title: A metaphor of the Seven Valleys
-date: Mon, 17 May 2010 08:33:47 +0000
 category: Journal
 ---
 

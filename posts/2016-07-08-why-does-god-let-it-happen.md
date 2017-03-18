@@ -1,6 +1,5 @@
 ---
 title: Why does God let it happen?
-date: Fri, 08 Jul 2016 15:26:52 +0000
 category: Essays
 ---
 
@@ -61,7 +60,7 @@ again. As Rumi wrote, "Don’t seek the water; increase your thirst."
 Maybe paradise is not something you enter after you die; maybe paradise is
 what you discover once you see the world aright.
 
-Footnotes: 
+Footnotes:
 [1]  Bahá'u'lláh, Gems of Divine Mysteries, p.6
 
 [2]  Qur’án 67:3

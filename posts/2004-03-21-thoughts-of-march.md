@@ -1,6 +1,5 @@
 ---
 title: Thoughts of March
-date: Sun, 21 Mar 2004 12:00:00 +0000
 category: Journal
 ---
 

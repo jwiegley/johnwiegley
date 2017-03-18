@@ -1,6 +1,5 @@
 ---
 title: Introvert and extravert
-date: Wed, 10 Dec 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -115,7 +114,7 @@ is from *The Broken God*, by David Zindell.  The scene is the hero, Danlo,
 first catching sight of a women he sees and falls in love with.
 
 > "*Losharu shona!*" Danlo whispered to himself.  "*Losharu halla!*"
-> 
+>
 > He stared at her, much too openly, and his eyes burned because he
 > could not blink them, and his heart pounded with the thrill of
 > shooting adrenaline.  For much too long he remained frozen there, like
@@ -141,9 +140,9 @@ first catching sight of a women he sees and falls in love with.
 > were burning with a need far beyond wonder.  His chest was hot and
 > tight, and his eyes were afire with the sight of her, and his hands
 > ached to touch her splendid face.
-> 
+>
 > *Halla is the woman who shines like the sun*, he thought.
-> 
+>
 > She looked at him then.  She turned her head and looked past all the
 > bright, chattering people standing between them.  She looked straight
 > at him, boldly and openly.  Their eyes met and locked together, and

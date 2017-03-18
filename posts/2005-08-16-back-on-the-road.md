@@ -1,6 +1,5 @@
 ---
 title: Back on the road
-date: Tue, 16 Aug 2005 12:00:00 +0000
 category: Journal
 ---
 

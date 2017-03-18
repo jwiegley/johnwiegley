@@ -1,6 +1,5 @@
 ---
 title: About religious discipline
-date: Tue, 02 Mar 2004 12:00:00 +0000
 category: Journal
 ---
 

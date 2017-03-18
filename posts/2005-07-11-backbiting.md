@@ -1,6 +1,5 @@
 ---
 title: Backbiting
-date: Mon, 11 Jul 2005 12:00:00 +0000
 category: Essays
 ---
 
@@ -36,7 +35,7 @@ Lights of Guidance, page 90):
 > mentioning names.  The individual believer should seek to do this,
 > whether he is consulting a friend, Bahá'í or non-Bahá'í, or whether
 > the friend is consulting him.
-> 
+>
 > `Abdu'l-Bahá does not permit adverse criticism of individuals by name
 > in discussion among the friends, even if the one criticizing believes
 > that he is doing so to protect the interests of the Cause. If the
@@ -109,15 +108,15 @@ expressed together:
 > sadden the heart of any person, or move the tongue in reproach of and
 > finding fault with anybody, whether he is friend or stranger, believer
 > or enemy.[^6]
-> 
+>
 > The friends must overlook their shortcomings and faults and speak only
 > of their virtues and not their defects.[^7]
-> 
+>
 > On no subject are the Bahá'í teachings more emphatic than on the
 > necessity to abstain from fault-finding and backbiting, while being
 > ever eager to discover and root out our own faults and overcome our
 > own failings.[^8]
-> 
+>
 > ... Each of us is responsible for one life only, and that is our
 > own. Each of us is immeasurably far from being 'perfect as our
 > heavenly Father is perfect' and the task of perfecting our own life
@@ -264,25 +263,25 @@ And yet, the damage caused by backbiting is terrible:
 Here are the quotes I see as denying us such speech:
 
 > If anyone should speak ill of one who is absent...
-> 
+>
 > The tongue I have designed for the mention of Me, defile it not with
 > detraction.
-> 
+>
 > Speak no evil, that thou mayest not hear it spoken unto thee, and
 > magnify not the faults of others that thine own faults may not appear
 > great; and wish not the abasement of anyone, that thine own abasement
 > be not exposed.
-> 
+>
 > How couldst thou forget thine own faults and busy thyself with the
 > faults of others?  Whoso doeth this is accursed of Me.
-> 
+>
 > Breathe not the sins of others so long as thou art thyself a sinner.
 > Shouldst thou transgress this command, accursed wouldst thou be, and
 > to this I bear witness.
-> 
+>
 > Ascribe not to any soul that which thou wouldst not have ascribed to
 > thee...
-> 
+>
 > That seeker should also regard backbiting as grievous error, and keep
 > himself aloof from its dominion, inasmuch as backbiting quencheth the
 > light of the heart, and extinguisheth the life of the soul.

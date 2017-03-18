@@ -1,6 +1,5 @@
 ---
 title: The glory of limitation
-date: Sun, 12 Sep 2004 12:00:00 +0000
 category: Journal
 ---
 

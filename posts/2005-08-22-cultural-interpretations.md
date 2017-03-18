@@ -1,6 +1,5 @@
 ---
 title: Cultural interpretations
-date: Mon, 22 Aug 2005 12:00:00 +0000
 category: Journal
 ---
 

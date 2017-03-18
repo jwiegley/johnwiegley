@@ -1,6 +1,5 @@
 ---
 title: The human factor
-date: Sun, 23 Oct 2011 11:00:00 +0000
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: A contingent freedom
-date: Wed, 16 Jul 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -68,7 +67,7 @@ After finishing *Atlas Shrugged*, I found an American bookstore and bought
 *The Fountainhead*, to further refine some of her ideas in my mind.  This
 led to the essay below.  And also this thought, which occurred to me
 after just a few pages of reading about the fearless hero, Howard Roark:
-"The ego wants the admiration of *others*; integrity wishes only to  
+"The ego wants the admiration of *others*; integrity wishes only to
 admire itself -- with complete honesty."
 
 Her whole book, revolving around the life of two architects, seems to
@@ -80,7 +79,7 @@ say:
 > our way to the source from which great ideas come -- but the building
 > is only an arrangement of stone otherwise.  It's really long overdue
 > to be replaced by something better.
-> 
+>
 > A mark of greatness is seeing a building as just a building; it is
 > greatness itself that deserves our admiration; it's products are only
 > the token.  Or in other words, humility is to see a man as just a man;

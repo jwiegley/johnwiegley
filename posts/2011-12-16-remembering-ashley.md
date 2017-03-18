@@ -1,6 +1,5 @@
 ---
 title: Remembering Ashley
-date: Fri, 16 Dec 2011 12:57:19 +0000
 category: Journal
 ---
 
@@ -31,27 +30,27 @@ mailing list together for our friends of the mystic persuasion.  His passing
 brought an end to those discussions, and I have missed them -- and him --
 ever since:
 
-    Open, my friend, your unseen lips  
-      to carol a thousand lover's songs  
-    that time and fate may have wearied of --  
+    Open, my friend, your unseen lips
+      to carol a thousand lover's songs
+    that time and fate may have wearied of --
       though not our lonesome throng.
 
-    We await your foolish words,  
-      that for fools are "full of meaning";  
-    and anticipate a screeching rent  
+    We await your foolish words,
+      that for fools are "full of meaning";
+    and anticipate a screeching rent
       in all these veils of seeming.
 
-    Like idiots, are minds are blanked  
-      of all "seen and heard and understood",  
-    to gather in our Teacher's words  
+    Like idiots, are minds are blanked
+      of all "seen and heard and understood",
+    to gather in our Teacher's words
       in the form of you, my Robin Hood:
 
-    Steal from the angels, and gift we poor!  
-      Their heaven is too bright and dear,  
-    not to spare some bauble for us,  
+    Steal from the angels, and gift we poor!
+      Their heaven is too bright and dear,
+    not to spare some bauble for us,
       or the hope of drawing near.
 
-      "No man that seeketh Us  
-         will We ever disappoint,  
-      neither shall he that hath set his face towards Us  
+      "No man that seeketh Us
+         will We ever disappoint,
+      neither shall he that hath set his face towards Us
          be denied access unto Our court...." (Bahá’u’lláh)

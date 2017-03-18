@@ -1,6 +1,5 @@
 ---
 title: Nature like a question
-date: Fri, 19 Dec 2003 12:00:00 +0000
 category: Journal
 ---
 

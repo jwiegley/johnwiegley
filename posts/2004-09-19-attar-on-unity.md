@@ -1,6 +1,5 @@
 ---
 title: "`Attár on Unity"
-date: Sun, 19 Sep 2004 12:00:00 +0000
 category: Journal
 ---
 
@@ -33,17 +32,17 @@ these lines:
 > eternity as before and after; and since these two eternities have
 > vanished, cease to speak of them.  When all that is visible is reduced
 > to nothing, what is there left to contemplate? ...
-> 
+>
 > The day will come when the Sun will draw aside the veil which covers
 > it.  So long as you are separate, good and evil will arise in you, but
 > when you lose yourself in the sun of the divine essence they will be
 > transcended by love.  While you loiter on the road you will be held
 > back by faults and weaknesses...
-> 
+>
 > When the spiritual traveller enters this valley he will disappear and
 > be lost to sight because the Unique Being will manifest himself; he
 > will be silent because this Being will speak.
-> 
+>
 > The part will become the whole, or rather, there will be neither part
 > nor whole.  In the School of the Secret you will see thousands of men
 > with intellectual knowledge, their lips parted in silence.  What is

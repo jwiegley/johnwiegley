@@ -1,6 +1,5 @@
 ---
 title: The Birth of the Twin Manifestations
-date: Sat, 14 Nov 2015 07:55:50 +0000
 category: Essays
 ---
 

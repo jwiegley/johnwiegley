@@ -1,6 +1,5 @@
 ---
 title: Exploring the unknown
-date: Thu, 08 Apr 2004 12:00:00 +0000
 category: Essays
 ---
 

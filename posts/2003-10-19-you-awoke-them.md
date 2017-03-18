@@ -1,22 +1,20 @@
 ---
 title: You awoke them
-date: Sun, 19 Oct 2003 12:00:00 +0000
 category: Poems
+edited: 11/12/2003
+location: Guest room in the Rhodes' house, 312 Palmer Ave
 ---
 
-Edited: 11/12/2003
-Location: Guest room in the Rhodes' house, 312 Palmer Ave
-
-    My sadness falls in sweetened drops  
+    My sadness falls in sweetened drops
     for thought of you provokes them;
 
-    If not these tears, I had not known,  
+    If not these tears, I had not known,
     what form of love evokes them;
 
-    My heart is stilled, its fires gone --  
+    My heart is stilled, its fires gone --
     it waits your Hand to stoke them...
 
-    Now listen close and hear my pains:  
+    Now listen close and hear my pains:
     I'd no such joy, till you awoke them.
 
 

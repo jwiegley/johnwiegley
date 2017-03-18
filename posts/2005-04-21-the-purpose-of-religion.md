@@ -1,6 +1,5 @@
 ---
 title: The purpose of religion
-date: Thu, 21 Apr 2005 12:00:00 +0000
 category: Journal
 ---
 
@@ -109,7 +108,7 @@ This dynamic continues to thrive despite such words as these, from
 > ... Look not on the degree of your capacity, ask not if you are worthy
 > of the task: rest ye your hopes on the help and loving-kindness, the
 > favours and bestowals of Bahá'u'lláh...
-> 
+>
 > One must never consider one's own feebleness, it is the strength of
 > the Holy Spirit of Love, which gives the power to teach.  The thought
 > of our own weakness could only bring despair.  We must look higher
@@ -203,9 +202,9 @@ It all boils down to a single point: love for Him!  Yet how can this be
 said properly when He and my words are two separate things?  Then burn
 away all words, all thoughts, until only He remains...
 
-    How can feeble reason encompass the Qur'án,  
-    Or the spider snare a phoenix in his web?  
-    Wouldst thou that the mind should not entrap thee?  
+    How can feeble reason encompass the Qur'án,
+    Or the spider snare a phoenix in his web?
+    Wouldst thou that the mind should not entrap thee?
     Teach it the science of the love of God! (Saná'í)
 
 

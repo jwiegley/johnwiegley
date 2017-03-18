@@ -1,6 +1,5 @@
 ---
 title: Common questions about the Seven Valleys
-date: Wed, 07 Apr 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -228,10 +227,10 @@ Furthermore, the Seven Valleys is demonstrably progressive:
 > traceless Friend, and inhaleth the fragrance of the long-lost Joseph
 > from the heavenly messenger, he shall straightway step into the Valley
 > of Love...
-> 
+>
 > And if, confirmed by the Creator, the lover escapes from the claws of
 > the eagle of love, he will enter the Valley of Knowledge...
-> 
+>
 > After passing through the Valley of knowledge, which is the last plane
 > of limitation, the wayfarer cometh to the Valley of Unity...
 
@@ -247,14 +246,14 @@ abandon the self, or the domains of knowledge and love.
 
 > If the travelers seek after the goal of the Intended One (Maqsúd),
 > this station appertaineth to the self...
-> 
+>
 > If the wayfarer's goal be the dwelling of the Praiseworthy One
 > (Mahmúd), this is the station of primal reason
-> 
+>
 > If the loving seekers wish to live within the precincts of the
 > Attracting One (Majdhúb), no soul may dwell on this Kingly Throne save
 > the beauty of love...
-> 
+>
 > If the mystic knowers be of those who have reached to the beauty of
 > the Beloved One (Mahbúb), this station is the apex of consciousness
 > and the secret of divine guidance...

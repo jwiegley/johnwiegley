@@ -1,6 +1,5 @@
 ---
 title: Mysticism
-date: Mon, 07 Jun 2004 12:00:00 +0000
 category: Journal
 ---
 
@@ -49,9 +48,9 @@ about?  Is happiness made of atoms, or how we relate to those atoms?  If
 a sunset grows insipid to one person, but always amazing to other: which
 sees "the real"?
 
-    I knew not what amazement was  
-    Until I made Thy love my cause.  
-    O how amazing would it be  
+    I knew not what amazement was
+    Until I made Thy love my cause.
+    O how amazing would it be
     If I were not amazed by Thee![^1]
 
 I think every school of thought defines its own normality, in all of

@@ -1,10 +1,8 @@
 ---
 title: The point of it all
-date: Sun, 23 Jul 2006 12:00:00 +0000
 category: Journal
+location: 239 Misty Creek Dr, Monument, CO
 ---
-
-Location: 239 Misty Creek Dr, Monument, CO
 
 I have been thinking lately that material things satisfy us only because
 their reality draws from a deeper Source.  What brought this to a point

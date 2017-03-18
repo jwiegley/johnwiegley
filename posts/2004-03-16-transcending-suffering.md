@@ -1,6 +1,5 @@
 ---
 title: Transcending suffering
-date: Tue, 16 Mar 2004 12:00:00 +0000
 category: Journal
 ---
 
@@ -94,11 +93,11 @@ in your ears...
 > one who slaughters his friends...  Although by his gaze he brings
 > death to so many lovers Let yourself be killed by him: is he not the
 > water of life?
-> 
+>
 > Never, ever, grow bitter: he is the friend and kills gently.  Keep
 > your heart noble, for this most noble love Kills only kings near God
 > and men free from passion.
-> 
+>
 > We are the night, earth's shadow.  He is the Sun: He splits open the
 > night with a sword soaked in dawn...[^6]
 

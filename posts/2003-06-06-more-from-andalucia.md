@@ -1,6 +1,5 @@
 ---
 title: More from Andalucia
-date: Fri, 06 Jun 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -237,12 +236,12 @@ and even sometimes, see you later.  I think it literally means "it goes
 with you", but I will have to look it up.  So a typical exchange in the
 shop sounds something like this:
 
-    Me: Hola  
-    He: Dime  
-    Me: Dame eso, pro favor  
-    He: Bueno, es... (I hand money over)  
-    He: Vale  
-    Me: Gracias  
+    Me: Hola
+    He: Dime
+    Me: Dame eso, pro favor
+    He: Bueno, es... (I hand money over)
+    He: Vale
+    Me: Gracias
     He: Adiós
 
 Quite an economy of words.  Many exchanges are not more than one word

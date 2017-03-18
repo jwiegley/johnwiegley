@@ -1,6 +1,5 @@
 ---
 title: Where did "I" go?
-date: Fri, 09 Jul 2004 12:00:00 +0000
 category: Journal
 ---
 

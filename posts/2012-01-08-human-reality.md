@@ -1,6 +1,5 @@
 ---
 title: Human reality
-date: Sun, 08 Jan 2012 11:31:57 +0000
 category: Journal
 ---
 

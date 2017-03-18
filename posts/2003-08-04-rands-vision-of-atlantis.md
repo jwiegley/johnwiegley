@@ -1,6 +1,5 @@
 ---
 title: Rand's vision of Atlantis
-date: Mon, 04 Aug 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -22,7 +21,7 @@ scheme of these messages:
 > it seemed so simple, so unastonishing, that the thing she felt was
 > like a blessing pronounced upon the universe by means of three words:
 > But of course.
-> 
+>
 > She was looking up at the face of a man who knelt by her side, and she
 > knew that in all the years behind her, *this* was what she would have
 > given her life to see: a face that bore no mark of pain or fear or
@@ -35,7 +34,7 @@ scheme of these messages:
 > ability to see, to the world for being a place so eagerly worth
 > seeing.  It seemed to her for a moment that she was in the presence of
 > a being who was pure consciousness...
-> 
+>
 > This was her world, she thought, this was the way men were meant to be
 > and to face their existence -- and all the rest of it, all the years
 > of ugliness and struggle were only someone's senseless joke.  She
@@ -43,7 +42,7 @@ scheme of these messages:
 > in radiant mockery of all the things she would never have to consider
 > important again.  He smiled in answer, it was the same smile as her
 > own, as if he felt what she felt and knew what she meant.
-> 
+>
 > "We never had to take any of it seriously, did we?" she whispered.
 > "No, we never had to."
 

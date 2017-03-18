@@ -1,6 +1,5 @@
 ---
 title: Thoughts on the Five Year Plan (2016-2021)
-date: 2016-10-01 17:30
 category: Essays
 ---
 
@@ -140,7 +139,7 @@ I would like to end with these words from `Abdu'l-Bahá:
 > thereof shall be laden with fruit. Rejoice and be glad that this day has
 > dawned, try to realize its power, for it is indeed wonderful![5]
 
-Footnotes: 
+Footnotes:
 [1] Extract from a letter dated 19 April 2013 written on behalf of the
     Universal House of Justice to a number of individual Bahá'ís resident in
     Europe

@@ -1,6 +1,5 @@
 ---
 title: Transformation
-date: Fri, 15 Apr 2016 15:25:59 +0000
 category: Journal
 ---
 
@@ -26,10 +25,10 @@ discover the ultimate purpose of knowledge and understanding -- the knowledge
 of Him -- and yet this secret knowledge is a thing of such beauty that our
 ideas and approximations cannot approach it.
 
-    How can feeble reason encompass the Qur'án,  
+    How can feeble reason encompass the Qur'án,
     Or the spider snare a phoenix in his web?
-    
-    Wouldst thou that the mind should not entrap thee?  
+
+    Wouldst thou that the mind should not entrap thee?
     Teach it the science of the love of God!
 
 As one burns with love for God, the whole visage of the world changes.  A

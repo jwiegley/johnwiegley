@@ -1,6 +1,5 @@
 ---
 title: The Wayfaring Raindrop
-date: Tue, 09 Mar 2004 12:00:00 +0000
 category: Stories
 ---
 

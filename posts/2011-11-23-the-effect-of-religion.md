@@ -1,6 +1,5 @@
 ---
 title: The effect of religion
-date: Wed, 23 Nov 2011 12:36:23 +0000
 category: Journal
 ---
 

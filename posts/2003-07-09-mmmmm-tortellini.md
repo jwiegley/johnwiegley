@@ -1,6 +1,5 @@
 ---
 title: Mmmmm... Tortellini
-date: Wed, 09 Jul 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -42,12 +41,12 @@ freedom to request that they stop!  :)
 
 # More Haiku
 
-    The swift river flowing past;  
-    a motionless fish  
+    The swift river flowing past;
+    a motionless fish
     is swimming fiercely.
 
-    Only a thousand stars tonight;  
-    the lights of the city  
+    Only a thousand stars tonight;
+    the lights of the city
     consumed the rest.
 
 [the.rose](the.rose)
@@ -93,23 +92,23 @@ talking about Atlantis, not the looter's world:
 > realities in existence He has chosen the reality of man and has
 > honored it with intellect and wisdom, the two most luminous lights in
 > either world.
-> 
+>
 > This supreme emblem of God stands first in the order of creation and
 > first in rank, taking precedence over all created things.  Witness to
 > it is the Holy Tradition, "Before all else, God created the mind."
-> 
+>
 > Consider carefully: all these highly varied phenomena, these concepts,
 > this knowledge, these technical procedures and philosophical systems,
 > these sciences, arts, industries and inventions -- all are emanations
 > of the human mind.
-> 
+>
 > Whatever people has ventured deeper into this shoreless sea, has come
 > to excel the rest.
-> 
+>
 > The happiness and pride of a nation consist in this, that it should
 > shine out like the sun in the high heaven of knowledge.  "Shall they
 > who have knowledge and they who have it not, be treated alike?"
-> 
+>
 > God has given us eyes, that we may look about us at the world, and lay
 > hold of whatsoever will further civilization and the arts of
 > living.... so that we, distinguished above all other forms of life for
@@ -117,19 +116,19 @@ talking about Atlantis, not the looter's world:
 > lines, whether the occasion be great or small, ordinary or
 > extraordinary, until all mankind are safely gathered into the
 > impregnable stronghold of knowledge.
-> 
+>
 > Supreme happiness is man's, and he beholds the signs of God in the
 > world and in the human soul, if he urges on the steed of high endeavor
 > in the arena of civilization and justice.
-> 
+>
 > And this is man's uttermost wretchedness: that he should live inert,
 > apathetic, dull, involved only with his own base appetites.
-> 
+>
 > We must now highly resolve to arise and lay hold of all those
 > instrumentalities that promote the peace and well-being and happiness,
 > the knowledge, culture and industry, the dignity, value and station,
 > of the entire human race.
-> 
+>
 > Thus... the earth of human potentialities will blossom with its own
 > latent excellence and flower into praiseworthy qualities, and bear and
 > flourish until it comes to rival that rosegarden of knowledge which
@@ -407,73 +406,73 @@ close with a few quotations, that reference this metaphor of unity, of
 the All within the part:
 
 > Thou art My lamp and My light is in thee.
-> 
+>
 > ... within thee have I placed the essence of My light.
-> 
+>
 > Turn thy sight unto thyself, that thou mayest find Me standing within
 > thee, mighty, powerful and self-subsisting.
-> 
+>
 > I have breathed within thee a breath of My own Spirit...
-> 
+>
 > My love has made in thee its home, it cannot be concealed.
-> 
+>
 > Humble thyself before Me, that I may graciously visit thee.
-> 
+>
 > Wherefore, do thou love Me, that I may name thy name and fill thy soul
 > with the spirit of life.
-> 
+>
 > ... that thou mayest die in Me and I may eternally live in thee.
-> 
+>
 > The temple of being is My throne; cleanse it of all things, that there
 > I may be established and there I may abide.
-> 
+>
 > Thy heart is my home; sanctify it for My descent.  Thy spirit is My
 > place of revelation; cleanse it for My manifestation.
-> 
+>
 > Ye are My treasury, for in you I have treasured the pearls of My
 > mysteries and the gems of My knowledge.
-> 
+>
 > Ponder awhile.  Hast thou ever heard that friend and foe should abide
 > in one heart?  Cast out then the stranger, that the Friend may enter
 > His home.
-> 
+>
 > All that is in heaven and earth I have ordained for thee, except the
 > human heart, which I have made the habitation of My beauty and
 > glory...
-> 
+>
 > ... My will and the will of another than Me, even as fire and water,
 > cannot dwell together in one heart.
-> 
+>
 > The candle of thine heart is lighted by the hand of My power...
-> 
+>
 > Ye have suffered My enemy to enter My house and have cast out My
 > friend, for ye have enshrined the love of another than Me in your
 > hearts.
-> 
+>
 > Thou art even as a finely tempered sword concealed in the darkness of
 > its sheath and its value hidden from the artificer's knowledge.
 > Wherefore come forth from the sheath of self and desire that thy worth
 > may be made resplendent and manifest unto all the world.
-> 
+>
 > A pure heart is as a mirror; cleanse it with the burnish of love and
 > severance from all save God, that the true sun may shine within it and
 > the eternal morning dawn.  Then wilt thou clearly see the meaning of
 > "Neither doth My earth nor My heaven contain Me, but the heart of My
 > faithful servant containeth Me."
-> 
+>
 > Whensoever the light of Manifestation of the King of Oneness settleth
 > upon the throne of the heart and soul, His shining becometh visible in
 > every limb and member....
-> 
+>
 > For thus the Master of the house hath appeared within His home, and
 > all the pillars of the dwelling are ashine with His light.
-> 
+>
 > And the splendor of that light [of the Manifestations of the Sun of
 > Reality] is in the hearts, yet it is hidden under the veilings of
 > sense and the conditions of this earth, even as a candle within a
 > lantern of iron, and only when the lantern is removed doth the light
 > of the candle shine out.
-> 
+>
 > In like manner, when thou strippest the wrappings of illusion from off
 > thine heart, the lights of oneness will be made manifest.
 

@@ -1,10 +1,8 @@
 ---
 title: Reflections on Khidr
-date: Thu, 17 Aug 2006 12:00:00 +0000
 category: Journal
+location: 239 Misty Creek Drive, Monument, CO, 80132
 ---
-
-Location: 239 Misty Creek Drive, Monument, CO, 80132
 
 As I pondered the story of Khidr again (search for "Khidr" here if some
 background is needed), a new thought came to me:

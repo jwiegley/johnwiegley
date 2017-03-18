@@ -1,27 +1,25 @@
 ---
 title: My dear friends
-date: Sun, 03 Apr 2005 12:00:00 +0000
 category: Poems
+location: 7373 N. 71st Place, Paradise Valley, Arizona
 ---
 
-Location: 7373 N. 71st Place, Paradise Valley, Arizona
-
-    How can I say if I love God more,  
+    How can I say if I love God more,
     or you, my dear friends?
 
-    When I want to hear Him laugh,  
+    When I want to hear Him laugh,
     I tell you the joke.
 
-    When I want to ease His pain,  
+    When I want to ease His pain,
     I offer you the balm.
 
-    Whenever you smile, I see Him;  
+    Whenever you smile, I see Him;
     whenever you sigh, I hear Him:
 
-    For if He is the Light  
+    For if He is the Light
     and you are His candles,
 
-    I need add but a spark of love --  
+    I need add but a spark of love --
     and suddenly He appears.
 
 

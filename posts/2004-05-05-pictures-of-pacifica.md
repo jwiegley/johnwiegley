@@ -1,6 +1,5 @@
 ---
 title: Pictures of Pacifica
-date: Wed, 05 May 2004 12:00:00 +0000
 category: Journal
 ---
 

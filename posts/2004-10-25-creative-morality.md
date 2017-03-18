@@ -1,6 +1,5 @@
 ---
 title: Creative morality
-date: Mon, 25 Oct 2004 12:00:00 +0000
 category: Journal
 ---
 
@@ -18,7 +17,7 @@ beautifully some of my essential points:
 > "itself."  It acts, not according to the rules, but according to the
 > circumstances of the moment, and the "well" it wishes to others is not
 > security but liberty.
-> 
+>
 > Nothing is really more inhuman than human relations based on morals
 > [i.e., duty].  When a man gives bread in order to be charitable, lives
 > with a woman in order to be faithful, eats with a Negro in order to be
@@ -26,7 +25,7 @@ beautifully some of my essential points:
 > cold as a clam.  He does not actually see the other person.  Only a
 > little less chilly is the benevolence springing from pity, which acts
 > to remove suffering because it finds the sight of it disgusting.
-> 
+>
 > But there is no formula for generating the authentic warmth of love.
 > It cannot be copied.  You cannot talk yourself into it or rouse it by
 > straining at the emotions or by dedicating yourself solemnly to the

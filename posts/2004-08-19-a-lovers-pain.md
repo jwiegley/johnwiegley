@@ -1,6 +1,5 @@
 ---
 title: A lover's pain
-date: Thu, 19 Aug 2004 12:00:00 +0000
 category: Journal
 ---
 
@@ -27,7 +26,7 @@ capacities of mind and body -- their loss reveals only my belief in
 their possession.  All was lost to me some fifteen billion years before
 I knew it was here; and everything I know must escape me.
 
-    Hold your breath and you will lose it;  
+    Hold your breath and you will lose it;
     set it free and it must return.
 
 I love life enough to no longer wish it; because by wishing, I wreck the

@@ -1,6 +1,5 @@
 ---
 title: Manifest being
-date: Fri, 03 Jun 2005 12:00:00 +0000
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Apologies to God
-date: Sun, 13 Jul 2008 12:00:00 +0000
 category: Journal
 ---
 

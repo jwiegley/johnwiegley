@@ -1,6 +1,5 @@
 ---
 title: The Divine Unity
-date: Sun, 15 May 2011 11:05:59 +0000
 category: Journal
 ---
 
@@ -72,7 +71,7 @@ From *Gems of the Divine Mysteries*:
 > for this is the station wherein the light of divine unity shineth forth,
 > and the truth of His oneness is expressed, and the splendours of the
 > everlasting Morn are reflected in lofty and faithful mirrors....
-> 
+>
 > Hast thou not borne witness to the truth: "No difference wilt thou see in
 > the creation of the God of Mercy"?  Yea, by My Lord!  They that dwell
 > within this Ocean, they that ride upon this Ark, witness no change in the

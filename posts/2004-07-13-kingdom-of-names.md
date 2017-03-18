@@ -1,6 +1,5 @@
 ---
 title: Kingdom of Names
-date: Tue, 13 Jul 2004 12:00:00 +0000
 category: Journal
 ---
 
@@ -99,9 +98,9 @@ strange "in heaven and earth" -- without leaving my bedroom!  This has
 been quite a head trip so far.
 
 > > "O day and night, but this is wondrous strange!"
-> 
+>
 > > "And therefore as a stranger give it welcome.
->     There are more things in heaven and earth, Horatio,  
+>     There are more things in heaven and earth, Horatio,
 >     Than are dreamt of in your philosophy."
 
 

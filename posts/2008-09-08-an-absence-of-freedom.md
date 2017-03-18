@@ -1,6 +1,5 @@
 ---
 title: An absence of Freedom
-date: Mon, 08 Sep 2008 12:00:00 +0000
 category: Journal
 ---
 

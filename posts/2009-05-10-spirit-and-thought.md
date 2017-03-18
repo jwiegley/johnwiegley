@@ -1,6 +1,5 @@
 ---
 title: Spirit and thought
-date: Sun, 10 May 2009 09:25:57 +0000
 category: Journalspirit
 ---
 
@@ -26,9 +25,9 @@ Which is not to say that a thought leaving destroys the mind, or that our person
 To put it another way: if you burnish a mirror, the light becomes clearer and brighter.  At first the light illimunes the dross on the mirror, but as the mirror becomes purified, the same light "leaves" the mirror and now enters the eye, causing its original form to be seen by the viewer.  Otherwise, the dross in a way holds the light, interrupting its reflective journey onward.
 
 So I may not be strictly "thinking" when I pursue a spiritual life, but perhaps the act has a similar form.  In this way, I am the crucible and the flame, reducing to its finest product an infinitely rich ore.
-We were reading a quote that said &#8220;at the hour of the soul&#8217;s separation from the body&#8221;, and someone asked how could the soul separate from the if it&#8217;s not really in the body, but only associated with it.  
+We were reading a quote that said &#8220;at the hour of the soul&#8217;s separation from the body&#8221;, and someone asked how could the soul separate from the if it&#8217;s not really in the body, but only associated with it.
 
-...I know that many scientists around the same time had similar ideas, but let&#8217;s assume Einstein came up with the core idea that the passage of time relates to acceleration.  ...  Sure, time is variable; right&#8230;  But what Einstein did is to keep working on the idea, purifying it, clarifying it, extracting from it certain core essentials that had nothing to do with Einstein, but strictly to do with space and time.  
+...I know that many scientists around the same time had similar ideas, but let&#8217;s assume Einstein came up with the core idea that the passage of time relates to acceleration.  ...  Sure, time is variable; right&#8230;  But what Einstein did is to keep working on the idea, purifying it, clarifying it, extracting from it certain core essentials that had nothing to do with Einstein, but strictly to do with space and time.
 
-...At first the light illimunes the dross on the mirror, but as the mirror becomes purified, the same light &#8220;leaves&#8221; the mirror and now enters the eye, causing its original form to be seen by the viewer.  
+...At first the light illimunes the dross on the mirror, but as the mirror becomes purified, the same light &#8220;leaves&#8221; the mirror and now enters the eye, causing its original form to be seen by the viewer.
 

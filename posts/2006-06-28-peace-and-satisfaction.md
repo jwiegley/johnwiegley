@@ -1,10 +1,8 @@
 ---
 title: Peace and satisfaction
-date: Wed, 28 Jun 2006 12:00:00 +0000
 category: Journal
+location: 373 Bay Tower, Royal Koan Resort, Kailua-Kona, Big Island, Hawai'i
 ---
-
-Location: 373 Bay Tower, Royal Koan Resort, Kailua-Kona, Big Island, Hawai'i
 
 A while back, I wrote about being content with the will of God under all
 circumstances -- a state of being referred to in Arabic as being

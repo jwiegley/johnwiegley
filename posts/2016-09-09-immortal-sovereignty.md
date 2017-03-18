@@ -1,6 +1,5 @@
 ---
 title: Immortal sovereignty
-date: 2016-10-07 10:15
 category: Journal
 ---
 

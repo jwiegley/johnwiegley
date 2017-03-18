@@ -1,6 +1,5 @@
 ---
 title: Some random thoughts
-date: Fri, 06 May 2005 12:00:00 +0000
 category: Journal
 ---
 

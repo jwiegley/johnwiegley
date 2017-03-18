@@ -1,6 +1,5 @@
 ---
 title: The believers are like an ocean
-date: Sat, 06 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -187,7 +186,7 @@ indicate something wonderful awaiting us in the coming age.
 > each of these souls shall be regarded as one thousand persons and the
 > waves of this greatest ocean shall be considered as the army of the
 > hosts of the Supreme Concourse.
-> 
+>
 > What a great blessing it is when the torrents, streams, currents,
 > tides, and drops are all gathered in one place!  They will form a
 > great ocean and the real harmony shall overcome and reign in such a
@@ -197,7 +196,7 @@ indicate something wonderful awaiting us in the coming age.
 > Ancient Beauty, in this case and condition, the blessings of the great
 > ocean will overflow and canals shall become as spacious as an endless
 > ocean and each drop shall become as a boundless sea!
-> 
+>
 > O ye friends of God!  Strive to attain to this high and sublime
 > station and show forth such a brightness in these days that its
 > radiance may appear from the eternal horizons.  This is the real

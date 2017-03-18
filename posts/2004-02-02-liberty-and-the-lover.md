@@ -1,6 +1,5 @@
 ---
 title: Liberty and the lover
-date: Mon, 02 Feb 2004 12:00:00 +0000
 category: Journal
 ---
 

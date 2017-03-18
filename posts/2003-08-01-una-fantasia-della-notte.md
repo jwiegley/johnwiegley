@@ -1,6 +1,5 @@
 ---
 title: Una fantasia della notte
-date: Fri, 01 Aug 2003 12:00:00 +0000
 category: Journal
 ---
 

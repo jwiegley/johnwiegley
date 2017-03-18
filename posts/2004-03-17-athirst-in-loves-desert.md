@@ -1,6 +1,5 @@
 ---
 title: Athirst in Love's Desert
-date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Stories
 ---
 
@@ -138,7 +137,7 @@ were still quiet; the bunnies flopped their ears, and paused to muse the
 secrets of a blade of grass.  What the snakes knew they kept to the
 trails, and wrote only these lines in their gliding calligraphy:
 
-    Love's a stranger to earth and heaven too;  
+    Love's a stranger to earth and heaven too;
     In him are lunacies seventy-and-two.
 
 Some day, fate promises, the aching bellies will reach to the table of
@@ -155,15 +154,15 @@ enter the heaven of his Goal:
 > of the shadow; yet sweeter than honey is his venom on the lover's
 > lips, and fairer his destruction in the seeker's eyes than a hundred
 > thousand lives....
-> 
+>
 > For the head raised up in the love of God will certainly fall by the
 > sword, and the life that is kindled with longing will surely be
 > sacrificed, and the heart which remembereth the Loved One will surely
 > brim with blood.  How well is it said:
-> 
+>
 
 
-      Live free of love, for its very peace is anguish;  
+      Live free of love, for its very peace is anguish;
       Its beginning is pain, its end is death.
 
 

@@ -1,6 +1,5 @@
 ---
 title: Heaven and hell
-date: Fri, 19 Feb 2016 15:54:04 +0000
 category: Poems
 ---
 

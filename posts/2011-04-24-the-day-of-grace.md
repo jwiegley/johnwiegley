@@ -1,6 +1,5 @@
 ---
 title: The Day of Grace
-date: Sun, 24 Apr 2011 08:15:11 +0000
 category: Journal
 ---
 

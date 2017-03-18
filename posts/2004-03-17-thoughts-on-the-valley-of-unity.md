@@ -1,6 +1,5 @@
 ---
 title: Thoughts on the Valley of Unity
-date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -22,7 +21,7 @@ powerlessness and poverty.  The obligatory prayer reads:
 > I bear witness, O my God, that Thou hast created me to know Thee and
 > to worship Thee.  I testify, at this moment, to my powerlessness and
 > to Thy might, to my poverty and to Thy wealth.
-> 
+>
 > There is none other God but Thee, the Help in Peril, the
 > Self-Subsisting.
 
@@ -62,23 +61,23 @@ Already, I have found a few intimations of this theme:
 
 > He seeth in himself neither name nor fame nor rank, but findeth his
 > own praise in praising God.
-> 
+>
 > He beholdeth in his own name the name of God; to him, "all songs are
 > from the King," and every melody from Him.
-> 
+>
 > He sitteth on the throne of "Say, all is from God," and taketh his
 > rest on the carpet of "There is no power or might but in God."
-> 
+>
 > For thus the Master of the house hath appeared within His home, and
 > all the pillars of the dwelling are ashine with His light.  And the
 > action and effect of the light are from the Light-Giver; so it is that
 > all move through Him and arise by His will.
-> 
+>
 > How can utter nothingness gallop its steed in the field of
 > preexistence, or a fleeting shadow reach to the everlasting sun?  The
 > Friend hath said, "But for Thee, we had not known Thee," and the
 > Beloved hath said, "nor attained Thy presence."
-> 
+>
 > O thou dear one!  Impoverish thyself, that thou mayest enter the high
 > court of riches; and humble thy body, that thou mayest drink from the
 > river of glory, and attain to the full meaning of the poems whereof
@@ -131,7 +130,7 @@ Unity in its essence implies an abolishment of "here" and "there",
 love must be burnt and cast away.  At the end of the Valley of Knowledge
 He quotes:
 
-    Love is a veil betwixt the lover and the loved one;  
+    Love is a veil betwixt the lover and the loved one;
     More than this I am not permitted to tell.
 
 Unity requires that we forgo insisting on any distinct, any separate
@@ -159,7 +158,7 @@ poignantly to the theme of powerlessness:
 > tokens of Thy self-sufficiency and riches, that they may gather
 > together round Thy Cause, and cling to the hem of Thy mercy, and
 > cleave to the cord of the good-pleasure of Thy will.[^4]
-> 
+>
 > Glorified, immeasurably glorified art Thou, my Best-Beloved!  Inasmuch
 > as Thou hast ordained that the utmost limit to which they who lift
 > their hearts to Thee can rise is the confession of their powerlessness
@@ -231,7 +230,7 @@ philosopher, wrote:
 > to be completely free of society, though one may have a few more
 > clothes, a few more meals -- good God, who cares?  But unfortunately
 > in most people there is this urge for exhibitionism.
-> 
+>
 > Poverty becomes a marvellously beautiful thing when the mind is free
 > of society.  One must become poor inwardly, for then there is no
 > seeking, no asking, no desire, no -- nothing!  It is only this inward

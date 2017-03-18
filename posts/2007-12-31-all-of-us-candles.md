@@ -1,10 +1,8 @@
 ---
 title: All of us candles
-date: Mon, 31 Dec 2007 12:00:00 +0000
 category: Journal
+location: Bahji
 ---
-
-Location: Bahji
 
 Sometimes I feel as though we are all candles, placed in a room, intended to
 illuminate the vast treasures that are contained therein.  Some burn

@@ -1,6 +1,5 @@
 ---
 title: Loving imperfection
-date: Wed, 03 Mar 2004 12:00:00 +0000
 category: Journal
 ---
 
@@ -47,8 +46,8 @@ precious moments of the truly extraordinary.
 
 # The falling rain
 
-    The falling rain:  
-    how unorchestrated in its sound,  
+    The falling rain:
+    how unorchestrated in its sound,
     how symphonous.
 
 

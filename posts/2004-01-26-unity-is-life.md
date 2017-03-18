@@ -1,6 +1,5 @@
 ---
 title: Unity is life
-date: Mon, 26 Jan 2004 12:00:00 +0000
 category: Journal
 ---
 

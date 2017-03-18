@@ -1,6 +1,5 @@
 ---
 title: Tales of Cataluña
-date: Wed, 18 Jun 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -59,8 +58,8 @@ Combined with the high humidity, it feels much hotter than Tucson ever
 does to me, except for the blistering days.  It is hot enough that one
 cannot sleep unless very tired.
 
-    The heat! like a blanket  
-    I simply can't remove.  
+    The heat! like a blanket
+    I simply can't remove.
     I stick to the bed.
 
 We returned from the pool to eat some home-cooked Catalan food prepared

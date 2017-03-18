@@ -1,6 +1,5 @@
 ---
 title: The unexamined life
-date: Mon, 13 Jun 2005 12:00:00 +0000
 category: Journal
 ---
 

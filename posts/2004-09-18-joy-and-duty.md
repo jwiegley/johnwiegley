@@ -1,6 +1,5 @@
 ---
 title: Joy and duty
-date: Sat, 18 Sep 2004 12:00:00 +0000
 category: Journal
 ---
 

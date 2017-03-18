@@ -1,6 +1,5 @@
 ---
 title: A river of fog
-date: Mon, 12 Apr 2004 12:00:00 +0000
 category: Journal
 ---
 

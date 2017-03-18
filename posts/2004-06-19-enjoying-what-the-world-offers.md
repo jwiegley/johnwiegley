@@ -1,6 +1,5 @@
 ---
 title: Enjoying what the world offers
-date: Sat, 19 Jun 2004 12:00:00 +0000
 category: Essays
 ---
 

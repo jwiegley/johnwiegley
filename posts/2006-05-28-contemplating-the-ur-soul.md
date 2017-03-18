@@ -1,10 +1,8 @@
 ---
 title: Contemplating the Ur-soul
-date: Sun, 28 May 2006 12:00:00 +0000
 category: Journal
+location: Dad's house, 90 Watch Hill Drive, Apt B, Colorado Springs
 ---
-
-Location: Dad's house, 90 Watch Hill Drive, Apt B, Colorado Springs
 
 The following entry is little more than a fantasy, but I use it to help
 place some of the experiences I've had in my life.  I don't begin to

@@ -1,10 +1,8 @@
 ---
 title: An unfailing love
-date: Fri, 28 Apr 2006 12:00:00 +0000
 category: Journal
+location: 90 Watch Hill Dr Apt B, Colorado Springs, 80906
 ---
-
-Location: 90 Watch Hill Dr Apt B, Colorado Springs, 80906
 
 If a perfect Creator loves His creation, can it be possible for us, as
 witnesses, to impute to Him a lacking heart?  And yet, even in my own

@@ -1,6 +1,5 @@
 ---
 title: Unsung virtues
-date: Thu, 03 Jun 2004 12:00:00 +0000
 category: Journal
 ---
 

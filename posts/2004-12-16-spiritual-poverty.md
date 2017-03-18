@@ -1,6 +1,5 @@
 ---
 title: Spiritual poverty
-date: Thu, 16 Dec 2004 12:00:00 +0000
 category: Journal
 ---
 

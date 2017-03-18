@@ -1,6 +1,5 @@
 ---
 title: Third phase of poetry
-date: Mon, 09 May 2005 12:00:00 +0000
 category: Journal
 ---
 

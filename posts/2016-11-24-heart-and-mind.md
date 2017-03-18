@@ -1,6 +1,5 @@
 ---
 title: Heart and mind
-date: 2016-11-24 09:10
 category: Journal
 ---
 

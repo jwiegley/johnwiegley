@@ -1,6 +1,5 @@
 ---
 title: Seeing imperfection in others
-date: Sun, 15 Feb 2004 12:00:00 +0000
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Focus on the Source
-date: 2016-11-05 20:15
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Adventures in Poetry
-date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -22,14 +21,14 @@ nothing of the sort, and just made me more frustrated.
 
 A few lines from one of the poems of those days is:
 
-    Seven men, with seven needs, but fourteen wants and half the time,  
-    sit mindlessly before their doors, waiting for the set-down chime;  
-    that signifies the mothership's arrival on her destined course:  
+    Seven men, with seven needs, but fourteen wants and half the time,
+    sit mindlessly before their doors, waiting for the set-down chime;
+    that signifies the mothership's arrival on her destined course:
     the mission of that fated crew, a correlated Trojan Horse.
 
-    A society bereft of evil broke apart from common ways,  
-    founded on the Io moon, distant from the mind decay.  
-    Named themselves the LES: Society of the Leading Edge,  
+    A society bereft of evil broke apart from common ways,
+    founded on the Io moon, distant from the mind decay.
+    Named themselves the LES: Society of the Leading Edge,
     their need for money, law and doubt falling into voids of age.
 
 This mode of writing continued for several years, in which I knew that I
@@ -69,29 +68,29 @@ Here is the first poem I ever wrote without reflecting on how it might
 sound to others.  It was a joy to write, and changed my experience of
 poetry from that day forward:
 
-    Without the light  
-    it would not be seen;  
-    without eyes  
+    Without the light
+    it would not be seen;
+    without eyes
     it would not be seen.
 
-    Between these two forms of nothing  
-    a being of phenomenon  
-    neither in the object  
+    Between these two forms of nothing
+    a being of phenomenon
+    neither in the object
     or the eye or the light.
 
-    But there... a subtle shading of rose  
-    shaped into a smile  
-    beneath eyes  
+    But there... a subtle shading of rose
+    shaped into a smile
+    beneath eyes
     like my own hope given form.
 
-    There... what is that shaft  
-    pushing its way into the labors of my heart?  
-    ruining the moment's peace  
-    and offering something  
-    I would live without peace for  
+    There... what is that shaft
+    pushing its way into the labors of my heart?
+    ruining the moment's peace
+    and offering something
+    I would live without peace for
     day upon day again.
 
-    Between two different kinds of void:  
+    Between two different kinds of void:
     a thing to die for.
 
 After this poem, I learned what "voice" is: Whatever gives expression to
@@ -115,9 +114,9 @@ addition to rhymes in the usual places.  These are unexpected rhymes
 that add music to a verse without creating too much of a pattern.  For
 example, from an excerpt:
 
-    The seals below bump their heads,  
-    the bears in white coats rumble their hunger;  
-    against the black night, the white fox howls  
+    The seals below bump their heads,
+    the bears in white coats rumble their hunger;
+    against the black night, the white fox howls
     and the rabbit hears him in the echoes of sleep.
 
 Here "rumble" and "hunger" are tied by the vowel in the stressed
@@ -129,9 +128,9 @@ musical feel without burdening the poem.
 The next kind of rhyme is done using assonance and alliteration in much
 the same way:
 
-    A family of ill ones  
-    still tucked in their beds,  
-    sipping coughsyrup cocktails  
+    A family of ill ones
+    still tucked in their beds,
+    sipping coughsyrup cocktails
     to lighten their heads,
 
 Here, "ill" and "still" are rhymed, as well as the expected "beds" and
@@ -153,21 +152,21 @@ rhyme".  British and Australian readers will recognize it, due to their
 with another word not present in the poem, but unconsciously obvious
 because of the poem's meaning.  For example:
 
-    The lilt of your gentle voice,  
-    its dulcet tones,  
-    its warm, mellifluous sound...  
-    to a man's ears, what balm,  
-    what anodyne peace;  
-    I linger there in memory  
-    until the pain of absence  
+    The lilt of your gentle voice,
+    its dulcet tones,
+    its warm, mellifluous sound...
+    to a man's ears, what balm,
+    what anodyne peace;
+    I linger there in memory
+    until the pain of absence
     grows profound.
 
 This poem is about the sound of a woman's voice, and the pain I feel
 when she is not around.  That is, the pain is due to her silence.  It
 would be poor (or rather, too perfect) to write:
 
-    I linger there awhile  
-    until the silence  
+    I linger there awhile
+    until the silence
     grows profound.
 
 Written this way, "in memory" is changed to "awhile", to balance with
@@ -179,8 +178,8 @@ adjective is enough to suggest to an educated reader that silence is
 meant.  This frees me to use a different image, while still protraying
 the painful silence:
 
-    I linger there in memory  
-    until the pain of absence  
+    I linger there in memory
+    until the pain of absence
     grows profound.
 
 Now "absence" is rhymed with "silence" -- even though "silence" appears
@@ -200,7 +199,7 @@ The most recent technique has been to play with broken rhythm.  This is
 when I intentionally use a less perfect syllable pattern to make a line
 seem more "humble" with respect to another.[^1] For example:
 
-    Recall me to myself, for I soon forget  
+    Recall me to myself, for I soon forget
     once thoughts of you have cast their net.
 
 The first line of this couplet has too many syllable (four more than the
@@ -241,7 +240,7 @@ heart.
 
 I leave with one of my favorite couplets, recently written:
 
-    Where banners once flew in proud disdain  
+    Where banners once flew in proud disdain
     a king now weeps for his kingdom's bane.
 
 There is a vowel rhyme between "proud" and "now", and a very subtle

@@ -1,6 +1,5 @@
 ---
 title: Reflective judgment
-date: Mon, 07 Mar 2005 12:00:00 +0000
 category: Journal
 ---
 

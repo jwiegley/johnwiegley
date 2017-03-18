@@ -1,6 +1,5 @@
 ---
 title: Building a bridge between Rand and Sartre
-date: Wed, 16 Jul 2003 12:00:00 +0000
 category: Stories
 ---
 

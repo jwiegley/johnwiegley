@@ -1,28 +1,27 @@
 ---
 title: Are we abhorrent to God?
-date: Mon, 22 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 
-    Nay!  When the earth is pounded to powder,  
+    Nay!  When the earth is pounded to powder,
     And thy Lord cometh, and His angels, rank upon rank,
 
-    And Hell, that Day, is brought face to face --  
-    on that Day, man will remember,  
+    And Hell, that Day, is brought face to face --
+    on that Day, man will remember,
     but how will that remembrance profit him?
 
-    He will say: "Ah!  
+    He will say: "Ah!
     Would that I had sent forth good deeds for this, my Future Life!"
 
-    For, that Day, His Chastisement will be such as none else can inflict,  
+    For, that Day, His Chastisement will be such as none else can inflict,
     And His bonds will be such as none other can bind.
 
     Yet to the righteous soul will be said:
 
-    O thou soul who art well assured,  
+    O thou soul who art well assured,
     Return to thy Lord, well-pleased, and pleasing unto Him.
 
-    Enter thou among My servants,  
+    Enter thou among My servants,
     And enter thou My paradise.[^1]
 
 Many people that I know would shy away from ever attributing the end of
@@ -146,7 +145,7 @@ achieve the real result.
 > Only simple and quiet words will ripen of themselves.  For a whirlwind
 > does not last a whole morning, nor does a sudden shower last a whole
 > day.
-> 
+>
 > Who is their author?  Heaven-and-Earth!  Even Heaven-and-Earth cannot
 > make such violent things last long; How much truer is it of the rash
 > endeavors of men?[^10]
@@ -187,7 +186,7 @@ lightness of soul that would be hard to give up for a typically
 I think the Cause of Bahá'u'lláh, instead, presents this idea:
 
 > In this world we are influenced by two sentiments, Joy and Pain.
-> 
+>
 > Joy gives us wings!  In times of joy our strength is more vital, our
 > intellect keener, and our understanding less clouded.  We seem better
 > able to cope with the world and to find our sphere of usefulness.  But
@@ -195,7 +194,7 @@ I think the Cause of Bahá'u'lláh, instead, presents this idea:
 > comprehension is dim and our intelligence veiled.  The actualities of
 > life seem to elude our grasp, the eyes of our spirits fail to discover
 > the sacred mysteries, and we become even as dead beings.
-> 
+>
 > There is no human being untouched by these two influences; but all the
 > sorrow and the grief that exist come from the world of matter -- the
 > spiritual world bestows only the joy![^12]
@@ -219,7 +218,7 @@ find words like these:
 > O Son of Spirit!  With the joyful tidings of light I hail thee:
 > rejoice! To the court of holiness I summon thee; abide therein that
 > thou mayest live in peace for evermore.
-> 
+>
 > O Son of Spirit!  The spirit of holiness beareth unto thee the joyful
 > tidings of reunion; wherefore dost thou grieve?  The spirit of power
 > confirmeth thee in His cause; why dost thou veil thyself? The light of
@@ -229,7 +228,7 @@ And:
 
 > > Dost thou reckon thyself only a puny form
 >     When within thee the universe is folded?
-> 
+>
 > Then we must labor to destroy the animal condition, till the meaning
 > of humanity shall come to light.[^14]
 

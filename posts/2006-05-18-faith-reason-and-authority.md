@@ -1,10 +1,8 @@
 ---
 title: Faith, reason and authority
-date: Thu, 18 May 2006 12:00:00 +0000
 category: Journal
+location: Nasim's house, 239 Misty Creek Dr, Monument, CO
 ---
-
-Location: Nasim's house, 239 Misty Creek Dr, Monument, CO
 
 Several times now in the past few year, I've encountered a particular
 argument: Whether it is nobler to forgo faith in any higher agency, so

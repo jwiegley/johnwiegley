@@ -1,6 +1,5 @@
 ---
 title: Closer than our life's vein
-date: 2016-08-24 Wed
 category: Journal
 ---
 

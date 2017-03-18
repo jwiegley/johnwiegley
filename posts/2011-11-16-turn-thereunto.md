@@ -1,6 +1,5 @@
 ---
 title: Turn thereunto
-date: Wed, 16 Nov 2011 11:08:01 +0000
 category: Journal
 ---
 
@@ -57,7 +56,7 @@ Likewise, the mystic traveler (*saalik*) strives for a condition of self-nothing
 This act of turning from the self to the Divine is expressed by *tawajjuh*, though in other contexts it has been described as a series of "steps", the steps one takes in the journey from self to God.  This particular interpretation is mentioned by Bahá'u'lláh a text not yet translated (errors are my own), found in *Má'idiyyih Asmani*, Vol.8, pp.21-22:
 
 > He saith, exalted be He: O Muhammad-Taqí! Upon thee be My glory and My mercy! Today the king of all knowledge is the recognition of God. Every soul who acknowledgeth and confesseth His oneness is numbered with the people of Bahá, the companions of the Crimson Ark, who have been inscribed in the Book of Names by the Most Exalted Pen.
-> 
+>
 > In one of Our divinely-revealed Tablets, these verses have been sent down: "In the first step, he who hath turned his face toward God must labor to observe the following weighty verse: 'Say: It is God; then leave them to entertain themselves with their cavilings.' (Qur'án 6:91) In the second step, he must hold fast to and meditate upon this blessed verse: 'I have abandoned the ways of those who disbelieve in God and who deny the life to come' (Qur'án 12:37). The meaning intended by "step" in both these stages is "turn thereunto". Blessings be unto the wise.
 
 <blockquote>
@@ -91,9 +90,9 @@ The dual nature of this act, that it implies turning away at the same time as tu
 
 In Bahá’u’lláh's *Hidden Words*, He gives a few guidelines with respect to this dual vision of ours, regarding the essential act of "turning towards":
 
-> O Man of Two Visions!  Close one eye and open the other.  Close one to the world and all that is therein, and open the other to the hallowed beauty of the Beloved. 
-> 
-> O Son of Dust!  Blind thine eyes, that thou mayest behold My beauty; stop thine ears, that thou mayest hearken unto the sweet melody of My voice; empty thyself of all learning, that thou mayest partake of My knowledge; and sanctify thyself from riches, that thou mayest obtain a lasting share from the ocean of My eternal wealth.  Blind thine eyes, that is, to all save My beauty; stop thine ears to all save My word; empty thyself of all learning save the knowledge of Me; that with a clear vision, a pure heart and an attentive ear thou mayest enter the court of My holiness. 
+> O Man of Two Visions!  Close one eye and open the other.  Close one to the world and all that is therein, and open the other to the hallowed beauty of the Beloved.
+>
+> O Son of Dust!  Blind thine eyes, that thou mayest behold My beauty; stop thine ears, that thou mayest hearken unto the sweet melody of My voice; empty thyself of all learning, that thou mayest partake of My knowledge; and sanctify thyself from riches, that thou mayest obtain a lasting share from the ocean of My eternal wealth.  Blind thine eyes, that is, to all save My beauty; stop thine ears to all save My word; empty thyself of all learning save the knowledge of Me; that with a clear vision, a pure heart and an attentive ear thou mayest enter the court of My holiness.
 
 Thus the act of "closing" and "blinding" must be paired with another act of "opening" and beholding.  Although blindness usually means the complete lack of sight, in this sense material blindness produces spiritual sight; losing one thing results in the discovery of something far greater.
 
@@ -147,7 +146,7 @@ Because this turning happens upon a pivot, the accomplishment of *faná* is link
 It more basic terms, *faná* is mortal poverty, and *baqá* is immortal wealth.  And the theme of becoming impoverished to discover true wealth is found again and again.  I'll end this entry with the following from Bahá’u’lláh's *Seven Valleys* again, since it ties together some of themes of this entry:
 
 > O thou dear one!  Impoverish thyself, that thou mayest enter the high court of riches; and humble thy body, that thou mayest drink from the river of glory, and attain to the full meaning of the poems whereof thou hadst asked.
-> 
+>
 > Thus it hath been made clear that these stages depend on the vision of the wayfarer....
 
 It should be noted that this final sentence could perhaps be more accurately be translated as: "Thus it is now known that these stages are dependent on the seeker's own travels [to go see things]."  That is, none of these stations will be found or seen if the seeker does not undertake himself to find them.

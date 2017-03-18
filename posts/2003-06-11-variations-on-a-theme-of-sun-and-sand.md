@@ -1,6 +1,5 @@
 ---
 title: Variations on a theme of sun and sand...
-date: Wed, 11 Jun 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -26,8 +25,8 @@ Only one day of rain so far.  The weather is surprisingly regular.
 
 # Coffee skin
 
-    Coffee skin; eyes, chocolate --  
-    a dollop of cream  
+    Coffee skin; eyes, chocolate --
+    a dollop of cream
     between the lips.
 
 # Writing haiku
@@ -54,16 +53,16 @@ for a whiff of feeling.
 
 # Various haiku
 
-    Gossamer skirts  
-    that trail in the breeze...  
+    Gossamer skirts
+    that trail in the breeze...
     attendant ghosts.
 
-    A giant dipped his hand in the sun,  
-    leaving a white thumbprint  
+    A giant dipped his hand in the sun,
+    leaving a white thumbprint
     between the stars.
 
-    A silver fish leaps;  
-    a grey cat watches...  
+    A silver fish leaps;
+    a grey cat watches...
     and nothing more.
 
 # The town of Sitges
@@ -163,36 +162,36 @@ slow imitation of the same.
 
 # More haiku
 
-    The birds in lazy, looping circles.  
-    The clouds have gone.  
+    The birds in lazy, looping circles.
+    The clouds have gone.
     Not a sound.
 
-    The wet sand remembers  
-    where my feet go,  
+    The wet sand remembers
+    where my feet go,
     but easily forgets.
 
-    Inhale the salt air...  
-    one of those times  
+    Inhale the salt air...
+    one of those times
     you taste with your nose.
 
-    Beneath the pale of mid-day,  
-    birds are weaving  
+    Beneath the pale of mid-day,
+    birds are weaving
     but forget their thread.
 
-    The night, the moon lonely;  
-    a still, reflective silence,  
+    The night, the moon lonely;
+    a still, reflective silence,
     the waves murmuring below.
 
-    Trees upthrust from the soil  
-    reach for the sun  
+    Trees upthrust from the soil
+    reach for the sun
     and do not look back.
 
-    A conference among the clouds,  
-    the flash of argument;  
+    A conference among the clouds,
+    the flash of argument;
     tears of reconciliation.
 
-    Blurred images of speed,  
-    plummeting, racing --  
+    Blurred images of speed,
+    plummeting, racing --
     a small, quiet splash.
 
 [sea.and.her.secrets](sea.and.her.secrets)

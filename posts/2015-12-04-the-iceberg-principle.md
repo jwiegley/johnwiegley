@@ -1,6 +1,5 @@
 ---
 title: The Iceberg Principle
-date: Fri, 04 Dec 2015 15:49:27 +0000
 category: Essays
 ---
 

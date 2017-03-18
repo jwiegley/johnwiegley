@@ -1,6 +1,5 @@
 ---
 title: Why I love David Zindell
-date: Fri, 28 May 2010 08:47:11 +0000
 category: Journal
 ---
 

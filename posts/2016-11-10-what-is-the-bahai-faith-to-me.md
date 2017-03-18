@@ -1,6 +1,5 @@
 ---
 title: What is the Bahá'í Faith to me?
-date: 2016-11-10 10:28
 category: Journal
 ---
 

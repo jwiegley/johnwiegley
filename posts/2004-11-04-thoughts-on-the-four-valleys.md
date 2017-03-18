@@ -1,6 +1,5 @@
 ---
 title: Thoughts on the Four Valleys
-date: Thu, 04 Nov 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -200,10 +199,10 @@ acknowledge true powerlessness before the Divine decree:
 These followers of the Beloved see in His decree their final goal:
 
 > > See, our hearts come open like shells,
->       when He raineth grace like pearls,  
->     And our lives are ready targets,  
+>       when He raineth grace like pearls,
+>     And our lives are ready targets,
 >       when agony's arrows He hurls.
-> 
+>
 > Whoso hath inhaled the sweet fragrance of the All-Merciful, and
 > recognized the Source of this utterance, will welcome with his own
 > eyes the shafts of the enemy, that he may establish the truth of the

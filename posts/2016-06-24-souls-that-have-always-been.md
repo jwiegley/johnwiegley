@@ -1,6 +1,5 @@
 ---
 title: Souls that have always been
-date: Fri, 24 Jun 2016 23:15:37 +0000
 category: Essays
 ---
 
@@ -86,7 +85,7 @@ The rose in my garden may whither and die; but the qualities of the rose have
 adorned poetry and artwork for as long as history, and likely always will.
 What life is more eternal than this, transcending both time and place?
 
-Footnotes: 
+Footnotes:
 [1]  Nader Saidi, The Gate of the Heart, pp.271-272
 
 [2]  Bahá'u'lláh, Kitáb-i-Íqán, pp.158-159

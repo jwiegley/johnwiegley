@@ -1,6 +1,5 @@
 ---
 title: Faith, love and perfection
-date: Wed, 17 Dec 2003 12:00:00 +0000
 category: Journal
 ---
 

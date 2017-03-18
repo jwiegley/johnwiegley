@@ -1,6 +1,5 @@
 ---
 title: Culture and thought
-date: Wed, 21 Dec 2005 12:00:00 +0000
 category: Journal
 ---
 
@@ -93,10 +92,10 @@ these:
 > Were men to discover the motivating purpose of God's Revelation, they
 > would assuredly cast away their fears, and, with hearts filled with
 > gratitude, rejoice with exceeding gladness.
-> 
+>
 > My counsels and admonitions have compassed the world.  Yet, instead of
 > imparting joy and gladness they have caused grief...
-> 
+>
 > It behoveth them that are endued with insight and understanding to
 > observe that which will cause joy and radiance.
 

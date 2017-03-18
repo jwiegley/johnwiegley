@@ -1,6 +1,5 @@
 ---
 title: The First and the Last (1 of 3)
-date: Fri, 08 Jul 2011 11:32:32 +0000
 category: Journal
 ---
 
@@ -76,7 +75,7 @@ phrase them in terms of oak trees instead, to continue the previous analogy:
  - all oak trees participate in oakness equally, and none may be considered
    greater or lesser in this respect;
  - every oak which grows teaches us more about the ideal of oakness.
- 
+
 Any oak tree could state with truth that it represented a fulfillment of
 oakness, without implying that oakness had in any way been exhausted or could
 not continue.  Likewise, though each Manifestation of God has stated that His

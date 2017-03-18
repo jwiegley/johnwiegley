@@ -1,6 +1,5 @@
 ---
 title: Thoughts from another shore
-date: Sat, 21 Jun 2003 12:00:00 +0000
 category: Journal
 ---
 

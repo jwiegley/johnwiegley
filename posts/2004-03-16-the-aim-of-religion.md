@@ -1,6 +1,5 @@
 ---
 title: The aim of religion
-date: Tue, 16 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -49,7 +48,7 @@ And the Báb wrote:
 > Fire and paradise both bow down and prostrate themselves before God.
 > That which is worthy of His Essence is to worship Him for His sake,
 > without fear of fire, or hope of paradise.
-> 
+>
 > Although when true worship is offered, the worshipper is delivered
 > from the fire, and entereth the paradise of God's good-pleasure, yet
 > such should not be the motive of his act. However, God's favour and

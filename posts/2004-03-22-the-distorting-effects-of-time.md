@@ -1,6 +1,5 @@
 ---
 title: The distorting effects of time
-date: Mon, 22 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -66,10 +65,10 @@ personally and collectively.
 
 > Likewise, reflect upon the perfection of man's creation, and that all
 > these planes and states are folded up and hidden away within him.
-> 
+>
 > > Dost thou reckon thyself only a puny form
 >     When within thee the universe is folded?
-> 
+>
 > Then we must labor to destroy the animal condition, till the meaning
 > of humanity shall come to light.
 

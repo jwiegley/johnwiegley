@@ -1,6 +1,5 @@
 ---
 title: Striving for sorrow?
-date: Sun, 12 Dec 2004 12:00:00 +0000
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Brief thoughts on "the camphor fountain"
-date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -28,14 +27,14 @@ something with a cooling effect, and a lack of virility (because the
 passions have been cooled).  For example:
 
 > tuuda'-i kaafuur -- A heap of snow; a fair skin; a white head.
-> 
+>
 > khurda'-i kaafuur -- (crumbs of camphor), The stars.
-> 
+>
 > kaafuur khwurdan -- To eat camphor (an expression used to imply deficiency
 > of virility).
-> 
+>
 > kaafuur-baar -- (raining camphor) Anything cold or fragrant; snowing.
-> 
+>
 > may-i kaafuur -- Camphorated wine (which is done to "cool" it).
 
 One Qur'ánic commentator writes:

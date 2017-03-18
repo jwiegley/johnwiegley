@@ -1,11 +1,8 @@
 ---
 title: Why it seems so hard
-date: Sun, 12 Apr 2009 08:50:08 +0000
 category: Journal
+location: AcademyLand Apts, #5, True Blue, Grenada, West Indies
 ---
-
-Written: 2009/04/12 03:44 AM
-Location: AcademyLand Apts, #5, True Blue, Grenada, West Indies
 
 I've been thinking about why pursuing a spiritual life can be so difficult, and I think I can boil it down now to one, core issue:
 
@@ -43,12 +40,12 @@ This is where it seems we have a difficult road ahead of us: our needs are elega
 What chance have we, then, if what we need is beyond our understanding, but what we want is destructive to that very need?  How much easier to crown our desires with truth so we can pursue them whole-heartedly and freely, than to rule our burning fires in the name of an Unseen!
 
 I think it is in answer to this very state that Scripture was given to us.  It offers enough of guidance to entince us along the Right Path, but little enough substance so we don't mistake it for the Goal itself.  It says to me, "That you want is right and true, but for what you want: there is Better."
-That these binary-based manipulations result in pages being printed, screens filled with pictures, or sound coming out of a speaker, does not change the fact that at its core, everything is encoded and decoded in terms of simple, 0 and 1 values. 
+That these binary-based manipulations result in pages being printed, screens filled with pictures, or sound coming out of a speaker, does not change the fact that at its core, everything is encoded and decoded in terms of simple, 0 and 1 values.
 
 
- Think about that for a moment: Everything you see or hear from a computer, whether it be Beethoven&#8217;s 9th symphony, watching Find Nemo, or writing e-mail to a friend in Des Moines: all you see and hear can be represented as a combination of ones and zeroes.  
+ Think about that for a moment: Everything you see or hear from a computer, whether it be Beethoven&#8217;s 9th symphony, watching Find Nemo, or writing e-mail to a friend in Des Moines: all you see and hear can be represented as a combination of ones and zeroes.
 
-... What I mean by basic is this: A person stranded on an ocean without water will sometimes, if they get thirsty enough, drink seawater in an effort to make their thirst go away.  
+... What I mean by basic is this: A person stranded on an ocean without water will sometimes, if they get thirsty enough, drink seawater in an effort to make their thirst go away.
 
 ... This is where it seems we have a difficult road ahead of us: our needs are elegantly complex, a bar of notes arranged into a symphony; while our desires are crude and basic, more like a toddler banging on a drum.
 

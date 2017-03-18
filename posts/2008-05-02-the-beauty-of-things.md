@@ -1,6 +1,5 @@
 ---
 title: The beauty of things
-date: Fri, 02 May 2008 12:00:00 +0000
 category: Journal
 ---
 
@@ -118,7 +117,7 @@ They stood in relationship to God as the world does to His attributes.  Each
 is a Messenger bearing a divine Message.  It's up to us not to confuse the
 two.
 
->     Even as the sun, bright hath He shined,  
+>     Even as the sun, bright hath He shined,
 >     But alas, He hath come to the town of the blind!
 
 [^1]: Bahá'u'lláh

@@ -1,22 +1,21 @@
 ---
 title: At midnight
-date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Poems
 ---
 
-    There is peace upon the ocean:  
+    There is peace upon the ocean:
     gentle waves, open sky.
 
-    Midnight is a moment away,  
+    Midnight is a moment away,
     and the moon has grown full.
 
-    As I dream,  
-    the world falls behind me.  
-    Shores recede:  
-    the great expanse of the All  
+    As I dream,
+    the world falls behind me.
+    Shores recede:
+    the great expanse of the All
     becomes my horizon.
 
-    Everything is steel blue,  
+    Everything is steel blue,
     at midnight upon the waves.
 
 

@@ -1,6 +1,5 @@
 ---
 title: Original valley of knowledge
-date: Fri, 30 Sep 2011 11:58:37 +0000
 category: Journal
 ---
 
@@ -25,7 +24,7 @@ translated as Valley of Understanding, and Valley of Mystic Insight).
 > longer be pre-occupied with himself, but will look up at the face of his
 > Friend.  In each atom he will see the whole; he will ponder over thousands
 > of bright secrets...
-> 
+>
 > Real knowledge becomes the possession of the true seeker.  If it is
 > necessary to seek knowledge in China, then go.  But knowledge is distorted
 > by the formal mind, it becomes petrified, like stones. How long must real
@@ -38,25 +37,25 @@ translated as Valley of Understanding, and Valley of Mystic Insight).
 
 Of those who dwell in this Valley it is said:
 
-    He will perceive the marrow, not the skin --  
-    the self will disappear; then, from within  
-    the heart of all he sees, there will ascend  
+    He will perceive the marrow, not the skin --
+    the self will disappear; then, from within
+    the heart of all he sees, there will ascend
     the longed-for face of the immortal Friend.
 
-    A hundred thousand secrets will be known  
-    when that unveiled, surpassing Face is shown --  
-    a hundred thousand men must faint and fail  
+    A hundred thousand secrets will be known
+    when that unveiled, surpassing Face is shown --
+    a hundred thousand men must faint and fail
     till one shall draw aside the secret's veil.
 
-    Perfected, of rare courage, he must be  
-    to dive through that immense, uncharted sea.  
-    If you discern such hidden truths and feel  
+    Perfected, of rare courage, he must be
+    to dive through that immense, uncharted sea.
+    If you discern such hidden truths and feel
     joy flood your life, do not relax your zeal!
 
-    Though thirst is quenched,  
-      though you are bathed in bliss  
-    beyond all hypothesis,  
-    though you should reach the throne of God,  
+    Though thirst is quenched,
+      though you are bathed in bliss
+    beyond all hypothesis,
+    though you should reach the throne of God,
       implore Him still unceasingly:
 
       "Is there yet anymore?"

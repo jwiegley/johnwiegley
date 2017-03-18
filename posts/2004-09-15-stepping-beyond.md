@@ -1,6 +1,5 @@
 ---
 title: Stepping beyond
-date: Wed, 15 Sep 2004 12:00:00 +0000
 category: Journal
 ---
 
@@ -16,10 +15,10 @@ can take a lifetime, the journey is less than a hair's breadth:
 > Behold it is closer to you than your life-vein!  Swift as the
 > twinkling of an eye ye can, if ye but wish it, reach and partake of
 > this imperishable favor...
-> 
+>
 > Thou art but one step away from the glorious heights above and from
 > the celestial tree of love...
-> 
+>
 > [The wayfarer] may cross these... stages... in a single breath, if God
 > will and desire it.
 

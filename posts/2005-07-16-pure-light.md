@@ -1,6 +1,5 @@
 ---
 title: Pure light
-date: Sat, 16 Jul 2005 12:00:00 +0000
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Only a poem today
-date: Wed, 06 Aug 2003 12:00:00 +0000
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: The sun, the clouds
-date: 2017-01-21 19:26
 category: Poems
 ---
 

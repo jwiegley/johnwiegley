@@ -1,6 +1,5 @@
 ---
 title: Rand's philosophy
-date: Sun, 22 Jun 2003 12:00:00 +0000
 category: Journal
 ---
 

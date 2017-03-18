@@ -1,6 +1,5 @@
 ---
 title: Religion does not get harder
-date: Sat, 06 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -196,12 +195,12 @@ condition of all.
 > Were men to discover the motivating purpose of God's Revelation, they
 > would assuredly cast away their fears, and, with hearts filled with
 > gratitude, rejoice with exceeding gladness.[^7]
-> 
+>
 > The Great Being saith: O ye children of men! The fundamental purpose
 > animating the Faith of God and His Religion is to safeguard the
 > interests and promote the unity of the human race, and to foster the
 > spirit of love and fellowship amongst men.[^8]
-> 
+>
 > O Son of Spirit!  With the joyful tidings of light I hail thee:
 > rejoice!  To the court of holiness I summon thee; abide therein that
 > thou mayest live in peace for evermore.
@@ -216,7 +215,7 @@ dwindling away, until the station is reached where Bahá'u'lláh says:
 > for He hath said concerning the guidance of travelers on this plane,
 > "Fear God, and God will instruct thee."  And again: "Knowledge is a
 > light which God casteth into the heart of whomsoever He willeth."
-> 
+>
 > Wherefore, a man should make ready his heart that it be worthy of the
 > descent of heavenly grace, and that the bounteous Cup-Bearer may give
 > him to drink of the wine of bestowal from the merciful vessel. "For

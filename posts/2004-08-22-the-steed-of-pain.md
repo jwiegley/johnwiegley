@@ -1,6 +1,5 @@
 ---
 title: The steed of pain
-date: Sun, 22 Aug 2004 12:00:00 +0000
 category: Journal
 ---
 
@@ -58,10 +57,10 @@ writes:
 
 > A lover feareth nothing and no harm can come nigh him: Thou seest him
 > chill in the fire and dry in the sea...
-> 
+>
 > > Love's a stranger to earth and heaven too;
 >     In him are lunacies seventy-and-two.
-> 
+>
 > [Love] hath bound a myriad victims in his fetters, wounded a myriad
 > wise men with his arrow.  Know that every redness in the world is from
 > his anger, and every paleness in men's cheeks is from his poison.  He

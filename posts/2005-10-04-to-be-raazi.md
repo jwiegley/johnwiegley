@@ -1,6 +1,5 @@
 ---
 title: To be raazi
-date: Tue, 04 Oct 2005 12:00:00 +0000
 category: Journal
 ---
 

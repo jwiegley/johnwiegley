@@ -1,6 +1,5 @@
 ---
 title: The Sleepers in the Cave
-date: Sat, 30 Apr 2005 12:00:00 +0000
 category: Journal
 ---
 
@@ -43,30 +42,30 @@ valleys.  Here is the full reference:
 > universal mind, whose sovereignty enlighteneth all created things --
 > nor doth it refer to every feeble brain; for it is as the wise Saná'í
 > hath written:
-> 
+>
 > > How can feeble reason encompass the Qur'án,
->     Or the spider snare a phoenix in his web?  
->     Wouldst thou that the mind should not entrap thee?  
+>     Or the spider snare a phoenix in his web?
+>     Wouldst thou that the mind should not entrap thee?
 >     Teach it the science of the love of God!
-> 
+>
 > On this plane, the traveler meeteth with many a trial and reverse.
 > Now is he lifted up to heaven, now is he cast into the depths.  As it
 > hath been said: "Now Thou drawest me to the summit of glory, again
 > Thou castest me into the lowest abyss."  The mystery treasured in this
 > plane is divulged in the following holy verse from the Súrih of THE
 > CAVE:
-> 
+>
 > "And thou mightest have seen the sun when it arose, pass on the right
 > of their cave, and when it set, leave them on the left, while they
 > were in its spacious chamber.  This is one of the signs of God.
 > Guided indeed is he whom God guideth; but for him whom He misleadeth,
 > thou shalt by no means find a patron."
-> 
+>
 > If a man could know what lieth hid in this one verse, it would suffice
 > him.  Wherefore, in praise of such as these, He hath said: "Men whom
 > neither merchandise nor traffic beguile from the remembrance of
 > God...."
-> 
+>
 > This station conferreth the true standard of knowledge, and freeth man
 > from tests.  In this realm, to search after knowledge is irrelevant,
 > for He hath said concerning the guidance of travelers on this plane,

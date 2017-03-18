@@ -1,6 +1,5 @@
 ---
 title: Why does God send Prophets?
-date: 2016-12-01 09:10
 category: Journal
 ---
 

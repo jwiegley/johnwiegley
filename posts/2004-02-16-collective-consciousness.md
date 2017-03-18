@@ -1,6 +1,5 @@
 ---
 title: Collective consciousness
-date: Mon, 16 Feb 2004 12:00:00 +0000
 category: Journal
 ---
 

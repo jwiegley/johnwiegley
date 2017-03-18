@@ -1,6 +1,5 @@
 ---
 title: God's mystery
-date: Sat, 30 Apr 2011 12:00:00 +0000
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: A single word
-date: Wed, 17 Aug 2016 15:13:16 +0000
 category: Journal
 ---
 

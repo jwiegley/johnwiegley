@@ -1,6 +1,5 @@
 ---
 title: The concept of self and the Kitáb-i-Íqán
-date: Wed, 07 Apr 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -218,7 +217,7 @@ reveal:
 > shining light.  And if a place be shut away from the light, as by
 > walls or a roof, it will be entirely bereft of the splendor of the
 > light, nor will the sun shine thereon...[^6]
-> 
+>
 > Thus when the wayfarer gazeth only upon the place of appearance --
 > that is, when he seeth only the many-colored globes -- he beholdeth
 > yellow and red and white; hence it is that conflict hath prevailed
@@ -255,7 +254,7 @@ concept to grasp.
 > Messengers, have been shut out of the sanctuary of the All-Beauteous
 > One, and banished from the Ka'bih of splendor.  Such is the worth of
 > the people of this age![^8]
-> 
+>
 > For some there are who dwell upon the plane of oneness and speak of
 > that world, and some inhabit the realms of limitation, and some the
 > grades of self, while others are completely veiled.  Thus do the
@@ -289,10 +288,10 @@ abandon the self and exist on the plane of oneness:
 > And when thou hast attained this highest station and come to this
 > mightiest plane, then shalt thou gaze on the Beloved, and forget all
 > else.
-> 
+>
 > > The Beloved shineth on gate and wall
 >     Without a veil, O men of vision.
-> 
+>
 > Now hast thou abandoned the drop of life and come to the sea of the
 > Life-Bestower.[^10]
 
@@ -431,7 +430,7 @@ further:
 > brutality, lust and so on.  It is this self we must struggle against,
 > or this side of our natures, in order to strengthen and free the
 > spirit within us and help it to attain perfection.
-> 
+>
 > Self-sacrifice means to subordinate this lower nature and its desires
 > to the more godly and noble side of ourselves.  Ultimately, in its
 > highest sense, self-sacrifice means to give our will and our all to

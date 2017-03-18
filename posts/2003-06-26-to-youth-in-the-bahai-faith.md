@@ -1,6 +1,5 @@
 ---
 title: To Youth in the Bahá'í Faith
-date: Thu, 26 Jun 2003 12:00:00 +0000
 category: Journal
 ---
 

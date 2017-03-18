@@ -1,6 +1,5 @@
 ---
 title: Modes of Seeing Reality
-date: Tue, 16 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 

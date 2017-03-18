@@ -1,6 +1,5 @@
 ---
 title: Vision and the architect (2 of 3)
-date: Sat, 16 Jul 2011 11:52:24 +0000
 category: Journal
 ---
 

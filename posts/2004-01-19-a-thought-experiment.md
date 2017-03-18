@@ -1,6 +1,5 @@
 ---
 title: A thought experiment
-date: Mon, 19 Jan 2004 12:00:00 +0000
 category: Journal
 ---
 

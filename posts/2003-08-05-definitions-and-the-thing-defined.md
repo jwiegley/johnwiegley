@@ -1,6 +1,5 @@
 ---
 title: Definitions and the-thing-defined
-date: Tue, 05 Aug 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -19,7 +18,7 @@ The following selection is from pages 221-2 of *Zen*:
 > must be a time lag.  We sometimes think of that time lag as
 > unimportant.  But there's no justification for thinking that the time
 > lag is unimportant -- none *whatsoever*.
-> 
+>
 > The past exists only in our memories, the future only in our plans.
 > The present is our only reality.  The tree that you are aware of
 > intellectually, because of that small time lag, is always in the past
@@ -30,7 +29,7 @@ The following selection is from pages 221-2 of *Zen*:
 > he had properly identified as Quality.  Since all intellectually
 > identifiable things must emerge *from* this pre-intellectual reality,
 > Quality is the *parent*, the *source* of all subjects and objects.
-> 
+>
 > He felt that intellectuals usually have the greatest trouble seeing
 > this Quality, precisely because they are so swift and absolute about
 > snapping everything into intellectual form.  The ones who have the

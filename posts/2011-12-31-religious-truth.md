@@ -1,6 +1,5 @@
 ---
 title: Religious truth and the Covenant
-date: Sat, 31 Dec 2011 12:22:21 +0000
 category: Journal
 ---
 

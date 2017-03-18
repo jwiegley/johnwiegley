@@ -1,6 +1,5 @@
 ---
 title: A perspective on fame
-date: Thu, 23 Mar 2006 12:00:00 +0000
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: The reflexive principle
-date: Thu, 29 Sep 2005 12:00:00 +0000
 category: Journal
 ---
 

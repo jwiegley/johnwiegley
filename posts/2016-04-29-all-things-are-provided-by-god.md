@@ -1,6 +1,5 @@
 ---
 title: All things are provided by God
-date: Fri, 29 Apr 2016 15:38:40 +0000
 category: Essays
 ---
 

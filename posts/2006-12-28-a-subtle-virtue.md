@@ -1,10 +1,8 @@
 ---
 title: A subtle virtue
-date: Thu, 28 Dec 2006 12:00:00 +0000
 category: Journal
+location: 239 Misty Creek Drive, Monument, Colorado
 ---
-
-Location: 239 Misty Creek Drive, Monument, Colorado
 
 The idea of detachment has puzzled me for a long time, mainly because
 its basic tenant -- as pursued by many of the people I know -- seems to

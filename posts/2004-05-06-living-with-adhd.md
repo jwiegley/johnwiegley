@@ -1,6 +1,5 @@
 ---
 title: Living with ADHD
-date: Thu, 06 May 2004 12:00:00 +0000
 category: Essays
 ---
 

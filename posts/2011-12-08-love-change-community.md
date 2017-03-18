@@ -1,6 +1,5 @@
 ---
 title: Love, change, community
-date: Thu, 08 Dec 2011 11:14:28 +0000
 category: Journal
 ---
 

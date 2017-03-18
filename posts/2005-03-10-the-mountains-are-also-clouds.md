@@ -1,6 +1,5 @@
 ---
 title: The mountains are also clouds
-date: Thu, 10 Mar 2005 12:00:00 +0000
 category: Journal
 ---
 

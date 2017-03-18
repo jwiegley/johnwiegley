@@ -1,6 +1,5 @@
 ---
 title: Idle complaint and freedom
-date: Tue, 08 Jun 2004 12:00:00 +0000
 category: Journal
 ---
 

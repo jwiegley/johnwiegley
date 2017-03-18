@@ -1,6 +1,5 @@
 ---
 title: To know God
-date: 2016-10-28 16:12
 category: Journal
 ---
 

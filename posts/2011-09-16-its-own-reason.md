@@ -1,6 +1,5 @@
 ---
 title: Its own reason
-date: Fri, 16 Sep 2011 12:06:35 +0000
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Introducing the Seven Valleys
-date: Sat, 09 Apr 2005 12:00:00 +0000
 category: Essays
 ---
 
@@ -363,11 +362,11 @@ described below):
 > *maqaam-i-ta.hdiid*: The station of limitation.  This is expressed in
 > the first three valleys, where the world seen by the believer is the
 > world of his own limitations.
-> 
+>
 > *maqaam-i-tuw.hiid*: The station of unity.  This is where the believer
 > sees with the eye of God, and beholds creation as it is, rather than
 > as he sees it.  This is the beginning of true understanding.
-> 
+>
 > *maqaam-i-fanaa va baqaa*: Annihilation and Eternity.  This is
 > disappearance of the self in God, where the seer is lost in the
 > seen; the self becomes nothing, and the seeker subsists in God.
@@ -406,7 +405,7 @@ valley.  That valley is described as "the dying from self and the living
 in God", which in the orignal uses the terms fanaa and baqaa:
 
 > iin rutbih maqaam-i fanaa-i az nafs va biqaa-i bi-al-llah ast
-> 
+>
 > "This level [the seventh valley] marks the station of abandoning self
 > (faná) and abiding in God (baqá)."
 

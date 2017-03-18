@@ -1,6 +1,5 @@
 ---
 title: That perfect moment
-date: Fri, 18 Mar 2016 15:55:48 +0000
 category: Poems
 ---
 

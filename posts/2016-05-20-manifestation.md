@@ -1,6 +1,5 @@
 ---
 title: Manifestation
-date: Fri, 20 May 2016 15:04:59 +0000
 category: Journal
 ---
 

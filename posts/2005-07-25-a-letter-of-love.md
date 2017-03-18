@@ -1,6 +1,5 @@
 ---
 title: A letter of love
-date: Mon, 25 Jul 2005 12:00:00 +0000
 category: Journal
 ---
 

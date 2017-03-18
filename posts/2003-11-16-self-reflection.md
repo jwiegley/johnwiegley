@@ -1,29 +1,27 @@
 ---
 title: Self reflection
-date: Sun, 16 Nov 2003 12:00:00 +0000
 category: Poems
+location: Viva Italiano
 ---
 
-Location: Viva Italiano
-
-    In the branches  
-    where the wind blows  
-    and daylight fights the shadows  
+    In the branches
+    where the wind blows
+    and daylight fights the shadows
     I found you.
 
-    Your head tilted back  
-    admiring the clouds  
-    in deep repose of thinking;  
+    Your head tilted back
+    admiring the clouds
+    in deep repose of thinking;
     I wondered,
 
-    What thought-strewn sea  
-    surges up?  
-    What white-clead breakers  
-    bear down  
+    What thought-strewn sea
+    surges up?
+    What white-clead breakers
+    bear down
     and crash upon that brow?
 
-    Such storms within  
-    to counterpoint  
+    Such storms within
+    to counterpoint
     the tranquil skies above.
 
 

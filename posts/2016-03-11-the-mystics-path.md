@@ -1,6 +1,5 @@
 ---
 title: The mystic's path
-date: Fri, 11 Mar 2016 06:55:13 +0000
 category: Journal
 ---
 

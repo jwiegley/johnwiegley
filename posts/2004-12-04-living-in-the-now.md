@@ -1,6 +1,5 @@
 ---
 title: Living in the now
-date: Sat, 04 Dec 2004 12:00:00 +0000
 category: Journal
 ---
 

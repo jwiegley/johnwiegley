@@ -1,6 +1,5 @@
 ---
 title: The measure
-date: Wed, 19 Oct 2005 12:00:00 +0000
 category: Journal
 ---
 

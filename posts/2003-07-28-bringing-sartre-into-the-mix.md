@@ -1,6 +1,5 @@
 ---
 title: Bringing Sartre into the mix
-date: Mon, 28 Jul 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -42,39 +41,39 @@ something to be complete.  He writes:
 > either.  Quality *decreases* subjectivity.  Quality takes you out of
 > yourself [!], makes you aware of the world around you.  Quality is
 > *opposed* to subjectivity.
-> 
+>
 > I don't know how much thought passed before he arrived at this, but
 > eventually he saw that Quality couldn't be independently related with
 > either the subject or the object but could be found *only in the
 > relationship of the two with each other*.  It is the point at which
 > subject and object meet.
-> 
+>
 > That sounded warm.
-> 
+>
 > Quality is not a *thing*.  It is an *event*.
-> 
+>
 > Warmer.
-> 
+>
 > It is the event at which the subject becomes aware of the object.  And
 > because without objects there can be no subject -- because the objects
 > create the subject's awareness of himself -- Quality is the event at
 > which awareness of both subjects and objects is made possible.
-> 
+>
 > Hot.
-> 
+>
 > Now he knew it was coming.
-> 
+>
 > This means Quality is not just the *result* of a collision between
 > subject and object.  The very existence of subject and object
 > themselves is *deduced* from the Quality event.  The Quality event is
 > the *cause* of the subjects and objects [of the fracture!], which are
 > then mistakenly presumed to be the cause of the Quality!
-> 
+>
 > Now he had that whole damned evil dilemma by the throat.  The dilemma
 > all the time had this unseen vile presumption in it, for which there
 > was no logical justification, that Quality was the *effect* of subjects
 > and objects.  It was *not!* He brought out his knife.
-> 
+>
 > "The sun of quality," he wrote, "does not revolve around the subjects
 > and objects of our existence.  It does not just passively illuminate
 > them.  It is not subordinate to them in any way.  It has *created* them.

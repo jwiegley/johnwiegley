@@ -1,10 +1,8 @@
 ---
 title: Freedom to investigate truth
-date: Mon, 15 Mar 2004 12:00:00 +0000
 category: Essays
+edited: 04/27/2006
 ---
-
-Edited: 04/27/2006
 
 Someone asked: *Suppose someone investigates a matter, sincerely and
 honestly, to the best of her ability and with what resources are

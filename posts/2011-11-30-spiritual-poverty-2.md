@@ -1,6 +1,5 @@
 ---
 title: More on spiritual poverty
-date: Wed, 30 Nov 2011 11:59:26 +0000
 category: Journal
 ---
 

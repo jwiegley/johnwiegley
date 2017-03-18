@@ -1,6 +1,5 @@
 ---
 title: Love is a Veil
-date: Mon, 22 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -106,7 +105,7 @@ What is that?"  And he might say, "What is 'this', what is 'that'?"
 > have words, on such a plane, that "first" and "last" or other than
 > these be seen or mentioned!  In this realm, the first is the last
 > itself, and the last is but the first.
-> 
+>
 > > In thy soul of love build thou a fire
 >     And burn all thoughts and words entire.[^3]
 

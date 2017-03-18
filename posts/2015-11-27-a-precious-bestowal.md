@@ -1,6 +1,5 @@
 ---
 title: A precious bestowal
-date: Fri, 27 Nov 2015 17:04:23 +0000
 category: Essays
 ---
 

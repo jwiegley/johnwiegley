@@ -1,6 +1,5 @@
 ---
 title: Four kinds of devotion
-date: Mon, 18 Apr 2005 12:00:00 +0000
 category: Journal
 ---
 

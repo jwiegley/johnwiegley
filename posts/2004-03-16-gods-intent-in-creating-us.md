@@ -1,6 +1,5 @@
 ---
 title: God's intent in creating us
-date: Tue, 16 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -13,11 +12,11 @@ too... any thoughts, ideas, writings?"
 
 I don't have any writings to share, but just a thought:
 
-    If God is perfection  
-      and God exists  
-      then perfection would be discernible -- (weak point)  
-      thus it would have attributes  
-      these attributes would manifest themselves  
+    If God is perfection
+      and God exists
+      then perfection would be discernible -- (weak point)
+      thus it would have attributes
+      these attributes would manifest themselves
       hence we come into picture.
 
 There is a sense in which we are not individual beings, but merely

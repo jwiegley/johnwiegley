@@ -1,6 +1,5 @@
 ---
 title: Green lizards
-date: Wed, 17 Mar 2004 12:00:00 +0000
 category: Stories
 ---
 
@@ -38,18 +37,18 @@ to their original habitat.  Even the H-bombs appear as an infinitely
 subtle attempt on the part of those materials used for their
 construction, to return to the dust from whence they came.
 
-    Green lizards, leaping from the river of black  
-    that nips at their toes,  
-    scampering with tremendous effort  
+    Green lizards, leaping from the river of black
+    that nips at their toes,
+    scampering with tremendous effort
     to reach the edge of that shore and beyond...
 
-    But where am I...  
-    Who am I...  
-    these are only creeper vines  
+    But where am I...
+    Who am I...
+    these are only creeper vines
     planted for the gracing of a highway!
 
-    Perhaps my vision has unveiled to me  
-    a secret yearning in the heart of things:  
+    Perhaps my vision has unveiled to me
+    a secret yearning in the heart of things:
     to return to their primeval nature.
 
 

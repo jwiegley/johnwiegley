@@ -1,6 +1,5 @@
 ---
 title: Bright Andalucia
-date: Tue, 03 Jun 2003 12:00:00 +0000
 category: Journal
 ---
 

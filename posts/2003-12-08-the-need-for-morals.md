@@ -1,6 +1,5 @@
 ---
 title: The need for morals
-date: Mon, 08 Dec 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -45,10 +44,10 @@ one whole.  This realization is a big step in that direction.
 Just finished reading *Travels*, by Michael Crichton -- a rather
 autobiography -- and found at the end a quotation that amazed me:
 
-    The surest test if a man be sane  
-    Is if he accepts life whole, as it is,  
-    Without needing by measure or touch to understand  
-    The measureless untouchable source  
+    The surest test if a man be sane
+    Is if he accepts life whole, as it is,
+    Without needing by measure or touch to understand
+    The measureless untouchable source
     Of its images...
 
 Since this brief quote nearly encapsulates most of what I have been

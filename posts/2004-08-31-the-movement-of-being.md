@@ -1,6 +1,5 @@
 ---
 title: The movement of being
-date: Tue, 31 Aug 2004 12:00:00 +0000
 category: Journal
 ---
 

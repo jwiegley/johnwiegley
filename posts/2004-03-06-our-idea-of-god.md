@@ -1,6 +1,5 @@
 ---
 title: Our idea of God
-date: Sat, 06 Mar 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -42,14 +41,14 @@ expressions of divine love we find so common in our Faith?
 
 > Veiled in My immemorial being and in the ancient eternity of My
 > essence, I knew My love for thee; therefore I created thee...[^1]
-> 
+>
 > Could ye apprehend with what wonders of My munificence and bounty I
 > have willed to entrust your souls, ye would, of a truth, rid
 > yourselves of attachment to all created things...[^2]
-> 
+>
 > Had it not been for the love I cherish for thee, I would not have
 > uttered a single word of what hath been mentioned.[^3]
-> 
+>
 > We have desired for thee naught except that which is better for thee
 > than what thou dost possess and all the treasures of the earth.[^4]
 
@@ -205,7 +204,7 @@ the barest conception of His Essence.
 > bounty did rain upon mankind, and the light of the Unseen did shine
 > above the horizon of celestial might, they all denied Him, and turned
 > away from His face -- the face of God Himself....
-> 
+>
 > Ponder for a moment, and reflect upon that which hath been the cause
 > of such denial on the part of those who have searched with such
 > earnestness and longing.  Their attack hath been more fierce than

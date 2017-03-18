@@ -1,6 +1,5 @@
 ---
 title: The Alien Bookstore Owner
-date: Sat, 06 Mar 2004 12:00:00 +0000
 category: Stories
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: The focus of religion
-date: Thu, 23 Jun 2011 12:13:21 +0000
 category: Journal
 ---
 

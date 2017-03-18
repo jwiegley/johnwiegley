@@ -1,6 +1,5 @@
 ---
 title: Poems from last summer
-date: Sat, 10 Apr 2004 12:00:00 +0000
 category: Journal
 ---
 

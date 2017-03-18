@@ -1,6 +1,5 @@
 ---
 title: A spiritual playground
-date: Tue, 14 Sep 2004 12:00:00 +0000
 category: Journal
 ---
 

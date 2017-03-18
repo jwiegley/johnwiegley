@@ -1,6 +1,5 @@
 ---
 title: Going beyond thought
-date: Fri, 31 Dec 2004 12:00:00 +0000
 category: Journal
 ---
 

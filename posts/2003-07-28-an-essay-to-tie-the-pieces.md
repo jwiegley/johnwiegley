@@ -1,6 +1,5 @@
 ---
 title: An essay to tie the pieces
-date: Mon, 28 Jul 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -42,17 +41,17 @@ it, the people I've been reading:
 
 > Me: The cause of the world's problems is that it rejected
 > Bahá'u'lláh.
-> 
+>
 > Rand: The world is heading toward death because man has turned away
 > from his responsibility to achieve the highest value.
-> 
+>
 > Pirsig: Our society is decaying because it no longer pays attention
 > to Quality.
-> 
+>
 > `Abdu'l-Bahá: The light of civilization is kindled by religion, and
 > when men turn their backs on it they consign themselves to darkness
 > and error.
-> 
+>
 > Shoghi Effendi: The primary cause of the world's difficulties is
 > spiritual in nature and stems from the widespread lack of religion.
 
@@ -166,24 +165,24 @@ Pirsig's groping for the unnameable:
 
 > "I think there is such a thing as Quality, but that as soon as you try
 > to define it, something goes haywire.  You can't do it."
-> 
+>
 > Murmurs of agreement.
-> 
+>
 > He continued, "Why this is, I don't know.  I thought maybe I'd get
 > some ideas from your papers.  I just don't know."
-> 
+>
 > This time the class was silent.
-> 
+>
 > In subsequent classes that day there was some of the same commotion,
 > but a number of students in each class volunteered friendly answers
 > that told him the first class had been discussed during lunch.
-> 
+>
 > A few days later he worked up a definition of his own and put it on
 > the blackboard to be copied for posterity.  The definition was:
 > "Quality is a characteristic of thought and statement that is
 > recognized by a non-thinking process.  Because definitions are a
 > product of rigid, formal thinking, quality cannot be defined."
-> 
+>
 > The fact that this "definition" was actually a refusal to define did
 > not draw comment.  The students had no formal training that would have
 > told them his statement was, in a formal sense, completely irrational.
@@ -192,24 +191,24 @@ Pirsig's groping for the unnameable:
 > it is.  There is, in fact, no formal difference between inability to
 > define and stupidity.  When I say, "Quality cannot be defined," I'm
 > really saying formally, "I'm stupid about Quality."
-> 
+>
 > Fortunately the students didn't know this.  If they'd come up with
 > these objections he wouldn't have been able to answer them at the
 > time.
-> 
+>
 > But then, below the definition on the blackboard, he wrote, "But even
 > though Quality cannot be defined, *you know what Quality is!*" and the
 > storm started all over again.
-> 
+>
 > "Oh, no, we don't!"
-> 
+>
 > "Oh, yes, you do."
-> 
+>
 > "Oh, *no*, we *don't!*"
-> 
+>
 > "Oh, yes, you *do!*" he said and he had some material ready to
 > demonstrate it to them.
-> 
+>
 > He had selected two examples of student composition.  The first was a
 > rambling, disconnected thing with interesting ideas that never built
 > into anything.  The second was a magnificent piece by a student who
@@ -217,14 +216,14 @@ Pirsig's groping for the unnameable:
 > read both, then asked for a show of hands on who thought the first was
 > best.  Two hands went up.  He asked how many liked the second better.
 > Twenty-eight hands went up.
-> 
+>
 > "Whatever it is," he said, "that caused the overwhelming majority to
 > raise their hands for the second one is what I mean by Quality.  So
 > *you* know what it is."
-> 
+>
 > There was a long reflective silence after this, and he just let it
 > last.
-> 
+>
 > This was just intellectually outrageous, and he knew it.  He wasn't
 > teaching anymore, he was indoctrinating.  He had erected an imaginary
 > entity, defined it as incapable of definition, told the students over
@@ -234,7 +233,7 @@ Pirsig's groping for the unnameable:
 > more talent than any of the students had.  In subsequent days he
 > continually invited their refutations, but none came.  He improvised
 > further.
-> 
+>
 > To reinforce the idea that they already knew what Quality was he
 > developed a routine in which he read four student papers in class and
 > had everyone rank them in estimated order of Quality on a slip of
@@ -244,20 +243,20 @@ Pirsig's groping for the unnameable:
 > always be close to, if not identical with the class average.  Where
 > there were differences it was usually because two papers were close in
 > quality.
-> 
+>
 > At first the classes were excited by this exercise, but as time went
 > on they became bored.  What he meant by Quality was obvious.  They
 > obviously knew what it was too, and so they lost interest in
 > listening.  Their question now was, "All right, we know what Quality
 > is.  How do we get it?"
-> 
+>
 > Now, at last, the standard rhetoric texts came into their own.  The
 > principles expounded in them were no longer rules to rebel against,
 > not ultimatums in themselves, but just techniques, gimmicks, for
 > producing what really counted and stood independently of the
 > techniques -- Quality.  What had started out as a heresy from
 > traditional rhetoric turned into a beautiful introduction to it.
-> 
+>
 > He singled out aspects of Quality such as unity, vividness, authority,
 > economy, sensitivity, clarity, emphasis, flow, suspense, brilliance,
 > precision, proportion, depth and so on; kept each of these as poorly
@@ -273,7 +272,7 @@ Pirsig's groping for the unnameable:
 > assignment by rote, he could be told that while his paper may have
 > fulfilled the letter of the assignment it obviously didn't fulfill the
 > goal of Quality and was therefore worthless.
-> 
+>
 > Now, in answer to that eternal student question, How do I *do* this?
 > that had frustrated him to the point of resignation, he could reply,
 > "It doesn't make a bit of difference *how* you do it!  Just so it's
@@ -285,14 +284,14 @@ Pirsig's groping for the unnameable:
 > finally and completely trapped into making quality judgments for
 > himself.  And it was just exactly this and nothing else that taught
 > him to write.
-> 
+>
 > Up to now Phaedrus had been compelled by the academic system to say
 > what he wanted, even though he knew that this forced students to
 > conform to artificial forms that destroyed their own creativity.
 > Students who went along with his rules were then condemned for their
 > inability to be creative or produce a piece of work that reflected
 > their own personal standards of what is good.
-> 
+>
 > Now that was over with.  By reversing a basic rule that all things
 > which are to be taught must first be defined, he had found a way out
 > of all this.  He was pointing to no principle, no rule of good

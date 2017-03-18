@@ -1,6 +1,5 @@
 ---
 title: Multilinearity and Free Will
-date: Sat, 03 Apr 2004 12:00:00 +0000
 category: Essays
 ---
 

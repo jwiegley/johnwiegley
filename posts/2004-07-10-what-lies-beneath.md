@@ -1,6 +1,5 @@
 ---
 title: What lies beneath
-date: Sat, 10 Jul 2004 12:00:00 +0000
 category: Journal
 ---
 
@@ -74,28 +73,28 @@ to approach it is to *be*.
 
 ------
 
-    There was Something undefined and yet complete in itself,  
+    There was Something undefined and yet complete in itself,
     Born before Heaven-and-Earth.
 
-    Silent and boundless,  
-    Standing alone without change,  
-    Yet pervading all without fail,  
-    It may be regarded as the Mother of the world.  
-    I do not know its name;  
-    I style it "Tao";  
-    And, in the absence of a better word, call it  
+    Silent and boundless,
+    Standing alone without change,
+    Yet pervading all without fail,
+    It may be regarded as the Mother of the world.
+    I do not know its name;
+    I style it "Tao";
+    And, in the absence of a better word, call it
       "The Great." -- Lao Tzu, *Tao Teh Ching*
 
 ------
 
-    To realize that our knowledge is ignorance,  
-    This is a noble insight.  
-    To regard our ignorance as knowledge,  
+    To realize that our knowledge is ignorance,
+    This is a noble insight.
+    To regard our ignorance as knowledge,
     This is mental sickness.
 
-    Only when we are sick of our sickness  
-    Shall we cease to be sick.  
-    The Sage is not sick, being sick of sickness;  
+    Only when we are sick of our sickness
+    Shall we cease to be sick.
+    The Sage is not sick, being sick of sickness;
     This is the secret of health. -- Lao Tzu, *Tao Teh Ching*
 
 

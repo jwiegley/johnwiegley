@@ -1,6 +1,5 @@
 ---
 title: Thought on aging
-date: Sat, 23 Apr 2005 12:00:00 +0000
 category: Journal
 ---
 

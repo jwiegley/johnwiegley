@@ -1,6 +1,5 @@
 ---
 title: Reflections on the Fast
-date: Thu, 08 Apr 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -16,7 +15,7 @@ improve ourselves.
 > from self-appetites and self-desires.  But mere abstention from food
 > has no effect on the spirit.  It is only a symbol, a reminder.
 > Otherwise it is of no importance.[^1]
-> 
+>
 > Happy is your condition for you have executed the divine command, and
 > have arisen to fast in these blessed days.  For this physical fasting
 > is a symbol of the spiritual fasting, that is, abstaining from all
@@ -31,7 +30,7 @@ improve ourselves.
 > free thyself From Karmabandh, the chain which holdeth men To good and
 > evil issue, so shalt come Safe unto Me -- when thou art quit of flesh
 > -- By faith and abdication joined to Me![^3]
-> 
+>
 > We have found, [the true philosophers] will say, a path of speculation
 > which seems to bring us and the argument to the conclusion that while
 > we are in the body, and while the soul is mingled with this mass of
@@ -68,7 +67,7 @@ improve ourselves.
 > to approach the pure.  These are the sort of words, Simmias, which the
 > true lovers of wisdom cannot help saying to one another, and
 > thinking....
-> 
+>
 > And what is purification but the separation of the soul from the body,
 > as I was saying before; the habit of the soul gathering and collecting
 > herself into herself, out of all the courses of the body; the dwelling
@@ -108,16 +107,16 @@ improve ourselves.
 
 > Therefore also now, saith the LORD, turn ye even to me with all your
 > heart, and with fasting, and with weeping, and with mourning...[^9]
-> 
+>
 > My last request is that you permit no one henceforth to enter my
 > chamber.  From now until the time when I shall be summoned to leave
 > this house, let no one be allowed to disturb my devotions.  This day I
 > intend to fast -- a fast which I shall not break until I am brought
 > face to face with my Beloved.[^10]
-> 
+>
 > *Táhirih's last words to the wife of Kalantar, who was looking after
 > her:*
-> 
+>
 > Mullá `Alí hastened to his companions and acquainted them with the
 > nature of his conversation with Mullá Husayn.  Ablaze with the fire
 > which the account of that conversation had kindled in their hearts,
@@ -192,10 +191,10 @@ that which is divine.
 
 > Likewise, reflect upon the perfection of man's creation, and that all
 > these planes and states are folded up and hidden away within him.
-> 
+>
 > Dost thou reckon thyself only a puny form When within thee the
 > universe is folded?
-> 
+>
 > Then we must labor to destroy the animal condition, till the meaning
 > of humanity shall come to light.[^16]
 
@@ -269,7 +268,7 @@ course with alacrity, even if at times the flesh may be unwilling.
 > Beloved, and seeketh no refuge save the Friend.  At every moment he
 > offereth a hundred lives in the path of the Loved One, at every step
 > he throweth a thousand heads at the feet of the Beloved.
-> 
+>
 > O My Brother!  Until thou enter the Egypt of love, thou shalt never
 > come to the Joseph of the Beauty of the Friend; and until, like Jacob,
 > thou forsake thine outward eyes, thou shalt never open the eye of
@@ -288,12 +287,12 @@ course with alacrity, even if at times the flesh may be unwilling.
 > Rid thou thyself of all attachments to aught except God, enrich
 > thyself in God by dispensing with all else besides Him, and recite
 > this prayer:
-> 
+>
 > Say: God sufficeth all things above all things, and nothing in the
 > heavens or in the earth or in whatever lieth between them but God,
 > thy Lord, sufficeth.  Verily, He is in Himself the Knower, the
 > Sustainer, the Omnipotent.
-> 
+>
 > Regard not the all-sufficing power of God as an idle fancy.  It is
 > that genuine faith which thou cherishest for the Manifestation of God
 > in every Dispensation.  It is such faith which sufficeth above all the
@@ -322,13 +321,13 @@ with Him would outweigh all material considerations.
 > raineth only on the garden of the spirit, and bestoweth this bounty
 > only in the season of spring.  The other seasons have no share in this
 > greatest grace, and barren lands no portion of this favor.[^22]
-> 
+>
 > O Son of Justice!  Whither can a lover go but to the land of his
 > beloved? and what seeker findeth rest away from his heart's desire? To
 > the true lover reunion is life, and separation is death.  His breast
 > is void of patience and his heart hath no peace.  A myriad lives he
 > would forsake to hasten to the abode of his beloved.[^23]
-> 
+>
 > Consider these nightingales.  So great is their love for these roses,
 > that sleepless from dusk till dawn, they warble their melodies and
 > commune with burning passion with the object of their adoration.  How

@@ -1,10 +1,8 @@
 ---
 title: Chess and life
-date: Tue, 19 Dec 2006 12:00:00 +0000
 category: Journal
+location: 239 Misty Creek Drive, Monument, Colorado, USA
 ---
-
-Location: 239 Misty Creek Drive, Monument, Colorado, USA
 
 As I was playing chess on my favorite online server today
 ([http://freechess.org](http://freechess.org)), I found myself losing just a

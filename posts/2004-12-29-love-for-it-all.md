@@ -1,6 +1,5 @@
 ---
 title: Love for it all
-date: Wed, 29 Dec 2004 12:00:00 +0000
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: A cappuccino in every hand
-date: Sun, 27 Jul 2003 12:00:00 +0000
 category: Journal
 ---
 
@@ -68,10 +67,10 @@ they will see:
 > In the context of something's being simple, integrity means that it
 > has a single overall purpose and that every element contributes to
 > that purpose.  No part of it tries to be what it is not.
-> 
+>
 > Dependability means that you always know how it will behave and what
 > it will accomplish.  It never changes what it is or what it does.
-> 
+>
 > Honesty means that nothing is ever hidden or obscure or false.  The
 > description fits the behavior fits the reality.  Its being is one,
 > self-consistent... simple.

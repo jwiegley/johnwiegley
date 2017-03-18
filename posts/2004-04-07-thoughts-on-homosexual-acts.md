@@ -1,6 +1,5 @@
 ---
 title: Thoughts on homosexual acts
-date: Wed, 07 Apr 2004 12:00:00 +0000
 category: Essays
 ---
 
@@ -82,25 +81,25 @@ must unload ourselves of all encumbrance.
 > Kaf or Gaf (K or G) referreth to Kuffi ("free"), that is, "Free
 > thyself from that which thy passion desireth; then advance unto thy
 > Lord."
-> 
+>
 > Nun (N) referreth to Nazzih ("purify"), that is, "Purify thyself from
 > all else save Him, that thou mayest surrender thy life in His love."
-> 
+>
 > Jim (J) is Janib ("draw back"), that is, "Draw back from the
 > threshold of the True One if thou still possessest earthly
 > attributes."
-> 
+>
 > Shin (SH) is Ushkur ("thank") -- "Thank thy Lord on His earth that He
 > may bless thee in His heaven; albeit in the world of oneness, this
 > heaven is the same as His earth."
-> 
+>
 > Kaf (K) referreth to Kuffi, that is: "Take off from thyself the
 > wrappings of limitations, that thou mayest come to know what thou
 > hast not known of the states of Sanctity."
-> 
+>
 > Wert thou to harken to the melodies of this mortal Bird, then wouldst
 > thou seek out the undying chalice and pass by every perishable cup.
-> 
+>
 > Peace be upon those who walk in the Right Path!
 
 

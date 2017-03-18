@@ -1,6 +1,5 @@
 ---
 title: The dervish and the thirsty one
-date: Sun, 17 Oct 2004 12:00:00 +0000
 category: Journal
 ---
 

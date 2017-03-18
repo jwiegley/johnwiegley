@@ -1,6 +1,5 @@
 ---
 title: Musings on the Seven Valleys
-date: Sat, 27 Feb 2016 15:13:43 +0000
 category: Essays
 ---
 

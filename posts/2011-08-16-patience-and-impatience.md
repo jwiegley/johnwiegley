@@ -1,6 +1,5 @@
 ---
 title: Patience and impatience
-date: Tue, 16 Aug 2011 11:57:05 +0000
 category: Journal
 ---
 

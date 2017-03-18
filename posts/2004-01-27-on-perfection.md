@@ -1,6 +1,5 @@
 ---
 title: On perfection
-date: Tue, 27 Jan 2004 12:00:00 +0000
 category: Journal
 ---
 
@@ -35,17 +34,17 @@ If we see this world as not terribly important per se, but inestimably
 valuable in revealing the qualities of love, then pain and evil take
 on wholly different aspects.
 
-    We are the guests of One Who devours His guests;  
-    The friends of the One Who slaughters His friends...  
-    Although by His gaze He brings death to so many lovers,  
+    We are the guests of One Who devours His guests;
+    The friends of the One Who slaughters His friends...
+    Although by His gaze He brings death to so many lovers,
     Let yourself be killed by Him: Is He not the water of life?
 
-    Never, ever, grow bitter: He is the Friend and kills gently.  
-    Keep your heart noble, for this most noble Love  
+    Never, ever, grow bitter: He is the Friend and kills gently.
+    Keep your heart noble, for this most noble Love
     kills only kings near God, and men free from passion.
 
-    We are the night, Earth's shadow.  
-    He is the Sun:  
+    We are the night, Earth's shadow.
+    He is the Sun:
     He splits open the night with a sword soaked in dawn...[^1]
 
 [^1]:   Jalálu'd-Dín Rúmí

@@ -1,10 +1,8 @@
 ---
 title: Beloved of Him
-date: Fri, 14 Jul 2006 12:00:00 +0000
 category: Journal
+location: 239 Misty Creek Dr, Monument, CO
 ---
-
-Location: 239 Misty Creek Dr, Monument, CO
 
 It strikes me that the private destiny of each individual is something
 other than achieving the perfections he imagines for himself.

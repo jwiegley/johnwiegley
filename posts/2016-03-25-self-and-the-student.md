@@ -1,6 +1,5 @@
 ---
 title: Self and the student
-date: Fri, 25 Mar 2016 15:56:41 +0000
 category: Journal
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: The Beloved as the sun
-date: Fri, 04 Mar 2005 12:00:00 +0000
 category: Journal
 ---
 

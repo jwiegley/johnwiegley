@@ -1,6 +1,5 @@
 ---
 title: In Him, we are the sea
-date: 2016-10-20 13:14
 category: Journal
 ---
 

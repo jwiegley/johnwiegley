@@ -1,6 +1,5 @@
 ---
 title: Rhapsody on the Seven Valleys
-date: Sat, 09 Apr 2005 12:00:00 +0000
 category: Essays
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: It's all a game
-date: Wed, 25 Jan 2006 12:00:00 +0000
 category: Journal
 ---
 

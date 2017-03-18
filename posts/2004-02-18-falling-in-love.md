@@ -1,6 +1,5 @@
 ---
 title: Falling in love
-date: Wed, 18 Feb 2004 12:00:00 +0000
 category: Journal
 ---
 
