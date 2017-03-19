@@ -1,5 +1,115 @@
                                    COMMENTS
 
+# How do you interpret Acts 1:11 in the Bible?
+
+> “They also said, "Men of Galilee, why do you stand looking into the sky?
+> This Jesus, who has been taken up from you into heaven, will come in just
+> the same way as you have watched Him go into heaven."” ‭‭Acts‬ ‭1:11‬ ‭NASB‬‬
+
+> If I am not mistaken, that says Jesus, the same Jesus as at that time, is
+> supposed to come back in the same way they watched Him leave (which was
+> going up into the sky). That's not what Bahá’ís believe is the case with
+> Bahá’u’lláh being Jesus though. Am I missing something here? This seems
+> pretty explicitly contradictory to me.
+
+> EDIT: Really, how do you handle anything that makes it seem as if Jesus'
+> Second Coming was supposed to be extremely obvious?
+
+Hi /u/iapst,
+
+I can see from your posting history that you like to tackle the hard questions
+head on, both here and in the Christian forums. Well done.
+
+For a more meaningful discussion with Bahá’ís on Christian subjects, we should
+recognize that we agree on some things without reservation, even if we do not
+share every belief. The Universal House of Justice writes:
+
+> As to the position of Christianity, let it be stated without any hesitation
+  or equivocation that its divine origin is unconditionally acknowledged, that
+  the Sonship and Divinity of Jesus Christ are fearlessly asserted, that the
+  divine inspiration of the Gospel is fully recognized, that the reality of
+  the mystery of the Immaculacy of the Virgin Mary is confessed, and the
+  primacy of Peter, the Prince of the Apostles, is upheld and defended...
+  
+Note here the term "divine inspiration" rather than a literal and historically
+faithful representation of the events of those days.
+    
+For example, related to the question you posed,
+consider
+[this Christian article](http://davidgpeterson.com/acts/resurrection-and-luke-acts/).
+In it, the author examines Luke's motivation for emphasizing the physical
+resurrection the way he does in both Luke and Acts. His thesis is that the
+author was explicating Christ's fulfillment of the Messianic hope of the
+Pharisees in terms they would find unmistakable. To quote an excerpt:
+
+> ... Luke believed that the hope of the resurrection could be 'a shared
+  starting point with some Jews.' By way of contrast, pagans are pictured in
+  Acts as reacting negatively to preaching about a bodily resurrection.
+
+[Some historians believe](https://en.wikipedia.org/wiki/Authorship_of_Luke%E2%80%93Acts) that
+Luke himself did not write these texts, but another author *who, being human,
+had his own agenda* relayed the story, making it possible that it gained
+certain elements toward an intended effect on its hearers. It may have gone
+from a teaching about Christ's ascendancy after His resurrection, to a
+physicalization of those events to make a subtle point more clear. I would not
+even call this a misrepresentation during an age when miracles and divine
+portents
+[were commonly used](https://infidels.org/library/modern/richard_carrier/kooks.html) to
+assert the greatness of a person. Rather, it may have been a way of
+strengthening the author's theme: that Christ had risen again, and His church
+would conquer the Romans and restore the nation of Israel, in fulfillment of
+Messianic prophecy.
+
+I recognize that many Christians would outright deny this idea, and I have no
+argument against that denial. I'm only suggesting a possible reading of the
+Bible, if we permit the assumption that it is not 100% historically accurate.
+I'm sure you wouldn't expect a discussion with a Jewish person to go very far
+if they insisted you accept their interpretation of Messaniac prophecy, as
+taught to them in their synagogue. People of the day converted to Christianity
+*because they were willing to read the Torah differently*. The fact that we
+ask the same of Muslims and Christians is no different from any other past
+religion.
+
+So, there certainly exists a Christian viewpoint where you're totally right:
+the statements in Luke/Acts are obvious and literal, and it makes no sense
+that the Bahá'í Faith would claim the Bible is correct while denying a
+physical ressurection. However, for the Bahá'í answer to this question, we
+believe the Bible has been unsealed in this day and its true meaning laid bare
+by the Pen of Bahá'u'lláh. He has told us, in multiple places, that the
+"resurrection" is an ancient, spiritual theme applicable to every one of the
+Prophets of God -- even to the believers and deniers who appear with every
+Manifestation. The biblical story of Christ's resurrection made the fact of
+His resurrection plain using a physical representation of events, but the real
+truth of the matter is of the spirit, not the body.
+
+You can
+find
+[many Bahá'í quotations](http://www.bahaiquotes.com/quotepage.php?Quotes%2FResurrection+) concerning
+this point, but I'd like to offer just one, from `Abdu'l-Bahá:
+
+> The resurrections of the Divine Manifestations are not of the body. All
+> their states, their conditions, their acts, the things they have
+> established, their teachings, their expressions, their parables, and their
+> instructions have a spiritual and divine signification, and have no
+> connection with material things.
+
+There
+[is also a letter](http://bahai-library.com/uhj_resurrection_return_jesus)
+from the research department of the Universal House of Justice, specifically
+on this question of the Resurrection and Return of Jesus.
+
+I leave you with the words of Paul himself:
+
+> There are heavenly bodies and earthly bodies, but the glory of the heavenly
+  is of one kind, and the glory of the earthly is of another. There is one
+  glory of the sun, and another glory of the moon, and another glory of the
+  stars; for star differs from star in glory. So is it with the resurrection
+  of the dead. What is sown is perishable; what is raised is imperishable. It
+  is sown in dishonor; it is raised in glory. It is sown in weakness; it is
+  raised in power. It is sown a natural body; it is raised a spiritual body.
+
+Peace.
+
 # Good and Evil at the End
 
 I wonder if an analogy might apply: While our bodies are developing in the
