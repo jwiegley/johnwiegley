@@ -1,5 +1,51 @@
                                    COMMENTS
 
+# How is this justified???
+
+Something to keep in mind when reading any Holy Book is that it is both
+instructive, and a test of mankind to discern the pure in heart from the
+deceivers.
+
+In verses like this, given the time at which they were revealed, God made
+women socially, legally and financially inferior to men, a choice that would
+influence the later social order -- for whatever reason it was needed at the
+time.
+
+But those who use the text for their own selfish reasons, read this as women
+being intrinsically, essentially, and spiritually inferior. Which, of course,
+there is no reason to assume.
+
+For another example, consider the verse on women's testimony. This may have
+been to safeguard the one being witnessed against, rather than an assessment
+of women, since women were largely uneducated and this could have resulted in
+chance misunderstandings. The Qur'án does say (though I rarely hear this
+quoted):
+
+> 3:194-195 "Our Lord! Give us what Thou hast promised us through Thy
+> messengers, and disgrace us not on the Day of Resurrection. Truly Thou wilt
+> not fail the tryst." So their Lord answered them, “I shall not let the work
+> of any worker among you, male or female, be in vain; each of you is like the
+> other....
+
+The legal status of women should not be read as a measure of their inherent
+worth, since in the sight of God, they are alike spiritually. However, their
+status on this earth was most certainly not (yet) made equal, even though men
+were commanded to protect women:
+
+> 4:34 Men are the upholders and maintainers of women by virtue of that in
+> which God has favored some of them above others and by virtue of their
+> spending from their wealth. Therefore the righteous women are devoutly
+> obedient, guarding in [their husbands'] absence what God has guarded. As for
+> those from whom you fear discord and animosity, admonish them, then leave
+> them in their beds, then strike them. Then if they obey you, seek not a way
+> against them.
+
+Again, contrast this with the humanity of the time
+: when girl children were being buried alive, and women were not considered
+human beings. If the goal of the Qur'án was to educate mankind, to promote
+unity, and to prepare civilization for the next Manifestation of God, it
+needed to advance the people to the degree they were capable.
+
 # How do you interpret Acts 1:11 in the Bible?
 
 > “They also said, "Men of Galilee, why do you stand looking into the sky?
