@@ -1,6 +1,6 @@
 ---
 title: Descriptive interpretation
-tags: essays
+tags: journal
 ---
 
 There are certain mystical passages in the Bahá'í Writings that can be read
