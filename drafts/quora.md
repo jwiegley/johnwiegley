@@ -12,81 +12,6 @@ know who your real friends are before you let them into your home? And as
 Hollywood has shown in many films, sometimes you don’t discover who your real
 friends are until you test them.
 
-# Life is totally meaningless. We live. We die. So what's the point?
-
-Don't give me any religious reasons as that's just a coping mechanism.
-
-We are simply alive a biological function of reproduction as all biological C
-14 creatures exist. Our job is to vision mission and value our lives learn who
-am I why am I here and how can I serve these are all imindfulness ideals
-
-Date: 2017-03-04
-
-Keep in mind that, as children, “play” was totally meaningless too. It had no
-societal benefit, no ultimate effect. We played, it ended, so what was the
-point?
-
-As conscious beings, our reality is to *be conscious*. It does not necessarily
-require a higher moral value, or an ultimate destination. If being aware is
-all we can truly possess or achieve, then the goal should be to refine our
-acute appreciation of what life has to offer, and the nature of things,
-however impermanent — maybe even because they’re impermanent.
-
-Why do this, if everything is transient and perishing? Because. I think you’re
-brushing up against a meaning of enlightenment here: Being is its own truth,
-which the wanderings of mind will never fathom.
-
-# Is truth relative? Does absolute truth exist?
-
-Date: 2017-02-25
-
-Absolute truth does exist, but often when you cast it into terms of human
-language and conception, it becomes relative to those assumptions.
-
-For example: Does the sun radiate heat? Absolutely, this is a physical and
-verifiable fact. Is the sun hot? Yes, and no. It’s certainly hot to those of
-us living on Earth; but it’s downright frigid compared to the temperatures of
-the Big Bang.
-
-As the absolute truth you’re seeking gets more and more abstract, it becomes
-harder to find an expression of it that is not made relative by the expression
-itself. For example, for centuries Sufi mystics have argued whether God is
-found in all things, or all things are God. There are compelling religious
-foundations for both viewpoints; but since the subject (God) is so abstracted
-from human experience, the terminology used to explore the problem means that
-even when such statements are relatively true, no one of them is absolutely
-so. The absolute truth must be approached in the union of these perspectives.
-
-So if you seek an absolute truth, be very careful of how you phrase it, and
-the terms used to describe it. It may remind you of Rumi’s story about the
-elephant in the dark:
-
-> Some Hindus have an elephant to show.  
-> No one here has ever seen an elephant.  
-> They bring it at night to a dark room.
-> 
-> One by one, we go in the dark and come out  
-> saying how we experience the animal.  
-> One of us happens to touch the trunk.  
-> A water-pipe kind of creature.
-> 
-> Another, the ear. A strong, always moving  
-> back and forth, fan-animal. Another, the leg.  
-> I find it still, like a column on a temple.
-> 
-> Another touches the curve back.  
-> A leathery throne. Another, the cleverest,  
-> feels the tusk. A rounded sword made of porcelain.  
-> He is proud of his description.
-> 
-> Each of us touches one place  
-> and understands the whole in that way.  
-> The palm and the fingers feeling in the dark  
-> are how the senses explore the reality of the elephant.
-> 
-> If each of us held a candle there,  
-> and if we went in together, we could see it.
-
 # What religion has the answer?
 
 Date: 2017-02-25
@@ -168,74 +93,6 @@ meaning beyond these statements, even though the terms can be used to
 represent quantities in the real world. *We supply the meaning by how we use
 the terms*, but the terms themselves are just relationships defined among
 arbitrary symbols.
-
-# If God knows everything, God knows the future. If God knows the future, how can there be free will?
-
-If the future is already known, then it can't be changed, and therefore there
-cannot be free will.
-
-And why does God get angry about events when he already knows what is going to
-happen?
-
-Date: 2017-02-21
-
-Others have noted that part of the problem with this question is that it
-assumes time is linear for everyone, including God.
-
-Imagine you knew everything. Not just everything that is, but everything that
-can be: every possible universe that could result from every possible choice.
-And you don’t just know one or some of them, but all of them. You know my
-whole future if I choose to drink coffee today, and you know my whole future
-if I choose not to. After all, if your knowledge is infinite, there’s no
-capacity problem. You would know every future, resulting from every choice,
-for every person in existence.
-
-This means that God doesn’t need to fore-know what I’ll choose, because it
-wouldn’t make a difference; He already knows every divergent outcome: billions
-upon billions of possible futures, resulting from every conceivable choice I
-might make.
-
-Does it limit my freedom that the future exists? Does it limit my freedom that
-God knows all of them?
-
-I think what your original question assumes is that, if God knows which final
-future I will choose, it eliminates all the other possibilities from the
-beginning. But maybe this isn’t how God’s knowledge of the future works… if
-He’s not linear.
-
-I also think this is where fate and free will co-exist. Free will creates the
-set of futures we can choose from, while fate limits that set to what God
-makes allowable. It’s like a diner at a buffet, who can choice any one of a
-hundred foods, but his choice is still limited to those hundred.
-
-So if God decrees that a certain thing must happen in my life, it becomes
-fated, and all my futures now contain that thing. But how exactly I get there
-would still be up to me, without either affecting His foreknowledge of what
-must happen, or my free in how I get there.
-
-# Does true faith mean never giving up your beliefs?
-
-I'm totally open to suggestions!!! please join the discussion, i'd love to
-hear any opinions. this is for an english project; the questions were assigned
-to us.
-
-Date: 2017-02-21
-
-I think true faith means being willing to give up every one of your beliefs in
-the name of truth. Because truth is the truth, and your beliefs are just… your
-beliefs. One is absolute and independent, while the other is relative to what
-you know, understand and perceive.
-
-This doesn’t necessarily mean that one day you’ll stop believing in God, or
-not God, or whatever is most important to you; but your beliefs about it
-should change as you progress in life, because beliefs are, after all, mostly
-ideas. The thought that one’s beliefs wouldn’t change in the face of new
-knowledge and experience isn’t faith, it’s blindness.
-
-Faith is knowing that someone loves you, and is absolutely good, even if they
-act in a way that seems 100% the opposite. This is because you have faith in
-the person, and so choose to believe that you haven’t fully understood the
-situation.
 
 # What is the opposite of zen?
 
@@ -330,20 +187,6 @@ Date: 2017-01-29
 Quick rule of thumb: Take an hourly rate, double it, then add 3 zeroes. $25 ->
 $50,000. That's the salary equivalent of that rate. Divide by 12 to know the
 monthly amount: ~$4,100.
-
-# Why don't prayers work?
-
-Date: 2017-01-29
-
-Prayer is a mystery; it's not like withdrawing money from an ATM. Sometimes
-it's working when you think it isn’t, and vice versa.
-
-It's better to use prayer as a means to connect your heart with God, and
-express yourself to Him, rather than treating it like God’s IT department.
-
-Prayer is like that feeling you get in the midst of a gorgeous moment when you
-say to yourself, “I wish this would never end.” The fact that it does end is
-part of what made it special; it's not a failure of the wish.
 
 # Which are Christians supposed to do? Pray for things to go the way they want it to or accept whatever happens as the work of God?
 
@@ -503,56 +346,6 @@ beliefs about yet, exactly because they’re outside your present experience.
 When you realize that always being right is like trapping yourself inside a
 very small box, maybe you’ll want to escape from it.
 
-# Can God build a wall he cannot break?
-
-Date: 2016-11-30
-
-This question rests on a false premise: It assumes there exists something —
-the building materials for a wall — that is outside of God’s own existence.
-That is, God is here, and the bricks are over there, and you’re asking if God,
-who has no physical dimensions and is unlimited, can then impose upon himself
-both dimensions and limits.
-
-It would be quicker to ask, “Can God be something other than God?” This is
-only a little different from stating Russell’s paradox, “Is there a set of all
-sets that do not contain themselves?” Rather than saying something meaningful
-about such sets, what this paradox reveals is that such a question is simply
-not logical.
-
-# When do you begin to doubt your beliefs in God?
-
-Date: 2016-11-30
-
-I think one should always doubt their belief in God, because what is belief
-made from? Finite conceptions of an infinite truth are always wrong to some
-degree.
-
-For example, say you had a picture of a beautiful painting, like Van Gogh’s
-*Starry Night*. Now focus in on a single atom within the painting, so that one
-atom is all you see, and all you’ve ever seen. What do you think about the
-painting then? Whatever you think, however true it might be for an individual
-atom, it’s not true for the painting as a whole.
-
-Zoom out until you can see a few molecules: still the case; zoom out to a drop
-of the paint: still the case; zoom out until you can see one star: still the
-case. Etc.
-
-As it happens, in this analogy, there’s a point at which we’ve zoomed out
-enough to see the whole painting, and then it makes sense. But what if the
-subject of our attention is *infinite*, and there's no such thing as zooming
-out far enough? Then, no matter how true our thoughts might be about the small
-part we know, it is not the truth of the whole.
-
-Therefore, doubt your beliefs about God every second of every day. They are
-like clothes: put them on in the morning, take them off at night, and change
-them the next day. As long as your mind keeps growing, your ideas should keep
-changing, as more and more of the picture comes into view.
-
-Note: I do think this is a separate question from belief in a moral code, or
-the teachings of a Prophet, since those two are local to our experience, and
-relative to the world in which we live. I’m more talking about our beliefs in
-the Divine Entity behind it all, about Whom shall always know next to nothing.
-
 # What had caused you to join The Baha'i Faith?
 
 Date: 2016-11-29
@@ -680,44 +473,6 @@ It was John the Baptists, as stated in Matthew 3:4. I imagine that since John
 lived by himself in the desert, these were the foods he had access to. It also
 shows that he was dependent on nothing, and no one, except what God provided.
 
-# Why would an omnipotent need our prayers, reverence and undying gratitude?
-
-Date: 2016-11-27
-
-A flower opens its petals and prays to the sun, not because the sun needs it.
-
-The sere grass is grateful for a falling rain, not because the clouds need it.
-
-If we understood the nature of our soul’s relationship to God, prayer,
-reverence and gratitude would never feel forced upon us. They are the natural
-order of things, once one takes into account the spiritual world. Perhaps they
-are required of us at the beginning so we can derive some benefit from them,
-before having understood.
-
-# What are some proofs that deny the presence of a deity?
-
-Date: 2016-11-27
-
-Every method of “proof” available to us is a human-devised system, based on
-formulations of logic we are able to comprehend. It might surprise you to know
-that many such systems exist: for example, constructive logic (where proof is
-given by a truth witness), and classical logic (where proof may depend on
-axioms we hold always to be true).
-
-If proof is a system of human construction, it can only establish proof for
-questions posable within that system. That is, it can only answer questions
-within its own sphere. The reason we can prove “1 + 2 = 2 + 1” is because we
-know the definition of “+” and the meaning of the symbols “1” and “2”. Without
-that knowledge — if “+” is left undefined, for example — it becomes
-unprovable.
-
-Therefore, since any deity is, by definition, beyond human understanding, any
-proof system we devise cannot apply to it, either positively or negatively. We
-just can’t know, exactly because we don’t know.
-
-I think Wittgenstein stated it quite succinctly when he wrote: “The limits of
-my language means the limits of my world.”
-
 # If I have a gun and I am about to shoot you, how can you convince me that it is morally or ethically wrong to do so without using God or the Bible?
 
 Date: 2016-11-27
@@ -826,88 +581,6 @@ fulfilling prophecy, so you would think allegorical readings would become more
 popular over time — but they have not. I think the interesting question is:
 How can both books be read so they are seen as referring to a common truth?
 
-# What proof that the quran is the word of God or is it just the best mythological or fiction book ever written?
-
-Date: 2016-11-25
-
-It’s hard to give a “proof” of the Qur’án, in the sense of convincing others
-instantly and utterly, but there are a few facts to consider:
-
-- Muhammad was illiterate, and is reported to have uttered the chapters of the
-  Qur’án on the spot, noted down by those around him. If you look at the
-  language and complexity of the Qur’án, and how hard it is even for learned
-  individuals to mimic its richness and style, that’s pretty amazing by
-  itself.
-
-- Although the Qur’án is relatively short, it became the basis for a
-  civilization that was more successful than the Roman Empire, covered a
-  greater territory, and was reknowned over the centuries for its art, science
-  and philosophy. How can such a small book, spoken aloud by an unlettered man
-  of Arabia during the 7th century, be so rich and complex that it still
-  serves as a guide for millions today?
-
-- The Qur’án makes an explicit challenge that if it is not from God, simply
-  imitate it: Write something of equal beauty and power, if you think it’s
-  just the ravings of a poet from the Arabian desert. Although this challenge
-  was given over 1300 years ago, it has nonetheless withstood the test of
-  time.
-
-- If you survey the state of the Arabian Peninsula when Muhammad was born, it
-  is shocking to think it could have ever been united by anyone, so afflicted
-  was it by internecine conflicts, prejudices, and barbaric traditions.
-  Compare the result of the Qur’án’s influence on that region, with the
-  conditions it appeared in, and it becomes very hard to reckon it a mere book
-  of poetry. Many men, over millenia, have tried to fashion ideal societies
-  under far more favorable conditions — we still don’t have a living example
-  of Plato’s Republic. Yet the Islamic nations, at their peak, were as a light
-  to the world.
-
-# What are philosophy courses good for?
-
-Date: 2016-11-25
-
-While most other courses will teach you how to think about a particular
-subject, philosophy is unique in that it questions the process of thinking
-itself: By what logic do we arrive at answers? What is the foundation of
-answers, and the meaning of questions? How is it that we “know” something?
-What does it mean to “exist”, and what is the foundation of meaning itself?
-
-Without examining these things you can be quite successful in life, but you’ll
-always be operating on a base of assumptions about life and thought that will
-limit how far you can go in your understanding of it. If this means nothing to
-you, you probably don’t need any philosophy; but if you’d like to discover
-more from life than just eating, sleeping and death, then it’s all the things
-we hold to be true, automatically and for granted, that demand our intense
-scrutiny.
-
-# How does the Ka'aba represent the eternity of Allah?
-
-Often times when you ask a shaykh to guide you on increasing concentration in
-Salah, you are advised to “direct your attention to the majesty of the Ka’baa,
-which is the symbol of God’s eternity”. What does this mean and how does the
-Ka’aba signify God’s eternity?
-
-Date: 2016-11-25
-
-“God’s eternity”, in the Arabic, is often stated as “baqá”. It is discovered
-upon completing self-annihilation, faná. These two relate to the opposite
-poles of the mystic’s journey: God (Alláh) and self (nafs). Once the nafs is
-consumed in the fire of love and becomes nothing (faná), then the lover enters
-the heaven of eternity in God (baqá).
-
-These mystic states have many outward symbols. The meaning of baqá is
-represented as the Object of Adoration, the Divine Ka`bih. It does not refer
-to the building, but its essential meaning as the cynosure of all hopes and
-desires.
-
-Viewed this way, the Ka`bih comes to signify many things. For example, the
-letters of the Qur’án may be compared to the believers, and the true, inner
-meaning, as the Ka`bih of recognition. Only when the role of the letters is
-subsumed in the purpose of the message is the meaning faithfully conveyed.
-
-For more, you might enjoy: Quranic Meditation on Fana and Baqa Signs | Friday
-Qur'an Reading
-
 # If God is all good, why should you fear him?
 
 As a "God fearing" Christian.
@@ -918,7 +591,7 @@ worry about damnation, or is this some illusion?
 
 Date: 2016-11-23
 
-An astronaut may love space, down to his very core, but never, ever be willing
+An astronaut may love space down to his very core, but never, ever be willing
 to take off his helmet in space.
 
 Love God, love Him with all your heart, but hold to His law as if your
@@ -999,26 +672,6 @@ these terrible experiences and sudden depressions were specifically intended
 to hone our appreciation for such things, while at the same time learning to
 let them free.
 
-# Can anyone justifiably claim to be an expert on God?
-
-Date: 2016-11-19
-
-Let's say you want to become an expert on the sun. What would that mean? That
-you know its temperature, its cycles, its various wavelengths. But you still
-only know the sun from a great distance.
-
-So you build a ship and go to the sun. to survive the trip, you'd need to
-filter the sun’s light down to human levels, and redirect away most of the
-heat, and you'd have very few instruments that could function under so much
-radiation and magnetism.
-
-In the end, the best you can do is become an expert at observing the sun, and
-then only from the confines of a human level of perception. As close as it may
-be, the truth of the sun, its own sphere of being, is inaccessible to
-creatures like us.
-
-Multiply this by infinity and you’ll have some notion of the problem.
-
 # Is a sufficiently advanced strong AI indistinguishable from the definition of God as an omnipresent, omniscient, and omnipotent entity?
 
 If so, couldn’t God and strong AI be one and the same thing?
@@ -1047,22 +700,6 @@ Date: 2016-11-18
 Your life is a gift. Open it. Learn who you are, who you were made to be, the
 fullness of your potential. The Prophets came to guide us in these things, so
 I would that what God desires is for us to fully be.
-
-# Why did God send the prophets to the world?
-
-Date: 2016-11-20
-
-If God is All-Powerful, He doesn't need a Prophet to make Himself known to
-mankind. This implies that either He doesn't exist, or He doesn't want people
-to know Him in such an easy, automatic way. Perhaps there is value in free
-will, and the freedom to arrive at a knowledge of God through choice and
-determined effort. Perhaps that journey is part of what knowing God means.
-
-Imagine there were a powerful king, loved by all his subjects, who wanted to
-choose companions for his court. He wouldn't open his doors wide, because
-everyone would rush in. Instead, he sends out counselors to meet the people,
-learn their character, test them. This is how he might find those true of
-heart, loyal, who love him for who he is and not what he can do for them.
 
 # Can you give some exampes of Applicative Functors which are not Monads?
 
@@ -1096,17 +733,6 @@ see the things that it is not.
 A 20 year old watches the news, and he hears what’s being said; a 50 year old
 can watch the news, and hear the absence of the totalitarian regime that would
 be shutting down, had history been different.
-
-# How can you determine how spiritual a person is?
-
-Date: 2016-11-14
-
-Look at how they treat others. Do they complain about life, or appreciate what
-they have? Do they have time for you when you need it? What is most important
-to them? How do they react to things happening in the world? How do they
-respond to the boring, ordinary moments that life is full of, not just when
-things are exciting and eventful. If you look closely, you may find
-spirituality in places you’d never expect to find it.
 
 # Can Agda perform computations? How?
 
@@ -1145,43 +771,6 @@ absolute freedom (the ability to do anything whatsoever), with absolute
 determinism (God must decide every little thing, down to how each atom
 vibrates). Between these two positions is a framework where both co-exist.
 
-# What should everyone know about the Bahá'í Faith?
-
-Date: 2016-11-11 · Upvoted by Tikhon Jelvis
-
-What I think everyone should know is that the Bahá’í Faith believes every
-human being to be an infinitely beautiful light, albeit trapped within a
-lantern of iron: the obscuring dross of self and material desires. If this
-light became generally known and appreciated, the character of our planet
-would change in ways we cannot dream of. Forget ending wars and establishing
-world peace: when all people, everywhere, begin working together to explore
-reality and discover the mysteries of existence, can you imagine what that
-will be like? We are like thoroughbred race horses, blinded, hobbled and
-weighed down by ignorance, prejudice and a litany of injustices committed by
-our fathers for which we seek vengeance against every new generation.
-
-The Bahá’í Faith is a liberation from present notions of humanity, toward
-something almost too beautiful to contemplate. We are wondrous beings,
-illumined souls, children of God. Our potential cannot be measured. This
-includes each one of us on these forums, in every country, from every group.
-All that awaits is for us to collectively awaken to our reality, and apply the
-Teachings we’ve been given to unlock these latent treasures.
-
-    O Son of Being! With the hands of power I made thee and with the fingers
-    of strength I created thee; and within thee have I placed the essence of
-    My light…
-
-    O Son of Utterance! Thou art My stronghold; enter therein that thou mayest
-    abide in safety. My love is in thee, know it, that thou mayest find Me
-    near unto thee.
-
-    O Son of Spirit! I created thee rich, why dost thou bring thyself down to
-    poverty? Noble I made thee, wherewith dost thou abase thyself? Out of the
-    essence of knowledge I gave thee being, why seekest thou enlightenment
-    from anyone beside Me? Out of the clay of love I molded thee, how dost
-    thou busy thyself with another? Turn thy sight unto thyself, that thou
-    mayest find Me standing within thee, mighty, powerful and self-subsisting.
-
 # What does the Bahá'í Faith reject?
 
 Seems like a very open minded religion, I wonder what are the things that are
@@ -1207,43 +796,6 @@ things that the Bahá’í Faith rejects are:
   - Backbiting, or “speaking ill of one who is absent”
   - Involvement in partisan politics
   - Falsehood and false testimony
-
-# What do people of the Baha'i Faith think of other religions?
-
-Date: 2016-11-11
-
-There are two fundamental ways of viewing religion: From the perspective of
-the Divine Unity, and the perspective of this world of distinction. Each
-perspective has its own truth. In the realm of Unity, the Founder of each
-religion is compared to the Sun: whatever season it may be on Earth, the Sun
-is unchanged by it. Any differences witnessed are due to the orientation of
-the Earth, and not the Sun.
-
-When I think of other religions, I examine them according to this unity. Their
-differences are due to the varying needs of humankind as it has developed. But
-their inner reality is one and the same. Bahá’u’lláh wrote:
-
-    If thou be of the inmates of this city within the ocean of divine unity,
-    thou wilt view all the Prophets and Messengers of God as one soul and one
-    body, as one light and one spirit, in such wise that the first among them
-    would be last and the last would be first. For they have all arisen to
-    proclaim His Cause and have established the laws of divine wisdom. They
-    are, one and all, the Manifestations of his Self, the Repositories of His
-    might, the Treasuries of His Revelation, the Dawning-Places of His
-    splendour and the Daysprings of His light. Through them are manifested the
-    signs of sanctity in the realities of all things and the tokens of oneness
-    in the essences of all beings. Through them are revealed the elements of
-    glorification in the heavenly realities and the exponents of praise in the
-    eternal essences. From them hath all creation proceeded and unto them
-    shall return all that hath been mentioned. And since in their in most
-    Beings they are the same Luminaries and the self-same Mysteries, thou
-    shouldst view their outward conditions in the same light, that thou mayest
-    recognize them all as one Being, nay, find them united in their words,
-    speech, and utterance.
-
-In this light, all other religionists are my brothers and sisters, and I
-always look to find the points of unity between their Faith and mine. Even if
-time or differences in language have obscured it, it is always there.
 
 # What are some proofs that are easier in Agda than Coq, and vice-versa?
 
@@ -1353,16 +905,3 @@ to say about Christ, and I have a hard time seeing my friends’ Christian
 viewpoints as completely different from my own. Usually it’s just a few key
 points we differ on — and the differences are based on sectarianism, rather
 than a point that all of Christianity agrees is wrong.
-
-# What is the Baha'i Faith to you?
-
-Date: 2016-11-10
-
-This physical life we are born into is just a beginning: not only of body and
-soul, but also our awareness of the nature of existence. The Bahá’í Faith, to
-me, is a treasure map telling how to venture through the wilds of that
-existence, and discover the hidden cities of gold lying just beneath the veil
-of seeming. Virtues are the skills needed to navigate this path — truly, it is
-a journey of the heart — and service to others is how I place my feet down on
-its soil. There is an essence created whenever unity takes root among a
-people; and this, I believe, is when we begin to glimpse the Kingdom of God.
