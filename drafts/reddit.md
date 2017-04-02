@@ -1,5 +1,69 @@
                                    COMMENTS
 
+# Bahá'í beliefs
+
+Bahá’u’lláh is not bound by the beliefs of the Christian theologians, anymore
+than a Christian should feel bound by the beliefs of the Pharisees. There is
+no requirement to reconcile their interpretations of scripture with Truth.
+
+So you know, we also have a notion that man is "inherently sinful", in that
+human beings naturally incline toward their material apetites and illusions if
+left without spiritual education. We too emphasize that without the redemptive
+grace of the Manifestation of God, and holding to His teachings, man cannot
+free himself from sin by his own efforts or through good works alone. The
+Manifestation is an essential figure in the operation of man's spiritual life.
+St. Paul makes this clear as well, linking freedom from sin with acceptance of
+Christ's gift. However, rather than using this to emphasize the role of Christ
+in our spiritual lives, many have placed undue emphasis on the sinfulness of
+man, and that we must loathe and abhor our nature. This is not something
+Christ taught, and Romans 5:12-23 makes no mention of it, preaching instead
+the message of freedom from sin through Christ.
+
+If you make the assumption that Bahá’ís must reconcile their scripture with
+the Christian churches of today in order to claim true prophethood for
+Bahá’u’lláh, there will never be an end to questions like these.
+
+> It is clear and evident that whenever the Manifestations of Holiness were
+  revealed, the divines of their day have hindered the people from attaining
+  unto the way of truth. To this testify the records of all the scriptures and
+  heavenly books. Not one Prophet of God was made manifest Who did not fall a
+  victim to the relentless hate, to the denunciation, denial, and execration
+  of the clerics of His day! Woe unto them for the iniquities their hands have
+  formerly wrought! Woe unto them for that which they are now doing! What
+  veils of glory more grievous than these embodiments of error! By the
+  righteousness of God! to pierce such veils is the mightiest of all acts, and
+  to rend them asunder the most meritorious of all deeds! May God assist us
+  and assist you, O concourse of the Spirit! that perchance ye may in the time
+  of His Manifestation be graciously aided to perform such deeds, and may in
+  His days attain unto the Presence of God.
+
+The person then asks:
+
+> I can see this. However, then upon what standard do we judge whether or not
+  someone has come from God? How can I tell whether or not Bahá’u’lláh is who
+  is says he is? If all I have to work with is the beliefs I currently hold
+  and a bunch of stuff about him, but none of it seems to work together, what
+  am I to do, if he is, in fact, who he says he is?
+
+This is a wonderfully formulated question, and really is the essential one.
+How can we know?
+
+I think you have to read what's available, from every source, apply it to your
+life, consult your heart, and pay attention to the effect these teachings have
+on yourself and others you meet. Anything from God should have a result beyond
+mere words and ideas, though it may take a little while to recognize it.
+
+Although we carry in our heads our own standards of truth, discovering real
+truth must involve abandoning that personal standard at some point. Otherwise,
+would could not learn anything truly new, since it would not fit our
+preconceptions. This is as much true in science as anything else. The trick is
+how and when to discard what we know for something new. Are we being deceived?
+Am I throwing away truth for delusion? Or the opposite?
+
+Stay sharp, purge your heart from every attachment, and pay attention to
+what's happening around you. I trust in your humanity that at some point, what
+is true will begin to illuminate the background.
+
 # How is this justified???
 
 Something to keep in mind when reading any Holy Book is that it is both
