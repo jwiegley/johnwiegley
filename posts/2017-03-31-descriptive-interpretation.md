@@ -18,7 +18,7 @@ the following Hidden Word:
 For many years I'd read this Hidden Word in what seems like the obvious way:
 until my heart is purified from all envy, I cannot attain God's everlasting
 dominion. Since this is quite difficult to achieve, it makes that kingdom feel
-very far away, nearly impossible to reach.
+very far away, and nearly impossible to reach.
 
 But what if it's not *prescribing* a condition *I* must achieve, but is
 *describing* the nature of that kingdom, by depicting the character of one who
@@ -42,6 +42,6 @@ Prescriptively interpreted as making a statement about the individual, it
 seems to be saying we must achieve a nearly impossible standard to become one
 of the people of Bahá; but descriptively intepreted as a statement clarifying
 the nature of Bahá'u'lláh's Revelation, it could be read as saying: So great
-is His Cause that any man who truly recognizes it would have no room in his
+is His Cause that any man who truly recognizes it will have no room in his
 heart for anything the world might contain; if even the least shred of desire
 should remain, then he has not recognized it.
