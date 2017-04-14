@@ -7,4 +7,4 @@ tags: poems
       no better than ash;
     but even dust can be used
     to write out words of such import
-    they change one's life forever.
+    that it changes everything.

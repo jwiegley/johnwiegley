@@ -1,3 +1,20 @@
+# Is "Free monad" really a monad?
+
+Date: 2017-04-05
+
+In a sense it’s the prototypical monad: the initial object in the category of
+monads, with morphisms necessarily existing from the free monad to every other
+monad.
+
+Another of saying this is: the free monad has no defining characteristics
+other than its monadic structure. It’s all monad and only monad. This is what
+makes it free: it arises directly from the monad laws, encoding `return` by
+the constructor `Pure`, and `join` by the constructor `Free`.
+
+This encoding leaves you free (pun absolutely intended) to define what these
+operations mean later, once you’ve picked another monad you want to interpret
+your free construction into.
+
 # What is the science behind faith, many people believe God is not real but the feeling/power of faith is interesting?
 
 Date: 2017-03-13
