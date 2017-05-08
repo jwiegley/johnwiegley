@@ -1,5 +1,30 @@
                                    COMMENTS
 
+# Difficulties Reciting Daily 95 Allah'u'Abhas
+
+One more thing perhaps: When we recite any words from the Revelation of God,
+there is a part of what happens we're aware of: understanding, insight,
+knowledge, awareness of our deeds, etc.; and a much greater part we only dimly
+perceive, if at all: the breezes of divine holiness.
+
+What makes these Words significant is not the words themselves, but that they
+were revealed by the Manifestation, and invested by Him with specific power,
+made binding on us in the form of Law. So there is a special grace from
+obedience to that command, which serves to "unlock" the potential He placed
+there, if our obedience arises from sincere devotion.
+
+The mind is a horse's eye, whose perspective is terribly limited by the
+blinders of our finite self. At the same time, we are told to charge headlong
+toward the infinite horizon. Clearly, what we see (or understand) as we do so
+is the least part of the journey, even though it too is quite beautiful and
+powerful.
+
+Every word of the Revelation, when recited with purity of motive and humble
+obedience, bathes the soul in light, and sets in motion unseen forces that
+change reality around us. Having faith in this process, and shifting our focus
+to the dynamics of the Hidden, is part of what I see this recitation training
+us to do.
+
 # Bahá'í beliefs
 
 Bahá’u’lláh is not bound by the beliefs of the Christian theologians, anymore
