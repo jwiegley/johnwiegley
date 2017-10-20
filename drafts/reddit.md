@@ -1,5 +1,502 @@
                                    COMMENTS
 
+# What are we talking about
+
+Avoiding all the dark places is no way to find the sun.
+
+Experts in what isn't zen can't help you. If meditation causes you to look up,
+then do that.
+
+# One Thing
+
+The wind blows, and all the pines trees hiss and whistle. Is it the wind
+speaking? the trees complaining? my ears yelling in my skull? Who is silenced
+when the wind stops?
+
+# Are religious tales meant to be taken literally?
+
+In Bahá’í thought, the allegorical nature of these stories is not only
+affirmed, but given a purpose: to determine who is willing to read the holy
+scriptures with insight, and who would put them to their own use. Bahá’u’lláh
+wrote:
+
+> Know verily that the purpose underlying all these symbolic terms and
+> abstruse allusions, which emanate from the Revealers of God's holy Cause,
+> hath been to test and prove the peoples of the world; that thereby the earth
+> of the pure and illuminated hearts may be known from the perishable and
+> barren soil. From time immemorial such hath been the way of God amidst His
+> creatures, and to this testify the records of the sacred books.
+
+# Got Enlightened, Got Certified AMA
+
+I'd agree. The monk's very thought is the foundation of the world, Mt. Sumeru.
+I wonder what the OP saw.
+
+# Values
+
+I don't think they were ignorant of justice. Grain belongs on the table,
+manure in the garden. Like and dislike separate things according to the mind;
+eating what the body actually wants is spontaneous.
+
+We mistreat others due to blindness. Looking upon a fellow infinite, we see
+only a small shape, but it's our limitation we see.
+
+Is it indifferent to cease categorizing according to likes and dislikes? To
+take things as they are in relation to you at each moment? That's not "null
+affect", it's rising when wakeful, sleeping when tired. You're responding to
+what's in front of you, not a mental standard applied without sensitivity. "I
+hate blueberry pie". Have you tried every blueberry pie, at every moment it
+could be tried? That's being indifferent to reality.
+
+# [Vaguely Zen] Mountain
+
+Indeed. As you say, "an event". Once the event is past, isn't the adept likely
+to forget it, since one event apart from others is not reality?
+
+# [Vaguely Zen] Mountain
+
+I wouldn't say that's what Zen is about. As the Wikipedia page on kensho says:
+
+> Kenshō is an initial insight or awakening, not full Buddhahood. It is to be
+> followed by further training to deepen this insight, and learn to express it
+> in daily life.
+
+I see Zen as relating more to a life lived without delusion, not an experience
+that bridges between.
+
+# [Vaguely Zen] Mountain
+
+And sometimes, a person talks and talks, but a passing wind says more. Other
+times, silence speaks louder than words. Travel to both sides of your
+mountain, then inside and outside, upside and downside, how far did you go?
+
+# Not true mind
+
+Without air, the lungs could not bellow, even though they'll never grasp the
+sky. Without true mind we couldn't ask these questions, so, never hidden, just
+not seen.
+
+# help^4
+
+Look straight ahead of you, around you. You are where you have always been,
+only the appearances have changed. The remembered past cannot affect this, nor
+the imagined future. There is no "me", only this awareness. Any larger concept
+of "me" is a mental overlay on a singular experience, obscuring its nature.
+
+Liberation is just that: not beholden to the past, nothing offered from the
+future. You think it will be good or bad, but by and large it will be as
+things are now, only the sensations altered. This is why things are never
+quite as bad as you'd feared, and never quite as good as you'd hoped. Reality
+isn't dialed to 11 like our imagination of it.
+
+The loss of your father is real, no doubt. He was there, now he is gone. What
+pains you is constantly re-losing him in the mind, over and over again. In
+time this will abate, but if you grasp the mechanism you can find the root of
+suffering.
+
+Your shoulder's pain: that's the body telling you to act. Do act on that. It
+could be a growth or foreign body impinging on a nerve, or as harmless as a
+cyst or damaged tendon or mineral deficiency causing a complication. The body
+is naturally wise -- it has nothing to gain from deception -- so when it gives
+counsel, heed it.
+
+# The lines is Zen garden
+
+I like that sand is made to imitate water, in a medium entirely opposite the
+nature of water. Zen monks juxtaposing illusion as art.
+
+# Correct and Incorrect Seeking
+
+Seeking strengthens the belief that there is a something to be sought apart
+from the seeker. I think Rumi put it most beautifully:
+
+>    Love is a veil betwixt the lover and the loved one.  
+>    More than this I am not permitted to tell.
+
+Ask everyone you meet about the nature of silence; if you don't find it, ask
+more, ask louder!
+
+# Teaching about the Bible in American Public Schools: Legal or Not?
+
+I think it's one thing to teach what the Bible says, but often people want to
+teach what it means (mainly, to the teacher).
+
+For example, there's a lot less problem teaching Greek mythology, because we
+don't insist on establishing its relevance to people's lives.
+
+# Vast and boundless
+
+Take a man who cannot read to the library, and you've brought him no closer to
+knowledge.
+
+# What calls?
+
+When they all say the same thing, picking any one will work. When they say
+different things, none of them will help.
+
+# Peace
+
+/u/tetracot's point is that philosophers do not agree on the validity of such
+a question. What does it mean for a thing to be “true”? Truth is not a quality
+of objects, but anything that can be said within the meta theory. Intuitionism
+in particular does not see a binding connection between human logic and
+existential reality. The former is only a system of reasoning; it does not
+reveal fundamental details about the latter.
+
+If such disagreements are already known to exist on these basic points, we’ve
+lost the common notion of “true” that was posited earlier.
+
+# Attaining non-doing
+
+Opening the eyes is necessary to vision, and no one disputes this; but it’s
+incidental and quickly forgotten after the fact. Don’t be surprised if there’s
+little attention paid to it.
+
+# Koan Question
+
+Blue isn't green, yet there's no difference of being (light, energy).
+
+So while in mind there's color: there's no color. But only saying, "there's no
+color", leads to bad wardrobe decisions.
+
+# Koan Question
+
+I wouldn’t say that words have no meaning. If I ask for sewage instead of
+coffee, you can bet there’s a difference. This is knowledge of beverages!
+
+# Which god do I choose?
+
+If you were a fish swimming in the ocean, what is there to choose? Even if
+some say there's a northern ocean, a southern ocean, a deep ocean, a blue
+ocean, there you are.
+
+# I see a lot of responses of people regurgitating Zenlike metaphors...
+
+Things that annoy you, that’s human. Things that annoy “you”, there’s the rub.
+One comes and goes; the other sticks.
+
+# How to become more Conscientious?
+
+While being conscientious is a noble trait, I think that, like virtue, it
+cannot be achieved as an end in itself. When virtue runs counter to natural
+tendencies, it is not only exhausting but a constant source of failure.
+
+The key is love of God. When that's the motive, virtue becomes a means to an
+end: the same way you'd want to become more physically fit if you found a
+sport you adore. Virtue enables the soul to aim higher; it engenders finer
+susceptibilities. Yet the Goal is all, for when you arrive at that highest
+point, even the self who had wished for it will be no more:
+
+> How can a true lover continue to exist when once the effulgent glories of
+> the Beloved are revealed? How can the shadow endure when once the sun hath
+> shone forth? How can a devoted heart have any being before the existence of
+> the Object of its devotion? Nay, by the One in Whose hand is my soul! In
+> this station, the seeker's complete surrender and utter effacement before
+> his Creator will be such that, were he to search the East and the West, and
+> traverse land, sea, mountain and plain, he would find no trace of his own
+> self or of any other soul. -- Bahá’u’lláh Gems of Divine Mysteries, pp.70-71
+
+# Robes, and Buddhist virtue signalling
+                                   
+I've noticed this pattern too, in quite general contexts. For example, when
+someone describes a movie/song/cuisine/place they like, and you get a sense
+that what they like most is the thought of being the sort of person who would
+like that thing. I.e., who they are vs. who they want to see themselves to be.
+
+People "take on robes" in this sense not just religiously, but when it comes
+to exercise, vegetarianism, a new author, language, art, etc. They become
+evangelicals because they've "found themselves", along with a sudden surge of
+energy, freedom, awareness, creativity. Freed from the prison of some old
+self, the new self appears as a boundless adventure.
+
+But perhaps the only real "putting on of robes" must be a shedding of old
+ones: To discover what you like, even if at first you don't like that you like
+it; to see the complete foolishness of one's life so far, without a wise
+replacement; to feel cut off and adrift, because you really are in uncharted
+new territory.
+
+I've often been critical when tasting the saccharin sweetness of such beliefs.
+It's why I disliked hipsters so much: sheep following the cult of "unique
+individualism", trying so hard to avoid the appearance of trying. In the end,
+such critiques are but an effort to smash the mirror of reality, to not see my
+own tattered "robes" gathering around me.
+
+Real truth remains such a baffling mystery that when we finally seek to escape
+the chaos, our surrogate self is necessarily just a puppet, wrapped over a
+spasming hand.
+
+# Serious question! How is Islam the right religion?
+
+If you're questioning the "rightness" of a religion based on later accuracy of
+its scripture in the hands of the faithful, this is going to rule out a lot,
+depending on whose evidence you ask for.
+
+Muslims believe Jewish and Christian scriptures were modified; Christians
+believe the same thing about the Qur'án, while declaring for their own book
+Biblical inerrancy. Which is historical accurate? It depends on whom you ask.
+
+I take this to mean that the correctness of a religion is not founded on its
+material exactitude, but rather its spiritual aptness for the time it appeared
+in, and whether it was capable of fulfilling the promises it made to its
+generation. The way the Arabs thrived after the Qur'án was received, is, to
+me, a more compelling argument than historical textual analysis.
+
+# What is reality?
+
+Imagine you visit a map-maker and ask, “What is England?” The only way for him
+to give a right answer is to kick you out the door.
+
+Reality never needs thinking about, it’s like asking, “Am I awake?” Any answer
+we can offer in words — including these — is already too much, obscuring.
+
+# Reason-Religion vs Right Understanding
+
+This pattern feels familiar:
+
+ 1. Pick some concept that's sufficiently abstract and all-encompassing: mind,
+    intellect, understanding.
+
+ 2. Pick a verb-oriented concept that's equally so: awareness, enlightenment,
+    awakening, detachment.
+
+ 3. Claim that by connecting the two, happiness and peace result.
+
+Though it always depends on terms that are never fully defined and only
+perceptible to the very thing being liberated...
+
+None of this seems like Zen to me. Burn these houses down.
+
+# what is it all about?
+
+You are the answer, pursing a question. The foolishness is not endemic, just
+situational comedy.
+
+# Sometimes when I'm under stress, I talk to deities even though I know that they don't exist.
+
+Part of us feels a need to make sense of things, but within an incredibly
+limited and time-impaired perspective. Another part is vast and linked to
+unknown things, but cannot express itself, except through deep and insensible
+urges.
+
+But you're quite right, no one else can find it. Fare well!
+
+# what is it all about?
+
+All this talk of enlightenment, it makes things worse.
+
+Zen isn't worth your time; it discards this value! If the only achievement
+reads, "stopped playing the fool", do you still want it?
+
+# Sometimes when I'm under stress, I talk to deities even though I know that they don't exist.
+
+Maybe you're using symbols to establish a safe relationship between conscious
+and unconscious, in order to relieve internal tension. You've picked the idea
+of foreign gods as your symbols, where others may have picked a mandala or a
+cross or a star in the sky or prayer.
+
+Symbols, according to Jung, derive their power because they make sense both to
+the conscious mind (they have a concrete representation and offer a point of
+focus) and the unconscious (they have no definite meaning and so can be
+interpreted freely). He speaks at length on this subject in his book, "The
+Psychology of Types".
+
+# concerning spirituality
+
+I think a lot of new age literature works up the idea of enlightenment into a
+magical, unique experience, to demonstrate the great value of those who
+"achieve" it. And since it's so special and wondrous, it can't possibly be
+related to ordinary life unless you're some kind of saint.
+
+But everyday life, the mundane and frustrating, is a better place to look for
+what you're after, since at least it's free of this false mystique. Meditation
+is good for paying attention -- to the mind and its follies -- but
+tranquillity alone is just another temporary state.
+
+When everything is what it is, and you stop trying to tell things what they
+are, the plainness of it all may seem quite wonderful on its own.
+
+# Zazen really resonates with me, but in every day life I lose awareness
+
+There seems to be a popular association between "awareness", and being totally
+peaceful and blissed out. I don't think awareness has anything to do with
+condition. All that there is is awareness.
+
+The problem arises when we ask "who is aware?" as if there were something
+else, separate and independent, after which everything is seen as separate and
+independent. This only muddies what is otherwise absurdly simple.
+
+# Posting in subreddits of other religions
+
+I comment in /r/zen, and now /r/zens and sometimes /r/religion.
+
+I'm very interested in how other faiths approach the aspects of religion they
+care most about: for example, Buddhists dig deeply into the illusion of self,
+which has been incredibly helpful in understanding the Bahá’í/Sufi concept of
+"annihilation"; Christians excel at wanting to develop a personal relationship
+with the Holy Spirit based on faith and scriptural foundation; Muslims have
+really keyed into the significance and power of the Revelation of God; and
+Judaism is well-known for its regard for the Law of God.
+
+Most of the time, I just want to know more about these faiths, and to offer
+whatever I can that will help us both go further in these journeys -- based on
+perspectives offered by the Bahá’í Writings. After all, this is a collectively
+human endeavor, and not an "us" and "them" affair.
+
+When it becomes appropriate, I'll mention that these insights come from our
+Faith, or connect the inquiry to the Faith, but the motive is not to try and
+work things around to mentioning the Faith. The majority of the time I never
+bring it up at all, until it seems both relevant and meaningful.
+
+One thing I've learned about participating on reddit is that no one wins any
+arguments. Talking here is not going to change anyone's heart, unless the
+person you're talking to feels that you've fully understood their point of
+view, you care about what they're looking for, and you've given sincere
+thought to answering questions they actually asked. Then you can offer a word
+that will open doors. But any argumentation at all is a lose/lose proposition,
+no matter how crazy and insulting other people may become. How you respond to
+people, and what you choose to respond to, seems to be far more important.
+
+# (catholicism) guilt advise
+
+Just as fear of pain should keep you from doing stupid things, but not make
+you terrified of living your life, fear of God should help protect you from
+harming yourself spiritually, but not lead to anxious guilt. Doing the right
+thing is about helping you, not God. A violinist doesn't tune his instrument
+just because someone told him that he should.
+
+As an individual, you need to make up your own mind about weed and its
+religious connotations. I would say that God cares about YOU, and how getting
+high could interfere with your aims in life. The same way your parents do.
+
+# Agnostic here, looking for a new perspective.
+
+Anyone who's convinced that they're right is wrong: they just haven't realized
+how limited human knowledge and understanding are yet. Infinity doesn't fit
+into finite conceptions.
+
+What isn't wrong is loving Christ and wanting to fulfill His dream for
+humanity. I'd love it if there were more humility in conveying the message,
+but you have to give it to your girlfriend that faith isn't about being right,
+but qualities of the heart.
+
+On the question of whether there's "one right way", I think the scientific
+method gives the best result: put it to the test. A good tree bears good
+fruit, or it's fit for the fire. Compare the goal to the outcome. Does the
+Christian church make good Christians? What is a good Christian? These might
+be better to ask than to debate the logical foundations of a heart-based
+belief.
+
+# the bitch god
+
+Is the question really, "Why didn't God make life so easy that we'd never have
+to learn how to really be human beings?" Because if you gave us a perfect
+world where nothing bad ever happened, I'm pretty sure that wouldn't lead to
+much maturity on our part. Just look at any rich child who's never had to
+suffer at all for a reference.
+
+# Proceed on from the top of the pole
+
+Maybe it can be asked in other terms: How can you proceed further along the
+Path, after all the thoughts and opinions you've formed about life? Wearing a
+sackcloth hood, aware of the shadows beyond, yet years of intensifying
+concentration and honing imagination have not resolved them. How do you go
+further?
+
+# Verse writers wanted
+
+Day after day,  
+student watches  
+the sun rise and set;  
+asks the master:  
+"How often has the Sun  
+turned around the Earth?"  
+Hears reply:  
+"Not yet."
+
+# Questions about belief
+
+To offer another perspective: I know the Bahá’í Faith is a religion, and often
+understood as a religion: A unified system of beliefs and practices, a common
+core of scripture and fellowship, and a mission to serve the world driven by a
+guiding organization.
+
+However, on the mystical side of things it's foremost a connection to the
+Manifestation of God, a Being Who is ultimately a Perfect Mystery. We may ask
+ourselves whether the laws of the Faith make sense, or if we agree with them,
+or what their purpose might be; but in the end, the only thing we really know
+is that Bahá’u’lláh asked us to follow them.
+
+I think about this when I say the Greatest Name 95 times a night, because when
+it comes down to it, what do we have to offer God, Who is absolutely infinite
+in every respect? What we can do, He can do better; we don't know anything
+unknown to Him; and what we call excellence, in thought or deed, are to Him
+the ways of children.
+
+Yet, He's asked us for these things. Not because He needs them, yet He asked.
+In a way, it sort of doesn't matter what's been asked -- just by asking, He's
+given us an opportunity to know something He wants!
+
+Most of the time I don't know why, and my explanations are shallow compared to
+the mysteries of Revelation. If sometimes it's OK to eat pork, and other times
+not, how will I ever know the reason behind it?
+
+I bring this up because, while it's perfectly OK for you to choose your own
+beliefs -- this is our essential freedom -- consider what it means. It's not
+about what makes sense, or what you agree with, or what has a meaningful
+outcome. You've been asked. If you believe in the Person of Bahá’u’lláh, and
+Whom He represents: you've been asked.
+
+# Devoid of conceptual nature
+
+To offer another opinion: When seeking Mind, even seeking is wrong, because
+there is neither seeker nor sought. Looking for it creates the journey;
+pondering it gives birth to the universe.
+
+# Seeing your nature is Zen
+
+When I open my eyes in the morning, I may feel delicious in that moment, but
+staying there until nighttime isn't desirable...
+
+I personally don't think stasis is our goal, but a relationship to change that
+unifies experience. Emotional satisfaction is fleeting and fragile; show me
+someone who smiles when they drink the cup of anguish -- because for them, it
+is a strange joy -- and I'll be impressed.
+
+# Bahá'í opinion on Scientology
+
+Although we ask for donations from Bahá'ís, we never ask if you've donated.
+
+Interpreting the Writings, except for very few instances, is up to you. We
+don't believe that indoctrination will help you grow spiritually.
+
+We believe in succeeding both in this world and the next: excellence is sought
+in every facet of life, and not in opposition to anything but turpitude.
+
+It is a continual journey of love toward a Being Whom we believe your soul has
+longed for since its first motivations.
+
+# How do I hear back from God?
+
+I've found the biggest challenge of the mystical journey to be that our belief
+crafts the world we experience. I don't mean that thinking "rock" is what
+makes you stub your foot, but when you look down and think "rock", that's when
+it becomes a rock that stubbed you.
+
+We look at the world, and see so many things, but how many of the things we
+see are what we told ourselves they would or should be?
+
+At the heart of all that moves and turns, there is something never changing
+even as it always changes. Through the multitude of experiences we've had in
+our lives, beneath it all there is one experience, playing itself out over and
+over again, wondering if we will ever see the stillness for the motion.
+
+I believe you already heard back from God before I wrote this. But it likely
+wasn't, and never will be, in a form you expect. It's remote enough from
+expectation, in fact, that you might someday despair it will ever come.
+
+I think God is exactly as close to us as we think He is. We're the ones with
+limits; not Him.
+
 # Difficulties Reciting Daily 95 Allah'u'Abhas
 
 One more thing perhaps: When we recite any words from the Revelation of God,
@@ -129,11 +626,11 @@ were commanded to protect women:
 > them in their beds, then strike them. Then if they obey you, seek not a way
 > against them.
 
-Again, contrast this with the humanity of the time
-: when girl children were being buried alive, and women were not considered
-human beings. If the goal of the Qur'án was to educate mankind, to promote
-unity, and to prepare civilization for the next Manifestation of God, it
-needed to advance the people to the degree they were capable.
+Again, contrast this with the humanity of the time: when girl children were
+being buried alive, and women were not considered human beings. If the goal of
+the Qur'án was to educate mankind, to promote unity, and to prepare
+civilization for the next Manifestation of God, it needed to advance the
+people to the degree they were capable.
 
 # How do you interpret Acts 1:11 in the Bible?
 

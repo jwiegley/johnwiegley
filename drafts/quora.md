@@ -1,3 +1,56 @@
+# What is the importance of faith in our lives?
+
+Date: 2017-08-12
+
+I’ll go with a non-religious answer for this one:
+
+Without faith, one’s view of life is limited to only what is immediately
+visible, and the shallow meanings one is likely to ascribe.
+
+That is, faith is being certain you will succeed when all signs point to
+failure; or hearing a friend has betrayed you, but feeling no pause in your
+love until you’ve learned the whole truth; or listening sincerely to fools,
+since knowledge is sometimes hidden; or being uncertain of your ability, yet
+confident things will work out; and never becoming cynical or jaded or
+unwilling to look for the best in people.
+
+You can live life without faith, and join the millions who, by adulthood, seem
+dead inside and contemptuous of everything. But humans have a capacity for
+faith that is able to keep the heart pliable and soft, and the eyes bright and
+seeing.
+
+I think religion excels at communicating this message, but even so, as a
+quality it’s very nice to see in people, whatever they believe.
+
+# What is it like to be a deeply religious person?
+
+Date: 2017-08-12
+
+Mostly for me it means thinking all the same thoughts you do, but with the
+addition of the following:
+
+ 1. Existence includes more than the physical world we see.
+ 2. People have an aspect to them, the soul, that continues beyond this
+    experience of life.
+ 3. The laws of all these worlds was laid down by a conscious Being.
+ 4. Individuals have been chosen to communicate these laws, and certain
+    details of the world beyond.
+
+I don’t believe in God or the other worlds by themselves: because I can’t see
+them, and have no experiential evidence of any kind that they exist. The crux
+of the matter comes down to believing whomever says they are real (e.g.,
+Jesus, Muhammad, Moses, etc.).
+
+I think the real difference to “religious thinking” (for many religions,
+though not all) is the integration into one’s world view that these realities
+not only exist, but my actions here impact how my connection to them; that I
+have a soul, and certain qualities (faith, love, how I act) impact the welfare
+of that soul.
+
+That said, as a Bahá’í I believe that scientific truth should trump religious
+truth when the two disagree, since the former is based on real evidence, while
+the latter is too easily subject to personal opinions and point of view.
+
 # Is "Free monad" really a monad?
 
 Date: 2017-04-05
