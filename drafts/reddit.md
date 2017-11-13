@@ -1,5 +1,562 @@
                                    COMMENTS
 
+# A few questions by TheLongRoadTo in r/bahai
+[–]jwiegley 2 points 2 days ago
+
+Hi Long Road,
+
+ 1. The Manifestations of God have human form, but their Spirit is that of the
+    Ancient Beauty. They exist in a condition that you and I cannot achieve,
+    not as just "humans with a message". Note that this differs from how
+    Judaism, Christianity and Islam all regard their Prophets.
+
+ 2. I'm afraid this question would require quite a bit of research, so I'll
+    defer to others.
+
+ 3. We don't try to reconcile it with modern standards of morality, but if you
+    compare it to the world it was born into, it would seem very modern
+    indeed.
+
+ 4. You only truly appreciate what you earn.
+ 
+It’s a good question, and one without a simple answer. Bahá’u’lláh says that a
+debt unpaid in this life must still be honored in the next, though the form of
+repayment will be magnified due to the change in circumstance. A murderer who
+pays with his life (either way) has redeemed himself, and will not be punished
+twice. As Plato once argued, a man who knows the truth would long to expiate
+his crimes in the name of justice.
+
+Our modern society, with its materialistic bent, has placed enormous stock in
+the prolongation of physical life and the enhancement of pleasure and comfort
+over pain. But these are neither spiritual, nor aspiritual. The law of God
+should be judged by its effect on the common spirit of man, and each
+individual person, rather than how it matches up with a worldly agenda. And
+sometimes, this process is long and slow, allowing man to make his mistakes
+along the way (such as no previous Manifestation outlawing slavery, which is
+among the greatest horrors to the modern mind).
+
+I think the “proper context” is simply too big to conceive, which is why I’m
+grateful for the Universal House of Justice. Perhaps life imprisonment is the
+intended punishment, just as it was written that we could have two wives, when
+only one was meant.
+
+Sure, I first encountered this idea in Adib Taherzadeh's Revelation of
+Bahá'u'lláh, Volume 3:
+
+> From a careful study of the Writings of Bahá'u'lláh one may reach the
+> surprising conclusion that just punishments in general, and those ordained
+> in the Kitáb-i-Aqdas in particular, are a mercy of God to man, and a token
+> of His loving-kindness to him. Bahá'u'lláh in one of His Tablets[20] reveals
+> some of the mysteries of this life and the next, describes how everything in
+> this mortal world has counterparts in the spiritual worlds, and explains
+> that the individual's deeds in this life will affect his existence in the
+> next. To illustrate the benefits which will accrue to the soul, if he is
+> punished in this world for his misdeeds, He uses the example of a man who
+> steals a seed of a tree from someone in the spring season. If he returns it
+> to its owner in that same season, he has cleared his debt and does not owe
+> him anything else. But if he fails to give it back in the spring, what does
+> he owe him in the summer? He owes him a tree and its fruits, because to give
+> back the seed in the summer is useless. This analogy explains that if the
+> individual pays for his misdeeds in this life by receiving the punishment
+> which is ordained in the Holy Writings, his burden of sin will be far
+> lighter in the next life. Otherwise, who knows how heavily his soul will
+> have to pay if he somehow avoids punishment in this world.
+
+The above footnote [20] says this comes from Má'idiy-i-Ásamání, vol. 7, pp.
+119-25, which is the Lawh-i-Haqqu'n-Nás: "Tablet of the Rights of the People".
+A provisional translation of this tablet is available.
+
+There is also the following quote from Selections from the Writings of
+`Abdu'l-Bahá, #152:
+
+> As to the question regarding the soul of a murderer, and what his punishment
+> would be, the answer given was that the murderer must expiate his crime:
+> that is, if they put the murderer to death, his death is his atonement for
+> his crime, and following the death, God in His justice will impose no second
+> penalty upon him, for divine justice would not allow this.
+
+# Do zen masters offer any practical advice beyond (possibly) badly translated mind puzzles?
+
+Here's some inferred advice: A large part of what people spend their lives on
+is spinning their wheels, turning the crank on an emotional machine to no end
+but that. When this is done with, you have the whole day in front of you.
+
+Just tasting food, breathing, can be quite an experience, when there's nothing
+to compare it to.
+
+# God's mind in a timeless existence
+
+Not a description of God, a thought experiment:
+
+Pure potential never changes, containing all possibilities. We're the actual,
+wondering about the existence of potential-not-actualizing.
+
+For us, actualization is existence. But for pure potential, is it a relevant
+question?
+
+# Once again. Nothing exists?
+
+bamboo swings
+green eyes widen
+the crack of dawn
+
+# I'm scared of going to hell but I just can't belive in god.
+
+Have you ever looked at Sufism as another way of seeing the Qur'án?
+
+Some views of religion look at this world as unique in nature: a place where
+one may just as likely believe in God as disbelieve in Him. That is, nothing
+here compels one to believe or not. Love of God must happen through faith, and
+there will never be conclusive confirmation of that faith.
+
+This opportunity never returns after death, and it's a tremendous loss not to
+seize it. In such a view, the allegory of hell -- depicted quite graphically
+in the Qur'án -- is an attempt to install in people the seriousness of the
+matter, so that the benefit of this life may not be taken lightly. Hell is not
+a physical place with horrible torments, but your own knowledge of what has
+escaped you. If this seems mild in comparison, you aren't thinking big enough
+about what this is all about.
+
+Or from another perspective: the next world is invisible, inaccessible.
+Virtuous conduct trains the soul for entry in that world, yet the imperatives
+of physical life are constantly in conflict. How does one communicate the
+extreme importance of such training, when materialism at all times so
+thoroughly dominates our attention?
+
+So, I think "living in fear of hell" misses the point and is too
+self-oriented.
+
+Here's a Bahá'í quote emphasizing the other side of the coin:
+
+> Such is the station ordained for the true believer that if to an extent
+> smaller than a needle's eye the glory of that station were to be unveiled to
+> mankind, every beholder would be consumed away in his longing to attain it.
+
+# Zen Patriarch Jayata embarrasses Buddhist monks and converts their leader
+
+> "I just curbed you, in front of your followers," continued the Master to
+> 'Everywhere Active', "did you attain to the state of not fretting about
+> that, in your heart of hearts?"
+
+Brilliant.
+
+# Timeless Intelligence
+
+I agree with you. God, the Infinite, cannot be placed within finite
+conceptions.
+
+We constantly anthropomorphize God — I at least understand why the Christians
+do — but God the Father is unlike anything we’ve ever known; so how can our
+stories contain Him? I think the Holy Books express the attributes of God, as
+manifested in the world, but they do nothing to reach His Essence.
+
+# Am "I" not my brain?
+
+Perhaps the issue is that because we haven't specifically located the self, it
+only exists as an idea, which is to say, a conception. What happens when
+conceptual thinking is stopped? The self disappears, and all you're left with
+is the condition of awareness. Then why talk about self at all? Awareness is
+self-evident without need of conceptions: it manifestly is. Even if self were
+something I could be aware of, it would still have no special status, unless
+it were more fundamental than awareness itself.
+
+But awareness seems to be "groundless", or rooted in the void. Conceptually
+speaking -- and this is where I enter the wilderness of error without a guide
+-- I like Sartre's conception of Being-for-itself the best:
+
+> Being-in-itself is concrete, lacks the ability to change, and is unaware of
+> itself. Being-for-itself is conscious of its own consciousness but is also
+> incomplete. For Sartre, this undefined, nondetermined nature is what defines
+> man. Since the for-itself (like man) lacks a predetermined essence, it is
+> forced to create itself from nothingness. For Sartre, nothingness is the
+> defining characteristic of the for-itself.
+
+Such a nondetermined nothingness recalls Huang Po:
+
+> Mind is like the void in which there is no confusion or evil, as when the
+> sun wheels through it shining upon the four corners of the world. For, when
+> the sun rises and illuminates the whole earth, the void gains not in
+> brilliance; and, when the sun sets, the void does not darken. The phenomena
+> of light and dark alternate with each other, but the nature of the void
+> remains unchanged.
+
+...
+
+> Without some point of reference, how is awareness possible?
+
+This is really the place to "enter in", as they say. How indeed!
+
+As for Sartre's incompleteness, I believe the idea is that awareness exists
+through being aware of something other. That is, it does not exist
+independently from the ongoing experience that is its existence. It is neither
+"self-sufficient" nor "complete". Being-in-itself, on the other hand, subsists
+without awareness and depends on nothing external, but as such has no
+consciousness.
+
+Sartre also spends some time questioning the root of awareness -- the point of
+reference you ask about -- since that inner quest is precisely the existential
+crisis of the For-itself. That is, the For-itself is aware of its own process
+of awareness, but can never find "that which is aware", only the experience of
+an experience, and an experience of that experience, ad infinitum.
+
+Thanks for the engaging questions; I hang out in /r/zen because few people
+elsewhere wonder about these basic points without promptly relegating them to
+mere terminology.
+
+# Why is freedom of religion ok but freedom from religion is wrong?
+
+You can’t stop people from having attitudes like this, so sadly our
+commiseration here won’t help at all
+
+No founder of any Faith I’m aware of advocated compelling or pressuring others
+to believe. The Qur’án says it quite plainly in 2:256: “There shall be no
+compulsion in [acceptance of] the religion.”
+
+If God is love, and love can only be given by the heart freely, I’ve never
+understood why anyone would try to force the issue.
+
+# Will god judge the mentally ill
+
+This judging is carried out with justice, which means each receiving what they
+deserve according to God. I take this to imply that a person is not held
+responsible for actions they don't fully understand, the same as it is with
+conventional law.
+
+# Yuanwu says you need more than books, you need a teacher.
+
+> This is why we need a valid scientific reality theory, since not every smart
+> person will receive the true transmission.
+
+Give a monkey with a banana a shiny new mirror: He no longer wants to eat the
+banana, he wants the other one.
+
+# After everyone has their delusion dropped and enlightenment is realized, what then?
+
+You choose what you will do next, not crediting the choice to some
+accumulating concept of self, or fearing/desiring the impact on "you" and
+"your life". The basis of choice becomes much simpler: what is called for?
+
+Note that if this seems boring, unfulfilling, or without much of an aim,
+there's something in that to be noticed.
+
+# Is the Creator compatible with Zen?
+
+I think so. Zen cuts through the layers of absurdity blinding your view of
+reality; it doesn't say much about that reality, however, for the obvious
+reason that doing so is often the thickest of those layers.
+
+# Why it is important to marry a partner of like disposition?
+
+Because after the marriage has happened, you'll be spending most days with
+them for potentially several decades. That time is much more pleasant if you
+can talk freely with your partner, appreciate similar things, and generally
+never run out of joyful things to do together.
+
+# What Wansong Just Forgot to Mention
+
+Mysticism is a pretty poorly defined word, but to me, the Four Statements of
+Zen in the sidebar are pretty much what I think of as being mystical. Not the
+magic/spirit/voodoo type of mysticism, but the "sudden, immediate, outside the
+teachings, direct experience" type. That is, as opposed to gradual,
+structural, practice-based and following prescribed rituals and hierarchies.
+
+# Not sure what “religion”/belief structure I currently have - help?!
+
+If I were you, I'd try not having a religion at all for a while, just your
+thoughts and beliefs. Then study, reflect, try things out, see what speaks to
+you. You're in an awesome place right now, of openness and sensitivity. No
+reason to stuff yourself into the nearest box with a similar shape.
+
+I've enjoyed the Bahá'í Faith, which has led me to believe that God desires
+for hearts to approach him freely, not from any positive or negative
+compulsion.
+
+If you were looking for a friend, someone who would be true and have faith in
+you no matter what, would you want them to do it because they feared you, or
+were seeking advantage, or thought it made them look good, or did it to copy
+others, or from ignorance, not knowing who you were? I think you'd want
+something genuine, as we all do.
+
+So, better than identifying your best match for a religion, clarify in your
+heart what you really want, why you're seeking faith. Know yourself,
+understand your motives, and then you can offer yourself to the Beloved
+wholeheartedly when you find Him.
+
+# Is "design" a self-evident aspect of the universe?
+
+Even as a theist, who agrees with the design argument, I don't find it meets
+the standards of inarguable proof.
+
+Science currently has reason to believe that universal contraction and
+expansion have been ongoing for an unknown amount of time. Consider the sheer
+variety of the universe: statistics alone means there is a lot, and I mean a
+whole lot, of exploration of possibilities going on. Basically, whatever can
+happen, will happen.
+
+We observe what we observe. The fact we're observing it doesn't make it
+special, just that we exist in one of those rare statistical outcomes where
+such observation can occur. We see what we see because it's there to be seen.
+
+This is basically the million monkeys argument: Give a million monkeys
+typewriters and unlimited time, and they will eventually reproduce all the
+written works of humanity. This doesn't make a single one of them an author.
+
+Now you could ask, "Who created the matrix of possibility itself, from which
+all this variety arises?" In the case of the monkeys, it's whoever gave them
+the typewriters; in the case of the universe...?
+
+...
+
+> But I fall back to atheism when I realize there's no reason to believe why a
+> God would do such a thing. There's nothing to influence God to do anything
+> if nothing exists at all...
+
+Maybe another thing to question is: what is existence? Is it the physical
+objects we see around, whose seeming permanence depends entirely on time? I
+too would wonder why an infinite God would bother investing His attention in
+something so transient.
+
+But perhaps real existence, what religion is calling us to recognize and
+engage with, is something other: like a flower growing in the dirt, it
+requires this morass of ignorance and blindness for the truth to become
+obvious. Perhaps what God has done is subtle, befitting His reality, and it is
+the journey of the soul to ultimately experience the joy of appreciating it.
+And perhaps this was done from love, and no other reason.
+
+# Will you be accepted into heaven even if you hate god?
+
+If you really hate God, then I'd say whatever you think of as "God" isn't even
+close. It would be like hating your best friend: you can only do that when you
+fail to recognize who they are.
+
+That isn't to say we often fail to understand God's plan. We'd really don't
+have the full picture. But this is what faith is about: trusting in who
+someone is, even when their actions go against our expectations and
+preconceptions.
+
+# Why Zen Masters always trying to tell wise things when they are not?
+
+As a thought experiment, imagine all your life you were perfectly blind and
+uneducated, kept in a room. Suddenly, a cloak is pulled off your head and
+there you sit, in a dark room, in front of a perfect mirror which is slanted
+toward you. There's a hole in the ceiling. The sun is shining through it, onto
+the mirror, and right into your eyes.
+
+You hear someone say: This is the sun. This is not the sun. It is both the sun
+and not the sun. It is neither "not the sun" nor "not not the sun". What is
+that person trying to say?
+
+# Is Buddhism's message really that negative?
+
+I think it can be seen as negative because we're on the side of the illusory
+world of self and duality (samsara), and Buddha's message of awakening implies
+an end to this dream world. Trapped within illusion, what we call "life",
+we're basically stretching ourselves out on a rack of anxiety and pain due to
+our expectations, beliefs, viewpoint, etc. There's nothing redeeming in this
+self-delusion, and real peace is only possible once it ends.
+
+It's like receiving a message within a dream that you have to wake up:
+observing such a message from the perspective of the dream is quite different
+than if you reflect on it after waking.
+
+I'm not a Buddhist, but this concept of "self/delusion" being "hellish" and
+"awakening/awareness" being "heavenly" has many parallels in the Bahá’í
+conceptions of these two worlds.
+
+# Dilemma on purpose of life
+
+I hear you. When seen as a “hurry up and wait” existence, it's a very hollow
+life. I think we’re brought up to see things this way, in cultures where
+religion is about heaven and hell, since the great merit of life is presented
+as escaping from one and gaining access to the other.
+
+But this isn’t how it is. Give yourself the freedom to rethink your concept of
+God, of nearness, of Presence, of the Manifestation, of Revelation. There is
+SO much more to be found, nearer than your life's vein. And then, realizing
+these truths in the context of service, since even the healthiest lung is only
+so if it breathes...
+
+# The true meaning of "ordinary existence", aka the famous "drawing water and chopping wood"
+
+I think desire is as normal as wanting food, or enjoying sleep, or hankering
+for a cookie.
+
+Grasping is not letting such things come and go, but holding on (or
+rejecting), trying to fix life into a pattern, making ideas primary.
+
+It’s not about being egoless or emotionless or without humanity; it’s just not
+adding, and not taking away.
+
+...
+
+Guarantee? Why would I need be sure of a future behavior? Isn't that what
+holding onto an idea is about?
+
+If I want a cookie, I either get one or I don't. If I don't, there may be a
+lingering impluse. This is my body at work, that's what it does. Holding to an
+idea of saintliness where I never want things that are tasty seems to me to be
+the real problem.
+
+I do get frustrated, I get sad when nice things that I own are destroyed or
+stolen, I want cookies. These come and go, while Mind is changed by none of
+them. It's only my wish for things to be a certain way -- good or bad -- that
+spoils the day, because then I'm focusing my attention on things that just
+have no result.
+
+I think Christ nailed this one:
+
+> Therefore do not be anxious about tomorrow, for tomorrow will be anxious for
+> itself. Sufficient for the day is its own trouble....
+
+> And which of you by being anxious can add a single hour to his span of life?
+> If then you are not able to do as small a thing as that, why are you anxious
+> about the rest?
+
+I looked for a relevant quote from Huang Po on this, but will OP it rather
+than pasting here.
+
+...
+
+I think we attach to ideas, and try to force these ideas on life, primarily
+from fear that if we don't gain some measure of control over who we are and
+what's around us, it'll devolve into a nightmare from which we can't escape.
+Desiring is one thing, even plants desire water; the idealized object of
+fulfillment we attach to is another.
+
+At the same time, trying "not" to do this is equally impossible. The only
+escape is pure, simple recognition: that there is nothing to be controlled,
+and no control to achieve. We ourselves setup the hurdle we're unable to jump
+over. There's nothing hard here that requires a unique and rare human being --
+which I'm not, you wouldn't be able to pick me out from a crowd. It's seeing
+that we create the maze we're running through. We're the ones setting the bar
+one notch too high, and the end one step too far.
+
+> Nothing is born, nothing is destroyed. Away with your dualism, your likes
+> and dislikes. Every single thing is just the One Mind. When you have
+> perceived this, you will have mounted the Chariot of the Buddhas. -- Huang
+> Po
+
+# an uncomfortable problem
+
+I think "addressing porn" is as effective as approaching detachment by talking
+about "the problems of attachment". Some people's brains are wired that way,
+and it will help them, but it's fundamentally a negative perspective (getting
+someone to stop doing a harmful thing) rather than a positive one.
+
+The novel education here is the innate nobility of human beings, and that
+chastity -- in all its dimensions -- is a powerful component of that nobility.
+This is quite different from centuries of past moral education that have
+assumed people are basically evil and constantly need redemption/saving.
+Purity is purposive, it engenders spiritual sensitivity, permits us to connect
+with our lives in exalted ways, and frees us from distraction to pursue more
+subtile realities.
+
+We have to give young people a higher aim, a better goal, than scaring them
+with how harmful the dangers of the world can be. It reminds me of anti-drugs
+commercials on TV that actually saw a rise in drug use afterward, because they
+led to many more youth thinking about taking drugs than it did to preventing
+their use.
+
+...
+
+My apologies if linking your suggestions to puritanism was off-putting, that
+wasn't my intent. It was just a first reaction, something I feel any time an
+issue begins with discussing with what not to do, or what damage has been
+done. For example, a group of people can discuss racism all day long and make
+little progress; but if we deepen on the equality and nobility of man, it
+upraises everyone.
+
+I'm not sure most young people will listen if you tell them about all the harm
+porn can do, because either they're already doing it and won't listen because
+they're ashamed, or they aren't doing it and might just think, "I won't fall
+into that trap, what will a little hurt". But if we dwell on higher things,
+you can develop that focus and build on it, attach all the Revelation of God
+to it, and then not engaging in porn has both a purpose and a clear
+justification, apart from just being harmful.
+
+# Misconceptions about Enlightenment: It gives you happiness as we know it
+
+Not sure if these were part of the untruths you mentioned, but:
+
+All matter is energy; and even the least divisible part is in constant motion.
+
+Stillness is purely an illusion, since it depends on the scale of the
+observation in both time and space. See things at the smallest level, and the
+universe is an absolute chaotic blur of potentials and possibilities.
+
+We look at a mountain and think: solid, stable. But step back in time, or
+forward in space, and it becomes like a passing cloud.
+
+# What does seeing your true nature mean?
+
+If you had asked, “what does being in love mean?”, I assure you every answer,
+however true, would not be an answer.
+
+The meaning of seeing your true nature is only: seeing your true nature. Every
+word beyond this is smoke, not fire.
+
+# Are there any applicable real world examples/benefits that a "Normie" such as myself could take away from zen?
+
+I like the question! Depending on how you approach it, it could do more harm
+than good, so I wouldn’t recommend it for “benefits”. When you get tired of
+running on the hamster wheel of your own mind in search of a state you’ll
+never reach, though, and crave a little destruction to end the madness, check
+back.
+
+# How does one become a Baha'i exactly?
+
+A follower of the Bahá'í Faith -- someone who self-identifies as a Bahá'í and
+is recognized as such by the governing bodies of the Bahá'í administration --
+is someone who:
+
+  - believes in the claim of Bahá'u'lláh: that He is a divinely-ordained
+    representative of God's will on earth;
+  - agrees to observe Bahá'í laws to the extent of his or her ability;
+  - accepts that authority to manage the affairs of the Faith was passed from
+    Bahá'u'lláh to His eldest son, thence to His great grandson, and afterward
+    to the international governing body of the Faith, the Universal House of
+    Justice.
+
+These are the only "requirements for membership". Beyond this there are
+certain laws, relatively few in number, as well as several principles and
+duties to be observed. Among the necessary laws are:
+
+  - fasting each spring, if capable;
+  - obligatory prayer, said once daily;
+  - reading and writing the Words of God each morning and evening;
+  - payment of the Huqúq'u'lláh (a form of tithing);
+  - making pilgrimage at least once (though obligatory only for men);
+  - certain others.
+
+Among the principles of the Faith, we should regard:
+
+  - all human beings as equal in the sight of God, without prejudice or
+    favoritism;
+  - service to humanity as fundamental to happiness and prosperity;
+  - education as essential to developing human character;
+  - the laws of one's prevailing government as obligatory, except where they
+    conflict with Bahá'í laws;
+  - the counsel of a component physician as having significant weight;
+  - and the religions of the past as intrinsically linked with our own.
+
+The entire moral code of the Faith is rather extensive, but mostly it centers
+on the extreme potential of humanity, and that the purpose of God has been to
+develop this potential both materially and spiritually, in order to ready
+humanity for the collective realization of its unity.
+
+A person who serves others as though they are serving God: if any sentence can
+define what it means to be a Bahá'í, I think it would be this.
+
+# Do you ever get clues?
+
+Your question suggests there is a wrong path, or someplace that is not on your
+way, or in the flow of things. But the goal is not "here" instead of
+"elsewhere", or along one way instead of another; it's rather this very
+questioning and where it arises from that is the gap.
+
+If someone believes they're in a prison, then they're a prisoner; but if they
+ask you how to escape, what do you say?
+
 # What are we talking about
 
 Avoiding all the dark places is no way to find the sun.
