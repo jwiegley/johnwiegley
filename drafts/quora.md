@@ -1,3 +1,90 @@
+# What are your thoughts on the Sikh religion?
+
+Date: 2017-10-19
+
+Based on what I know about Sikhism, and the Sikhs I’ve known, it’s one of the
+few religions in the world where, no matter what you believe in, or where you
+live, you can always count on them to help if you’re in need. Their devotion
+to service, and upholding the rights of others to believe as they choose, is
+inspiring.
+
+# How does faith help people?
+
+Date: 2017-09-23
+
+Think of having faith in a friendship: it helps you by not automatically
+assuming the worst when something happens that you at first don’t understand.
+Faith helps you connect with the truth of things, before you’ve learned the
+full story. It can also be misplaced, surely, so it pays to study well before
+placing your faith in someone or something.
+
+# As a Baha'i, what are your views on Muhammad, the Quran and his religion?
+
+Date: 2017-09-20
+
+Muhammad was the light of this world when He appeared, may peace be upon Him
+and His family; and His revelation, through the Qur’án, was the very
+fountainhead of the rivers of paradise.
+
+It cannot be overestimated the esteem with which we regard Muhammad, the
+Imams, and the Holy Qur’án. Although in the west we are not in the habit of
+reading this book, it will become better known in the future if the counsels
+of the Guardian are carried out.
+
+It should be noted that while we do not deify Muhammad, in the way Christians
+do with Jesus, we do see His station as much higher than some Muslims. The
+Manifestations of God are not merely humans Who have received revelation from
+God or the archangel Gabriel, but are the spiritual focal point of humanity
+during Their age, and represent the voice and will of God. Bahá’u’lláh wrote
+on this theme:
+
+> We recognize in the manifestation of each one of them, whether outwardly or
+> inwardly, the manifestation of none but God Himself, if ye be of those that
+> comprehend. Every one of them is a mirror of God, reflecting naught else but
+> His Self, His Beauty, His Might and Glory, if ye will understand. All else
+> besides them are to be regarded as mirrors capable of reflecting the glory
+> of these Manifestations Who are themselves the Primary Mirrors of the Divine
+> Being, if ye be not devoid of understanding. No one hath ever escaped them,
+> neither are they to be hindered from achieving their purpose. These Mirrors
+> will everlastingly succeed each other, and will continue to reflect the
+> light of the Ancient of Days. They that reflect their glory will, in like
+> manner, continue to exist for evermore, for the Grace of God can never cease
+> from flowing. This is a truth that none can disprove.
+
+# When choosing a religion/faith, is tradition or truth more important?
+
+Date: 2017-08-25
+
+In the Bahá’í Faith it’s written that the three most important qualities when
+making such a choice are: “Purity of heart, chastity of soul, and freedom of
+spirit”. Here chastity can mean that your desire for God is not adulterated by
+any other motive but Him.
+
+It’s hard for us to know truth, since so much of our knowledge is based on
+opinions we’ve gleaned from others. And tradition is hardly a standard,
+because whatever tradition you’ve grown up in is likely to either feel the
+most comfortable, or the most stifling, because of your relationship to it.
+
+Prepare the heart, and then search.
+
+# What's the point of living if you have no ego?
+
+Date: 2017-08-18
+
+This sounds to me like asking: What is the point of playing, if you’re not
+self-conscious about the fact that you’re playing?
+
+# If All-Wise can do anything, then can He make a being more powerful than Himself?
+
+Date: 2017-08-17
+
+I think this question is based on a false premise: That there can even exist a
+second being, on sufficiently equal footing with God that such a scenario
+would be imaginable.
+
+This is a case where human imagination — which is fully capable of imagining
+nonsensical things — causes us to think a statement is logical which isn’t.
+
 # What is the importance of faith in our lives?
 
 Date: 2017-08-12
