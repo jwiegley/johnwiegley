@@ -1,7 +1,45 @@
                                    COMMENTS
 
+# Religion teacher trying to understand the Baha'i Faith
+
+I'm not sure we try to reconcile each religion's later institutionalized
+beliefs with their associated Manifestation of God.
+
+That is, we believe in the divine origin of Christ as a Messenger from God,
+and the Bible as the spirit of His Teachings, but this doesn't mean we take on
+the burden of reconciling later Christianity (and its many christologies) with
+Christ Himself. For example, you can google for "did Christ believe He was
+God", and see debates between learned Christians on whether He did or didn't
+think or say this.
+
+In Bahá’í thought, Chris is both God, in relation to humanity, and is not God,
+in relation to God's Unknowable Essence.
+
+For Buddhism, it's hard to know exactly how much of Buddha's exact words are
+captured in the centuries-later writings we have. That they evince the spirit
+of Buddha's message is without a doubt, given their continued efficacy. But
+what do "God" and "self" and "rebirth" really mean? Did those ideas become
+overtly flavored by a cultural background that sought to re-explain the
+concepts in a doctrinal context?
+
+For example, if you read the Kitáb-i-Íqán's description of the true seeker,
+and how he must purify himself before being capable of recognizing God -- and
+then squint a bit -- several of the Buddhists ideas about "self" and "God"
+(i.e., the God of our conceptions) begin to line up quite nicely. The Íqán
+evens goes into some depth on the ideas of "life", "death", "rebirth" and
+"resurrection", which make it sound like it's not the ideas the Manifestations
+ever disagreed on, but humanity's misunderstanding of those conceptions.
+
+# Haklena's all-access pass to the Wisdom of the Buddhas
+
+By analogy to sound:
+
+If you're asking questions to find silence, you've failed.
+If you say anything at all, this is not helpful.
+What you seek is as far from you as your seeking.
+When you've abandoned all words, that.
+
 # A few questions by TheLongRoadTo in r/bahai
-[–]jwiegley 2 points 2 days ago
 
 Hi Long Road,
 
