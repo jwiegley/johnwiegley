@@ -1,3 +1,46 @@
+# Is the Bahá’í Faith guilty of proselytism in its motivations?
+
+Date: 2018-01-22
+
+Since I’m a Bahá’í who teaches others, and yet is allergic to people
+proselytizing me, let me explain what I see as the difference:
+
+If I mention the Bahá’í Faith in a conversation, as being related to a certain
+point, and no further inquiry is made, I refrain from mentioning it again. I
+make the assumption that people do not wish religion to be intruded upon them.
+
+If they ask for more information, I’m happy to offer, until it feels like the
+conversation is getting stale. What I avoid most of all is pushing the matter,
+or bringing up the Faith when it seems like I’m bringing it up just so I can
+talk about it.
+
+If someone else mentions their Faith to me, or comes knocking on my door to
+talk about it, I see this (at first) as an invitation to learn more. After
+all, they’ve usually done a lot more research into their Faith than I have.
+When Jehovah’s Witnesses stop by, for example, it’s an opportunity to clarify
+factual points of the Bible I’ve been wondering about recently. Just the other
+day I was excited when a JW came to my door, because I had been wondering
+something about the prophecies of David, but hadn’t yet taken the time to do
+an exhaustive search. As expected, the woman was able to point out just the
+verses I needed, and our conversation was quite pleasant.
+
+If, however, they go beyond answering my question, and start pushing me to
+become more involved without determining my desire, I start to feel like I’m
+being proselytized. That I’m more of a product than a human being. I don’t
+mind if they knock on my door asking if I want to hear about the Kingdom; I
+mind if they don’t take “no” as a perfectly valid answer right away.
+
+This to me is the difference between teaching and proselytization: Teaching is
+more about the subject matter, and a mutual search for deeper insight, than it
+is about the possible event of conversion, implying a deep respect for what
+each person wants to hear about, how they want to hear it, and when is the
+right time to speak or keep silent.
+
+This is true outside of religion also. My superb government teacher in high
+school wasn’t teaching me to make me into a public servant: he was teaching me
+to broaden my understanding of how government works. Any participation beyond
+that point was entirely left to me.
+
 # What are your thoughts on the Sikh religion?
 
 Date: 2017-10-19

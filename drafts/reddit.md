@@ -1,5 +1,24 @@
                                    COMMENTS
 
+# What religious types agree on is the real nihilism
+
+> What the religious converts want to do is have a nice little mental package
+> they are constantly repping (proselytizing) that tells them what is going
+> on, that explains the world, that defines reality for them.
+
+What does religion have to do with it? That dichotomy is pushed by a few on
+this channel, apropos of nothing. What you’re describing is human behavior, of
+any stripe.
+
+A nihilism that negates false conceptions is what it’s all about, to awaken
+you. Once these conceptions are gone, nihilism is no longer a meaningful way
+to approach reality. Quite the opposite: “just suchness” is pure positivism,
+without contrast.
+
+People chewing pages from a cookbook to satisfy their hunger is enough to
+exasperate anyone. Don’t imagine it’s the failing of only one group, or one
+point of view.
+
 # Religion teacher trying to understand the Baha'i Faith
 
 I'm not sure we try to reconcile each religion's later institutionalized
