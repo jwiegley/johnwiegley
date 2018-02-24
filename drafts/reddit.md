@@ -1,5 +1,161 @@
                                    COMMENTS
 
+# I think I've finally discovered what enlightenment actually is...
+
+> ...there is a glimpse into dharma nature...
+> ...this glimpse is the reality of all realities...
+> ...a window that opens to absolute truth...
+> ...seeing the oneness behind all things...
+
+These phrases mean nothing at all. They're magic words used to trigger
+emotion. Not a single one has content.
+
+Don't try to see dharma-nature. Reality is the one thing you don't need to
+worry about. We imagine "as the water stills, the bottom becomes clear", but
+this supposes a clouding agent between. The framing of this thought is the
+problem!
+
+> we see through to this dharma nature
+
+You're seeing through something that doesn't exist? :-)
+
+> As we move further along in our practice, we may come to a deeper
+> understanding of the true nature of things and act accordingly
+
+There is no deeper understanding. There's only what you have always been.
+There is no you who's progressing through levels, accumulating wisdom,
+gathering insight. The very idea of "deeper understanding" is what you're up
+against. It's a delusion that only grows more subtle.
+
+Reality abides unchanged, and nothing can affect it. Ideas of "progress"
+pertain to the phenomena only, which are always changing and nothing can
+preserve them.
+
+I know you resonate with the ocean/waves metaphor. Tell me, how does a wave
+dive deeper? How does it depart the ocean?
+
+As someone who states "you do not exist", I find it surprising you would
+assert the existence of delusion! This word "exist" is so pesky; it says so
+little. :)
+
+Truly, what is the point of Zen? Would we need it at all if we didn't have
+this tendency to work ourselves into a state over nothing? We're like kids who
+believe there's a monster under the bed. Is awakening to the fact that there
+is no monster a profitable, worthy activity? Or is it a nonsensical activity,
+made necessary by the maniacal insistence of the child?
+
+A wave is a creature of zero thickness, zero depth. It neither dives nor
+departs. As you've pointed out, it's "not really there", except as a moving
+form given passing life by time. It has form due to the ocean, while the ocean
+is the lone reality. All the wave has to do is stop asserting its existence,
+or striving to regain companionship with the ocean. In a moment, there it is,
+a tacit understanding, and all is settled with nothing achieved.
+
+# Linji tells me to be ordinary
+
+There is no being special; it's simply not a thing. There is only thinking you
+are special, and many of us work our whole lives to permit ourselves this
+thought (that only we can grant, even if we need others to confirm it’s OK to
+do so). It’s not that you shouldn’t desire it, to be ordinary or special. It
+just isn’t there. Ordinary mind, in the sense of “just ordinary”, is a false
+contrast. I think he means, “what’s there”, what is common to all.
+
+# How do I become more humble?
+
+What you are is never changing, and you can't put a finger on it. It can't be
+humble, it can't be proud. It's only ever aware.
+
+What you're aware of is always changing. You're aware of these emotions that
+arise unbidden within you, and, using a matrix of societal norms, you give
+them names and judge them good or bad, better or worse, etc.
+
+Since before you could speak, this matrix has been layered onto you, to help
+you fit in, help you become a productive and predictable member of society.
+This is what the community does to survive. But you're none of these things,
+and never have been. We don't choose our desires, our dispositions, our
+reactions. So many of these things are probably just chemical, even though
+they submit to a certain amount of control.
+
+The error lies in identification, which gives rise to the emotional bind, and
+then to baseless joy and sorrow. A roller-coaster of feelings that seem more
+real than the air around you.
+
+There is no "answer" to make this stop. Only see these things, watch them come
+and go, get a feel for what your existence really is. What's left at the end
+of the day, once all these emotions and reactions quiet down? What's different
+tomorrow, or the next day? What stays the same?
+
+In struggling to gain the upper hand and master such demons, we make the road
+longer and more difficult. This is probably what brings about so much
+frustration and agitation: the inability to control what is no more than a
+vapor in the desert.
+
+Whatever seems complex, layered, rich with distinctions, discard it. What you
+call "you" is built up from so many tiny, illusory bricks; and even though we
+weren't aware of it most of the time, we allowed every one to be fit into
+place. The arguments we wage in our head? They aren't ours. The beliefs we
+hold so dear? Not ours. The ideas, logic, the scaffolding of wisdom to help us
+rationalize life? All borrowed.
+
+What you really are is none of these. As you breathe, in and out: there, that.
+It cannot be separated, and needs no joining. Only refrain from picking and
+choosing.
+
+This doesn't mean you won't feel rage anymore if somebody cuts you off the
+road. Only, it should seem a curious thing, this reaction; and then, after
+time has passed, more so, until almost amusing. The key lies not in what you
+feel, but in really seeing it, feeling it fully, honestly, and then deciding
+if you'll choose to own it, or let it be.
+
+# Zen is the death of one's self
+
+If you’ve been sitting in a dark cave, Zen is just getting up and walking out,
+it’s not the death of the darkness. And when the sun hits your face outside,
+that’s not the death of anything either.
+
+Imagining an epic battle prolongs the farce. Turn off the movie, and you’ve
+just been staring at a wall.
+
+# Faith and critical thinking and our youth education
+
+We are teaching them, and ourselves, to rely on forces outside our
+understanding, control, or observation.
+
+Human logic is sharply limited: it can only verify the truth of statements
+phrased in that same logic. The distinction between "model" and "reality" is
+obvious, but subtle. It's like a group of people in a cartographer's shop,
+believing they're traveling the world...
+
+Life will always contain mysterious elements that refuse to submit to reason,
+such as love, inspiration, confidence, etc. These things are far more affected
+by faith, than by what you can understand about them in the mind.
+
+We are like cups, able to sample the water of the Deep at any point, but never
+more than that at a time, and never the whole sea -- no matter how much time
+we have. Our souls, on the other hand, swim far and free, whales of an
+unyielding sea, singing songs far beyond our hearing.
+
+# How does one practice the Baha'i faith in daily life?
+
+Be loving, loyal, truthful and kind, to more than just those who know you. Act
+so that your deeds contribute to the advancement of civilization. Enjoy your
+friendships and family, and spread that cheer to others. Be humble, and always
+avoid becoming a cause of conflict.
+
+This basic pattern hasn't changed in many thousands of years, unless you meant
+the laws, of which the daily ones are: reading the Writings morning and night,
+saying the obligatory prayer, and soon, keeping the Fast in March.
+
+# Self identification
+
+So many drops, cast on the spray
+each unique, for just a moment
+each alike, for just a moment
+yet there's only the Ocean
+the Born and the Unborn
+with no difference between
+but the one I think I see.
+
 # What religious types agree on is the real nihilism
 
 > What the religious converts want to do is have a nice little mental package
@@ -2895,8 +3051,7 @@ could fork Emacs and make it into something better, freed from the FSF's
 policies. Until that happens, expecting them to change by writing blog posts,
 or commenting on Reddit, is not going to have any effect whatsoever.
 
-# Do you have to believe that Baha'U'llah and his son Abdul Baha are free of
-  contradictions?
+# Do you have to believe that Baha'U'llah and his son Abdul Baha are free of contradictions?
 
 One thing to keep in mind: By what standard do you judge one who lays claim to
 a Revelation from God?
