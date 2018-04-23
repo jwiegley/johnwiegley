@@ -1,5 +1,161 @@
                                    COMMENTS
 
+# Letter of Resignation to LSA - Thoughts?
+
+No Faith is easy to be a part of in its early days. Look at what happened to
+the companions of Noah. It would have been almost impossible for anyone to
+stay with Noah. Holding to a Manifestation of God during the time of awakening
+is always difficult, and historically speaking, most people just don't. The
+real numbers always come later, when we have grand churches, large communities
+with established support systems, and commonly agreed upon doctrines.
+
+To me, the community of today is an opportunity to serve, not to be served. I
+can't expect it to be satisfying, fulfilling, or even easy most of the time.
+We're scrambling to understand a Revelation that has never been seen before,
+and its impact on current social systems is bound to be both damaging and
+confusing, as old structures give ways to patterns of thinking outside our
+present experience. In a way it's like giving birth: What happens in the
+operating room is messy, smells awful, and is full of tension and even
+screaming. It bears very little resemblance to what your experience of that
+mother and child will be even a few weeks later, much less in the years to
+come.
+
+I think this question concerns the station of Bahá'u'lláh and the nature of
+His Revelation. All else is secondary, even irrelevant. If I don't like some
+of the laws, or if things seems illogical to me, then this is how I'm
+experiencing the transformative effect of His Teachings:
+
+> Know verily that the essence of justice and the source thereof are both
+> embodied in the ordinances prescribed by Him Who is the Manifestation of the
+> Self of God amongst men, if ye be of them that recognize this truth. He doth
+> verily incarnate the highest, the infallible standard of justice unto all
+> creation. Were His law to be such as to strike terror into the hearts of all
+> that are in heaven and on earth, that law is naught but manifest justice.
+> The fears and agitation which the revelation of this law provokes in men's
+> hearts should indeed be likened to the cries of the suckling babe weaned
+> from his mother's milk, if ye be of them that perceive. Were men to discover
+> the motivating purpose of God's Revelation, they would assuredly cast away
+> their fears, and, with hearts filled with gratitude, rejoice with exceeding
+> gladness.
+
+Or my favorite expression of this sentiment, from The Seven Valleys:
+
+> > When the qualities of the Ancient of Days stood revealed,  
+> > Then the qualities of earthly things did Moses burn away.
+> 
+> He who hath attained this station is sanctified from all that pertaineth to
+> the world. Wherefore, if those who have come to the sea of His presence are
+> found to possess none of the limited things of this perishable world,
+> whether it be outer wealth or personal opinions, it mattereth not. For
+> whatever the creatures have is limited by their own limits, and whatever the
+> True One hath is sanctified therefrom; this utterance must be deeply
+> pondered that its purport may be clear.
+
+# Can zen solve completely insomnia and anxiety?
+
+What Zen teaches me: Even if I worry about it, I can’t make worry last.
+
+# Zen essence vs Zen periphery
+
+A book is just paper and ink, but I have to go beyond that to reach its
+meaning; still further to grasp the intent; and still further to understand
+its animating principle. This last thing is wordless, and needed the whole
+book to bridge the gap between my mind and that of its author.
+
+I feel like some here are saying that Zen is just staring at the paper because
+that’s what’s palpably in front of you. Though maybe it’s relating to the
+principle — which cannot be prisoned even by intent — and leaving the book
+behind once its task is achieved.
+
+# Is intellectual work compatible with zen?
+
+I use the thinking mind every day for computer research. Just yesterday, at
+one point I had to pace back and forth, grappling with a chain of reasoning,
+feeling like my mind couldn't compute fast enough. Abstraction is a great
+tool, and humans have ascendancy because of it.
+
+I think where we run afoul is that we use the mind for two things. There's the
+intended use -- why we have it -- and then there's using it for things that
+are meaningless.
+
+Imagine you had a knife and you kept cutting yourself with it because you
+insisted on being careless. Does it mean the knife has no value? That you
+shouldn't use it? That you should avoid knives? The knife isn't the problem,
+but the user. It's even a great tool, so better to use it properly than to
+discard it.
+
+Applying the mind to convince ourselves that the unreal is worth paying
+attention to: that's no fault of the mind itself. Poor guy, he's just
+following our interests. So imagine what happens when you become fascinated by
+what's actually there!
+
+> “How miraculous and wondrous, hauling water and carrying firewood!” --
+> Layman Pang
+
+My update for the 21st century:
+
+"How miraculous and wondrous, writing software and debugging code!"
+
+# Marriage: what to look for in constructing a Baha’i marriage and resources to help parents in the consent process
+
+Having been through the ringer a few times, and talked to a lot of people and
+observed a lot of married friends, I've come to feel that there's no real
+guide that will tell you if two people are truly compatible or not.
+
+There are a few basic principles I *think* I've learned:
+
+- One of the greatest enemies to union is contempt. If one party thinks less
+  of the other, or that they're somehow beneath them, or that they need to
+  change or improve in order to become adequate, this will eat away at the
+  connection like a termite over time. What is best is for each party to
+  admire the other, likely for different things, so that you always feel lucky
+  to be together.
+
+- Anything that bothers you in the beginning will bother you throughout. Don't
+  expect anything to change with time, but also don't expect everything to
+  stay the same (most especially physical characteristics).
+
+- Do not marry to escape loneliness! Another human being cannot supplant what
+  God is meant to provide, although it may seem that they can for a time. Soon
+  the hole will return, and it will erode your union as the frustration at
+  feeling incomplete slowly transfers to resentment.
+
+- Simply having a common goal, or a set of principles, is not enough, even if
+  there are feelings of love. The best things to have are sincerity,
+  pure-heartedness, quickness to forgive, and a constant eagerness to greet
+  each new day together.
+  
+# Huángbò Xīyùn: Observe things as they are and don’t pay attention to other people
+
+Mad houseplants are the worst. Sometimes, I look around my home and it feels
+like I'm hearing a silent, drawn out scream: all the leaves a crazy shade of
+green.
+
+# How does one stop conceptual thinking?
+
+This is a game you lose by playing, since "stopping" and "thinking" are just
+more concepts used to modulate our experience of... whatever it is that we
+are.
+
+If you didn't have "red" and "blue", how many colors would there be? What
+would be the difference between them?
+
+"Stopping" isn't choosing between having such thoughts and not having them;
+it's when even that distinction loses its grip.
+
+> This Mind, which is without beginning, is unborn and indestructible... It
+> does not belong to the categories of things which exist or do not exist...
+> It is that which you see before you -- begin to reason about it and you at
+> once fall into error. It is like the boundless void which cannot be fathomed
+> or measured. The One Mind alone is the Buddha, and there is no distinction
+> between the Buddha and sentient things, but that sentient beings are
+> attached to forms and so seek externally for Buddhahood. By their very
+> seeking they lose it, for that is using the Buddha to seek for the Buddha
+> and using mind to grasp Mind. Even though they do their utmost for a full
+> aeon, they will not be able to attain it. They do not know that, if they put
+> a stop to conceptual thought and forget their anxiety, the Buddha will
+> appear before them, for this Mind is the Buddha..." -- Huang Po
+
 # I think I've finally discovered what enlightenment actually is...
 
 > ...there is a glimpse into dharma nature...
@@ -50,6 +206,12 @@ form given passing life by time. It has form due to the ocean, while the ocean
 is the lone reality. All the wave has to do is stop asserting its existence,
 or striving to regain companionship with the ocean. In a moment, there it is,
 a tacit understanding, and all is settled with nothing achieved.
+
+Yes! The question you just asked is more to the point than refined concepts of
+reality or at-oneness. Feed that "person" a bitter pill it can't swallow, and
+don't let it escape until the gears grind to a halt. Just watch, don't
+ratiocinate. You won't stop playing the game if you think there's something to
+be won; and you won't care to play, once you see "winning" for what it is.
 
 # Linji tells me to be ordinary
 
