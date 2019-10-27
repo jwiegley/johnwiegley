@@ -1,5 +1,114 @@
                                    COMMENTS
 
+# Am I powerless?
+
+The wave is powerless to step away from the ocean, and all his substance is
+borrowed. It doesn't mean he doesn't move about, play and crash, only that he
+has no existence separate from the sea, and should recognize this when
+regarding it.
+
+# Losing faith
+
+Here's a story I haven't told many people before...
+
+When I was a kid, I hated olives. With a passion. It boggled my mind that any
+human being could derive pleasure from them, in any way.
+
+Likewise, when I found the Faith, I hated religion. I couldn't say the word
+"God" without a bad taste in my mouth. I couldn't pray. It took a full year
+before I could even read the Writings, it was just too awkward and bizarre to
+me.
+
+Time passed, and one day, while reading Herodotus' History, I became so
+affected by his absolute raving love of all things olive that I decided to try
+them again. Peloponnesus green olives. OMG!!!! They were so amazing!! I would
+buy them by the pound, and eat the entire pound in one sitting while reading
+chapter after chapter of the History. I put olive oil in my hair, on my skin
+-- I went olive crazy. Nowadays, olive oil is all I ever put on my salads.
+
+So I asked God: Can you please make prayer be like the olives?
+
+Wanting didn't make it happen. Hoping didn't make it happen. It took decades
+of thinking and trying and experimenting. There is no silver bullet unless God
+wills it; but there is a promise: that anyone who makes the effort and is
+patient will find their answer.
+
+> Ask and it will be given to you; seek and you will find; knock and the door
+> will be opened to you. For everyone who asks receives; he who seeks finds;
+> and to him who knocks, the door will be opened.
+
+> Which of you, if his son asks for bread, will give him a stone? Or if he
+> asks for a fish, will give him a snake? So if you who are evil know how to
+> give good gifts to your children, how much more will your Father in heaven
+> give good things to those who ask Him!
+
+I wouldn't be discouraged if the path feels remote. If anything, you're
+learning the true nature of the path by pushing through the brambles on the
+side. The key, I think, is to strive for such patience, that even darkness
+becomes a lesson about light. Where you are now is the perfect place to learn
+about honesty, sincerity, purity of heart, and the attributes of a true
+seeker. One who only thinks they've found, and mimicks all the right actions,
+has yet to taste the sweetness that follows the bitter cup.
+
+# Losing faith
+
+I relate to most of what you've said, as can some of my close Bahá'í friends.
+I think this is just real life: ups and downs, times when things are clearer,
+times when they are more obscure.
+
+Once I couldn't say the obligatory prayer for almost a year. It felt too fake
+to be praying to God from a place of obligation. It took 22 years to resolve
+this within myself, likely due to upbringing.
+
+It's like a "dark night of the soul", where I seem to be wandering through
+some wilderness in a daze. You can't invent faith, or will it to appear. I
+think the essential honesty of our soul drives us away from living a sham life
+for appearances. We only have so much energy before we return to where we're
+really at, spiritually.
+
+The only constant in all of this, the unbreakable cord, if you will, was to
+hold on to my most favorite selections from Bahá'u'lláh. In fact, my last funk
+was finally dispelled by savoring the syllables of this quote:
+
+> O Son of Love! Thou art but one step away from the glorious heights above
+> and from the celestial tree of love. Take thou one pace and with the next
+> advance into the immortal realm and enter the pavilion of eternity. Give ear
+> then to that which hath been revealed by the pen of glory.
+
+Going back to the heart connection with the Source, that is what brought
+everything else back into perspective. It's not about the laws, or the
+religion, or the teaching or not teaching: it is about nearness to God. Once
+that goal is firmly fixed, the rest becomes a means to that end, on both a
+personal and a global scale. But imperfectly so, since we're growing and
+learning.
+
+I can't say much more than that. Find Bahá'u'lláh in your heart of hearts, and
+blind your eyes to all things else.
+
+# This could've been my faith, had I only known.
+
+As a lover of things mystical, I find there is an impossibly wide gulf between
+our conceptions of God (which are always wrong) and our experience of God
+(which is always mysterious). From this standpoint, even the word "God" does
+us a disservice, since it lulls one into feeling we understand what we mean
+when we say it.
+
+In this respect, atheism is a kind of honesty: rejecting all concepts of the
+Ocean based merely on second-hand reports, or one day's playing at the
+seaside. Even the whales have seen only the briefest span of it.
+
+So I applaud you for coming to such a point in your religious studies, but
+would like to suggest that a new phase exists beyond it: a relationship not
+based on knowledge or conceptions. Indeed, faith and death of self are needed
+here, not rhetoric. "Be nothing then, and walk upon the waves." Which may seem
+like madness in our intellectually-driven culture, but what is there to be
+found is also, profoundly real.
+
+    The compass of the mind  
+    is whatever it can conceive;  
+    but the bound of the heart  
+    is all that it believes.
+
 # Letter of Resignation to LSA - Thoughts?
 
 No Faith is easy to be a part of in its early days. Look at what happened to
