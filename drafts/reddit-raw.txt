@@ -1,0 +1,410 @@
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Overview
+Posts
+Comments
+Saved
+Hidden
+Upvoted
+Downvoted
+Awards received
+Awards given
+Sort
+jwiegley commented on Older guy looking to get into programming with Haskell.
+•r/haskell
+•Posted byu/fyne_wyne
+jwiegley
+13 points ·
+1 year ago
+
+I started a new career in Haskell, with no previous experience in functional programming (my background was C++ compilers) when I was age 40. So yes, you can.
+jwiegley commented on Program Reduction: A Win for Recursion Schemes
+newartisans.com/2018/0...
+•r/haskell
+•Posted byu/jwiegley
+jwiegley
+2 points ·
+1 year ago
+
+Great! I think that constraint was due to an earlier formulation that was later simplified. I’ll make that change.
+68
+Program Reduction: A Win for Recursion Schemes
+newartisans.com/2018/0...
+r/haskell
+•
+Posted byu/jwiegley
+1 year ago
+5 comments
+jwiegley commented on Letter of Resignation to LSA - Thoughts?
+mit.edu/~jtidw...
+•r/bahai
+•Posted byu/tyrus_g
+jwiegley
+8 points ·
+1 year ago
+· edited 1 year ago
+
+No Faith is easy to be a part of in its early days. Look at what happened to the companions of Noah. It would have been almost impossible for anyone to stay with Noah. Holding to a Manifestation of God during the time of awakening is always difficult, and historically speaking, most people just don't. The real numbers always come later, when we have grand churches, large communities with established support systems, and commonly agreed upon doctrines.
+
+To me, the community of today is an opportunity to serve, not to be served. I can't expect it to be satisfying, fulfilling, or even easy most of the time. We're scrambling to understand a Revelation that has never been seen before, and its impact on current social systems is bound to be both damaging and confusing, as old structures give ways to patterns of thinking outside our present experience. In a way it's like giving birth: What happens in the operating room is messy, smells awful, and is full of tension and even screaming. It bears very little resemblance to what your experience of that mother and child will be even a few weeks later, much less in the years to come.
+
+I think this question concerns the station of Bahá'u'lláh and the nature of His Revelation. All else is secondary, even irrelevant. If I don't like some of the laws, or if things seems illogical to me, then this is how I'm experiencing the transformative effect of His Teachings:
+
+    Know verily that the essence of justice and the source thereof are both embodied in the ordinances prescribed by Him Who is the Manifestation of the Self of God amongst men, if ye be of them that recognize this truth. He doth verily incarnate the highest, the infallible standard of justice unto all creation. Were His law to be such as to strike terror into the hearts of all that are in heaven and on earth, that law is naught but manifest justice. The fears and agitation which the revelation of this law provokes in men's hearts should indeed be likened to the cries of the suckling babe weaned from his mother's milk, if ye be of them that perceive. Were men to discover the motivating purpose of God's Revelation, they would assuredly cast away their fears, and, with hearts filled with gratitude, rejoice with exceeding gladness.
+
+Or my favorite expression of this sentiment, from The Seven Valleys:
+
+        When the qualities of the Ancient of Days stood revealed,
+        Then the qualities of earthly things did Moses burn away.
+
+    He who hath attained this station is sanctified from all that pertaineth to the world. Wherefore, if those who have come to the sea of His presence are found to possess none of the limited things of this perishable world, whether it be outer wealth or personal opinions, it mattereth not. For whatever the creatures have is limited by their own limits, and whatever the True One hath is sanctified therefrom; this utterance must be deeply pondered that its purport may be clear.
+
+jwiegley commented on Can you really be content?
+•r/zen
+•Posted byu/MTrueSolitude
+jwiegley
+1 point ·
+1 year ago
+
+I've seen some here who stress "contentment and bliss" in Zen, but I have to think it's about being liberated from "content" vs. "not content". When you have no issue with feeling what you feel, and nothing needs to change beyond what the moment calls for, then what's the issue? It's not about constantly riding a happy train; life is what you're in the middle of, right now and always.
+jwiegley commented on Zen and Illusion
+•r/zen
+•Posted byu/[deleted]
+jwiegley
+1 point ·
+1 year ago
+
+The many things are illusion. That which is, simply is, anything we assert of it is wrong by the act.
+jwiegley
+2 points ·
+1 year ago
+
+I don't think the Zen guys say the world is an illusion. If you suggested that to them, I have a feeling you'd get a stick in the face, asking how an illusion just bumped your nose.
+
+What they might say is that the world you think you see is the illusion, and exists as much as your dreams do: that is, having great effect on your emotions and thoughts, but at the end of the night nothing has actually changed.
+jwiegley commented on Question about progressive revelation and other religions
+•r/bahai
+•Posted byu/[deleted]
+jwiegley
+4 points ·
+1 year ago
+
+To use the school analogy: Although you move from one form of instruction to another that builds on the previous, this doesn't mean you don't continue to apply what was learned before. You just do it in the new context, where new rules and problems are at hand.
+jwiegley commented on The problem of ZenNihilism in the community.
+•r/zen
+•Posted byu/[deleted]
+jwiegley
+1 point ·
+1 year ago
+
+This is a good insight. My brain is almost entirely faith based at first. I feel like someone who falls into the chair, and then sits as though I totally meant to do that.
+jwiegley commented on Have you any Zen?
+•r/zen
+•Posted byu/1_or_0
+jwiegley
+1 point ·
+1 year ago
+
+Someone here once asked me if I had anything that wasn’t Zen, and I’m still reeling from that one. What is this “having”!
+jwiegley commented on Can zen solve completely insomnia and anxiety?
+•r/zen
+•Posted byu/[deleted]
+jwiegley
+1 point ·
+1 year ago
+
+What Zen teaches me: Even if I worry about it, I can’t make worry last.
+jwiegley commented on OPEN INVITATION ZEN POETRY AND RAP VERSE BATTLE: When it comes to the Zen flow, I got this place locked down, ya heard? Step up to the challenge, if you dare.
+•r/zen
+•Posted byu/[deleted]
+jwiegley
+1 point ·
+1 year ago
+
+That was pretty amazing. Off the hook, dump!
+jwiegley commented on Zen essence vs Zen periphery
+•r/zen
+•Posted byu/[deleted]
+jwiegley
+3 points ·
+1 year ago
+
+    The principal activity of Zen is to penetrate through conceptualization and behold the pure mind devoid of all passions, attachments, objects.
+
+This sounds so close to being totally on point and reasonable, but then I step back and find so much in it that assumes I already know what it means:
+
+Penetrate is given as a verb without defining the action to be taken; it assumes a barrier, an actor, a place being penetrated to, but defines none of them.
+
+Behold: another great sounding word that seems like the main action, but adds nothing.
+
+The pure mind is...? Calling it pure doesn’t clarify what is meant by saying mind. Or how it can be devoid; does it otherwise contain things?
+
+Now I’m left with nothing at all, though it still sounds cool. I guess that’s the beauty of conception for you.
+
+A book is just paper and ink, but I have to go beyond that to reach its meaning; still further to grasp the intent; and still further to understand its animating principle. This last thing is wordless, and needed the whole book to bridge the gap between my mind and that of its author.
+
+I feel like some here are saying that Zen is just staring at the paper because that’s what’s palpably in front of you. Though maybe it’s relating to the principle — which cannot be prisoned even by intent — and leaving the book behind once its task is achieved.
+jwiegley commented on A catamorphic lambda-calculus interpreter
+michaelpj.com/blog/2...
+•r/haskell
+•Posted byu/bryjnar
+jwiegley
+7 points ·
+1 year ago
+
+https://github.com/jwiegley/hnix is essentially a catamorphic lambda calculus interpreter. Using a functor fixed point to encode expression trees yields some very useful flexibility.
+jwiegley commented on Resources for writing a type checker?
+•r/haskell
+•Posted byu/bcoop713
+jwiegley
+1 point ·
+1 year ago
+
+Great questions. Not yet. :)
+jwiegley
+1 point ·
+1 year ago
+
+Yes, let's chat after I get further into the work. I'm still at the reading stage right now. I was thinking of doing it the way poly_constraints, with an initial phase of evaluation that produces a set of typing constraints, and then a second phase of resolution to discover if the set can be properly reduced.
+jwiegley
+1 point ·
+1 year ago
+
+The full language, enough to replace Nix as an evaluator of nixpkgs. Until the hnix-store project becomes stable enough, we'll still be shelling out to nix-store and nix-instantiate.
+jwiegley commented on Quote from Gleanings: "No man can obtain everlasting life, unless..."
+•r/bahai
+•Posted byu/finnerpeace
+jwiegley
+2 points ·
+1 year ago
+
+Note that a person, even while alive and interacting with you, is reckoned in scripture "as one dead" until he has recognized God. This doesn't mean he doesn't exist, or isn't alive, or doesn't have a soul that might move on. But there's life, and then there's life.
+jwiegley commented on Resources for writing a type checker?
+•r/haskell
+•Posted byu/bcoop713
+jwiegley
+1 point ·
+1 year ago
+
+Yes, I would recommend this as well.
+jwiegley
+3 points ·
+1 year ago
+
+Funny you should ask, since this weekend I'm going to start writing an HN type checker for hnix, so I've been doing quite a bit of reading.
+
+I found these resources helpful so far:
+
+    Great for introduction to concepts, but the implementation was hard to follow: http://steshaw.org/hm/hindley-milner.pdf
+
+    A good follow-on read to that paper, clearer algorithm (because of the phase separation): https://pdfs.semanticscholar.org/8983/233b3dff2c5b94efb31235f62bddc22dc899.pdf
+
+    This second paper has a reference implementation in Haskell: https://github.com/kseo/poly_constraints
+
+jwiegley commented on [ANN] error-context: Support for context enriched exceptions
+•r/haskell
+•Posted byu/moreektesseract
+jwiegley
+2 points ·
+1 year ago
+
+I would just need for throwError to rely on a MonadThrow constraint. For the time being, using error was fine for my use case.
+jwiegley
+3 points ·
+1 year ago
+
+I just implemented this very thing in hnix a couple of days ago, but found that all I needed was MonadReader:
+
+https://github.com/jwiegley/hnix/blob/master/Nix/Stack.hs#L26
+jwiegley commented on Good Afternoon, Good Evening and Goodnight! Zenheads, give me your favorite texts!
+•r/zen
+•Posted byu/Troaweymon42
+jwiegley
+1 point ·
+1 year ago
+
+https://www.reddit.com/r/Buddhism/comments/3x8jkn/chan_a_squished_frog_comes_at_night_to_haunt/
+jwiegley
+2 points ·
+1 year ago
+
+The frogplant.
+jwiegley commented on Composing Monads
+•r/haskell
+•Posted byu/AshleyYakeley
+jwiegley
+3 points ·
+1 year ago
+
+See http://web.cecs.pdx.edu/~mpj/pubs/composing.html, it gives the minimum conditions you're looking for
+1
+Reddit export?
+r/orgmode
+•
+Posted byu/jwiegley
+1 year ago
+3 comments
+60
+Another call for help proofreading the upcoming Emacs 26 Manual
+r/emacs
+•
+Posted byu/jwiegley
+1 year ago
+19 comments
+75
+Multiple-cursors rocks!
+youtube.com/watch?...
+r/emacs
+•
+Posted byu/jwiegley
+2 years ago
+51 comments
+2
+Maybe this material is better put on the GitHub Wiki for use-package?
+r/use_package
+•
+Posted byu/jwiegley
+2 years ago
+comment
+50
+Command for undoing a region through its Git history, rather Emacs edit history
+github.com/jwiegl...
+r/emacs
+•
+Posted byu/jwiegley
+2 years ago
+13 comments
+15
+That which is before you is it...
+r/zen
+•
+Posted byu/jwiegley
+2 years ago
+24 comments
+49
+Putting lenses to work (talk and slides)
+newartisans.com/2017/0...
+r/haskell
+•
+Posted byu/jwiegley
+2 years ago
+10 comments
+59
+Submitting Haskell functions to Z3 using category theory
+newartisans.com/2017/0...
+r/haskell
+•
+Posted byu/jwiegley
+2 years ago
+27 comments
+17
+Talk: How I use nix for Haskell development
+youtube.com/attrib...
+r/NixOS
+•
+Posted byu/jwiegley
+2 years ago
+2 comments
+37
+Using the reflection library to pass data down to instances
+newartisans.com/2017/0...
+r/haskell
+•
+Posted byu/jwiegley
+2 years ago
+12 comments
+3
+Enlightenment of the dancing man
+r/zen
+•
+Posted byu/jwiegley
+2 years ago
+21 comments
+8
+While reading /r/zen and watching TV
+r/zen
+•
+Posted byu/jwiegley
+3 years ago
+93 comments
+5
+Idea for a "git-du" utility
+r/git
+•
+Posted byu/jwiegley
+3 years ago
+2 comments
+3
+Using the standard FMap library in Coq
+newartisans.com/2016/1...
+r/Coq
+•
+Posted byu/jwiegley
+3 years ago
+comment
+26
+Run your own copy of Hoogle locally
+r/haskell
+•
+Posted byu/jwiegley
+3 years ago
+11 comments
+32
+Simpler conduit library based on monadic folds
+newartisans.com/2014/0...
+r/haskell
+•
+Posted byu/jwiegley
+5 years ago
+16 comments
+43
+Getting Started with Lenses
+newartisans.com/2012/1...
+r/haskell
+•
+Posted byu/jwiegley
+7 years ago
+32 comments
+85
+Parsing with Haskell and Attoparsec
+newartisans.com/2012/0...
+r/programming
+•
+Posted byu/jwiegley
+7 years ago
+17 comments
+John Wiegley
+u/jwiegley
+Karma
+6,344
+Cake day
+December 27, 2009
+Followers
+35
+New post
+You're a moderator of these communities
+r/plaintextaccounting
+
+1.3k members
+Trophy Case (2)
+[Ten-Year Club]
+Ten-Year Club
+
+[Verified Email]
+Verified Email
+
+Reddit
+about
+careers
+press
+advertise
+blog
+Using Reddit
+help
+Reddit App
+Reddit coins
+Reddit premium
+Reddit gifts
+Communities
+Top Posts
+Terms|Content policy|Privacy policy|Mod policy
+Reddit Inc © 2019. All rights reserved
