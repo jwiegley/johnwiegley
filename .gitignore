@@ -4,3 +4,4 @@
 /dist/
 /_config.yml
 /shell.nix
+/.DS_Store

@@ -13,11 +13,11 @@ location: Chicago, 2015, written for Lori Vodden.
     a refreshing breeze.
 
     With what wisdom!
-    He thrust you into a hole,
+    He thrust you in a hole,
     pitch and dark;
     airless, lightless;
     every movement a struggle.
-    A world, in every way opposite.
+    A world in every way opposite.
 
     Never cease reaching
     toward the sky you were promised.

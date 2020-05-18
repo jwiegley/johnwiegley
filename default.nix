@@ -1,5 +1,5 @@
-{ rev    ? "70c1c856d4c96fb37b6e507db4acb125656f992d"
-, sha256 ? "0w155rcknc3cfmliqjaq280d09rx4i0wshcrh9xrsiwpdn90i52d"
+{ rev    ? "28c2c0156da98dbe553490f904da92ed436df134"
+, sha256 ? "04f3qqjs5kd5pjmqxrngjrr72lly5azcr7njx71nv1942yq1vy2f"
 , pkgs   ?
   import (builtins.fetchTarball {
     url = "https://github.com/NixOS/nixpkgs/archive/${rev}.tar.gz";
@@ -7,16 +7,16 @@
     config.allowUnfree = true;
     config.allowBroken = true;
     config.packageOverrides = pkgs: rec {
-      sitebuilder = pkgs.callPackage ~/src/sitebuilder { compiler = "ghc865"; };
+      sitebuilder = pkgs.callPackage ~/src/sitebuilder {
+        compiler = "ghc883";
+      };
     };
   }
 
 , mkDerivation ? null
 }:
 
-with pkgs;
-
-stdenv.mkDerivation {
+with pkgs; stdenv.mkDerivation {
   name = "johnwiegley";
   src = ./.;
 
@@ -28,6 +28,17 @@ stdenv.mkDerivation {
 
   installPhase = ''
     mkdir -p $out/share/html
-    cp -pR _site $out/share/html/johnwiegley
+    DESTDIR=$out/share/html/johnwiegley
+    cp -pR _site $DESTDIR
+
+    mkdir -p $out/bin
+    cat <<EOF > $out/bin/publish-johnwiegley
+#!${pkgs.bash}/bin/bash
+${pkgs.lftp}/bin/lftp \
+  -u johnw@newartisans.com,\$(${pkgs.pass}/bin/pass show ftp.fastmail.com | ${pkgs.coreutils}/bin/head -1) \
+  ftp://johnw@newartisans.com@ftp.fastmail.com \
+  -e "set ftp:ssl-allow no; mirror --reverse $DESTDIR /johnw.newartisans.com/files/johnwiegley ; quit"
+EOF
+    chmod +x $out/bin/publish-johnwiegley
   '';
 }
