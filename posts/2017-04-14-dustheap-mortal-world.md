@@ -1,6 +1,6 @@
 ---
 title: The dust-heap of this mortal world
-tags: poems
+tags: poetry
 ---
 
     This world is a dust-heap --
