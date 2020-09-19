@@ -35,7 +35,7 @@ with pkgs; stdenv.mkDerivation {
 ${pkgs.lftp}/bin/lftp \
   -u johnw@newartisans.com,\$(${pkgs.pass}/bin/pass show ftp.fastmail.com | ${pkgs.coreutils}/bin/head -1) \
   ftp://johnw@newartisans.com@ftp.fastmail.com \
-  -e "set ftp:ssl-allow no; mirror --reverse $DESTDIR /johnw.newartisans.com/files/johnwiegley ; quit"
+  -e "set ftp:ssl-allow no; mirror --no-perms --no-symlinks --no-umask --overwrite --reverse $DESTDIR /johnw.newartisans.com/files/johnwiegley ; quit"
 EOF
     chmod +x $out/bin/publish-johnwiegley
   '';
