@@ -1,3 +1,8 @@
+---
+title: A community of waves
+tags: essays
+---
+
 Throughout the world's mystical literature, Bahá'í and otherwise, there is a
 recurring theme of the soul's journey toward God from this plane of existence.
 It is a great journey, of many stages and degrees, sometimes counted as having

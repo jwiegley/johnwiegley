@@ -17,5 +17,3 @@ location: Italy
     until that exhaustion
     which is their spirit's joy
     is returned.
-
-
