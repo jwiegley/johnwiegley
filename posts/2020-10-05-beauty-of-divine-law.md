@@ -1,4 +1,7 @@
-The beauty of Divine law
+---
+title: The beauty of Divine law
+tags: journal
+---
 
 Human beings are created as perfect instruments for perceiving and
 appreciating the Divine (i.e., "to know and to worship God").
