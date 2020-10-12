@@ -97,12 +97,12 @@ In this respect, atheism is a kind of honesty: rejecting all concepts of the
 Ocean based merely on second-hand reports, or one day's playing at the
 seaside. Even the whales have seen only the briefest span of it.
 
-So I applaud you for coming to such a point in your religious studies, but
-would like to suggest that a new phase exists beyond it: a relationship not
-based on knowledge or conceptions. Indeed, faith and death of self are needed
-here, not rhetoric. "Be nothing then, and walk upon the waves." Which may seem
-like madness in our intellectually-driven culture, but what is there to be
-found is also, profoundly real.
+So I applaud those who have come to such a point in their religious studies,
+but would like to suggest that a new phase exists beyond it: a relationship
+not based on knowledge or conceptions. Indeed, faith and death of self are
+needed here, not rhetoric. "Be nothing then, and walk upon the waves." Which
+may seem like madness in our intellectually-driven culture, but what is there
+to be found is also profoundly real.
 
     The compass of the mind  
     is whatever it can conceive;  
