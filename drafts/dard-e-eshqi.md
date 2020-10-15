@@ -1,16 +1,16 @@
 I’ve endured the pain of love… do not ask
-I’ve quaffed the poison of remoteness… do not ask
+I’ve drunk the poison of remoteness… do not ask
 
-I have ventured to the ends of the earth
+I've ventured to the ends of the earth
 only to return to my mistress… do not ask
 
 The mere dust of her passing by
 brings tears to my eyes… do not ask
 
-By my own ears last night, from her mouth
+With my own ears last night, from her mouth
 I heard her speak… do not ask
 
-For me, as when you bite your lip to keep silent,
+For me, as when you bite the lip to keep silent,
 I’ve bitten lips ruby red… do not ask
 
 When I'm without you, in my beggar’s hovel

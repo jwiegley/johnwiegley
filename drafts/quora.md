@@ -1,3 +1,16 @@
+# Why do people believe in God, without any proof of existence?
+
+Date: 2019-05-24
+
+Originally Answered: Why do people still believe in God when scientific
+evidence strongly contradicts this belief?
+
+Scientific evidence is used to confirm or deny human theories about physical
+reality. It doesn’t “tell” us anything about realities outside of human
+awareness and understanding. Sometimes a discovery will point to something we
+don’t see yet, and this expands our vision, but never has a phenomenon
+explained to us what the universe is, or why it behaves the way it does.
+
 # Is the Bahá’í Faith guilty of proselytism in its motivations?
 
 Date: 2018-01-22

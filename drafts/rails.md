@@ -1,4 +1,4 @@
-Going off the rails, slowly
+# Going off the rails, slowly
 
 An observation on Zen, as I see it spoken of in this community and online.
 
