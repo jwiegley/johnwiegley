@@ -20,9 +20,9 @@ with pkgs; stdenv.mkDerivation {
   name = "johnwiegley";
   src = ./.;
 
-  buildInputs = [ yuicompressor ];
+  buildInputs = [ yuicompressor pkgs.sitebuilder ];
 
-  buildPhase = "${pkgs.sitebuilder}/bin/sitebuilder rebuild";
+  buildPhase = "sitebuilder rebuild";
 
   installPhase = ''
     mkdir -p $out/share/html
