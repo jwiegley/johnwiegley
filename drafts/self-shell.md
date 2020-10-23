@@ -98,3 +98,19 @@ thirst."
 
 I think that saying, "religion is about morality", is the same as saying,
 "playing the violin is about proper fingering and posture".
+
+# Text
+
+Deep in the riven heart
+flows such molten heat
+
+that the cup of thought
+bears no drop to keep.
+
+# Text
+
+Nothing pains me more about this life
+than that love is barred entry
+from all the places
+that eyes are closed sometimes
+that hearts are hard sometimes.
