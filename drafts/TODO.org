@@ -1,7 +1,0 @@
-** NOTE Things to write
-- Lethology
-- On the Limits of Human Conception
-:PROPERTIES:
-:ID:       9C6C1B04-AA79-4399-BB3C-6A8D097D3A36
-:CREATED:  [2019-11-24 Sun 07:22]
-:END:

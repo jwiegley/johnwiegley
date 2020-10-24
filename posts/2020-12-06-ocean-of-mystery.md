@@ -24,4 +24,4 @@ tags: poetry
 | out far beyond the shore
 | and, losing sight of land,
 | learn the language of the fishes
-| in silence her mysteries to keep
+| so in silence her mysteries to keep
