@@ -2350,3 +2350,15 @@ borrowed. It doesn't mean he doesn't move about, play and crash, only that he
 has no existence separate from the sea, and should recognize this when
 regarding it.
 
+# Text
+
+If ever a greater silence was
+Than the hidden heart
+Of a towering tree
+Whose generations
+Each embracing the last
+Lay up in silent solidarity.
+And though the wind
+As it brushes through branch and leaf
+Sets up a stirring as if to speak
+While deep in the core such silence abides
