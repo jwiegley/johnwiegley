@@ -1,3 +1,30 @@
+# Text
+
+Yes, it’s a constant challenge to me, to appreciate the merits of this world
+in its role of hollowing us out and refining us, sharpening our vision and
+purifying our heart, to such a degree that when the Divine finally appears
+before us, we respond with the love of our entire being. Darkness makes the
+eye keener.
+
+# Text
+
+It really depends on the "I" in that sentence. A shadow cannot meet the Sun.
+This "I" is the true separation, the reason you cannot see that He is nearer
+to you than your life's vein. The wave lifts up, gazing at the sky for a
+moment, and asks: how ever could I meet the Ocean?
+
+# Poem
+
+Deep and dark,
+Pupil of the eye,
+your sight obscured
+by hatred's sty.
+
+They call them blind
+who cannot see:
+a cataract of white
+that must recede.
+
 # Why Zen Masters always trying to tell wise things when they are not?
 
 As a thought experiment, imagine all your life you were perfectly blind and
