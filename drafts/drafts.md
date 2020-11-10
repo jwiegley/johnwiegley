@@ -1,5 +1,12 @@
 # Text
 
+The sun rises and sets, it moves through the Zodiac, it shines on clear days
+and it is hidden by clouds. Whatever the conditions of the Earth happen to be,
+determines how we see the sun on that day. Meanwhile, the sun has never moved,
+never changed, never shined either more or less brightly.
+
+# Text
+
 Yes, it’s a constant challenge to me, to appreciate the merits of this world
 in its role of hollowing us out and refining us, sharpening our vision and
 purifying our heart, to such a degree that when the Divine finally appears

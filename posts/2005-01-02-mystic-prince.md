@@ -19,7 +19,7 @@ location: Epic Cafe, 4th Ave and University, Tucson, AZ
 | he places himself upon the stone
 | and becomes what he admires.
 |
-| Only the moth knows
+| Only, the moth knows
 | that love is not enough.
 | His search will never cease until he blazes
 | with the same light that he seeks.
