@@ -2397,3 +2397,27 @@ I feel like some here are saying that Zen is just staring at the paper because
 that’s what’s palpably in front of you. Though maybe it’s relating to the
 principle — which cannot be prisoned even by intent — and leaving the book
 behind once its task is achieved.
+
+# Text
+
+That’s a great question, and I imagine the answer varies depending on whom you
+ask.
+
+Speaking for myself: I’ve found that as a white person, I was brought up with
+a lot of “artificiality” overlaid on the world around me, resulting in a
+worldview where intentions, ideas, promises and definitions can mean more than
+actions, results and realities. I was “living in a dream” so to speak, with
+part of that dream being the unconscious, false perception that whiteness
+conveys superiority: designed to shift blame to other groups, make unfairness
+seem moral, and offer the comforting belief that the universe conspires in my
+favor toward a better future. When such constructs lie at the core of one’s
+social experience, words suddenly carry enormous weight, since how you feel
+and see yourself can hang in that balance.
+
+Likewise, I’ve found that other groups, who don’t benefit from the social
+advantages of this illusion, have no time for it. In consequence they prize
+sincerity, truth and harsh reality, because that is what they deal with — what
+we should all be dealing with!
+
+Definitions become reduced to the mere tools that they are, when not made into
+building blocks of the psyche.
