@@ -6,7 +6,7 @@ tags: poetry
 | O lovely moth!
 | who every dusk
 | strives for his moon
-| with the same hope
+| with as much hope
 | as the night before.
 |
 | Her silver light
@@ -15,7 +15,7 @@ tags: poetry
 | Each flame, a flowing gold.
 |
 | The ache in your wings
-| is fond communion;
+| is but communion;
 | the wind in your eyes, a kiss;
 | every fire, a luminous doorway
 | you leave the cloak of self beside.
