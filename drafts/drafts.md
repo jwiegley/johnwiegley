@@ -1,3 +1,110 @@
+# Poem
+
+When before I’d wandered
+Along the sea of the Unseen
+I’d fashion myself into a glass
+and catch every drop I was able…
+
+Though after time’d passed
+I’d look at what I’d found
+And see
+that few attributes of the sea
+Had endured:
+
+No color, no depth, or richness
+Instead, I saw those parts
+That fit within me:
+Wetness, fluidity,
+Some salt upon tongue…
+
+No one had told me
+that my true nature
+is more fishlike than man;
+all I need is to accord
+With my innermost desire.
+Leaving me with nothing
+To claim as my own.
+
+But from this place
+of quiet and abiding peace,
+I send you greetings
+And ask not to return home.
+
+# Poem
+
+I felt warm sunlight
+draped around my shoulders
+and a peace settled there
+that was not of me.
+
+This body has no importance.
+It is but a vehicle.
+A window into the world.
+It serves the mind
+But can also cage the mind.
+It roots us, grounds us,
+Limits our thinking
+To one place, one time,
+A single series of events.
+As the body lives,
+So thought follows,
+As if creating virtual likeness
+In honor of the body.
+
+The mind too has no importance.
+It is a tool.
+A lens to pick out detail.
+It serves the spirit
+But can also cage the spirit.
+It bounds us, constrains us,
+Limits our imagining
+To what we can conceive:
+To the limits of our dreams.
+
+Spirit is altogether something else.
+Sensitive, it recognizes what we cannot know,
+Purity is essential
+To this profoundly subtle instrument.
+Chastity also:
+To be singular in desire:
+Wanting anchors the spirit
+To its source of hope.
+Finally freedom:
+Unburdened by other convictions
+Than the certainty of good.
+
+Spirit is the light of the mind
+It knows what cannot be defined
+It hears without a whisper
+And continues to feel the sun
+In the dead of night.
+
+# Text
+
+As I think about your question, three conceptions of truth and knowledge come
+to mind.
+
+First is logical or mathematical truth. This is the simplest, since truth here
+is plainly defined as what is inductively reducible to whatever the one has
+chosen to mean “true”. Knowledge in this system is the ever-growing body of
+definitions which have been demonstrated to be true in that way.
+
+Second is real or physical truth. This is largely an approximation, where
+truth is defined as whatever is repeatable and commonly observable. Knowledge
+here is of two kinds: evidentiary; or by relation to a model that offers
+reliable predictions. Historically the knowledge we’ve gained in this sphere
+has at some point been either upturned or further qualified, and I expect we
+will always be advancing here without final statements of what is true or not.
+
+Third is ideal or divine truth. This one is the most difficult, because even
+the simplest statements, like “God is Most Glorious” depend on a right
+understanding of “God”, “is” and “Glorious”. I think that while logical truth
+is definitional, and physical truth is operational, divine truth is
+aspirational. It is a light in the darkness that leads us to places we might
+not have chosen for ourselves. But I don’t know if truth and knowledge in this
+domain are small enough to fit within the frame of human thinking. We work
+among the shadows cast, not its brilliant Sun.
+
 # Text
 
 The sun rises and sets, it moves through the Zodiac, it shines on clear days

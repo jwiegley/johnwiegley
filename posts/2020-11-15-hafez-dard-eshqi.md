@@ -3,8 +3,8 @@ title: My translation of Hafez' "dard-e-eqshi"
 tags: poetry
 ---
 
-| Having suffered the pain of love… do not ask
-| Having quaffed the poison of remoteness… do not ask
+| I have suffered the pain of love… do not ask
+| I have quaffed the poison of remoteness… do not ask
 | 
 | Yea, I ventured to the ends of the earth
 | only to return to my mistress… do not ask
@@ -12,13 +12,13 @@ tags: poetry
 | The mere dust of her passing by
 | brings tears to my eyes… do not ask
 | 
-| And last night she filled my ears
+| Last night, she filled my ears
 | with such sweet converse… do not ask
 | 
 | Consider how you bite your lip to keep silent;
 | I have bitten mine ruby red… do not ask
 | 
-| When you are far I sit in my beggar’s hovel
+| When you are far, I sit in my beggar’s hovel
 | and suffer every affliction… do not ask
 | 
 | Thus is Hafez a stranger in the path of love:
