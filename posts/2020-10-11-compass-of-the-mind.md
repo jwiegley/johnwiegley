@@ -9,7 +9,7 @@ tags: poetry
 | replace the experience
 | of swimming in the deeps.
 |
-| The compass of the mind
+| For the compass of the mind
 | is whatever it can conceive;
 | but the bound of the heart
 | is all that it believes.

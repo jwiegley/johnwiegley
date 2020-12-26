@@ -1,14 +1,124 @@
+# Text
+
+There was something that both Dawnee and Aziza said last week that has stuck
+with me every day since. I called Tierney to talk about it and she offered
+that I could bring it up again before the group…
+
+You both spoke about being unable to put aside your blackness, and that you
+feel your life is threatened just by walking out the door.
+
+Even at the time, as I heard this, I couldn't respond directly. I felt awed by
+the statement, it being beyond my experience. I only spoke to what you'd said
+about discomfort, because I could make that personal, but this is what hit me.
+
+You've shared so much of yourselves in this channel, so pure and unveiled,
+that I feel this love building inside me for your humanity. But how can it be
+in keeping with love to leave your statement unaddressed that you fear for
+your life?
+
+One night when my wife had come home from work, she told me she was afraid of
+going to the parking lot at night because a nurse had just been raped at her
+hospital. Hearing this, the next day I bought her some pepper spray, and tried
+to encourage her to spend whatever was needed to park in a safe space. What I
+did not do, what I could not think of doing, is just hear that in empathetic
+silence and move on... ok, so what about dinner? No, safe-guarding her welfare
+is both my duty and privilege, so it can't just be a mere uncomfortable fact.
+
+I think one reason your words cut me to the quick is that I have *been* that
+person who doubted you when you described your reality; who suggested you were
+exaggerating the threat; who thought you were picking and choosing evidence to
+suit a narrative. I have been one who asked you to question your sense of
+reality, as if I were more mature and better equipped with the facts. And
+there's no excuse for that. How little did I know that I needed to question
+*my* reality...
+
+What I wanted to bring up with the group is how we, as a community, can really
+hear this pain and fear and champion the realness of such experiences?
+
+In a pilgrim's note from May Maxwell, she writes that as `Abdu'l-Bahá was
+preparing to leave America, He said this to the believers present:
+
+> Great mercy and blessings are promised to the peoples of your land, but on
+  one condition: that their hearts are filled with the fire of love, that they
+  live in perfect kindness and harmony like one soul in different bodies. If
+  they fail in this condition the great blessings will be deferred.
+
+Thank you for this time and allowing me to bring this back up. I don't mean to
+expose anyone or make them feel raw all over again; I just wanted to prick
+that "bubble of silent regard" and make sure I acknowledged the horror.
+
+# Text
+
+Hi Ned! I like the question, if I may offer more thoughts:
+
+Perhaps these three planes can be seen as a self-reflection by Bahá’u’lláh at
+this point on the very theme He is revealing. It is also reflected in Gems of
+Divine Mysteries and the Kitáb-i-Íqán, but most succinctly in the Seven
+Valleys.
+
+In these Seven Valleys Bahá’u’lláh describes the Valleys and Cities in
+reference to three spiritual stations: the station of limitation (tahdíd),
+comprising the first three valleys; the station of unity (tawhíd), covering
+the next three; and then the station of annihilation of self and subsistence
+in God (faná az nafs va baqá bi-lláh).
+
+In the station of limitation the wayfarer understands Truth through the medium
+of appearance and manifestation. It is in this station that one talks about
+the differing stations and ranks among the Prophets of God, and that one
+should not confound them (Gems is even more emphatic on this point). This is
+when “when the wayfarer gazeth only upon the place of appearance”.
+
+In the station of unity the wayfarer understands that all the Manifestations
+reflect the same Light, and bring the same essential Purpose and Message.
+These are those who “gaze upon the effulgence of the light”.
+
+In the station of annihilation of self, one ceases entirely to judge the
+Manifestation by human standards and limited concepts (“For whatever the
+creatures have is limited by their own limits”), and instead beholds Them all
+as being the same Soul, the same Spirit, and uttering the same Word, with no
+distinction to made among them. These “have drunk of the wine of oneness and…
+see nothing but the sun itself”.
+
+I read the differing planes as being the answer to this question, posed by
+Bahá’u’lláh in Gems:
+
+“Know then that it behoveth thine eminence to ponder from the outset these
+questions in thy heart: What hath prompted the divers peoples and kindreds of
+the earth to reject the Apostles whom God hath sent unto them in His might and
+power, whom he hath raised up to exalt His Cause and ordained to be the Lamps
+of eternity within the Niche of His oneness? For what reason have the people
+turned aside from them, disputed about them, risen against and contended with
+them? On what grounds have they refused to acknowledge their apostleship and
+authority, nay, denied their truth and reviled their persons, even slaying or
+banishing them?”
+
+# Text
+
+Culturally I was brought up to see myself as an active agent within a largely
+passive universe: A mechanist view wherein I make decisions and the universe
+receives those decisions. In this view, when I read that I am “created rich”,
+I naturally think of that richness as belonging to me, or being an attribute
+of my own that I have somehow failed to realize.
+
+Instead, I think that we exist within a spiritual dynamic — a universe that is
+as alive with Spirit as my own spirit enlivens my body. In this view, what
+seems to be my “flea” nature becomes an “eagle” when I stand in right relation
+to my Lord. Just as a garden might be filled with color, yet until the sun
+gives its light there is no variety visible. Such a notion of richness implies
+that I exist within the reality of this relationship with God, in which is
+infinite bounty and potentiality. It’s only when I rest on self alone that I
+can see myself as poor and of little account.
+
 # Poem
 
 When before I’d wandered
-Along the sea of the Unseen
-I’d fashion myself into a glass
-and catch every drop I was able…
+along the sea of the Unseen
+I’d make myself a glass
+to catch every drop I was able…
 
 Though after time’d passed
 I’d look at what I’d found
-And see
-that few attributes of the sea
+And see few attributes of the sea
 Had endured:
 
 No color, no depth, or richness
@@ -107,25 +217,11 @@ among the shadows cast, not its brilliant Sun.
 
 # Text
 
-The sun rises and sets, it moves through the Zodiac, it shines on clear days
-and it is hidden by clouds. Whatever the conditions of the Earth happen to be,
-determines how we see the sun on that day. Meanwhile, the sun has never moved,
-never changed, never shined either more or less brightly.
-
-# Text
-
 Yes, it’s a constant challenge to me, to appreciate the merits of this world
 in its role of hollowing us out and refining us, sharpening our vision and
 purifying our heart, to such a degree that when the Divine finally appears
 before us, we respond with the love of our entire being. Darkness makes the
 eye keener.
-
-# Text
-
-It really depends on the "I" in that sentence. A shadow cannot meet the Sun.
-This "I" is the true separation, the reason you cannot see that He is nearer
-to you than your life's vein. The wave lifts up, gazing at the sky for a
-moment, and asks: how ever could I meet the Ocean?
 
 # Poem
 
@@ -139,41 +235,10 @@ who cannot see:
 a cataract of white
 that must recede.
 
-# Why Zen Masters always trying to tell wise things when they are not?
-
-As a thought experiment, imagine all your life you were perfectly blind and
-uneducated, kept in a room. Suddenly, a cloak is pulled off your head and
-there you sit, in a dark room, in front of a perfect mirror which is slanted
-toward you. There's a hole in the ceiling. The sun is shining through it, onto
-the mirror, and right into your eyes.
-
-You hear someone say: This is the sun. This is not the sun. It is both the sun
-and not the sun. It is neither "not the sun" nor "not not the sun". What is
-that person trying to say?
-
-# Text
-
-The shell of the seed is hard, so hard! and there is nothing for it but to be
-thrust into damp and dark and given patience, water, fertilizer and time.
-
-I think we are all beautiful souls, but potential within the shell of self and
-limitation. Some will germinate; some fall on stony soil and need relocation.
-
-Yet how the farmer regards the seed is different from the miller. One sees the
-merit of today’s reality; the other ten or a hundred years further on.
-
 # Text
 
 A goodly character can lift the story of a person's life to the rank of
 literature.
-
-# Text
-
-Being too hard on yourself is ego too: measuring yourself harshly against a
-standard derived from your own understanding. The path forward is a free and
-humble heart, continuously learning and turning toward God and joy. “Ego”
-arises from ideas that ossify into a false sense of reality — whether within
-or without — and become veils between us and the Loved One.
 
 # Text
 
@@ -232,12 +297,6 @@ yet confident things will work out;
 
 And never becoming cynical or jaded
 or unwilling to look for the best in people.
-
-# Text
-
-a candle sputters
-shadows gather on the wall
-dance of fading time
 
 # Text
 

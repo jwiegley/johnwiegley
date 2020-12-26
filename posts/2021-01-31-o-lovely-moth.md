@@ -12,7 +12,7 @@ tags: poetry
 | Her silver light
 | is your treasure;
 | the stars, your diamonds;
-| Each flame, a flowing gold.
+| each flame, a flowing gold.
 |
 | The ache in your wings
 | is fond communion;

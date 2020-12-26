@@ -6,7 +6,7 @@ tags: poetry
 | I was not made to be perfect.
 | I was made flawed, for that moment
 | when I discover perfection despite myself --
-| because I willed it with a earnest heart.
+| because I willed it with an earnest heart.
 |
 | The beauty of the rose emerges from soil,
 | and the finest spring day, after winter's toil;
