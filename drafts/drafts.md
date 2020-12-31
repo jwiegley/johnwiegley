@@ -1,51 +1,8 @@
 # Text
 
-There was something that both Dawnee and Aziza said last week that has stuck
-with me every day since. I called Tierney to talk about it and she offered
-that I could bring it up again before the group…
-
-You both spoke about being unable to put aside your blackness, and that you
-feel your life is threatened just by walking out the door.
-
-Even at the time, as I heard this, I couldn't respond directly. I felt awed by
-the statement, it being beyond my experience. I only spoke to what you'd said
-about discomfort, because I could make that personal, but this is what hit me.
-
-You've shared so much of yourselves in this channel, so pure and unveiled,
-that I feel this love building inside me for your humanity. But how can it be
-in keeping with love to leave your statement unaddressed that you fear for
-your life?
-
-One night when my wife had come home from work, she told me she was afraid of
-going to the parking lot at night because a nurse had just been raped at her
-hospital. Hearing this, the next day I bought her some pepper spray, and tried
-to encourage her to spend whatever was needed to park in a safe space. What I
-did not do, what I could not think of doing, is just hear that in empathetic
-silence and move on... ok, so what about dinner? No, safe-guarding her welfare
-is both my duty and privilege, so it can't just be a mere uncomfortable fact.
-
-I think one reason your words cut me to the quick is that I have *been* that
-person who doubted you when you described your reality; who suggested you were
-exaggerating the threat; who thought you were picking and choosing evidence to
-suit a narrative. I have been one who asked you to question your sense of
-reality, as if I were more mature and better equipped with the facts. And
-there's no excuse for that. How little did I know that I needed to question
-*my* reality...
-
-What I wanted to bring up with the group is how we, as a community, can really
-hear this pain and fear and champion the realness of such experiences?
-
-In a pilgrim's note from May Maxwell, she writes that as `Abdu'l-Bahá was
-preparing to leave America, He said this to the believers present:
-
-> Great mercy and blessings are promised to the peoples of your land, but on
-  one condition: that their hearts are filled with the fire of love, that they
-  live in perfect kindness and harmony like one soul in different bodies. If
-  they fail in this condition the great blessings will be deferred.
-
-Thank you for this time and allowing me to bring this back up. I don't mean to
-expose anyone or make them feel raw all over again; I just wanted to prick
-that "bubble of silent regard" and make sure I acknowledged the horror.
+A flower is made to love the sun; by opening its arms it discovers the
+fulfillment of its being, becoming radiant and full of color through that
+connection.
 
 # Text
 
@@ -125,26 +82,26 @@ No color, no depth, or richness
 Instead, I saw those parts
 That fit within me:
 Wetness, fluidity,
-Some salt upon tongue…
+Salt upon the tongue…
 
 No one had told me
 that my true nature
 is more fishlike than man;
 all I need is to accord
-With my innermost desire.
+With my inmost desire.
 Leaving me with nothing
 To claim as my own.
 
 But from this place
 of quiet and abiding peace,
 I send you greetings
-And ask not to return home.
+And ask not to return.
 
 # Poem
 
 I felt warm sunlight
 draped around my shoulders
-and a peace settled there
+and a peace settled in
 that was not of me.
 
 This body has no importance.
@@ -285,11 +242,11 @@ that hearts are hard sometimes.
 Faith is being certain you will succeed
 when all signs point to failure;
 
-Or hearing a friend has betrayed you,
+Hearing a friend has betrayed you,
 but feeling no pause in your love
 until you’ve learned the whole truth;
 
-Or listening sincerely to fools,
+Listening sincerely to fools,
 since knowledge is sometimes hidden;
 
 Being uncertain of your ability,
@@ -774,12 +731,14 @@ what we've decided we're seeing.
 
 # An investigation: Are there practical applications for Zen in everyday living? by [deleted] in zen
 
-To me it is freedom from unnecessary necessity;
-and in that freedom, time for other things.
+To me it is freedom
+from unnecessary necessity;
+and in that freedom,
+time for other things.
 No longer a stone
 skipping across the surface,
 I sink to the bottom
-to hold the lakebed down.
+and hold the lakebed down.
 Both are a fantasy:
 the one at rest
 the other in frantic motion.
