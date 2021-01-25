@@ -1,5 +1,22 @@
 # Text
 
+One facet of anti-racist work is moving away from group assessments to
+individual assessments. This means speaking about yourself and your own
+experience rather than the group you’re seen as being a part of; likewise,
+removing from your mind any and all beliefs about others that you have not or
+cannot personally experience. You can only determine the qualities of a person
+by spending time with them, forming connections with them, loving them; what
+you cannot know is who they are based on similarities they have with others
+you know or have formed opinions about.
+
+It is typical to think that our opinions are being regularly validated, but
+largely this is due to confirmation bias: the mind is tuned to highlight
+observations that match our expectations, and quickly forgetful of all those
+occurrences that don’t. Also, we typically do not seek out evidence to
+invalidate beliefs, and read avidly from opinionated sources that do.
+
+# Text
+
 Reflection
 
 Breath deeply. Take a moment to let your eyes close; clear your mind of
