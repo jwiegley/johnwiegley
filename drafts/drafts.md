@@ -1,5 +1,12 @@
 # Text
 
+Another cause of motivation: We move forward with alacrity when it stems from
+love of what we’re aiming toward, rather than anger or dislike for what we
+want to get beyond. The latter makes it real, but the former makes it
+worthwhile.
+
+# Text
+
 One facet of anti-racist work is moving away from group assessments to
 individual assessments. This means speaking about yourself and your own
 experience rather than the group you’re seen as being a part of; likewise,
