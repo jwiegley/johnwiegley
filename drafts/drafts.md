@@ -1,5 +1,70 @@
 # Text
 
+Thank you for your question, and the opportunity to reply.
+
+Concerning the appearance of manifest injustice in the world, if I may use the
+analogy of a garden: When the Gardener first puts a seed into the ground, the
+seed finds a snug and safe place that provides for all of its needs. It is
+happy there. As it grows and develops, however, it begins to find the
+conditions oppressive and unsafe. The burgeoning plant starts to reach for the
+sky, and if it is to survive, it must gain it; only then can its development
+continue as it should.
+
+This world is a place of training and development, both for individual souls
+and all humanity. As a collective entity, we are sore-pressed under the
+groaning weight of centuries of accumulated soil. Some recognize that this is
+foreign to our maturity and fight against it, breaking toward the light;
+others long for the material wealth of the dirt and hold the plant back, even
+though it stunts our growth. The few are even ready to sacrifice the majority
+to hold on to what benefits them, and revel in the freedom of their evil.
+
+This is manifest injustice and must be fought against. The dire necessity of
+this battle increases day by day. However, it is not an injustice of the
+Farmer. He does not pull up the plant during these tender stages of its
+development. He sends His Messengers to nourish us and educate us, giving us
+the strength and understanding necessary to complete the task. Now, to grow
+full and strong, the fledging tree of humankind must struggle to find the
+light. There is no other way; too much assistance would leave us weak and
+incapable.
+
+Yet the Farmer here isn’t just a separate Entity who watches from above.
+That’s just a weakness in my analogy. In our case, the will of the Farmer is
+not just the planting: but the soil and the rain and the sun itself; it’s in
+the physical laws, the development of life, and the potential of the seed.
+Everything lives and moves by His will, even if in the moment there are
+battles that must be won by our hand.
+
+When it comes to divine Justice, this is a Law that none can escape. It is
+part of the nature of reality itself, like gravity or thermodynamics. Thus He
+says, “God will provide for each out of His abundance.” (Qur’án). And as
+Bahá’u’lláh explains in the Tablet of the Rights of the People
+(https://bahai-library.com/brown_lawh_haqqu_nas), all accounts are made whole,
+all debts are paid. To excerpt from a provisional translation of that tablet:
+
+"Were I to explain and remove the veil from the manifestations of the deeds,
+acts, and words that appear in limitless and manifold forms in the worlds of
+God, it is feared, on the one hand, that sanctified souls would forsake their
+bodies and ascend to the seats of the glory of the All-Merciful; and, on the
+other, that the wicked and perverse would perish out of fear for what they
+have committed during their futile lives.” — Bahá’u’lláh
+
+We dwell in a world of darkness, seeking the light. This darkness can often
+appear as manifest injustice, and that we have been left to fend for ourselves
+with no helper. Yet the darkness begets keenness of vision. Untold pain and
+sorrow and unjust suffering are experienced here; but the spiritual world
+bestows only the joy. It is a fundamental leap in perspective, I know, but
+there is more at play than just what we see ahead.
+
+“O My servants! Sorrow not if, in these days and on this earthly plane, things
+contrary to your wishes have been ordained and manifested by God, for days of
+blissful joy, of heavenly delight, are assuredly in store for you. Worlds,
+holy and spiritually glorious, will be unveiled to your eyes. You are destined
+by Him, in this world and hereafter, to partake of their benefits, to share in
+their joys, and to obtain a portion of their sustaining grace. To each and
+every one of them you will, no doubt, attain.” — Bahá’u’lláh
+
+# Text
+
 Another cause of motivation: We move forward with alacrity when it stems from
 love of what we’re aiming toward, rather than anger or dislike for what we
 want to get beyond. The latter makes it real, but the former makes it
@@ -21,6 +86,59 @@ largely this is due to confirmation bias: the mind is tuned to highlight
 observations that match our expectations, and quickly forgetful of all those
 occurrences that don’t. Also, we typically do not seek out evidence to
 invalidate beliefs, and read avidly from opinionated sources that do.
+
+# Text
+
+I think the system of today has meritorious features, but it’s not complete
+enough for what the future needs. It was designed by and for a simpler age.
+
+To give an example of what I mean, using a far simpler scenario than our
+complex, inter-connected markets: Imagine the only financial system in
+existence was a world bank that paid a flat 10% return on any investment, of
+any size. Beyond this is only production and consumption of material goods;
+the financial system consists of either holding your cash at home, or making
+10%, period.
+
+Even though this sounds equitable and fair, there’s a flaw in it. Because when
+you play it out over centuries, some people are going to spend their money
+better than others; some are going to get robbed and have their capital taken
+away. The richest will earn far more money per year than the rest, and the
+wealth gap will continue to get worse and worse. Millionaires will make $100k
+a year, but trillionaires will make $100 billion a year.
+
+Without a system of scaled taxation that puts an upper bound on how much a
+single person can earn in a year, and without a system where inheritance laws
+return a large portion of the estate’s assets back to the community, then a
+few centuries later you end up with a few ultra-rich families who possess the
+majority of all the earth’s resources and who just hand this wealth down to
+their own in-group from generation to generation. The rich truly get richer —
+by 10% a year — while the poor can’t keep up with their expenses anymore and
+as a result don’t even benefit from the 10% guaranteed return.
+
+I would say in this example that interest is not is bad, or the banks that
+offer it, or even the wealthy people who take advantage of what’s legally
+available to grow their money; it’s the generational damage one to those who
+were denied the ability to retain their wealth; it’s the preferential
+treatment given to the richest that too long preserves their dominance; it’s
+the lack of accountability *to society itself* which must come to recognize that
+the happiness of the majority truly is better for the happiness of
+individuals.
+
+Our markets are a sharp sword; the blood-letting has not yet fully reached the
+consciences of those who must change it. Once it does, those blades can be put
+to the field and the bountiful harvest that results will be incalculable.
+
+The “American dream” offers the promise that anyone, of any background, can
+make it rich if they apply themselves; but the truth is that some among us had
+their ankles cut at the very beginning of the race, and are now being punished
+for not having kept up, despite making twice the effort in many cases. And not
+only that, but the winners just keep getting more and more of the pie —
+compounding over time! — until soon, if we don’t change things, there won’t be
+any pie left for anyone else. Already 70% of the world’s working-age
+population only owns 2.7% of global wealth. This should be unconscionable,
+even to those who are doing everything completely above board. We’re treating
+life as though everyone else is fundamentally a stranger, rather than seeing
+ourselves as a single, spiritual organism.
 
 # Text
 
