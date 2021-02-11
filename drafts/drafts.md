@@ -1,5 +1,24 @@
 # Text
 
+I have thoughts on chastity; it being the wondrously hard puzzle that it is. I
+think human sexuality is just the tip of the iceberg. The original meaning is
+“morally pure”, and I think that purity has a spiritual purpose: to permit the
+sensitivity of the heart to become keen enough so we can sense the fragrances
+of God whenever they appear. Lust and desire simply cloud the heart, so it’s
+not about the evilness of that lust, but about the way it makes our goal
+harder to discover.
+
+# Text
+
+Prayer magnetizes the needle of the heart; and since He is closer to us than
+our life’s vein, no movement is needed, merely direction and sanctity of
+heart. So I think the length of our prayer should relate to what our needs are
+toward this refining and alignment. I really don’t think God desires a
+mercantile relationship with us, where count and length become a measure of
+spiritual value.
+
+# Text
+
 Thank you for your question, and the opportunity to reply.
 
 Concerning the appearance of manifest injustice in the world, if I may use the
@@ -65,10 +84,15 @@ every one of them you will, no doubt, attain.” — Bahá’u’lláh
 
 # Text
 
-Another cause of motivation: We move forward with alacrity when it stems from
-love of what we’re aiming toward, rather than anger or dislike for what we
-want to get beyond. The latter makes it real, but the former makes it
-worthwhile.
+Another cause of motivation:
+
+We move forward with alacrity
+when it stems from love
+of what we’re aiming toward,
+rather than anger or dislike
+for what we want to get beyond.
+The latter makes it real,
+but the former makes it worthwhile.
 
 # Text
 
