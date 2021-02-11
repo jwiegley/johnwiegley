@@ -1,6 +1,6 @@
 # Text
 
-I have thoughts on chastity; it being the wondrously hard puzzle that it is. I
+I have thoughts on chastity, it being the wondrously hard puzzle that it is: I
 think human sexuality is just the tip of the iceberg. The original meaning is
 “morally pure”, and I think that purity has a spiritual purpose: to permit the
 sensitivity of the heart to become keen enough so we can sense the fragrances
@@ -87,8 +87,8 @@ every one of them you will, no doubt, attain.” — Bahá’u’lláh
 Another cause of motivation:
 
 We move forward with alacrity
-when it stems from love
-of what we’re aiming toward,
+when it stems
+from love of what we’re aiming toward,
 rather than anger or dislike
 for what we want to get beyond.
 The latter makes it real,
