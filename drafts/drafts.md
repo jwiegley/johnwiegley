@@ -1,5 +1,64 @@
 # Text
 
+I would also propose a non-literal reading of Násút as it refers to the human
+condition. In those moments when we truly abandon self, when a love for all
+beings dawns in our hearts and causes us feel disconnected from time and the
+immediate space of our bodies -- in those moments I believe we taste what our
+creation is meant for, the next realms of being. It's not just our physical
+humanity we are to get past, it is the limitations of a mortal perspective, a
+mortal world-view, a mortal understanding.
+
+Such as, for example, when a person reads Scripture too literally, in terms of
+its apparent, physical meaning only, and then takes up arms against the
+Beloved when He appears in new clothing; this error is made possible by the
+obscuring dust of Násút. But if we ascend beyond these limitations and come to
+understand and perceive the intent of the Holy Texts beyond their symbolism --
+and by so doing begin to recognize and truly love and adore the Manifestation
+and His laws -- this is our heart's paradise and the first stirrings of the
+breezes of Malakút.
+
+# Racism PLP
+
+I want to see the faces, the bright lights, that are missing from our
+gatherings; and I want to see that they are missing, and why: Why I accepted
+it as normal, acceptable, or not to be questioned. Why I found it more
+comfortable not to push back, or gradually avoided the confrontation that
+challenging this might raise. I want to know how my worldview became so
+blinded, how the blood drained out from my understanding of the unity of
+humankind.
+
+But most of all, I want to find those faces, because in finding them I can
+find my spiritual destiny. To venture into the mystic fields at the heart of
+the﻿ Bahá’í Writings, but without friends of every shape and color standing
+beside me, hand in hand, is to miss the point. I feel like a person who has
+loved reading about sailing, but all of his life remained on dry land. Real
+unity, where there is real justice and real perception of unique value, has
+nothing to do with the comfortable places where my ignorance has been nurtured
+and kept.
+
+I want to learn the history of those of African descent, their culture, what
+has been done, what has not been done, what is still happening. I want to see
+the whole of it, not as a research curiosity or in hope of rescuing myself
+from the labels of whiteness and ignorance. Rather, I want to grow up. To
+allow someone whom I ought to regard as a brother or sister, loved as my
+Beloved is loved -- and yet allow them to suffer in silence, to bear every day
+the brunt of oppression, who enter spaces of "unity" only to be shunned for
+their differences: until these things become unbearable to me, I have learned
+nothing.
+
+I do this in hope of moving forward, together. I accept my past mistakes, the
+well-deserved blame for my silence, the wrong-headedness, the weakness of
+character. I will let these become fertile soil to grow something new: an
+appreciation, so deep, of what the Pupil of the Eye have to offer our Faith,
+that I become enamored of its possibilities. Anything less is to fail to see
+what ﻿Bahá’u’lláh meant when He chose this designation; and if I cannot truly
+learn to know humanity this way, then really my services are just make
+believe. I have been a puppet of materialistic and political forces from the
+moment I was born. My PLP is to cut the strings, and come to know my real
+friends.
+
+# Text
+
 I have thoughts on chastity, it being the wondrously hard puzzle that it is: I
 think human sexuality is just the tip of the iceberg. The original meaning is
 “morally pure”, and I think that purity has a spiritual purpose: to permit the
