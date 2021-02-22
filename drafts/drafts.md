@@ -1,5 +1,16 @@
 # Text
 
+Regarding frankness: when I consider the people in this group, it makes me
+realize that anything, however unconscious, that would cause me not to cherish
+your wisdom, your fellowship, or would pause me in sacrificing my all for your
+well-being -- these things in my character are now my avowed enemy. I can only
+expunge them with continuing honesty, because otherwise they’ll remain a part
+of my identity and leave me at odds with my own heart. I cannot know love or
+God’s purpose if I continue to provide safe harbor in my unconscious to false
+conceptions about His loved ones.
+
+# Text
+
 I would also propose a non-literal reading of Násút as it refers to the human
 condition. In those moments when we truly abandon self, when a love for all
 beings dawns in our hearts and causes us feel disconnected from time and the
