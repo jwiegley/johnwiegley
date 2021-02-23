@@ -1,3 +1,8 @@
+# Poem
+
+Please send my love to Tahirih, her memory is ever like a sun that shines on
+my heart whenever the clouds of forgetting do part.
+
 # Text
 
 Regarding frankness: when I consider the people in this group, it makes me
