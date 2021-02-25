@@ -9,11 +9,22 @@ reciting it in Persian.
 
 # Text
 
-When the words of love reached me
-I did as I was trained to do
-I made my being into a glass,
-wherewith to capture as many of those
-drops of grace as might
+When the words of love
+first reached me
+I did as trained to do:
+I made my being
+into a glass,
+so to capture as many
+of those drops of grace
+as I might.
+
+Not realizing
+that as a young plant
+I'm meant for those words
+to flow through me and past me
+into the soil beneath
+so only to perceive
+their nourishment after.
 
 # Chastity
 
