@@ -1,3 +1,96 @@
+# Intro to translation of Rashh-i-`Ama
+
+There is a particular music and rhythm, and entrancin feel of being carried
+along, swept up in a verbal embrace. It's a written form of the sun breaking
+from clouds, a song of power, a revelation of mysteries long hidden yet never
+kept from view -- hidden by their own transcendent glory. I've tried my best
+to translate it in a way that, as an English speaker, conveys how I feel when
+reciting it in Persian.
+
+# Text
+
+When the words of love reached me
+I did as I was trained to do
+I made my being into a glass,
+wherewith to capture as many of those
+drops of grace as might
+
+# Chastity
+
+I’m very excited to approach this subject, because I feel like I’ve discovered
+something limitless in potential, and opening a door into amazing new vistas.
+
+Like many things, I think the attitudes of past religions toward certain
+subjects, such as prayer, fasting and chastity, has given us a framework for
+understanding these laws that is limited by the perspectives of the past. Just
+as the past religious doctors failed to understand the spiritual meaning of
+the prophecies of the Holy Books, they also abbreviated many other concepts
+such as heaven, hell, and soul, by relating these concepts primarily to
+physical realities or states of being. To them, the event of physical death is
+somehow the most significant spiritual event in one’s life; but why would
+transformation of the material be so significant to our spiritual life?
+
+Instead, I think the books have been unsealed, and we are ready to develop an
+entirely new relationship with this concepts and laws.
+
+## The soul of man
+
+The soul of man is a profoundly sensitive instrument, since it’s able to
+perceive the stirrings of the Divine.
+
+Like a wine taster, the palate must be cleansed, refined and trained to detect
+the slightest hint of different flavors to know how to best pair wines with
+food. Eating Doritos would utterly corrupt this sensitivity, so such things
+must be reserved for a special time.
+
+In the case of sex, ordinary such passion overwhelm the mind, but God has
+created a fortress for well-being within which it can be experienced without
+ill effect.
+
+## Fasting
+
+We read that fasting, and then prayer, are the two greatest laws in the Bahá’í
+Dispensation. It’s interesting that during prayer you “come as you are”, and
+supplicate God from that place of humble sincerity. Fasting, on the other
+hand, subjects us to a condition that instills a change in our being. At the
+crudest level it’s only physical change, producing hunger and thirst, but
+there’s an ascending stair to it; it can also sharpen the appetite, foster an
+appreciation for wealth and poverty, weaken material devotion, create
+mindfulness, engender spiritual susceptibliities, and more…
+
+Religious prescriptions always have a purpose: they exist for the profit of
+man’s spiritual and social condition. So fasting, in producing this condition,
+is like a tree that bears its choicest fruit if we embrace it to the fullest —
+in much the same way that education best rewards the man who understands it as
+a gateway to the glorious heights of invention.
+
+Similarly, chastity has a very related purpose.
+
+## Quotations
+
+
+
+# Text
+
+The teacher must first teach himself.
+More than words: the bones of it.
+
+Like Plato's men in the cave
+If one fire-watcher
+Tells another fire-watcher
+Of the sun -- this is pure fantasy;
+
+But the philosopher,
+Who walks back from above,
+Has still the sunlight on his breath...
+He exhales light;
+His words glow with the truth discovered.
+He is a beacon in the darkness:
+No mere creature of it.
+
+Let the teacher Become
+The thirst for knowing.
+
 # Poem
 
 Please send my love to Tahirih, her memory is ever like a sun that shines on
