@@ -1,3 +1,53 @@
+# Text
+
+To dig deeper into the idiocy that was meant:
+
+During the battle of Nayriz, when Vahid and a group of dawn-breakers were
+standing off against an enormous and implacable foe, they would raise the call
+for prayer even though a hail of arrows was cutting down those who went up to
+give that call. But as soon as one would fall, another would take up their
+place to resume the call. No one asked whether their life was worth that
+sacrifice: they were of one spirit and eagerly threw their lives away.
+Beautiful idiots in the love of God!
+
+Today, being their spiritual descendants, we are facing a similar stream of
+arrows: of hatred, suspicion, bigotry, aloofness, estrangement. When we speak
+up in gatherings, as dear Justin did, we can be like those dawn-breakers
+raising the call to prayer. Our new vision of humanity is today’s call, so let
+none ask whether the discomfort caused is worth the effort — we must also be
+idiots in the name of love, love of one another and love of our God-given
+mission!
+
+# Text
+
+A thought I had this week: We have two deep problems re: racism in this
+country: A policy problem, and a love problem. Anti-racism is an effective
+stance with regard to policy, but it does not move the needle very far on the
+matter of love: Not just including, but cherishing; not just accepting, but
+befriending; not just supporting, but sacrificing for love’s sake. It’s this
+heart-distance that has allowed the policy problem to sink such deep roots.
+
+# Text
+
+A philosopher is technically a lover of wisdom, someone who seeks
+understanding and a greater comprehension of reality. They revel in shining a
+light into the dark places, and are characterized by curiosity, profundity,
+and eager desire to improve their character.
+
+A mystic is someone who lives their life according to a greater Reality than
+what can be immediate or physically perceived, but they do so in the sense of
+a drop being moved along the Ocean. Through love and intimate communion they
+seek to perceive Reality directly, not only through the lens of the mind or
+perception. They seek dissolution and combustion in the flame of love,
+moth-like, rather than the sober gaze of the philosopher.
+
+# Text
+
+My share from Liz’s group: What’s needed isn’t for us as white people to
+uplift those facing difficulty; what’s needed is for us to stop _being_ the
+problem and to teach others like us to likewise stop. It’s wrong to think that
+the creator of a problem should view those being harmed as “needing our help”.
+
 # Intro to translation of Rashh-i-`Ama
 
 There is a particular music and rhythm, and entrancin feel of being carried
@@ -6,25 +56,6 @@ from clouds, a song of power, a revelation of mysteries long hidden yet never
 kept from view -- hidden by their own transcendent glory. I've tried my best
 to translate it in a way that, as an English speaker, conveys how I feel when
 reciting it in Persian.
-
-# Text
-
-When the words of love
-first reached me
-I did as trained to do:
-I made my being
-into a glass,
-so to capture as many
-of those drops of grace
-as I might.
-
-Not realizing
-that as a young plant
-I'm meant for those words
-to flow through me and past me
-into the soil beneath
-so only to perceive
-their nourishment after.
 
 # Chastity
 
@@ -50,9 +81,9 @@ The soul of man is a profoundly sensitive instrument, since it’s able to
 perceive the stirrings of the Divine.
 
 Like a wine taster, the palate must be cleansed, refined and trained to detect
-the slightest hint of different flavors to know how to best pair wines with
-food. Eating Doritos would utterly corrupt this sensitivity, so such things
-must be reserved for a special time.
+the slightest hint of different flavors to know how best to pair wines with
+food. Eating Doritos would corrupt this sensitivity, so such things must be
+reserved for a special time.
 
 In the case of sex, ordinary such passion overwhelm the mind, but God has
 created a fortress for well-being within which it can be experienced without
@@ -77,35 +108,13 @@ a gateway to the glorious heights of invention.
 
 Similarly, chastity has a very related purpose.
 
-## Quotations
-
-
-
-# Text
-
-The teacher must first teach himself.
-More than words: the bones of it.
-
-Like Plato's men in the cave
-If one fire-watcher
-Tells another fire-watcher
-Of the sun -- this is pure fantasy;
-
-But the philosopher,
-Who walks back from above,
-Has still the sunlight on his breath...
-He exhales light;
-His words glow with the truth discovered.
-He is a beacon in the darkness:
-No mere creature of it.
-
-Let the teacher Become
-The thirst for knowing.
-
 # Poem
 
-Please send my love to Tahirih, her memory is ever like a sun that shines on
-my heart whenever the clouds of forgetting do part.
+Please send my love to Tahirih,
+her memory is ever like a sun
+that shines on my heart
+when the clouds of forgetting
+do part.
 
 # Text
 
@@ -122,11 +131,11 @@ conceptions about His loved ones.
 
 I would also propose a non-literal reading of Násút as it refers to the human
 condition. In those moments when we truly abandon self, when a love for all
-beings dawns in our hearts and causes us feel disconnected from time and the
-immediate space of our bodies -- in those moments I believe we taste what our
-creation is meant for, the next realms of being. It's not just our physical
-humanity we are to get past, it is the limitations of a mortal perspective, a
-mortal world-view, a mortal understanding.
+beings dawns in our hearts and causes us to feel disconnected from time and
+the immediate space of our bodies -- in those moments I believe we taste what
+our creation is meant for, the next realms of being. It's not just our
+physical humanity we are to get past, it is the limitations of a mortal
+perspective, a mortal world-view, a mortal understanding.
 
 Such as, for example, when a person reads Scripture too literally, in terms of
 its apparent, physical meaning only, and then takes up arms against the
@@ -410,31 +419,6 @@ a cascading rain
 that knows no end
 to the knowledge.
 
-
-# Text
-
-I have seen a city
-of the purest light...
-a brilliant white...
-the end of night.
-
-I did not see it
-with these eyes,
-nor have I
-any description.
-
-It could be
-mere fantasy;
-an errant wish,
-a mirage of faith.
-
-How do I know if it's real?
-
-Look for its reflection:
-in the shape of hope
-a positive mind
-an ever-simmering joy.
-
 # Text
 
 We have been gifted the first glimmerings of a vision of humanity that
@@ -516,86 +500,6 @@ gives its light there is no variety visible. Such a notion of richness implies
 that I exist within the reality of this relationship with God, in which is
 infinite bounty and potentiality. It’s only when I rest on self alone that I
 can see myself as poor and of little account.
-
-# Poem
-
-When before I’d wandered
-along the sea of the Unseen
-I’d make myself a glass
-to catch every drop I was able…
-
-Though after time’d passed
-I’d look at what I’d found
-And see few attributes of the sea
-Had endured:
-
-No color, no depth, or richness
-Instead, I saw those parts
-That fit within me:
-Wetness, fluidity,
-Salt upon the tongue…
-
-No one had told me
-that my true nature
-is more fishlike than man;
-all I need is to accord
-With my inmost desire.
-Leaving me with nothing
-To claim as my own.
-
-But from this place
-of quiet and abiding peace,
-I send you greetings
-And ask not to return.
-
-# Poem
-
-I felt warm sunlight
-draped around my shoulders
-and a peace settled in
-that was not of me.
-
-This body has no importance.
-It is but a vehicle.
-A window into the world.
-It serves the mind
-But can also cage the mind.
-It roots us, grounds us,
-Limits our thinking
-To one place, one time,
-A single series of events.
-As the body lives,
-So thought follows,
-As if creating virtual likeness
-In honor of the body.
-
-The mind too has no importance.
-It is a tool.
-A lens to pick out detail.
-It serves the spirit
-But can also cage the spirit.
-It bounds us, constrains us,
-Limits our imagining
-To what we can conceive:
-To the limits of our dreams.
-
-Spirit is altogether something else.
-Sensitive, it recognizes what we cannot know,
-Purity is essential
-To this profoundly subtle instrument.
-Chastity also:
-To be singular in desire:
-Wanting anchors the spirit
-To its source of hope.
-Finally freedom:
-Unburdened by other convictions
-Than the certainty of good.
-
-Spirit is the light of the mind
-It knows what cannot be defined
-It hears without a whisper
-And continues to feel the sun
-In the dead of night.
 
 # Text
 
@@ -705,8 +609,8 @@ since knowledge is sometimes hidden;
 Being uncertain of your ability,
 yet confident things will work out;
 
-And never becoming cynical or jaded
-or unwilling to look for the best in people.
+Never becoming cynical or jaded
+or unwilling to find the best in people.
 
 # Text
 
@@ -1181,20 +1085,6 @@ of reality also: They setup a framework that promises to convey understanding,
 meaning and value, but instead only reduce awareness down to a plastic
 construct that is self-defined, such that to a large extent we seeing just
 what we've decided we're seeing.
-
-# An investigation: Are there practical applications for Zen in everyday living? by [deleted] in zen
-
-To me it is freedom
-from unnecessary necessity;
-and in that freedom,
-time for other things.
-No longer a stone
-skipping across the surface,
-I sink to the bottom
-and hold the lakebed down.
-Both are a fantasy:
-the one at rest
-the other in frantic motion.
 
 # Huangbo, Bankei and Layman P'ang: There can be no death for what was never born, so if it is
 unborn, it is obviously undying. There's no need to say it, is there? by [deleted] in zen
@@ -1694,11 +1584,18 @@ You can’t neglect it.
 r/zen
 jwiegley
 
-Looking at the self, which at first appears to be a constant entity moving
-through time, you discover it’s more like a standing wave form. There is no
-“self” that persists. You are actualized by the water, ever flowing through.
-What is there to “be” enlightened? Nor does the Ocean ever cease its surge and
-flow.
+Looking at the self,
+which at first appears
+to be a constant entity
+moving through time,
+we discover it's more
+of a standing wave form:
+no “self” that persists --
+only actualized by water
+ever flowing through.
+What is there to “be” enlightened?
+Nor does the Ocean ever cease
+its surge and flow.
 
 # CLICKBAIT: A simple three-step program for how to achieve R/Zen "enlightenment" the quick and easy
 way!
@@ -2128,7 +2025,7 @@ I would say that "mountain" is a signifier, a symbol standing for an idea.
 Initially, "mountains are mountains" identifies the idea with what is referred
 to. That, over there, _is_ a mountain. Just getting people to let go of this
 ideational identification is supremely difficult. "What do you mean that's not
-a tree? obviously it is." (I'm quoting a recent conversation).
+a tree? obviously it is." (Quoting a recent conversation).
 
 When mountains are not mountains, the signifier loses existential value. Now
 you don't know what the hell that thing over there is. Maybe it's a lake bed
@@ -2551,12 +2448,25 @@ emerge, and then only do we properly glimpse why human beings were made to be.
 
 # Copper into Gold
 
-A beauty of the Divine Writings is that they operate on many levels. A passage
-does not need to be only literal, or only metaphorical: it can be both at
-once. There is often harmony between divine creation and physical creation,
-since both come from the same source. So, I agree with you that there are many
-layers of metaphorical meaning in these passages; it also would not surprise
-me to learn that they are literally true. Future scientists will let us know.
+A beauty of the Divine Writings
+is that they operate on many levels.
+A passage need not be only literal,
+or only metaphorical:
+it can be both at once.
+
+There is often harmony
+between divine creation
+and physical creation,
+since both come
+from the same source.
+
+So, there are many layers
+of metaphorical meaning
+in these passages.
+
+It also would not surprise me
+to learn they are literally true.
+Future scientists can let us know.
 
 # Between fear and love
 
