@@ -111,10 +111,9 @@ Similarly, chastity has a very related purpose.
 # Poem
 
 Please send my love to Tahirih,
-her memory is ever like a sun
+her memory is ever like the sun
 that shines on my heart
-when the clouds of forgetting
-do part.
+when the clouds of forgetting do part.
 
 # Text
 
@@ -198,12 +197,21 @@ harder to discover.
 
 # Text
 
-Prayer magnetizes the needle of the heart; and since He is closer to us than
-our life’s vein, no movement is needed, merely direction and sanctity of
-heart. So I think the length of our prayer should relate to what our needs are
-toward this refining and alignment. I really don’t think God desires a
-mercantile relationship with us, where count and length become a measure of
-spiritual value.
+Prayer magnetizes the needle of the heart;
+and since He is closer to us
+than our life’s vein,
+no movement is needed,
+merely direction
+and sanctity of heart.
+
+I think the length of our prayer
+should relate to our needs in
+this refining and alignment.
+
+I don’t think God desires
+a mercantile relationship with us,
+where count and length
+become measures of spiritual value.
 
 # Text
 
@@ -269,18 +277,6 @@ holy and spiritually glorious, will be unveiled to your eyes. You are destined
 by Him, in this world and hereafter, to partake of their benefits, to share in
 their joys, and to obtain a portion of their sustaining grace. To each and
 every one of them you will, no doubt, attain.” — Bahá’u’lláh
-
-# Text
-
-Another cause of motivation:
-
-We move forward with alacrity
-when it stems
-from love of what we’re aiming toward,
-rather than anger or dislike
-for what we want to get beyond.
-The latter makes it real,
-but the former makes it worthwhile.
 
 # Text
 
@@ -432,12 +428,6 @@ have an effect. We can touch the heart of every righteous man! It begins with
 transforming our inward life, then moving outward to combat the dark with
 candle-like sacrifice of time and effort. And it needn’t be always through
 acts of heroism; every crashing river is the united action of mere drops.
-
-# Text
-
-A flower is made to love the sun; by opening its arms it discovers the
-fulfillment of its being, becoming radiant and full of color through that
-connection.
 
 # Text
 
@@ -750,14 +740,6 @@ such joy in these moments. Almost as if we weren’t born for this, and all
 these terrible experiences and sudden depressions were specifically intended
 to hone our appreciation for such things, while at the same time learning to
 let them free.
-
-# What is it that God desires the most of us?
-
-Date: 2016-11-18
-
-Your life is a gift. Open it. Learn who you are, who you were made to be, the
-fullness of your potential. The Prophets came to guide us in these things, so
-I would say that what God desires is for us to fully be.
 
 # Text
 
@@ -1475,26 +1457,6 @@ Dig in the wrong spot, and a lifetime of work won’t matter.
 
 Never dig, and you’re left to hoping it’s just lying around, waiting.
 
-# Is Zen just a way for lazy monks who don't want to practice
-
-r/zen
-jwiegley
-
-Analogies, how poor they are.
-
-The reality is that you’re standing on a plain of gold, with a golden shovel,
-looking out through eyes and mind of gold. Dig anywhere, and you should find
-it. But you see dirt, always dirt, and then this question comes up.
-
-It’s not really that you need to find the right spot to dig, but an experience
-that jars your vision sideways. What shape that takes is entirely dependent on
-you, your background, your mental state. Hard to invent that ingredient in
-your own, though not impossible.
-
-So the digging, in this abused analogy, isn’t for the purpose of finding, but
-a catalyst for realizing there’s nothing lost. Hone your doubt until the
-ringing of a stone is enough, and pow, X marks the ever-present spot.
-
 # Huángbò Xīyùn: Since Mind is above all activities, so must it be with phenomena.
 
 r/zen
@@ -1578,24 +1540,6 @@ of purity”.
 Break the mind-idol
 Afterward you can’t clean it
 You can’t neglect it.
-
-# What is Dogen’s true meaning?
-
-r/zen
-jwiegley
-
-Looking at the self,
-which at first appears
-to be a constant entity
-moving through time,
-we discover it's more
-of a standing wave form:
-no “self” that persists --
-only actualized by water
-ever flowing through.
-What is there to “be” enlightened?
-Nor does the Ocean ever cease
-its surge and flow.
 
 # CLICKBAIT: A simple three-step program for how to achieve R/Zen "enlightenment" the quick and easy
 way!
