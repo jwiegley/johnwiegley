@@ -20,26 +20,17 @@ mission!
 
 # Text
 
-A thought I had this week: We have two deep problems re: racism in this
-country: A policy problem, and a love problem. Anti-racism is an effective
-stance with regard to policy, but it does not move the needle very far on the
-matter of love: Not just including, but cherishing; not just accepting, but
-befriending; not just supporting, but sacrificing for love’s sake. It’s this
-heart-distance that has allowed the policy problem to sink such deep roots.
-
-# Text
-
 A philosopher is technically a lover of wisdom, someone who seeks
 understanding and a greater comprehension of reality. They revel in shining a
-light into the dark places, and are characterized by curiosity, profundity,
-and eager desire to improve their character.
+light into dark places, and are characterized by curiosity, profundity, and an
+eager desire to improve their character.
 
 A mystic is someone who lives their life according to a greater Reality than
-what can be immediate or physically perceived, but they do so in the sense of
-a drop being moved along the Ocean. Through love and intimate communion they
-seek to perceive Reality directly, not only through the lens of the mind or
-perception. They seek dissolution and combustion in the flame of love,
-moth-like, rather than the sober gaze of the philosopher.
+can be immediately or physically perceived; but they do so in the sense of a
+drop moving along with the Ocean. Through love and intimate communion they
+wish to perceive Reality directly, not only through the lens of the mind or
+perception. They seek dissolution and combustion in the flame of love --
+moth-like -- rather than the sober gaze of the philosopher.
 
 # Text
 
@@ -50,12 +41,12 @@ the creator of a problem should view those being harmed as “needing our help�
 
 # Intro to translation of Rashh-i-`Ama
 
-There is a particular music and rhythm, and entrancin feel of being carried
+There is a particular music and rhythm, an entrancing feel of being carried
 along, swept up in a verbal embrace. It's a written form of the sun breaking
-from clouds, a song of power, a revelation of mysteries long hidden yet never
-kept from view -- hidden by their own transcendent glory. I've tried my best
-to translate it in a way that, as an English speaker, conveys how I feel when
-reciting it in Persian.
+through clouds, a song of power, a revelation of mysteries long hidden yet
+never kept from view -- osbcured by their own transcendent glory. I've tried
+my best to translate it so that, as an English speaker, it conveys how I feel
+when reciting it in the Persian.
 
 # Chastity
 
@@ -63,10 +54,10 @@ I’m very excited to approach this subject, because I feel like I’ve discover
 something limitless in potential, and opening a door into amazing new vistas.
 
 Like many things, I think the attitudes of past religions toward certain
-subjects, such as prayer, fasting and chastity, has given us a framework for
-understanding these laws that is limited by the perspectives of the past. Just
-as the past religious doctors failed to understand the spiritual meaning of
-the prophecies of the Holy Books, they also abbreviated many other concepts
+subjects, such as prayer, fasting and chastity, have given us a framework for
+understanding these things that is limited by the perspectives of the past.
+Just as the past religious doctors failed to understand the spiritual meaning
+of the prophecies of the Holy Books, they also abbreviated many other concepts
 such as heaven, hell, and soul, by relating these concepts primarily to
 physical realities or states of being. To them, the event of physical death is
 somehow the most significant spiritual event in one’s life; but why would
@@ -126,25 +117,6 @@ of my identity and leave me at odds with my own heart. I cannot know love or
 God’s purpose if I continue to provide safe harbor in my unconscious to false
 conceptions about His loved ones.
 
-# Text
-
-I would also propose a non-literal reading of Násút as it refers to the human
-condition. In those moments when we truly abandon self, when a love for all
-beings dawns in our hearts and causes us to feel disconnected from time and
-the immediate space of our bodies -- in those moments I believe we taste what
-our creation is meant for, the next realms of being. It's not just our
-physical humanity we are to get past, it is the limitations of a mortal
-perspective, a mortal world-view, a mortal understanding.
-
-Such as, for example, when a person reads Scripture too literally, in terms of
-its apparent, physical meaning only, and then takes up arms against the
-Beloved when He appears in new clothing; this error is made possible by the
-obscuring dust of Násút. But if we ascend beyond these limitations and come to
-understand and perceive the intent of the Holy Texts beyond their symbolism --
-and by so doing begin to recognize and truly love and adore the Manifestation
-and His laws -- this is our heart's paradise and the first stirrings of the
-breezes of Malakút.
-
 # Racism PLP
 
 I want to see the faces, the bright lights, that are missing from our
@@ -197,89 +169,6 @@ harder to discover.
 
 # Text
 
-Prayer magnetizes the needle of the heart;
-and since He is closer to us
-than our life’s vein,
-no movement is needed,
-merely direction
-and sanctity of heart.
-
-I think the length of our prayer
-should relate to our needs in
-this refining and alignment.
-
-I don’t think God desires
-a mercantile relationship with us,
-where count and length
-become measures of spiritual value.
-
-# Text
-
-Thank you for your question, and the opportunity to reply.
-
-Concerning the appearance of manifest injustice in the world, if I may use the
-analogy of a garden: When the Gardener first puts a seed into the ground, the
-seed finds a snug and safe place that provides for all of its needs. It is
-happy there. As it grows and develops, however, it begins to find the
-conditions oppressive and unsafe. The burgeoning plant starts to reach for the
-sky, and if it is to survive, it must gain it; only then can its development
-continue as it should.
-
-This world is a place of training and development, both for individual souls
-and all humanity. As a collective entity, we are sore-pressed under the
-groaning weight of centuries of accumulated soil. Some recognize that this is
-foreign to our maturity and fight against it, breaking toward the light;
-others long for the material wealth of the dirt and hold the plant back, even
-though it stunts our growth. The few are even ready to sacrifice the majority
-to hold on to what benefits them, and revel in the freedom of their evil.
-
-This is manifest injustice and must be fought against. The dire necessity of
-this battle increases day by day. However, it is not an injustice of the
-Farmer. He does not pull up the plant during these tender stages of its
-development. He sends His Messengers to nourish us and educate us, giving us
-the strength and understanding necessary to complete the task. Now, to grow
-full and strong, the fledging tree of humankind must struggle to find the
-light. There is no other way; too much assistance would leave us weak and
-incapable.
-
-Yet the Farmer here isn’t just a separate Entity who watches from above.
-That’s just a weakness in my analogy. In our case, the will of the Farmer is
-not just the planting: but the soil and the rain and the sun itself; it’s in
-the physical laws, the development of life, and the potential of the seed.
-Everything lives and moves by His will, even if in the moment there are
-battles that must be won by our hand.
-
-When it comes to divine Justice, this is a Law that none can escape. It is
-part of the nature of reality itself, like gravity or thermodynamics. Thus He
-says, “God will provide for each out of His abundance.” (Qur’án). And as
-Bahá’u’lláh explains in the Tablet of the Rights of the People
-(https://bahai-library.com/brown_lawh_haqqu_nas), all accounts are made whole,
-all debts are paid. To excerpt from a provisional translation of that tablet:
-
-"Were I to explain and remove the veil from the manifestations of the deeds,
-acts, and words that appear in limitless and manifold forms in the worlds of
-God, it is feared, on the one hand, that sanctified souls would forsake their
-bodies and ascend to the seats of the glory of the All-Merciful; and, on the
-other, that the wicked and perverse would perish out of fear for what they
-have committed during their futile lives.” — Bahá’u’lláh
-
-We dwell in a world of darkness, seeking the light. This darkness can often
-appear as manifest injustice, and that we have been left to fend for ourselves
-with no helper. Yet the darkness begets keenness of vision. Untold pain and
-sorrow and unjust suffering are experienced here; but the spiritual world
-bestows only the joy. It is a fundamental leap in perspective, I know, but
-there is more at play than just what we see ahead.
-
-“O My servants! Sorrow not if, in these days and on this earthly plane, things
-contrary to your wishes have been ordained and manifested by God, for days of
-blissful joy, of heavenly delight, are assuredly in store for you. Worlds,
-holy and spiritually glorious, will be unveiled to your eyes. You are destined
-by Him, in this world and hereafter, to partake of their benefits, to share in
-their joys, and to obtain a portion of their sustaining grace. To each and
-every one of them you will, no doubt, attain.” — Bahá’u’lláh
-
-# Text
-
 One facet of anti-racist work is moving away from group assessments to
 individual assessments. This means speaking about yourself and your own
 experience rather than the group you’re seen as being a part of; likewise,
@@ -294,99 +183,6 @@ largely this is due to confirmation bias: the mind is tuned to highlight
 observations that match our expectations, and quickly forgetful of all those
 occurrences that don’t. Also, we typically do not seek out evidence to
 invalidate beliefs, and read avidly from opinionated sources that do.
-
-# Text
-
-I think the system of today has meritorious features, but it’s not complete
-enough for what the future needs. It was designed by and for a simpler age.
-
-To give an example of what I mean, using a far simpler scenario than our
-complex, inter-connected markets: Imagine the only financial system in
-existence was a world bank that paid a flat 10% return on any investment, of
-any size. Beyond this is only production and consumption of material goods;
-the financial system consists of either holding your cash at home, or making
-10%, period.
-
-Even though this sounds equitable and fair, there’s a flaw in it. Because when
-you play it out over centuries, some people are going to spend their money
-better than others; some are going to get robbed and have their capital taken
-away. The richest will earn far more money per year than the rest, and the
-wealth gap will continue to get worse and worse. Millionaires will make $100k
-a year, but trillionaires will make $100 billion a year.
-
-Without a system of scaled taxation that puts an upper bound on how much a
-single person can earn in a year, and without a system where inheritance laws
-return a large portion of the estate’s assets back to the community, then a
-few centuries later you end up with a few ultra-rich families who possess the
-majority of all the earth’s resources and who just hand this wealth down to
-their own in-group from generation to generation. The rich truly get richer —
-by 10% a year — while the poor can’t keep up with their expenses anymore and
-as a result don’t even benefit from the 10% guaranteed return.
-
-I would say in this example that interest is not is bad, or the banks that
-offer it, or even the wealthy people who take advantage of what’s legally
-available to grow their money; it’s the generational damage one to those who
-were denied the ability to retain their wealth; it’s the preferential
-treatment given to the richest that too long preserves their dominance; it’s
-the lack of accountability *to society itself* which must come to recognize that
-the happiness of the majority truly is better for the happiness of
-individuals.
-
-Our markets are a sharp sword; the blood-letting has not yet fully reached the
-consciences of those who must change it. Once it does, those blades can be put
-to the field and the bountiful harvest that results will be incalculable.
-
-The “American dream” offers the promise that anyone, of any background, can
-make it rich if they apply themselves; but the truth is that some among us had
-their ankles cut at the very beginning of the race, and are now being punished
-for not having kept up, despite making twice the effort in many cases. And not
-only that, but the winners just keep getting more and more of the pie —
-compounding over time! — until soon, if we don’t change things, there won’t be
-any pie left for anyone else. Already 70% of the world’s working-age
-population only owns 2.7% of global wealth. This should be unconscionable,
-even to those who are doing everything completely above board. We’re treating
-life as though everyone else is fundamentally a stranger, rather than seeing
-ourselves as a single, spiritual organism.
-
-# Text
-
-Reflection
-
-Breath deeply. Take a moment to let your eyes close; clear your mind of
-thoughts best you can; let a feeling of stillness settle upon you. In this
-space imagine your whole being is like a compass needle, seeking true North.
-Allow it move freely this way and that. Your guide is the magnetic force of
-the Divine: the attraction of your soul to its Beloved. Just tell your body,
-your mind to chill for a minute. They are fantastic tools, but you don’t need
-them for this. The soul knows, the soul has always known; it was made to know.
-
-Meditate for a moment on some of the attributes of God: His goodness, His
-love, His friendship toward you. Sometimes when we pray we have great faith
-that it will help; do you also have faith when praying for your own aid and
-assistance? Do you know, in your bones, not only will God help you, but He
-wants to? That He yearns to? That He has only been waiting for you to ask
-because He loves your freedom as much as your happiness?
-
-If you have children, or family members, or friends, think how you would
-answer their request for help. Is God less good than this? Or is He so good we
-can’t imagine it? If we know what friendship is, wasn’t that knowledge created
-by Him? Isn’t the very essence of goodness born from Him?
-
-When the night is over, His friendship takes the form of the sun rising,
-inviting us to wake. When we are hungry, His friendship is in the food that
-satisfies us. When we’re thirsty, it’s found in the cool water that makes us
-content. Everywhere the world is speaking this bond. Even in pain, even in
-suffering, there is also His friendship, just on a larger scale than we
-recognize right now.
-
-Finally, consider that God, through His Ancient Beauty, has asked us to become
-the living manifestations of His friendship toward all the people of the
-Earth. Commit to letting that spirit shine through you, bright and clear, by
-speaking truth, serving justice, drawing your motive to act from seeing one
-another as *His friends*. Do not stop until feel it also. Make it real.
-
-You are His mirror, which is to say, His light has been shining on you since
-the beginning.
 
 # Text
 
@@ -414,20 +210,6 @@ by pain, through pain,
 a cascading rain
 that knows no end
 to the knowledge.
-
-# Text
-
-We have been gifted the first glimmerings of a vision of humanity that
-transcends the differences currently tearing us apart. In everything we do, we
-can be a beacon of hope toward this vision. Racism needs to end, as does
-materialism and slavish devotion to image and rank. Dismantling is not enough.
-People need to know there is something better on the other side, that this
-great adventure is only beginning, that there are reasons to sacrifice for it
-with joy. We can reflect this in our words, actions and attitude, and it will
-have an effect. We can touch the heart of every righteous man! It begins with
-transforming our inward life, then moving outward to combat the dark with
-candle-like sacrifice of time and effort. And it needn’t be always through
-acts of heroism; every crashing river is the united action of mere drops.
 
 # Text
 
@@ -473,23 +255,6 @@ turned aside from them, disputed about them, risen against and contended with
 them? On what grounds have they refused to acknowledge their apostleship and
 authority, nay, denied their truth and reviled their persons, even slaying or
 banishing them?”
-
-# Text
-
-Culturally I was brought up to see myself as an active agent within a largely
-passive universe: A mechanist view wherein I make decisions and the universe
-receives those decisions. In this view, when I read that I am “created rich”,
-I naturally think of that richness as belonging to me, or being an attribute
-of my own that I have somehow failed to realize.
-
-Instead, I think that we exist within a spiritual dynamic — a universe that is
-as alive with Spirit as my own spirit enlivens my body. In this view, what
-seems to be my “flea” nature becomes an “eagle” when I stand in right relation
-to my Lord. Just as a garden might be filled with color, yet until the sun
-gives its light there is no variety visible. Such a notion of richness implies
-that I exist within the reality of this relationship with God, in which is
-infinite bounty and potentiality. It’s only when I rest on self alone that I
-can see myself as poor and of little account.
 
 # Text
 
@@ -602,28 +367,6 @@ yet confident things will work out;
 Never becoming cynical or jaded
 or unwilling to find the best in people.
 
-# Text
-
-The truth we know is a concept, a proof that something is well-defined based
-on what we’re willing to accept.
-
-An "apple" is not true, nor does it exist. It's a name for what you hold in
-your hand. For example, you may think that the apple occupies a clearly
-defined space, but our ability to smell is because its molecules permeate the
-surrounding air. The distinction between “apple” and “not apple“ is chosen
-based on the senses, not what evidently is.
-
-Scientific evidence is used to confirm or deny our theories about physical
-reality. It doesn’t "tell" us anything about realities outside of human
-awareness and understanding. Sometimes a discovery will point to something we
-don’t see yet, and this expands our vision, but never has a phenomenon
-explained to us what the universe is, or why it behaves the way it does.
-
-Common-sense truths are shorthands and many of them are wrong in greater
-contexts. The appearance of objects likewise is a function of time, of
-probabilities in electro-static tension. We impose the normal on the
-incredible and call it the plain truth.
-
 # What is it like to be a deeply religious person?
 
 Date: 2017-08-12
@@ -640,7 +383,7 @@ addition of the following:
 
 I don’t believe in God or the other worlds by themselves because I can’t see
 them, and have no experiential evidence of any kind that they exist. The crux
-of the matter comes down to believing whomever says they are real (e.g.,
+of the matter comes down to believing in whomever says they are real (e.g.,
 Jesus, Muhammad, Moses, etc.).
 
 I think the real difference to “religious thinking” (for many religions,
@@ -713,33 +456,6 @@ plan for us, I still don’t know Who that God is, or the nature of His Essence.
 That said, an infant doesn’t need to comprehend its mother to know her love,
 or feed from her milk, nor does it need an accurate conception of her to have
 a strong and lasting relationship.
-
-# How did you feel when you first scratched your new car and how did you deal with the depression?
-
-Date: 2016-11-22
-
-There have been times when I scratched the thing I loved most by myself, just
-to face the craziness head on.
-
-I completely sympathize with what you’re feeling: You get that new thing —
-something which embodies whatever ideals you long for at the moment:
-sleekness, speed, utility, freedom from the doldrums of life — and reality
-jumps up and smacks your ideal right across the face, leaving a mark that
-can’t be fixed, that stares you in the face, mockingly, with eyes of fire
-every time you look at it. It makes you want to throw the thing away and start
-over.
-
-In a way, we taste a little bit of death in these moments: the death of some
-fleeting thing that we thought we had, for a moment, captured in our new
-vehicle, or TV, or computer. For one brief instant, we’d reached into the
-world of perfect forms, and come away with a vision of beauty so wondrous, so
-smooth…
-
-It’s funny that we, creatures of an impermanent and ever-changing world, find
-such joy in these moments. Almost as if we weren’t born for this, and all
-these terrible experiences and sudden depressions were specifically intended
-to hone our appreciation for such things, while at the same time learning to
-let them free.
 
 # Text
 
@@ -917,35 +633,39 @@ overflowing spirit.
 
 # I'm not ready to give up. by already_satisfied in zen
 
-Is there a problem with things that are not zen, if they come and go? The moon is not zen. The day
-is not zen. Your words make sense because there are spaces between them that are not words. Zen is
-entirely lifted up by what is not zen, else there would just be.
+Is there a problem with things that are not zen, if they come and go? The moon
+is not zen. The day is not zen. Your words make sense because there are spaces
+between them that are not words. Zen is entirely lifted up by what is not zen,
+else there would just be.
 
 # A question about free-will, where does it come from? by diogov9  in bahai
 
-Human beings approach the unknown by referencing what is familiar. So at times we've thought of the
-universe as being naturalistic, animistic, mechanistic, computational, a product of probabilities,
-etc. All of these are "wrong", but each is a better approximation than the last, allowing us to
-utilize the potentialities of the world we inhabit.
+Human beings approach the unknown by referencing what is familiar. So at times
+we've thought of the universe as being naturalistic, animistic, mechanistic,
+computational, a product of probabilities, etc. All of these are "wrong", but
+each is a better approximation than the last, allowing us to utilize the
+potentialities of the world we inhabit.
 
-I think the question of free-will and the nature of God's omniscience is no different. If you
-consider that the limitations we're subject to may not even be a part of that truth, it allows for
-some pretty wild ideas to emerge.
+I think the question of free-will and the nature of God's omniscience is no
+different. If you consider that the limitations we're subject to may not even
+be a part of that truth, it allows for some pretty wild ideas to emerge.
 
-As an example of some thinking I've done along these lines in the past, here is a post from my
-blog:
+As an example of some thinking I've done along these lines in the past, here
+is a post from my blog:
 
 http://johnwiegley.com/2004/04/multilinearity-and-free-will/
 
 # This is a matter for strong people: another official AMA from WanderingRoninXIII by [deleted] in
 zen
 
-The practice of Zen is like having a worm in your brain, eroding concepts and leaving you with the
-realization that most of your motives in life are just as vapid and misdirected as you had feared.
-When you’ve spent half a life building up and relying on concepts, how the hell is popping that
-balloon supposed to leave you with any sense of how to face tomorrow? You’ve invested a whole
-education in a world you know how to maneuver within. None of that prepares you for what’s sitting
-in the mirror.
+The practice of Zen is like having a worm in your brain, eroding concepts and
+leaving you with the realization that most of your motives in life are just as
+vapid and misdirected as you had feared. When you’ve spent half a life
+building up and relying on concepts, how the hell is popping that balloon
+supposed to leave you with any sense of how to face tomorrow? You’ve invested
+a whole education in a world you know how to maneuver within. None of that
+prepares you for what’s sitting in the mirror.
+
 Talk about the hot iron ball.
 
 # Manifestation of God/Holy Spirit/Maid of Heaven Uncreated? by parentscooking in bahai
@@ -1006,13 +726,12 @@ interaction with the world and your community. Going to church isn’t only a
 restatement, any more than you’d stop seeing a girlfriend just because you’ve
 already said you love her.
 
-Lots of people here meditate and spend years of their life studying koans
-because they heard about enlightenment or the Void or the Unborn and they want
-to strip away delusions and see it for themselves. The fact that they expend
-this time and energy for the sake of something they’ve neither seen nor
-experienced: this is faith. Otherwise, why waste a year of effort with no
-return? Faith is acting on behalf of an Unknown, that you cannot know yet feel
-connected to.
+Lots of people meditate and spend years of their life studying koans because
+they've heard about enlightenment or the Void or the Unborn and they want to
+strip away delusions and see it for themselves. The fact they expend this time
+and energy for the sake of something they’ve neither seen nor experienced: is
+this not faith? Otherwise, why waste a year of effort with no return. Faith is
+acting on behalf of an Unknown, that you cannot know yet feel connected to.
 
 Christ as found in the Gospels is quite different than what you see in
 churches, so I don’t blame you if it feels stale and out of place there. If
