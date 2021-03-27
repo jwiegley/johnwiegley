@@ -22,5 +22,5 @@ tags: poetry
 |
 | Such that someday,
 | as I fly, idly along,
-| I may encounter but a single photon
+| I may encounter but a single spark
 | and ken the secrets of glory.
