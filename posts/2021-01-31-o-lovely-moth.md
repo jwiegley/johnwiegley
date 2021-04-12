@@ -4,7 +4,7 @@ tags: poetry
 ---
 
 | O lovely moth!
-| who every dusk
+| who at every dusk
 | strives for his moon
 | with the same hope
 | as the night before.

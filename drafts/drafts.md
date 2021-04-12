@@ -1,5 +1,17 @@
 # Text
 
+However, we have a soul, a mystery beyond mysteries, and I have no idea what
+its capabilities are. Only God decides its movement. What I call “John” is a
+mortal thing, a limited self, who can only examine the Boundless Sea
+thimblefull by thimblefull. The soul associated with me is a thing of the
+deeps, though, and to honor this gift from God, I must cling only to humility,
+and recognition of my complete ignorance to ever conceive of the realities it
+may ultimately experience. When I give up my heart to love, the Beloved takes
+me places I cannot go; and after I return from those regions, my love only
+grows.
+
+# Text
+
 To dig deeper into the idiocy that was meant:
 
 During the battle of Nayriz, when Vahid and a group of dawn-breakers were
