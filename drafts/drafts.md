@@ -1,5 +1,55 @@
 # Text
 
+May I suggest that in sensitive conversations like this, once we start
+comparing degrees of suffering we have perhaps missed the point. I had
+understood Robert's original comment to be saying something along these lines
+(and I beg his forgiveness for my elaboration): Why do we emphasize Iranian
+suffering when there are so many Black people suffering from racism here and
+now? Which, if addressed, would help us solve such problems everywhere in the
+world, as has been promised in our Writings?
+
+I think this is a point worthy of contemplation, yet we've diverged into many
+side topics that have obscured this point; made people's concerns feel
+diminished; and in general have made the bitter subject of racism yet again
+difficult to discuss openly and frankly in a public Bahá’í context.
+
+What can solve our problems is for us to become closer in the truth, so that
+we can find the meaning of justice and thus establish unity. Where that begins
+is listening intently when a person who is actively suffering brings something
+to our attention; not by comparing sufferings or bringing up events from over
+a century ago, however painfully acute the memory may be. Talking a lot about
+Persian suffering and not so much about Black suffering is something our
+community does, is doing, has a problem with, and needs to be more aware of.
+
+It's not that we are not one soul in many bodies: one race, one being, one
+reality; it's that the world does not recognize this, and we are part of that
+world. We are still working to educate and free ourselves from its pernicious
+influence. Until Robert no longer feels the sharp edge of this distinction
+being made on the basis of color, it is careless for us to assert that it does
+not exist. We have to address the "social reality" in our communities --
+*because* it is false -- until we dissolve it through just laws and just
+behaviors.
+
+Even implying it is not real does not address the damage caused by those who
+still act as though it were. It only makes it harder to talk about!
+
+Further, I think the Pupil of the Eye is a profound designation. One of the
+things I understand it to mean is that our collective vision of humanity
+cannot become clear until the Pupil of the Eye confirm this vision. That is,
+nothing we say about racial justice and race unity can be definitive, until
+the POTE themselves declare that we have achieved this unity. They have the
+vision, the awareness, and a sensitivity to these issues that we lack. So in
+all these discussions, we must show our eagerness to reach out, listen and
+learn, almost like blinded men being guided down the right path toward social
+justice.
+
+As ‘Abdu’l-Bahá says in Some Answered Questions: "... it is known that the
+pupil of the eye is black so as to attract the rays of the sun, for if it were
+another color -- that is, uniformly white -- it would not attract the rays of
+the sun."
+
+# Text
+
 However, we have a soul, a mystery beyond mysteries, and I have no idea what
 its capabilities are. Only God decides its movement. What I call “John” is a
 mortal thing, a limited self, who can only examine the Boundless Sea
