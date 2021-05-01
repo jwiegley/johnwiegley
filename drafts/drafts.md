@@ -1,5 +1,61 @@
 # Text
 
+A future butterfly who prizes their cocoon will have a hard time ahead.
+
+# Text
+
+I had to comment in the large group because I felt like we give such a large
+head space to the cruelties of white AmeriKKKa, without seeing the absolute
+heroism and bounty of spirit Black Americans have demonstrated throughout, and
+how if we shift our consciousness in that direction we will find both friends
+and future.
+
+# Thoughts on accessorizing people of color
+
+We don’t just accessorize people of color in our media; it also reflects how
+we also accessorize them in our communities, such as when we regard their
+concerns as not being the same as “the concerns of the community”, but rather
+something that can be bypassed without repercussions.
+
+# The institution of the Mashriqu’l-Adhkar
+
+The institution of the Mashriqu’l-Adhkar establishes a concrete link between
+an uplifting sense of spirituality on the one hand and the fundamental
+requirements of social justice on the other: by providing both a space for
+devotion, and dependencies that serve and concentrate on the needs of society.
+Through this institution, these two become inseparable aspects of the
+devotional character of the community.
+
+# Text
+
+As long as we keep baking with poisoned flour, the act of feeding humanity
+will not have the final desired result.
+
+What I mean to say that we can go through all the right motions, but if our
+motives, and the spirit with which we act, still bears feelings and attitudes
+of prejudice, a sense of superiority, a tendency to be exclusive, etc., then
+the society that results from our efforts will continue to have those ills of
+the Old World embedded within it, and thus will not be — cannot be! — the
+future envisioned for us by Bahá’u’lláh.
+
+# Text
+
+I think that our spirit abides in potentiality, where we are _capable_ of
+manifesting every name and attribute of God’s. Our consciousness is what we
+have awakened to and recognized. Although the relationship to our potential
+changes continually over the course of our existence, the soul itself is
+eternal and unchanging. `Abdu'l-Bahá wrote in the tablet to August Forel:
+
+"Now concerning mental faculties, they are in truth of the inherent properties
+of the soul, even as the radiation of light is the essential property of the
+sun. The rays of the sun are renewed but the sun itself is ever the same and
+unchanged."
+
+"Consider how the human intellect develops and weakens, and may at times come
+to naught, whereas the soul changeth not. "
+
+# Text
+
 May I suggest that in sensitive conversations like this, once we start
 comparing degrees of suffering we have perhaps missed the point. I had
 understood Robert's original comment to be saying something along these lines
