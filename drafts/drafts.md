@@ -1,5 +1,166 @@
 # Text
 
+Al-Qushayri, the Sufi scholar, writes that the fear of God (تقوى) has three
+aspects: “… full trust in God with respect to what has not been granted to
+him; full satisfaction with what has been granted to him; and full patience
+with respect to what has eluded him."
+
+In terms of the lover and the Beloved, consider how a lover’s heart would be
+affected if he were offered a hundred mithqals of gold to betray his beloved.
+That reaction, if true to his love, is تقوى. I believe this state of being is
+also echoed in the following passage of the Kitáb-i-Aqdas:
+
+“Whoso hath inhaled the sweet fragrance of the All-Merciful, and recognized
+the Source of this utterance, will welcome with his own eyes the shafts of the
+enemy, that he may establish the truth of the laws of God amongst men.”
+
+In this state of being, one’s chastity of soul (that is, singleness of desire
+toward God) becomes so refined that even a single misstep from الصراط المستقيم
+would be reckoned as though stepping into white hot fire.
+
+Outwardly it is seen as fear, inwardly it is a condition of being. The تقوى of
+the body prevents one from holding their breath too long; the تقوى of the نفس
+is clinging to the Law and the Path with every fiber of one’s being; and the
+تقوى of the روح is the continual testimony: “… all exemplify the truth that
+there is none other God but Him”.
+
+Even between lover and beloved: Something causes him to take care that his
+words and actions will express his heart; he never acts carelessly toward his
+loved one.
+
+# Text
+
+"Is this not what Race Unity is all about?"
+
+I don’t believe that race unity is about me, as a white person, seeing the
+value and uniqueness of all people. It is about those oppressed due to their
+perceived race being able to tell me that their oppression is now over. Until
+that day, my opinions and outlook are borderline irrelevant. What I have to do
+— my duty in this struggle — is to identify and fight against those tendencies
+and systems that perpetuate this oppression in society.
+
+And yes, I am intentionally shifting responsibility toward those who created
+the problem (white Europeans and their descendants, who financially benefited
+from enslaving Africans), and identification of solutions to those most
+affected by the outcome (the ancestors of those Africans). That may seem
+unbalanced at first, but it has never been an “equal playing field”: although
+an even distribution of responsibility and assessment may seem like equity, in
+the presence of injustice it is not. True equity must compensate for existing
+inequalities.
+
+Some of the arguments you’ve used in favor of the linked article have been
+heard too often in this struggle: “Everyone is unique, you can’t generalize,”
+“We should listen to all sides,” “We need to regard all people equally and not
+according to background,” etc. Unfortunately, all of these statements are used
+— often — to defuse and distract from the critical urgency of the situation.
+For example, when we say that everyone is unique, suddenly no criticism can be
+made of anyone, because there is always someone to whom it doesn’t apply; if
+we must regard all opinions equally, suddenly it’s not about facts but rather
+the perception of “fairness”, etc. And guess who gets to decide what counts as
+fair in those situations?
+
+Carol Grady Mansour makes the excellent point that by giving space to those
+who refuse to fully acknowledge systemic racism, rather than supposedly adding
+texture and depth to the debate, this only diminishes and devalues the facts.
+We don’t need to hear even a single word more from those who stand in defense
+of “white rightness”, because we’ve been hearing from them _literally_ for
+centuries. For even if CRT were hugely overstating the situation, it would
+still be more corrective to adopt that view for several generations than to
+constantly downplay and resist every time an effort is made to clearly and
+soberly examine the history of slavery, how much this country’s economic
+success was built upon it, and in how many different ways it has been
+perpetuated since its supposed abolishment.
+
+The situation is very much like a plaintiff before a judge whose appeals for
+justice are repeatedly rejected because his statements are not perfect enough,
+or don’t take everyone’s feelings keenly enough into account — all while the
+real criminal continues to benefit from the court’s inaction.
+
+And although I myself have never been someone who holds political or
+institutional power, I am most definitely "complicit by default" in the
+Machine that sustains inequity in our shared society. The reason being that if
+I relax into not thinking about racism and not saying anything about it — and
+this is a very natural state for me to be in, as easy as breathing — then
+those who hold political and institutional authority will view my silence as
+consent for their behavior, simply because I represent the _category_ of
+people they’re seeking to appease.
+
+Racists don’t wonder if I support them as an individual. They rely on the
+consent of the majority, and look to me to strengthen that majority. Only by
+speaking up and speaking out can I show that this is unacceptable, and that if
+they want my support for anything in future, I will need to see change. This
+is true in politics, at work, in friend groups, at home, everywhere.
+
+But I can’t push against an unseen and implacable enemy by considering every
+human being one-on-one. That would be beyond exhausting; and those who don’t
+want to see change know this, and so they promote the idea that everyone is a
+special case who needs individual attention — the idea being to drain those
+fighting injustice, by diluting the enemy until you’re forced to reckon with
+the river by counting all of its drops.
+
+Note that I'm not counting you in the group opposed to justice, but rather
+wanted to point out some of the "notes" in your original comment that Carol
+may be responding to. It rhymes with other things we've heard far too often,
+and that only make a hard job that much harder.
+
+# Text
+
+There’s a saying, “Strike while the iron is hot!” When forging iron or steel,
+it is very hard and resists change until a certain temperature, when it
+suddenly becomes soft like putty. This is when you can decide the shape and
+purpose of the blade. Afterward, its attributes are fixed and resist any
+change.
+
+As a furnace does this to the metal, this worldly life is similar: hot and
+difficult and often damaging, but it makes us soft and pliable, in a spiritual
+sense, giving us the freedom to choose our soul’s path.
+
+And as the metal is pounded into shape, it is constantly tested: a repeated
+cycle of hammering and testing. After the blade is quenched and ready, no more
+testing occurs: then is the time for use. `Abdu’l-Bahá said, “the tests and
+trials of God take place in this world, not in the world of the Kingdom”. This
+is where God discerns our capacities and what we can bear, but once the metal
+has set, the time for tests comes to end.
+
+# Text
+
+Ketziah performed some spiritual chiropractics on me today. I don’t know what
+you did; I was into the call as usual, but then you shifted something and
+cracked open a door; and then Aziza and Carol and Bennett’s quote and
+Martine….
+
+  I feel like a young kitten,
+  head on its mother’s lap,
+  kneading gently and
+  taking in the milk of truth and reality,
+  until soon it’s strong enough
+  to open new, curious eyes
+  and bear the light.
+
+The people in this room, I’m going to tell you, you are mid-wifing a soul, my
+soul — and I can feel it happening. If I knew that choosing love for the Pupil
+of the Eye had this power… I could have skipped a lot of silliness.
+
+I personally feel like SOTE, *me* in particular, have this layer of social fat
+on me, to keep me warm in this cold, hard country we’ve made. You all melt me,
+I feel it dripping off.
+
+# Text
+
+It’s not the qualities
+of the knife in itself,
+
+as judged by
+or compared with
+all the other knives;
+
+What matters most
+are the qualities
+*that the Chef*
+adores in the knife.
+
+# Text
+
 A future butterfly who prizes their cocoon will have a hard time ahead.
 
 # Text
