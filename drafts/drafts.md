@@ -1,5 +1,69 @@
 # Text
 
+In other words, dark times are favorable to a candle's qualities.
+
+# Text
+
+Imagine, using the warden example, that we were given a choice of grilled
+cheese, chicken, or fish for dinner. Now, say God knows in advance that we're
+always going to choose the grilled cheese. So the question is, why doesn't He
+just offer us only grilled cheese? What’s the difference?
+
+Perhaps part of the purpose of this life is not just our choices, but for _us_
+to realize that we knowingly chose the grilled cheese over the chicken and the
+fish. If the grilled cheese were our only choice, there would be neither blame
+nor praise in us having chosen it. But if we know there are other choices
+available, and yet we choose that one — even if someone who knows us best
+knows beforehand what we will choose — still _we_ do not know what we will
+choose, and *just the knowledge of the other options tells us something about
+our choice*.
+
+Right, this existence is meant to shine a lot on our souls *for us*. I think
+the external understanding of judgment, as if this is some big contest to win
+God's affection, has it inside-out. This is about the birth of awareness, not
+winning some cosmic game.
+
+# Text
+
+I have a strong sense that our wrestling over these issues has a lot to do
+with the times we live in, where identity, sexuality and personal competence
+and success are so highly valued that it distorts all measure of value and
+self-worth.
+
+Chastity (not just sexual expression, but that purity of heart necessary to
+the mystical path) can lead to greater consciousness, awareness, sensitivity
+and development. Meanwhile, sexual impulses — outside of the divine act of
+creation — largely lead one back to the earth and too easily confuse and
+distract the heart, mind and body.
+
+Thus, essentially, one is more useful to spiritual development than the other,
+and once one’s life objectives become aligned with the Writings, it’s only
+natural to seek one over the other.
+
+Put another way, we have two aspects: our self (nafs) and our spirit (rúh),
+which are related like a horse is to its rider. In order to make our way
+safely and with speed, the self requires training and education. Chastity,
+fasting, prayer, study, moral virtue: all of these serve the deepest interests
+of the self, which is to serve the spirit from which life and happiness are
+derived.
+
+When we neglect the spirit and give ourselves over to physical impulses, I
+wouldn’t say this is bad per se, but it’s like feeding sugar cubes and soda to
+the trusty steed self. Of course he’ll turn into a spaz that only wants to run
+in its own direction, leaving the spirit confused and bewildered and hanging
+on for dear life.
+
+The internal dialog of right and wrong that we’ve inherited from Western
+religious traditions — a perspective often applied to readings of the Bahá’í
+Writings — pits the self and spirit at war with each other. Islam even calls
+it the greater Jihad (even though the word just means “the great effort”). But
+I tend to think the self is more like a young puppy defecating all over your
+house. With training, his adult self will *want* to show you obedience and
+loyalty. That’s his nature. But he can’t achieve the beauty of that
+relationship if left solely to his inclinations.
+
+# Text
+
 Al-Qushayri, the Sufi scholar, writes that the fear of God (تقوى) has three
 aspects: “… full trust in God with respect to what has not been granted to
 him; full satisfaction with what has been granted to him; and full patience
@@ -147,20 +211,6 @@ I feel it dripping off.
 
 # Text
 
-It’s not the qualities
-of the knife in itself,
-
-as judged by
-or compared with
-all the other knives;
-
-What matters most
-are the qualities
-*that the Chef*
-adores in the knife.
-
-# Text
-
 A future butterfly who prizes their cocoon will have a hard time ahead.
 
 # Text
@@ -190,7 +240,7 @@ devotional character of the community.
 # Text
 
 As long as we keep baking with poisoned flour, the act of feeding humanity
-will not have the final desired result.
+will not have the final, desired result.
 
 What I mean to say that we can go through all the right motions, but if our
 motives, and the spirit with which we act, still bears feelings and attitudes
@@ -381,9 +431,12 @@ Similarly, chastity has a very related purpose.
 # Poem
 
 Please send my love to Tahirih,
-her memory is ever like the sun
+her memory is ever
+like the sun
 that shines on my heart
-when the clouds of forgetting do part.
+once the clouds
+of forgetting
+do part.
 
 # Text
 
