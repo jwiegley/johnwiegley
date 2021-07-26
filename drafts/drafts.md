@@ -1,6 +1,78 @@
 # Text
 
-In other words, dark times are favorable to a candle's qualities.
+A few thoughts on this excellent question:
+
+I think that we, as a species, are still very far from having a healthy and
+intimate relationship with the Creator. A capacity exists with our heart and
+souls to connect to Him, but we haven't learned to rely on that connection
+yet; and what we call "religion" today often prevents this very connection
+from forming, instead focusing on training and restricting the body and mind
+instead of liberating one's spiritual sensibilities. Not that physical
+strictures are without merit, mind you, but they've been made primary, to the
+point that entire lives are lived in the service of ethics, without any other
+point to those ethics other than "heaven in the afterlife".
+
+Since we do not have a society where God is center, there is a deep void that
+we -- everyone -- scrambles to fill. We are beings made to receive the Light,
+but having been kept in darkness, we rush toward every shining thing that
+manifests a glimmer of a reflection. And so we are drawn to the beauty of
+people and things and worldly realities with an outsized reaction: Because we
+are so famished for Truth, our hunger drives us to scarf down whatever we find
+as intensely as possible.
+
+In such a state, sexuality is seen almost as a vehicle of deliverance, and a
+foundation of identity. It feels good, it momentarily transports us from the
+dreariness of existence, it offers a brief moment of ethereal connection. But
+then this semblance of true embrace quickly vanishes, and the emptiness
+returns.
+
+In a mature society, people will not look to the world to satisfy a host of
+desires. They will desire to look after the world.
+
+# Text
+
+Little do we know it, but we've been robbed of who we are.
+
+# Text
+
+A thought on moral rectitude:
+
+I am not the primary agent whom rectitude makes more effective; rather,
+rectitude opens a door to more powerful agencies.
+
+Like when a plant that finally opens up, the resulting growth comes not from
+its opening, but the newly discovered sun.
+
+This makes me think about White agency and how, though I work on myself, it’s
+the relationships that such work allows for that the real power comes from.
+
+# Text
+
+I'm not sure expertise is what we're going for, so as much as people willing
+to break themselves down so as to be built up again in the image of a new
+society.
+
+# Text
+
+Gnosis to the greeks was the opposite of opinion. True gnosis cannot be
+rejected or ignored, like an adult who is unwilling to put their hand into a
+fire, whereas a child who hasn’t been burned yet might do so from curiosity.
+
+# Text
+
+Don’t beat the past
+with the stick of the present:
+use it to measure the future.
+
+# Text
+
+The Seven Valleys invites us on a journey toward *nothingness*, that we might
+find the way of the soul. So it makes complete sense to me that a spiritual
+enterprise would ask us to leave ourselves at the door before we can proceed.
+
+# Text
+
+Dark times are favorable to the candle's qualities.
 
 # Text
 
@@ -211,10 +283,6 @@ I feel it dripping off.
 
 # Text
 
-A future butterfly who prizes their cocoon will have a hard time ahead.
-
-# Text
-
 I had to comment in the large group because I felt like we give such a large
 head space to the cruelties of white AmeriKKKa, without seeing the absolute
 heroism and bounty of spirit Black Americans have demonstrated throughout, and
@@ -245,8 +313,8 @@ will not have the final, desired result.
 What I mean to say that we can go through all the right motions, but if our
 motives, and the spirit with which we act, still bears feelings and attitudes
 of prejudice, a sense of superiority, a tendency to be exclusive, etc., then
-the society that results from our efforts will continue to have those ills of
-the Old World embedded within it, and thus will not be — cannot be! — the
+the society that results from those efforts will continue to have the ills of
+the Old World embedded within it, and thus it will not be — cannot be! — the
 future envisioned for us by Bahá’u’lláh.
 
 # Text
@@ -764,7 +832,10 @@ together.
 
 Date: 2017-01-29
 
-A fish in a tiny bowl knows his entire world; he remains unaware of the sea.
+A fish in a tiny bowl
+knows his entire world;
+yet still he remains
+unaware of the sea.
 
 # How does someone with a genius IQ conceive of God?
 
