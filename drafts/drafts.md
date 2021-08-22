@@ -1,5 +1,21 @@
 # Text
 
+Dawnée has pointed out to me on several occasions that I am a spiritual being
+having a physical experience. When I read these Writings, I hear Shoghi
+Effendi offering a way to connect with my spiritual nature. Each day, in fact,
+I have to reflect on what it is that I seek and the nature of _that_ beauty —
+multiple times because the world is so anxious to seduce my material nature.
+
+The nature of this world is a test to determine where along the spectrum from
+material to spiritual I will personally choose to dwell. As I view myself
+toward the material end, my scope is local and addresses what I mostly have
+control view. But as my sense of identity shifts to the other end of that
+spectrum, my scope is more and more universal and beyond what I can observe
+and control. I have to use faith to gain perspective on who I am in that
+place.
+
+# Text
+
 A few thoughts on this excellent question:
 
 I think that we, as a species, are still very far from having a healthy and
