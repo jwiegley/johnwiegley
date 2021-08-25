@@ -1,5 +1,40 @@
 # Text
 
+The inner faculty that can be used to relate us to the Unseen, can also be
+misused to relate us to the unreal.
+
+> …forsake the inner land of unreality for thy true station…
+
+The greatest potential of our being can also be our greatest weakness. We have
+the capacity, within our heart, to directly relate to something which is
+infinite, unknowable and unseen. Our weakness arises because of our ability to
+confuse the unseen with what is unreal. Thus, our heart can become bound to
+things that are merely an invention of the mind, through the same capacity,
+making it supremely difficult to engage our heart in the manner for which it
+was created.
+
+# Text
+
+It’s not enough to fix a problem. We have to demonstrate that the very
+existence of the problem is unconscionable to us.
+
+# Text
+
+Although what I have to share today is going to be difficult and I'll be
+asking you to do things that are unpleasant and uncomfortable, yet I want you
+to know that deep down, this is a message of joy. Because as a species we've
+been weighed down by shackles we cannot see. We were created to soar, but
+we've spent lifetimes struggling in the dirt. Once we find the willingness to
+take whatever it takes to free ourselves and get past this burden, let me tell
+you the outcome will be glorious for all of us, not just a few.
+
+# Text
+
+We move forward through deepening our relationship to the good, not reacting
+to what is evil.
+
+# Text
+
 Dawnée has pointed out to me on several occasions that I am a spiritual being
 having a physical experience. When I read these Writings, I hear Shoghi
 Effendi offering a way to connect with my spiritual nature. Each day, in fact,
@@ -25,13 +60,13 @@ yet; and what we call "religion" today often prevents this very connection
 from forming, instead focusing on training and restricting the body and mind
 instead of liberating one's spiritual sensibilities. Not that physical
 strictures are without merit, mind you, but they've been made primary, to the
-point that entire lives are lived in the service of ethics, without any other
-point to those ethics other than "heaven in the afterlife".
+extent that entire lives are lived in the service of ethics, without any other
+point to those ethics than "heaven in the afterlife".
 
 Since we do not have a society where God is center, there is a deep void that
 we -- everyone -- scrambles to fill. We are beings made to receive the Light,
-but having been kept in darkness, we rush toward every shining thing that
-manifests a glimmer of a reflection. And so we are drawn to the beauty of
+but, having been kept in darkness, we rush toward every shining thing that
+manifests a glimmer of a reflection. And thus we are drawn to the beauty of
 people and things and worldly realities with an outsized reaction: Because we
 are so famished for Truth, our hunger drives us to scarf down whatever we find
 as intensely as possible.
@@ -89,66 +124,6 @@ enterprise would ask us to leave ourselves at the door before we can proceed.
 # Text
 
 Dark times are favorable to the candle's qualities.
-
-# Text
-
-Imagine, using the warden example, that we were given a choice of grilled
-cheese, chicken, or fish for dinner. Now, say God knows in advance that we're
-always going to choose the grilled cheese. So the question is, why doesn't He
-just offer us only grilled cheese? What’s the difference?
-
-Perhaps part of the purpose of this life is not just our choices, but for _us_
-to realize that we knowingly chose the grilled cheese over the chicken and the
-fish. If the grilled cheese were our only choice, there would be neither blame
-nor praise in us having chosen it. But if we know there are other choices
-available, and yet we choose that one — even if someone who knows us best
-knows beforehand what we will choose — still _we_ do not know what we will
-choose, and *just the knowledge of the other options tells us something about
-our choice*.
-
-Right, this existence is meant to shine a lot on our souls *for us*. I think
-the external understanding of judgment, as if this is some big contest to win
-God's affection, has it inside-out. This is about the birth of awareness, not
-winning some cosmic game.
-
-# Text
-
-I have a strong sense that our wrestling over these issues has a lot to do
-with the times we live in, where identity, sexuality and personal competence
-and success are so highly valued that it distorts all measure of value and
-self-worth.
-
-Chastity (not just sexual expression, but that purity of heart necessary to
-the mystical path) can lead to greater consciousness, awareness, sensitivity
-and development. Meanwhile, sexual impulses — outside of the divine act of
-creation — largely lead one back to the earth and too easily confuse and
-distract the heart, mind and body.
-
-Thus, essentially, one is more useful to spiritual development than the other,
-and once one’s life objectives become aligned with the Writings, it’s only
-natural to seek one over the other.
-
-Put another way, we have two aspects: our self (nafs) and our spirit (rúh),
-which are related like a horse is to its rider. In order to make our way
-safely and with speed, the self requires training and education. Chastity,
-fasting, prayer, study, moral virtue: all of these serve the deepest interests
-of the self, which is to serve the spirit from which life and happiness are
-derived.
-
-When we neglect the spirit and give ourselves over to physical impulses, I
-wouldn’t say this is bad per se, but it’s like feeding sugar cubes and soda to
-the trusty steed self. Of course he’ll turn into a spaz that only wants to run
-in its own direction, leaving the spirit confused and bewildered and hanging
-on for dear life.
-
-The internal dialog of right and wrong that we’ve inherited from Western
-religious traditions — a perspective often applied to readings of the Bahá’í
-Writings — pits the self and spirit at war with each other. Islam even calls
-it the greater Jihad (even though the word just means “the great effort”). But
-I tend to think the self is more like a young puppy defecating all over your
-house. With training, his adult self will *want* to show you obedience and
-loyalty. That’s his nature. But he can’t achieve the beauty of that
-relationship if left solely to his inclinations.
 
 # Text
 
@@ -257,25 +232,6 @@ and that only make a hard job that much harder.
 
 # Text
 
-There’s a saying, “Strike while the iron is hot!” When forging iron or steel,
-it is very hard and resists change until a certain temperature, when it
-suddenly becomes soft like putty. This is when you can decide the shape and
-purpose of the blade. Afterward, its attributes are fixed and resist any
-change.
-
-As a furnace does this to the metal, this worldly life is similar: hot and
-difficult and often damaging, but it makes us soft and pliable, in a spiritual
-sense, giving us the freedom to choose our soul’s path.
-
-And as the metal is pounded into shape, it is constantly tested: a repeated
-cycle of hammering and testing. After the blade is quenched and ready, no more
-testing occurs: then is the time for use. `Abdu’l-Bahá said, “the tests and
-trials of God take place in this world, not in the world of the Kingdom”. This
-is where God discerns our capacities and what we can bear, but once the metal
-has set, the time for tests comes to end.
-
-# Text
-
 Ketziah performed some spiritual chiropractics on me today. I don’t know what
 you did; I was into the call as usual, but then you shifted something and
 cracked open a door; and then Aziza and Carol and Bennett’s quote and
@@ -320,18 +276,6 @@ requirements of social justice on the other: by providing both a space for
 devotion, and dependencies that serve and concentrate on the needs of society.
 Through this institution, these two become inseparable aspects of the
 devotional character of the community.
-
-# Text
-
-As long as we keep baking with poisoned flour, the act of feeding humanity
-will not have the final, desired result.
-
-What I mean to say that we can go through all the right motions, but if our
-motives, and the spirit with which we act, still bears feelings and attitudes
-of prejudice, a sense of superiority, a tendency to be exclusive, etc., then
-the society that results from those efforts will continue to have the ills of
-the Old World embedded within it, and thus it will not be — cannot be! — the
-future envisioned for us by Bahá’u’lláh.
 
 # Text
 
@@ -433,51 +377,10 @@ mission!
 
 # Text
 
-A philosopher is technically a lover of wisdom, someone who seeks
-understanding and a greater comprehension of reality. They revel in shining a
-light into dark places, and are characterized by curiosity, profundity, and an
-eager desire to improve their character.
-
-A mystic is someone who lives their life according to a greater Reality than
-can be immediately or physically perceived; but they do so in the sense of a
-drop moving along with the Ocean. Through love and intimate communion they
-wish to perceive Reality directly, not only through the lens of the mind or
-perception. They seek dissolution and combustion in the flame of love --
-moth-like -- rather than the sober gaze of the philosopher.
-
-# Text
-
 My share from Liz’s group: What’s needed isn’t for us as white people to
 uplift those facing difficulty; what’s needed is for us to stop _being_ the
 problem and to teach others like us to likewise stop. It’s wrong to think that
 the creator of a problem should view those being harmed as “needing our help”.
-
-# Intro to translation of Rashh-i-`Ama
-
-There is a particular music and rhythm, an entrancing feel of being carried
-along, swept up in a verbal embrace. It's a written form of the sun breaking
-through clouds, a song of power, a revelation of mysteries long hidden yet
-never kept from view -- osbcured by their own transcendent glory. I've tried
-my best to translate it so that, as an English speaker, it conveys how I feel
-when reciting it in the Persian.
-
-# Chastity
-
-I’m very excited to approach this subject, because I feel like I’ve discovered
-something limitless in potential, and opening a door into amazing new vistas.
-
-Like many things, I think the attitudes of past religions toward certain
-subjects, such as prayer, fasting and chastity, have given us a framework for
-understanding these things that is limited by the perspectives of the past.
-Just as the past religious doctors failed to understand the spiritual meaning
-of the prophecies of the Holy Books, they also abbreviated many other concepts
-such as heaven, hell, and soul, by relating these concepts primarily to
-physical realities or states of being. To them, the event of physical death is
-somehow the most significant spiritual event in one’s life; but why would
-transformation of the material be so significant to our spiritual life?
-
-Instead, I think the books have been unsealed, and we are ready to develop an
-entirely new relationship with this concepts and laws.
 
 ## The soul of man
 

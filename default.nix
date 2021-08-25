@@ -1,4 +1,4 @@
-;{ pkgs ? (import <darwin> {}).pkgs
+{ pkgs ? (import <darwin> {}).pkgs
 
 # , rev    ? "28c2c0156da98dbe553490f904da92ed436df134"
 # , sha256 ? "04f3qqjs5kd5pjmqxrngjrr72lly5azcr7njx71nv1942yq1vy2f"
