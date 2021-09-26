@@ -1,5 +1,13 @@
 # Text
 
+Do not think merely that you live in a reality you have little ability to
+change or affect. Rather, you have the power to construct whatever reality you
+most believe in, because the Holy Spirit is engaged whenever faith and action
+fall into line with the Holy Writings. This is a Force that cannot be
+resisted, not even by the mountains themselves.
+
+# Text
+
 The inner faculty that can be used to relate us to the Unseen, can also be
 misused to relate us to the unreal.
 
@@ -532,51 +540,6 @@ to the knowledge.
 
 # Text
 
-Hi Ned! I like the question, if I may offer more thoughts:
-
-Perhaps these three planes can be seen as a self-reflection by Bahá’u’lláh at
-this point on the very theme He is revealing. It is also reflected in Gems of
-Divine Mysteries and the Kitáb-i-Íqán, but most succinctly in the Seven
-Valleys.
-
-In these Seven Valleys Bahá’u’lláh describes the Valleys and Cities in
-reference to three spiritual stations: the station of limitation (tahdíd),
-comprising the first three valleys; the station of unity (tawhíd), covering
-the next three; and then the station of annihilation of self and subsistence
-in God (faná az nafs va baqá bi-lláh).
-
-In the station of limitation the wayfarer understands Truth through the medium
-of appearance and manifestation. It is in this station that one talks about
-the differing stations and ranks among the Prophets of God, and that one
-should not confound them (Gems is even more emphatic on this point). This is
-when “when the wayfarer gazeth only upon the place of appearance”.
-
-In the station of unity the wayfarer understands that all the Manifestations
-reflect the same Light, and bring the same essential Purpose and Message.
-These are those who “gaze upon the effulgence of the light”.
-
-In the station of annihilation of self, one ceases entirely to judge the
-Manifestation by human standards and limited concepts (“For whatever the
-creatures have is limited by their own limits”), and instead beholds Them all
-as being the same Soul, the same Spirit, and uttering the same Word, with no
-distinction to made among them. These “have drunk of the wine of oneness and…
-see nothing but the sun itself”.
-
-I read the differing planes as being the answer to this question, posed by
-Bahá’u’lláh in Gems:
-
-“Know then that it behoveth thine eminence to ponder from the outset these
-questions in thy heart: What hath prompted the divers peoples and kindreds of
-the earth to reject the Apostles whom God hath sent unto them in His might and
-power, whom he hath raised up to exalt His Cause and ordained to be the Lamps
-of eternity within the Niche of His oneness? For what reason have the people
-turned aside from them, disputed about them, risen against and contended with
-them? On what grounds have they refused to acknowledge their apostleship and
-authority, nay, denied their truth and reviled their persons, even slaying or
-banishing them?”
-
-# Text
-
 As I think about your question, three conceptions of truth and knowledge come
 to mind.
 
@@ -600,14 +563,6 @@ aspirational. It is a light in the darkness that leads us to places we might
 not have chosen for ourselves. But I don’t know if truth and knowledge in this
 domain are small enough to fit within the frame of human thinking. We work
 among the shadows cast, not its brilliant Sun.
-
-# Text
-
-Yes, it’s a constant challenge to me, to appreciate the merits of this world
-in its role of hollowing us out and refining us, sharpening our vision and
-purifying our heart, to such a degree that when the Divine finally appears
-before us, we respond with the love of our entire being. Darkness makes the
-eye keener.
 
 # Poem
 
