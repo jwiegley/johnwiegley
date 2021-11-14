@@ -1,5 +1,161 @@
 # Text
 
+What merit has the caterpillar to pride itself on its strong legs?
+
+# Text
+
+The beauty of the caterpillar cannot transit the chrysalis
+
+# Text
+
+What is the space trying to do?
+
+Is it about white understanding? Is it learning about black culture? Is it
+like our Boot Camp meeting? Is it creating a safe space for black people?
+
+# Text
+
+What is it that attracts us to one another, even physically? Is this something
+that can change as our ability to see and appreciate one another changes?
+
+# Text
+
+Notes from Bennett on my racial justice presentation
+
+I said “racism is white people hating black people”, but it is more nuanced
+than that. Some people do hate, but more people than that just don’t care.
+
+It is a common experience for Black people in our Faith — and I now regard it
+as a threat — if a person of color says something that makes a White person
+feel uncomfortable, that White person may call them “dis-unifying” and in so
+doing exclude them from the community. Martine even said that she would rather
+have someone call her the n-word than to call her disunifying.
+
+Memorize the passage about a supreme effort from Shoghi Effendi.
+
+He loved “see their anger as an opportunity”.
+
+Many White people do not realize that is it a MIRACLE that Black people have
+survived and thrived as well as they have through the centuries.
+
+We’ve heard plenty of nice words but we haven’t seen things change. We haven’t
+seen a change in the implementation of “a supreme effort” I'm familiar with
+the quote, but based on what I've seen I associate words "mild as milk" with
+an insincere performance of racial amity. — Bennett Quote
+
+Another quote to share:
+
+Of all pilgrimages the greatest is to relieve the sorrow-laden heart. SWAB
+#52, p. 92
+
+John: It troubles me that this is mainly about racism in our Bahá’í community,
+when it should be about how wonderful Black people are and why the f**k we
+aren’t experiencing this Faith with them to the degree that we could be.
+
+Finish the last slide with Resources
+
+- The 4 Minneapolis videos
+- “Champions of Oneness”: This book paints a picture of the efforts at race
+  amity just after ‘Abdu’l-Bahá visited America.
+- “So You Want to Talk about Race”
+- “Stamped from the Beginning: The History of Racist Ideas”
+- myworktodo.com
+- worldembracing.net
+- Rooting Out Racism Boot Camp
+
+(Resources that I've added:)
+
+- Black Thoughts
+- From Copper to Gold
+
+# Text
+
+Feedback on presentation from Aaron and Regina
+
+- At the end of the presentation, offers links to everywhere else people might
+  go to find more information.
+- Explain at the beginning that I’m going to be sharing with people that this
+  is _my_ journey, and that at the end I’ll be offering things that people can
+  include into their journey.
+- Get permission to share from Van to share an anecdote about what he shared
+  that evening in Chicago.
+- Also, in the slides I have Martine, Aziza, Sandy, and others, and maybe
+  they’d be willing to offer anecdotes about things that hurt their hearts and
+  prompted them in this path. What was the impact of whiteness on them?
+- Ask them if they remember any ways in which I was impacting the Black
+  community that I did not realize.
+- Would they maybe be willing to be video’d describing their experiences?
+  Dawnée would be perfect for this.
+- Regina likes that it doesn’t become accusatory or have to hang their heads.
+- Soul food restaurants are also African!
+- Pull people in closer, it’s very relatable when you offer people your
+  stories — Regina Jonker
+- Copper to Gold signup page:
+  https://docs.google.com/forms/u/1/d/e/1FAIpQLScS1PKdYiJh_X1LW89PKqX1d7fahy6G9nZ4KdxbVZz3MCjsWg/viewform
+- Also include Barbara’s information (embracing.net)
+- Sherlyn’s stuff on racial justice
+- Mention how each time I’ve reached out, it has turned out wonderfully
+
+# Text
+
+If we experience failure from the perspective of a humble posture of learning,
+failure makes the mind ready for what it needs to learn. Otherwise, it can
+become a barrier, a discouragement. It’s like tilling the toil: Until the
+ground is broken up, the seed may not take. Sometimes we have to discover
+where our weaknesses are so we can learn where greater strength must be shored
+up.
+
+# Text
+
+These moral guidelines are not a mere mundane consideration. What we do can
+have an effect on the world of the spirit, “God is My Witness! The brightness
+of the light of chastity sheddeth its illumination upon the worlds of the
+spirit, and its fragrance is wafted even unto the Most Exalted Paradise.” --
+and this spirit is what will have the greatest effect, in time, on the
+development of the earth.
+
+# Text
+
+The problems of society are not external to its members, but require a
+solution that begins in the heart.
+
+# Text Recurring observations
+
+- Make “I” statements.
+- Relate it to rooting out racism.
+- Listen to what people say, so if you respond it honors the context.
+- What something “means to me” doesn’t matter if Shoghi Effendi has already
+  made a clear point. What matters is how I apply that.
+- What does it all mean when applied to a spiritual being having a bodily experience?
+
+# Text
+
+Chastity is trespassed whenever we allow the physical to take priority over
+the spiritual.
+
+Our culture uses chastity as a brand to define character, such that any lack
+of chastity is a stain on your soul that remains with you.
+
+# Text
+
+Whenever a sentence contains the word “we”, change it on the spot and say “I”.
+I’ve found that the group receives more from me when I try to share myself and
+my heart, than when I try to share wisdom or advice.
+
+# Text
+
+I think we have rarely glimpsed our true being as it relates to God. What we
+notice most of the time, what we become dismayed by, is our veiled self. But
+this is just a vehicle along the path of becoming. To be upset by who we
+appear to be now is like a caterpillar disliking his slow feet... :)
+
+# Text
+
+Knowledge alone is like trying to satisfy hunger by eating the flour and
+butter, separate from the baking.
+
+# Text
+
 Do not think merely that you live in a reality you have little ability to
 change or affect. Rather, you have the power to construct whatever reality you
 most believe in, because the Holy Spirit is engaged whenever faith and action
