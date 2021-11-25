@@ -1,5 +1,27 @@
 # Text
 
+Whiteness has created a harsh and unforgiving landscape, and we fear that
+tearing down barriers will subject us to our own creation.
+
+# Text
+
+To me, puritanism is when I start making religion about me, and God moves into
+the background. Racial prejudice is when I make people about their
+differences, and my perception of the divine disappears.
+
+A relationship with the Divine is fertilized by mistakes, since these not only
+make us compassionate with others, but it helps tear down the
+
+Idol of self throned in our heart — so long as I avoid puritanism.
+
+# Text
+
+The body of humanity is not merely a collection of contending interests
+battling for opportunity: We are a common spirit yearning toward its true
+nature.
+
+# Text
+
 What merit has the caterpillar to pride itself on its strong legs?
 
 # Text
@@ -17,84 +39,6 @@ like our Boot Camp meeting? Is it creating a safe space for black people?
 
 What is it that attracts us to one another, even physically? Is this something
 that can change as our ability to see and appreciate one another changes?
-
-# Text
-
-Notes from Bennett on my racial justice presentation
-
-I said “racism is white people hating black people”, but it is more nuanced
-than that. Some people do hate, but more people than that just don’t care.
-
-It is a common experience for Black people in our Faith — and I now regard it
-as a threat — if a person of color says something that makes a White person
-feel uncomfortable, that White person may call them “dis-unifying” and in so
-doing exclude them from the community. Martine even said that she would rather
-have someone call her the n-word than to call her disunifying.
-
-Memorize the passage about a supreme effort from Shoghi Effendi.
-
-He loved “see their anger as an opportunity”.
-
-Many White people do not realize that is it a MIRACLE that Black people have
-survived and thrived as well as they have through the centuries.
-
-We’ve heard plenty of nice words but we haven’t seen things change. We haven’t
-seen a change in the implementation of “a supreme effort” I'm familiar with
-the quote, but based on what I've seen I associate words "mild as milk" with
-an insincere performance of racial amity. — Bennett Quote
-
-Another quote to share:
-
-Of all pilgrimages the greatest is to relieve the sorrow-laden heart. SWAB
-#52, p. 92
-
-John: It troubles me that this is mainly about racism in our Bahá’í community,
-when it should be about how wonderful Black people are and why the f**k we
-aren’t experiencing this Faith with them to the degree that we could be.
-
-Finish the last slide with Resources
-
-- The 4 Minneapolis videos
-- “Champions of Oneness”: This book paints a picture of the efforts at race
-  amity just after ‘Abdu’l-Bahá visited America.
-- “So You Want to Talk about Race”
-- “Stamped from the Beginning: The History of Racist Ideas”
-- myworktodo.com
-- worldembracing.net
-- Rooting Out Racism Boot Camp
-
-(Resources that I've added:)
-
-- Black Thoughts
-- From Copper to Gold
-
-# Text
-
-Feedback on presentation from Aaron and Regina
-
-- At the end of the presentation, offers links to everywhere else people might
-  go to find more information.
-- Explain at the beginning that I’m going to be sharing with people that this
-  is _my_ journey, and that at the end I’ll be offering things that people can
-  include into their journey.
-- Get permission to share from Van to share an anecdote about what he shared
-  that evening in Chicago.
-- Also, in the slides I have Martine, Aziza, Sandy, and others, and maybe
-  they’d be willing to offer anecdotes about things that hurt their hearts and
-  prompted them in this path. What was the impact of whiteness on them?
-- Ask them if they remember any ways in which I was impacting the Black
-  community that I did not realize.
-- Would they maybe be willing to be video’d describing their experiences?
-  Dawnée would be perfect for this.
-- Regina likes that it doesn’t become accusatory or have to hang their heads.
-- Soul food restaurants are also African!
-- Pull people in closer, it’s very relatable when you offer people your
-  stories — Regina Jonker
-- Copper to Gold signup page:
-  https://docs.google.com/forms/u/1/d/e/1FAIpQLScS1PKdYiJh_X1LW89PKqX1d7fahy6G9nZ4KdxbVZz3MCjsWg/viewform
-- Also include Barbara’s information (embracing.net)
-- Sherlyn’s stuff on racial justice
-- Mention how each time I’ve reached out, it has turned out wonderfully
 
 # Text
 
@@ -170,12 +114,11 @@ misused to relate us to the unreal.
 > …forsake the inner land of unreality for thy true station…
 
 The greatest potential of our being can also be our greatest weakness. We have
-the capacity, within our heart, to directly relate to something which is
-infinite, unknowable and unseen. Our weakness arises because of our ability to
-confuse the unseen with what is unreal. Thus, our heart can become bound to
-things that are merely an invention of the mind, through the same capacity,
-making it supremely difficult to engage our heart in the manner for which it
-was created.
+the capacity to relate to something that is infinite, unknowable and unseen.
+Our weakness arises because of our ability to confuse the unseen with what is
+unreal. Thus our heart can bind itself to things that are an invention of the
+mind, through that same capacity, making it a challenge to engage the heart in
+the manner it was created for.
 
 # Text
 
@@ -220,29 +163,26 @@ A few thoughts on this excellent question:
 I think that we, as a species, are still very far from having a healthy and
 intimate relationship with the Creator. A capacity exists with our heart and
 souls to connect to Him, but we haven't learned to rely on that connection
-yet; and what we call "religion" today often prevents this very connection
-from forming, instead focusing on training and restricting the body and mind
-instead of liberating one's spiritual sensibilities. Not that physical
-strictures are without merit, mind you, but they've been made primary, to the
-extent that entire lives are lived in the service of ethics, without any other
-point to those ethics than "heaven in the afterlife".
+yet. What we call "religion" today often _prevents_ this connection from
+forming, since it instead focuses on training and restricting the body and
+mind instead of liberating one's spiritual sensibilities. Not that physical
+strictures are without merit, but they've become primary, to the extent that
+entire lives are lived in the service of ethics, without a point to those
+ethics beyond "heaven in the afterlife".
 
 Since we do not have a society where God is center, there is a deep void that
-we -- everyone -- scrambles to fill. We are beings made to receive the Light,
-but, having been kept in darkness, we rush toward every shining thing that
-manifests a glimmer of a reflection. And thus we are drawn to the beauty of
-people and things and worldly realities with an outsized reaction: Because we
-are so famished for Truth, our hunger drives us to scarf down whatever we find
-as intensely as possible.
+we seek to fill. We are beings of the Light, but, having been kept in
+darkness, we rush toward any shining thing: to the beauty of people and things
+and worldly realities, to an outsized degree. Because we are so famished for
+Truth, we scarf down whatever promises truth as intensely as possible.
 
-In such a state, sexuality is seen almost as a vehicle of deliverance, and a
-foundation of identity. It feels good, it momentarily transports us from the
-dreariness of existence, it offers a brief moment of ethereal connection. But
-then this semblance of true embrace quickly vanishes, and the emptiness
-returns.
+In such a state, sexuality is almost seen as a vehicle of deliverance, a
+foundation for identity. It feels good, it momentarily transports us from the
+bounds of our mind, offering a brief instant of ethereal connection. Then the
+semblance of true embrace vanishes, and the emptiness returns.
 
 In a mature society, people will not look to the world to satisfy a host of
-desires. They will desire to look after the world.
+desires; they will desire to look after the world.
 
 # Text
 
@@ -281,8 +221,8 @@ use it to measure the future.
 
 # Text
 
-The Seven Valleys invites us on a journey toward *nothingness*, that we might
-find the way of the soul. So it makes complete sense to me that a spiritual
+The Seven Valleys invites us on a journey toward *nothingness*, to find the
+way of the soul. It makes complete sense to me, then, that a spiritual
 enterprise would ask us to leave ourselves at the door before we can proceed.
 
 # Text
@@ -325,9 +265,9 @@ loved one.
 
 I don’t believe that race unity is about me, as a white person, seeing the
 value and uniqueness of all people. It is about those oppressed due to their
-perceived race being able to tell me that their oppression is now over. Until
-that day, my opinions and outlook are borderline irrelevant. What I have to do
-— my duty in this struggle — is to identify and fight against those tendencies
+perceived race being able to tell me that their oppression has ended. Until
+then, my opinions and outlook are borderline irrelevant. What I have to do —
+my duty in this struggle — is to identify and fight against those tendencies
 and systems that perpetuate this oppression in society.
 
 And yes, I am intentionally shifting responsibility toward those who created
@@ -669,33 +609,6 @@ invalidate beliefs, and read avidly from opinionated sources that do.
 
 # Text
 
-My inspired rendering of a poem on love by Na'im Madyun:
-
-Born of the Spirit:
-Love nurtures our spirit;
-As the holy light shines
-its light in the mind
-is that Love Divine.
-Love draws us in
-A swirl of gravity's
-world-embracing drawing-in
-of all that is:
-the natural way.
-Strongest when truth
-is most near
-and most dear;
-a mighty magnet
-a lodestone
-the Philosopher's Stone
-each being in love
-is this love becoming known
-by pain, through pain,
-a cascading rain
-that knows no end
-to the knowledge.
-
-# Text
-
 As I think about your question, three conceptions of truth and knowledge come
 to mind.
 
@@ -813,7 +726,7 @@ addition of the following:
 
 I don’t believe in God or the other worlds by themselves because I can’t see
 them, and have no experiential evidence of any kind that they exist. The crux
-of the matter comes down to believing in whomever says they are real (e.g.,
+of the matter comes down to believing in whoever says they are real (e.g.,
 Jesus, Muhammad, Moses, etc.).
 
 I think the real difference to “religious thinking” (for many religions,
@@ -930,92 +843,6 @@ think we are. All humans deserve the same assumption of dignity and potential
 as everyone else. Until then, expect to be exhausted convincing people of the
 obvious.
 
-# Going off the rails, slowly
-
-An observation on Zen, as I see it spoken of in this community and online.
-
-It's as though a new plant, growing in the forest, suddenly became aware of
-itself and how different it is from everything else. Obsessed with its
-differences it begins to enumerate them, define them, magnify them. Pretty
-soon it knows what it is and what other things aren't and this is its world.
-
-Enter Zen. Without saying that the plant is not a plant, Zen breaks down the
-names and divisions, until the plant begins to see something that was
-invisible before, since it's everywhere and nowhere: the ecosystem as a whole.
-Of course, the ecosystem doesn't exist in any one place, you can't point to
-it, you can't see it operating, but the whole organism of the forest is this
-ecosystem and everything a momentary part of its operation. This is why the
-plant is there, its role, and why it must also leave at some point. In this
-view, life and death are not in conflict, they aren't even really divided.
-There is just the great ongoing life of it all, ever-changing, always the
-same.
-
-Enter Zen practitioners. While Zen implies a degree of selflessness such that
-the plant sees its own being as both essential to its awareness (being where
-its see things from) and completely inessential -- sort of the way a body is
-necessarily made up of cells, but no one cell is more "the body" than any
-other -- Zen practitioners that I've read about seem to have gone off the
-rails at some point, rather slowly. Instead of the plant unifying with the
-undefinable ecosystem, it instead uproots itself, finds a lonely mountain or
-social enclave apart from the majority, and settles itself there to stare at a
-wall and contemplate nothing at all. Being empty of thought is "The Way", even
-if the tenth ox painting sees you back at the tavern.
-
-I just wouldn't expect Zen to lead anyone to think they were apart from me, or
-better than me, or beyond me. I would expect them to know themselves *as* me
--- our real me -- without thought needed for it to be obvious.
-
-I also think Zen gets confused with the purpose of life. I see it as a
-rigorous methodology suited to becoming aware of, and then popping, the
-non-existent-yet-interfering bubble of illusion with which the human mind is
-entrapped due to how our thinking evolved from childhood. If you will, it aims
-at birthing us from the caul of adolescent consciousness.
-
-However, it says *almost nothing* about what is seen and experienced beyond
-this point, since any attempt to do so would convey information that cannot,
-by definition, be correctly processed.
-
-Could you be an awakened person who adheres to a physical regimen of
-systematic hedonism? I don't see why not. If anything, you simply wouldn't be
-led by conceptions about it, or be attached to it as a means of emotive
-ideation. Could you go the opposite direction and adhere to self-flagellating
-asceticism? Sure. In this sense, I understand the method of Zen to be
-"a-systematic", in that it eliminates the artificial systems we cling to, by
-awakening to their non-being, in order to leave you free to interact with the
-world how you will.
-
-On the flip side, I take issue with the example presented by Bodhidharma,
-which seems to suggest that the pinnacle of an awakened mind is to sit in
-front of a wall for a decade. When Zen is taken to be "the whole deal", it
-becomes far too nihilistic. It then seems to offer nothing but the elimination
-of all established meaning, anywhere and everywhere, and leaving behind only
-silence and void.
-
-Instead, I think cancelling the "self" by means of awakening to the
-ever-present void is merely the first moment of awareness, like waking up
-after a long slumber. There is an entire world beyond that point, and none of
-it (thankfully!) is to be found in the Writings of Zen masters. I admire the
-purity of their devotion to exposing delusion, leaving us with no false dreams
-to cling to.
-
-Zen is great at striking you dumb in the face of mystery; but it should not be
-seen as diminishing, in the slightness, the greatness of that mystery, or how
-much is yet to be known of this existence.
-
-The idea here is not that Zen isn't an additive game: it's that you're not
-required to play any game, no matter how real or necessary others believe it
-to be. How you react to a situation, how you feel about it, how you see it, is
-not determined by that situation or forced upon you, but arises from the fact
-that *you agreed to play by its rules*. You can't find your way out by gaming
-the system or beating the rules, as that only gives them further strength and
-validity. You have to see the nature of your imprisonment and then you can
-decide what you want to do, freely.
-
-> "We never had to take any of it seriously, did we?" she whispered.
-> "No, we never had to." -- Atlas Shrugged
-
-> "You think that's air you're breathing?" -- Morpheus
-
 # Marriage
 
 Marriage is a great suggestion, if you find a good partner who understands you
@@ -1100,43 +927,6 @@ a whole education in a world you know how to maneuver within. None of that
 prepares you for what’s sitting in the mirror.
 
 Talk about the hot iron ball.
-
-# Manifestation of God/Holy Spirit/Maid of Heaven Uncreated? by parentscooking in bahai
-
-This is actually a fairly subtle point, as evidenced by the volume of words
-you've received in response. It concerns the station of the Primal Will, and
-how it came into being. The Báb writes:
-
-> Bear thou witness ... that verily God, glorified be He, hath ever been, and
-  will ever exist without anything to exist with Him. He verily hath created
-  all things by virtue of His Will (Mashiyyah), and hath created the Will by
-  Itself, out of nothing else.... All things are created and affected by It.
-
-When you think of God "creating" something, it necessarily binds the created
-with the Creator in a relationship where both parties are existent: first
-there was one, now there are two. However, the initial "sprinkling from the
-clouds of Unknowing" -- the origin of the Will -- does not follow this mundane
-concept of creation, since in those terms we think of "firstness" and
-"beginning", yet the Primal Will is independent of these. The Báb also writes:
-
-> It is this Primal Will which appeareth resplendent in every Prophet and
-  speaketh forth in every revealed Book. It knoweth no beginning, inasmuch as
-  the First deriveth its firstness from It; and knoweth no end, for the Last
-  oweth its lastness unto It.
-
-I have no handy analogy to describe the Uncreated. Countless mystical books
-will take you to the door of this thought, but remain silent thereafter. It
-defies all words and concepts:
-
-> Such is the state of the wayfarers in this Valley; but the people of the
-  Valleys above this see the end and the beginning as one; nay, they see
-  neither beginning nor end, and witness neither “first” nor “last.” Nay
-  rather, the denizens of the undying city, who dwell in the green garden
-  land, see not even “neither first nor last”; they fly from all that is
-  first, and repulse all that is last. For these have passed over the worlds
-  of names, and fled beyond the worlds of attributes as swift as lightning.
-  Thus is it said: “Absolute Unity excludeth all attributes.” And they have
-  made their dwelling-place in the shadow of the Essence.
 
 # Birth and Death by [deleted] in zen
 
@@ -2859,59 +2649,6 @@ requires this morass of ignorance and blindness for the truth to become
 obvious. Perhaps what God has done is subtle, befitting His reality, and it is
 the journey of the soul to ultimately experience the joy of appreciating it.
 And perhaps this was done from love, and no other reason.
-
-# Once again. Nothing exists?
-
-bamboo swings
-green eyes widen
-the crack of dawn
-
-# How do I become more humble?
-
-What you are is never changing, and you can't put a finger on it. It can't be
-humble, it can't be proud. It's only ever aware.
-
-What you're aware of is always changing. You're aware of these emotions that
-arise unbidden within you, and, using a matrix of societal norms, you give
-them names and judge them good or bad, better or worse, etc.
-
-Since before you could speak, this matrix has been layered onto you, to help
-you fit in, help you become a productive and predictable member of society.
-This is what the community does to survive. But you're none of these things,
-and never have been. We don't choose our desires, our dispositions, our
-reactions. So many of these things are probably just chemical, even though
-they submit to a certain amount of control.
-
-The error lies in identification, which gives rise to the emotional bind, and
-then to baseless joy and sorrow. A roller-coaster of feelings that seem more
-real than the air around you.
-
-There is no "answer" to make this stop. Only see these things, watch them come
-and go, get a feel for what your existence really is. What's left at the end
-of the day, once all these emotions and reactions quiet down? What's different
-tomorrow, or the next day? What stays the same?
-
-In struggling to gain the upper hand and master such demons, we make the road
-longer and more difficult. This is probably what brings about so much
-frustration and agitation: the inability to control what is no more than a
-vapor in the desert.
-
-Whatever seems complex, layered, rich with distinctions, discard it. What you
-call "you" is built up from so many tiny, illusory bricks; and even though we
-weren't aware of it most of the time, we allowed every one to be fit into
-place. The arguments we wage in our head? They aren't ours. The beliefs we
-hold so dear? Not ours. The ideas, logic, the scaffolding of wisdom to help us
-rationalize life? All borrowed.
-
-What you really are is none of these. As you breathe, in and out: there, that.
-It cannot be separated, and needs no joining. Only refrain from picking and
-choosing.
-
-This doesn't mean you won't feel rage anymore if somebody cuts you off the
-road. Only, it should seem a curious thing, this reaction; and then, after
-time has passed, more so, until almost amusing. The key lies not in what you
-feel, but in really seeing it, feeling it fully, honestly, and then deciding
-if you'll choose to own it, or let it be.
 
 # I think I've finally discovered what enlightenment actually is...
 
