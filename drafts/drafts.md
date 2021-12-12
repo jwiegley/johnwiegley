@@ -1,5 +1,10 @@
 # Text
 
+The first drop is the beginning of the flood. And I can't hold back a flood,
+but if I hold back the first drop, then I don't have to.
+
+# Text
+
 Whiteness has created a harsh and unforgiving landscape, and we fear that
 tearing down barriers will subject us to our own creation.
 
