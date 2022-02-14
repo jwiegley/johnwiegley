@@ -7,7 +7,7 @@ tags: poetry
 | the ocean of mystery
 | I dipped my simple cup
 |
-| Yea, it was wet
+| Yes, it was wet
 | it slaked my thirst
 | it tasted of the sea
 | it filled me up...
@@ -18,10 +18,11 @@ tags: poetry
 | nor place for whales to sleep
 |
 | To know these, I could not bring
-| the sea to me in my familiar cup
+| the sea to me
+| in my familiar cup
 |
-| Rather must I to dive
-| out far beyond the shore
+| Rather must I dive
+| out beyond the shore
 | and, losing sight of land,
 | learn the language of the fishes
-| so in silence her mysteries to keep
+| in silence her mysteries to keep.

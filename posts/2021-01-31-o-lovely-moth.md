@@ -1,5 +1,5 @@
 ---
-title: O lovey moth!
+title: O lovely moth!
 tags: poetry
 ---
 

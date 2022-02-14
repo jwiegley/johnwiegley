@@ -1,134 +1,8 @@
 # Text
 
-The first drop is the beginning of the flood. And I can't hold back a flood,
-but if I hold back the first drop, then I don't have to.
-
-# Text
-
-Whiteness has created a harsh and unforgiving landscape, and we fear that
-tearing down barriers will subject us to our own creation.
-
-# Text
-
-To me, puritanism is when I start making religion about me, and God moves into
-the background. Racial prejudice is when I make people about their
-differences, and my perception of the divine disappears.
-
-A relationship with the Divine is fertilized by mistakes, since these not only
-make us compassionate with others, but it helps tear down the
-
-Idol of self throned in our heart — so long as I avoid puritanism.
-
-# Text
-
-The body of humanity is not merely a collection of contending interests
-battling for opportunity: We are a common spirit yearning toward its true
-nature.
-
-# Text
-
-What merit has the caterpillar to pride itself on its strong legs?
-
-# Text
-
-The beauty of the caterpillar cannot transit the chrysalis
-
-# Text
-
-What is the space trying to do?
-
-Is it about white understanding? Is it learning about black culture? Is it
-like our Boot Camp meeting? Is it creating a safe space for black people?
-
-# Text
-
-What is it that attracts us to one another, even physically? Is this something
-that can change as our ability to see and appreciate one another changes?
-
-# Text
-
-If we experience failure from the perspective of a humble posture of learning,
-failure makes the mind ready for what it needs to learn. Otherwise, it can
-become a barrier, a discouragement. It’s like tilling the toil: Until the
-ground is broken up, the seed may not take. Sometimes we have to discover
-where our weaknesses are so we can learn where greater strength must be shored
-up.
-
-# Text
-
-These moral guidelines are not a mere mundane consideration. What we do can
-have an effect on the world of the spirit, “God is My Witness! The brightness
-of the light of chastity sheddeth its illumination upon the worlds of the
-spirit, and its fragrance is wafted even unto the Most Exalted Paradise.” --
-and this spirit is what will have the greatest effect, in time, on the
-development of the earth.
-
-# Text
-
-The problems of society are not external to its members, but require a
-solution that begins in the heart.
-
-# Text Recurring observations
-
-- Make “I” statements.
-- Relate it to rooting out racism.
-- Listen to what people say, so if you respond it honors the context.
-- What something “means to me” doesn’t matter if Shoghi Effendi has already
-  made a clear point. What matters is how I apply that.
-- What does it all mean when applied to a spiritual being having a bodily experience?
-
-# Text
-
-Chastity is trespassed whenever we allow the physical to take priority over
-the spiritual.
-
-Our culture uses chastity as a brand to define character, such that any lack
-of chastity is a stain on your soul that remains with you.
-
-# Text
-
-Whenever a sentence contains the word “we”, change it on the spot and say “I”.
-I’ve found that the group receives more from me when I try to share myself and
-my heart, than when I try to share wisdom or advice.
-
-# Text
-
-I think we have rarely glimpsed our true being as it relates to God. What we
-notice most of the time, what we become dismayed by, is our veiled self. But
-this is just a vehicle along the path of becoming. To be upset by who we
-appear to be now is like a caterpillar disliking his slow feet... :)
-
-# Text
-
-Knowledge alone is like trying to satisfy hunger by eating the flour and
-butter, separate from the baking.
-
-# Text
-
-Do not think merely that you live in a reality you have little ability to
-change or affect. Rather, you have the power to construct whatever reality you
-most believe in, because the Holy Spirit is engaged whenever faith and action
-fall into line with the Holy Writings. This is a Force that cannot be
-resisted, not even by the mountains themselves.
-
-# Text
-
-The inner faculty that can be used to relate us to the Unseen, can also be
-misused to relate us to the unreal.
-
-> …forsake the inner land of unreality for thy true station…
-
-The greatest potential of our being can also be our greatest weakness. We have
-the capacity to relate to something that is infinite, unknowable and unseen.
-Our weakness arises because of our ability to confuse the unseen with what is
-unreal. Thus our heart can bind itself to things that are an invention of the
-mind, through that same capacity, making it a challenge to engage the heart in
-the manner it was created for.
-
-# Text
-
-It’s not enough to fix a problem. We have to demonstrate that the very
-existence of the problem is unconscionable to us.
+I hold the memory
+like dark embers in my heart
+that give off only heat.
 
 # Text
 
@@ -139,11 +13,6 @@ been weighed down by shackles we cannot see. We were created to soar, but
 we've spent lifetimes struggling in the dirt. Once we find the willingness to
 take whatever it takes to free ourselves and get past this burden, let me tell
 you the outcome will be glorious for all of us, not just a few.
-
-# Text
-
-We move forward through deepening our relationship to the good, not reacting
-to what is evil.
 
 # Text
 
@@ -181,10 +50,10 @@ darkness, we rush toward any shining thing: to the beauty of people and things
 and worldly realities, to an outsized degree. Because we are so famished for
 Truth, we scarf down whatever promises truth as intensely as possible.
 
-In such a state, sexuality is almost seen as a vehicle of deliverance, a
+In such a state, sensuality is almost seen as a vehicle of deliverance, a
 foundation for identity. It feels good, it momentarily transports us from the
-bounds of our mind, offering a brief instant of ethereal connection. Then the
-semblance of true embrace vanishes, and the emptiness returns.
+bounds of the mind, offering a brief instant of ethereal connection. Then the
+semblance of true embrace vanishes and the emptiness returns.
 
 In a mature society, people will not look to the world to satisfy a host of
 desires; they will desire to look after the world.

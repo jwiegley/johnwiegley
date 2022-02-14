@@ -8,8 +8,8 @@ tags: poetry
 | the sun rise and set;
 | asks the master:
 |
-| "How often has the Sun
-| turned around the Earth?"
+| "How long has the Sun
+| turned round the Earth?"
 |
 | Hears reply:
 | "Not yet."

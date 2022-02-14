@@ -53,7 +53,7 @@ An analogy may help here: A car driver who is intent on winning a race cannot be
 
 Likewise, the mystic traveler (*saalik*) strives for a condition of self-nothingness (*faná*) the flip-side of which might be called "God-everythingness" (*baqá*).  It is like the fading away of a tiny light in the presence of a much brighter one -- a candle before the everlasting Sun.
 
-This act of turning from the self to the Divine is expressed by *tawajjuh*, though in other contexts it has been described as a series of "steps", the steps one takes in the journey from self to God.  This particular interpretation is mentioned by Bahá'u'lláh a text not yet translated (errors are my own), found in *Má'idiyyih Asmani*, Vol.8, pp.21-22:
+This act of turning from the self to the Divine is expressed by *tawajjuh*, though in other contexts it has been described as a series of "steps", the steps one takes in the journey from self to God.  This particular interpretation is mentioned by Bahá'u'lláh a text not yet translated (errors are my own), found in *Má'idiyyih Ásmání*, Vol.8, pp.21-22:
 
 > He saith, exalted be He: O Muhammad-Taqí! Upon thee be My glory and My mercy! Today the king of all knowledge is the recognition of God. Every soul who acknowledgeth and confesseth His oneness is numbered with the people of Bahá, the companions of the Crimson Ark, who have been inscribed in the Book of Names by the Most Exalted Pen.
 >
