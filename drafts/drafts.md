@@ -1,11 +1,5 @@
 # Text
 
-I hold the memory
-like dark embers in my heart
-that give off only heat.
-
-# Text
-
 Although what I have to share today is going to be difficult and I'll be
 asking you to do things that are unpleasant and uncomfortable, yet I want you
 to know that deep down, this is a message of joy. Because as a species we've
@@ -32,106 +26,7 @@ place.
 
 # Text
 
-A few thoughts on this excellent question:
-
-I think that we, as a species, are still very far from having a healthy and
-intimate relationship with the Creator. A capacity exists with our heart and
-souls to connect to Him, but we haven't learned to rely on that connection
-yet. What we call "religion" today often _prevents_ this connection from
-forming, since it instead focuses on training and restricting the body and
-mind instead of liberating one's spiritual sensibilities. Not that physical
-strictures are without merit, but they've become primary, to the extent that
-entire lives are lived in the service of ethics, without a point to those
-ethics beyond "heaven in the afterlife".
-
-Since we do not have a society where God is center, there is a deep void that
-we seek to fill. We are beings of the Light, but, having been kept in
-darkness, we rush toward any shining thing: to the beauty of people and things
-and worldly realities, to an outsized degree. Because we are so famished for
-Truth, we scarf down whatever promises truth as intensely as possible.
-
-In such a state, sensuality is almost seen as a vehicle of deliverance, a
-foundation for identity. It feels good, it momentarily transports us from the
-bounds of the mind, offering a brief instant of ethereal connection. Then the
-semblance of true embrace vanishes and the emptiness returns.
-
-In a mature society, people will not look to the world to satisfy a host of
-desires; they will desire to look after the world.
-
-# Text
-
 Little do we know it, but we've been robbed of who we are.
-
-# Text
-
-A thought on moral rectitude:
-
-I am not the primary agent whom rectitude makes more effective; rather,
-rectitude opens a door to more powerful agencies.
-
-Like when a plant that finally opens up, the resulting growth comes not from
-its opening, but the newly discovered sun.
-
-This makes me think about White agency and how, though I work on myself, it’s
-the relationships that such work allows for that the real power comes from.
-
-# Text
-
-I'm not sure expertise is what we're going for, so as much as people willing
-to break themselves down so as to be built up again in the image of a new
-society.
-
-# Text
-
-Gnosis to the greeks was the opposite of opinion. True gnosis cannot be
-rejected or ignored, like an adult who is unwilling to put their hand into a
-fire, whereas a child who hasn’t been burned yet might do so from curiosity.
-
-# Text
-
-Don’t beat the past
-with the stick of the present:
-use it to measure the future.
-
-# Text
-
-The Seven Valleys invites us on a journey toward *nothingness*, to find the
-way of the soul. It makes complete sense to me, then, that a spiritual
-enterprise would ask us to leave ourselves at the door before we can proceed.
-
-# Text
-
-Dark times are favorable to the candle's qualities.
-
-# Text
-
-Al-Qushayri, the Sufi scholar, writes that the fear of God (تقوى) has three
-aspects: “… full trust in God with respect to what has not been granted to
-him; full satisfaction with what has been granted to him; and full patience
-with respect to what has eluded him."
-
-In terms of the lover and the Beloved, consider how a lover’s heart would be
-affected if he were offered a hundred mithqals of gold to betray his beloved.
-That reaction, if true to his love, is تقوى. I believe this state of being is
-also echoed in the following passage of the Kitáb-i-Aqdas:
-
-“Whoso hath inhaled the sweet fragrance of the All-Merciful, and recognized
-the Source of this utterance, will welcome with his own eyes the shafts of the
-enemy, that he may establish the truth of the laws of God amongst men.”
-
-In this state of being, one’s chastity of soul (that is, singleness of desire
-toward God) becomes so refined that even a single misstep from الصراط المستقيم
-would be reckoned as though stepping into white hot fire.
-
-Outwardly it is seen as fear, inwardly it is a condition of being. The تقوى of
-the body prevents one from holding their breath too long; the تقوى of the نفس
-is clinging to the Law and the Path with every fiber of one’s being; and the
-تقوى of the روح is the continual testimony: “… all exemplify the truth that
-there is none other God but Him”.
-
-Even between lover and beloved: Something causes him to take care that his
-words and actions will express his heart; he never acts carelessly toward his
-loved one.
 
 # Text
 
@@ -233,46 +128,6 @@ I feel it dripping off.
 
 # Text
 
-I had to comment in the large group because I felt like we give such a large
-head space to the cruelties of white AmeriKKKa, without seeing the absolute
-heroism and bounty of spirit Black Americans have demonstrated throughout, and
-how if we shift our consciousness in that direction we will find both friends
-and future.
-
-# Thoughts on accessorizing people of color
-
-We don’t just accessorize people of color in our media; it also reflects how
-we also accessorize them in our communities, such as when we regard their
-concerns as not being the same as “the concerns of the community”, but rather
-something that can be bypassed without repercussions.
-
-# The institution of the Mashriqu’l-Adhkar
-
-The institution of the Mashriqu’l-Adhkar establishes a concrete link between
-an uplifting sense of spirituality on the one hand and the fundamental
-requirements of social justice on the other: by providing both a space for
-devotion, and dependencies that serve and concentrate on the needs of society.
-Through this institution, these two become inseparable aspects of the
-devotional character of the community.
-
-# Text
-
-I think that our spirit abides in potentiality, where we are _capable_ of
-manifesting every name and attribute of God’s. Our consciousness is what we
-have awakened to and recognized. Although the relationship to our potential
-changes continually over the course of our existence, the soul itself is
-eternal and unchanging. `Abdu'l-Bahá wrote in the tablet to August Forel:
-
-"Now concerning mental faculties, they are in truth of the inherent properties
-of the soul, even as the radiation of light is the essential property of the
-sun. The rays of the sun are renewed but the sun itself is ever the same and
-unchanged."
-
-"Consider how the human intellect develops and weakens, and may at times come
-to naught, whereas the soul changeth not. "
-
-# Text
-
 May I suggest that in sensitive conversations like this, once we start
 comparing degrees of suffering we have perhaps missed the point. I had
 understood Robert's original comment to be saying something along these lines
@@ -321,98 +176,12 @@ pupil of the eye is black so as to attract the rays of the sun, for if it were
 another color -- that is, uniformly white -- it would not attract the rays of
 the sun."
 
-# Text
-
-However, we have a soul, a mystery beyond mysteries, and I have no idea what
-its capabilities are. Only God decides its movement. What I call “John” is a
-mortal thing, a limited self, who can only examine the Boundless Sea
-thimblefull by thimblefull. The soul associated with me is a thing of the
-deeps, though, and to honor this gift from God, I must cling only to humility,
-and recognition of my complete ignorance to ever conceive of the realities it
-may ultimately experience. When I give up my heart to love, the Beloved takes
-me places I cannot go; and after I return from those regions, my love only
-grows.
-
-# Text
-
-To dig deeper into the idiocy that was meant:
-
-During the battle of Nayriz, when Vahid and a group of dawn-breakers were
-standing off against an enormous and implacable foe, they would raise the call
-for prayer even though a hail of arrows was cutting down those who went up to
-give that call. But as soon as one would fall, another would take up their
-place to resume the call. No one asked whether their life was worth that
-sacrifice: they were of one spirit and eagerly threw their lives away.
-Beautiful idiots in the love of God!
-
-Today, being their spiritual descendants, we are facing a similar stream of
-arrows: of hatred, suspicion, bigotry, aloofness, estrangement. When we speak
-up in gatherings, as dear Justin did, we can be like those dawn-breakers
-raising the call to prayer. Our new vision of humanity is today’s call, so let
-none ask whether the discomfort caused is worth the effort — we must also be
-idiots in the name of love, love of one another and love of our God-given
-mission!
-
-# Text
-
-My share from Liz’s group: What’s needed isn’t for us as white people to
-uplift those facing difficulty; what’s needed is for us to stop _being_ the
-problem and to teach others like us to likewise stop. It’s wrong to think that
-the creator of a problem should view those being harmed as “needing our help”.
-
-## The soul of man
-
-The soul of man is a profoundly sensitive instrument, since it’s able to
-perceive the stirrings of the Divine.
-
-Like a wine taster, the palate must be cleansed, refined and trained to detect
-the slightest hint of different flavors to know how best to pair wines with
-food. Eating Doritos would corrupt this sensitivity, so such things must be
-reserved for a special time.
-
-In the case of sex, ordinary such passion overwhelm the mind, but God has
-created a fortress for well-being within which it can be experienced without
-ill effect.
-
-## Fasting
-
-We read that fasting, and then prayer, are the two greatest laws in the Bahá’í
-Dispensation. It’s interesting that during prayer you “come as you are”, and
-supplicate God from that place of humble sincerity. Fasting, on the other
-hand, subjects us to a condition that instills a change in our being. At the
-crudest level it’s only physical change, producing hunger and thirst, but
-there’s an ascending stair to it; it can also sharpen the appetite, foster an
-appreciation for wealth and poverty, weaken material devotion, create
-mindfulness, engender spiritual susceptibliities, and more…
-
-Religious prescriptions always have a purpose: they exist for the profit of
-man’s spiritual and social condition. So fasting, in producing this condition,
-is like a tree that bears its choicest fruit if we embrace it to the fullest —
-in much the same way that education best rewards the man who understands it as
-a gateway to the glorious heights of invention.
-
-Similarly, chastity has a very related purpose.
-
 # Poem
 
 Please send my love to Tahirih,
-her memory is ever
-like the sun
+her memory is ever like the sun
 that shines on my heart
-once the clouds
-of forgetting
-do part.
-
-# Text
-
-Regarding frankness: when I consider the people in this group, it makes me
-realize that anything, however unconscious, that would cause me not to cherish
-your wisdom, your fellowship, or would pause me in sacrificing my all for your
-well-being -- these things in my character are now my avowed enemy. I can only
-expunge them with continuing honesty, because otherwise they’ll remain a part
-of my identity and leave me at odds with my own heart. I cannot know love or
-God’s purpose if I continue to provide safe harbor in my unconscious to false
-conceptions about His loved ones.
+once the clouds of forgetting do part.
 
 # Racism PLP
 
@@ -456,33 +225,6 @@ friends.
 
 # Text
 
-I have thoughts on chastity, it being the wondrously hard puzzle that it is: I
-think human sexuality is just the tip of the iceberg. The original meaning is
-“morally pure”, and I think that purity has a spiritual purpose: to permit the
-sensitivity of the heart to become keen enough so we can sense the fragrances
-of God whenever they appear. Lust and desire simply cloud the heart, so it’s
-not about the evilness of that lust, but about the way it makes our goal
-harder to discover.
-
-# Text
-
-One facet of anti-racist work is moving away from group assessments to
-individual assessments. This means speaking about yourself and your own
-experience rather than the group you’re seen as being a part of; likewise,
-removing from your mind any and all beliefs about others that you have not or
-cannot personally experience. You can only determine the qualities of a person
-by spending time with them, forming connections with them, loving them; what
-you cannot know is who they are based on similarities they have with others
-you know or have formed opinions about.
-
-It is typical to think that our opinions are being regularly validated, but
-largely this is due to confirmation bias: the mind is tuned to highlight
-observations that match our expectations, and quickly forgetful of all those
-occurrences that don’t. Also, we typically do not seek out evidence to
-invalidate beliefs, and read avidly from opinionated sources that do.
-
-# Text
-
 As I think about your question, three conceptions of truth and knowledge come
 to mind.
 
@@ -506,83 +248,6 @@ aspirational. It is a light in the darkness that leads us to places we might
 not have chosen for ourselves. But I don’t know if truth and knowledge in this
 domain are small enough to fit within the frame of human thinking. We work
 among the shadows cast, not its brilliant Sun.
-
-# Poem
-
-A poem I wrote in 2020 that I think fits this channel today:
-
-Deep and dark,
-Pupil of the eye,
-your sight obscured
-by hatred's sty.
-
-They call them blind
-who cannot see:
-a cataract of white
-that must recede.
-
-# Text
-
-A goodly character can lift the story of a person's life to the rank of
-literature.
-
-# Text
-
-For me, the essence of it is that our focus should be on the beauty and hearts
-of our fellow believers, and the work we do on ourselves and our understanding
-should be to deepen and enrich and make true that connection. This is in
-opposition to the attitude of primarily concerning myself with my own
-deficiencies and trying to become “better”, which centers the inner debate on
-myself, and not on those whom I wish to know and love better.
-
-# Text
-
-As much as I appreciate capitalism, it dawned on me what feels off about
-taking it to extremes: the “ideal CEO” approximates an amoral sociopath who is
-willing to do literally anything the law allows to maximize shareholder value.
-Not evil, just beholden to the profit motive.‬
-
-# Text
-
-The Covenant of God, to use a scientific analogy, is why we have the
-confidence to call certain natural observations “laws” while wholeheartedly
-basing our lives on those principles. After all, nothing says that gravity
-must always be, yet it endures with a faithfulness that no one questions. One
-ignores it at their peril.
-
-# Text
-
-To my ears it sounds like a man standing on the shore of a great ocean, with
-an accurate measuring cup in hand, shouting to all who will listen: "See
-what's in my cup? They lie! This ocean is not deep blue as they say; it has no
-waves, no whales of the deep, no pearls of great price. Look at my cup! It may
-be wet, but so is my saliva, what need is there? It will not even quench my
-thirst."
-
-# Text
-
-Nothing pains me more about this life
-than that love is barred entry from all places:
-that eyes are closed sometimes;
-that hearts are hard sometimes.
-
-# The meaning of faith
-
-Faith is being certain you will succeed
-when all signs point to failure;
-
-Hearing a friend has betrayed you,
-but feeling no pause in your love
-until you’ve learned the whole truth;
-
-Listening sincerely to fools,
-since knowledge is sometimes hidden;
-
-Being uncertain of your ability,
-yet confident things will work out;
-
-Never becoming cynical or jaded
-or unwilling to find the best in people.
 
 # What is it like to be a deeply religious person?
 
@@ -612,20 +277,6 @@ that soul.
 That said, as a Bahá’í I believe that scientific truth should trump religious
 truth when the two disagree, since the former is based on real evidence, while
 the latter is too easily subject to personal opinions and point of view.
-
-# What is the science behind faith, many people believe God is not real but the feeling/power of faith is interesting?
-
-Date: 2017-03-13
-
-Many seem to think that belief in God should be based on His being obvious and
-easily proven to exist. Yet the nature of this life, with all its apparent
-contradictions, causes me to wonder if His not being obvious is the point of
-why we’re here.
-
-Say you’re the most famous person in all of existence; wouldn’t you like to
-know who your real friends are before you let them into your home? As
-Hollywood has shown in many films, sometimes you don’t discover who your real
-friends are until you test them.
 
 # What is it like to feel the holy spirit?
 
@@ -707,16 +358,6 @@ you identify with the one who fell. Living in the locus. I could quote lots of
 stuff about Mind here, but if you know where I'm headed, I don't need to; and
 if you don't, I'd just fail louder.
 
-# Text
-
-It taxes one’s sense of reality to see dehumanization actively taking place in
-the news, online, in the attitudes of friends... When did anyone have to
-qualify for decency, respect, love, or justice? History is so depressing in
-this regard and we are still not past it. We’re just not as evolved yet as we
-think we are. All humans deserve the same assumption of dignity and potential
-as everyone else. Until then, expect to be exhausted convincing people of the
-obvious.
-
 # Marriage
 
 Marriage is a great suggestion, if you find a good partner who understands you
@@ -765,55 +406,7 @@ who also suffer from it. You are fighting the true Jihad now, and it calls for
 warriors of outstanding resolve: not in the sense of strictness, but of
 overflowing spirit.
 
-# I'm not ready to give up. by already_satisfied in zen
-
-Is there a problem with things that are not zen, if they come and go? The moon
-is not zen. The day is not zen. Your words make sense because there are spaces
-between them that are not words. Zen is entirely lifted up by what is not zen,
-else there would just be.
-
-# A question about free-will, where does it come from? by diogov9  in bahai
-
-Human beings approach the unknown by referencing what is familiar. So at times
-we've thought of the universe as being naturalistic, animistic, mechanistic,
-computational, a product of probabilities, etc. All of these are "wrong", but
-each is a better approximation than the last, allowing us to utilize the
-potentialities of the world we inhabit.
-
-I think the question of free-will and the nature of God's omniscience is no
-different. If you consider that the limitations we're subject to may not even
-be a part of that truth, it allows for some pretty wild ideas to emerge.
-
-As an example of some thinking I've done along these lines in the past, here
-is a post from my blog:
-
-http://johnwiegley.com/2004/04/multilinearity-and-free-will/
-
-# This is a matter for strong people: another official AMA from WanderingRoninXIII by [deleted] in
-zen
-
-The practice of Zen is like having a worm in your brain, eroding concepts and
-leaving you with the realization that most of your motives in life are just as
-vapid and misdirected as you had feared. When you’ve spent half a life
-building up and relying on concepts, how the hell is popping that balloon
-supposed to leave you with any sense of how to face tomorrow? You’ve invested
-a whole education in a world you know how to maneuver within. None of that
-prepares you for what’s sitting in the mirror.
-
-Talk about the hot iron ball.
-
-# Birth and Death by [deleted] in zen
-
-Ideas don’t have power to influence you. The damning thing to realize is that
-you want to be influenced. You generate a sense of reality, and use the cycle
-of thought and feeling to cement that illusion. Why? Because you’re not ready
-for the alternative. The Void is like stepping off a cliff on a moonless
-night; except it’s only a cliff because you think it is.
-
 # merry no-christmas
-
-r/zen
-jwiegley
 
 You’ve come to a place that is prone to argue only one side of this question,
 so I’ll play the paradoxical devil’s advocate:
@@ -846,8 +439,11 @@ you’ll find here too. Yet none of us know, because the mind isn’t the tool o
 progress. We’re simply advocates of the ordinary, rather than believers in the
 extraordinary.
 
-# Huangbo Xiyun: The arising and the elimination of illusion are both illusory. Illusion is not
-something rooted in Reality; it exists because of your dualistic thinking. by [deleted] in zen
+# Text
+
+Huangbo Xiyun: The arising and the elimination of illusion are both illusory.
+Illusion is not something rooted in Reality; it exists because of your
+dualistic thinking.
 
 Good question, since I think it's neither active nor passive (perhaps a false
 dichotomy in this case), so let me give a mundane example to illustrate:
@@ -884,8 +480,11 @@ meaning and value, but instead only reduce awareness down to a plastic
 construct that is self-defined, such that to a large extent we seeing just
 what we've decided we're seeing.
 
-# Huangbo, Bankei and Layman P'ang: There can be no death for what was never born, so if it is
-unborn, it is obviously undying. There's no need to say it, is there? by [deleted] in zen
+# Text
+
+Huangbo, Bankei and Layman P'ang: There can be no death for what was never
+born, so if it is unborn, it is obviously undying. There's no need to say it,
+is there?
 
 > There seems to be a problem inherent in the very limitations of perception:
   perceiving through the senses and being bound to thoughts tends to allow the
@@ -913,10 +512,6 @@ thought, we might stop trying to observe what could happen, or gaze at the
 past reflecting on everything that did not happen.
 
 # Letter of Resignation to LSA - Thoughts?
-
-mit.edu/~jtidw...
-r/bahai
-jwiegley
 
 No Faith is easy to be a part of in its early days. Look at what happened to
 the companions of Noah. It would have been almost impossible for anyone to
@@ -969,9 +564,6 @@ Or my favorite expression of this sentiment, from The Seven Valleys:
 
 # This could've been my faith, had I only known.
 
-r/bahai
-jwiegley
-
 As a lover of things mystical, I find there is an impossibly wide gulf between
 our conceptions of God (which are always wrong) and our experience of God
 (which is always mysterious). From this standpoint, even the word "God" does
@@ -995,9 +587,6 @@ found is also, profoundly real.
 | is all that it believes.
 
 # Losing faith
-
-r/bahai
-jwiegley
 
 Here's a story I haven't told many people before...
 
@@ -1075,18 +664,7 @@ learning.
 I can't say much more than that. Find Bahá'u'lláh in your heart of hearts, and
 blind your eyes to all things else.
 
-# Do you pray?
-
-r/bahai
-jwiegley
-
-This reminds me of a takeaway from Greek philosophy: Real knowledge should be
-transformative, and real transformation can only be witnessed in behavior.
-
 # Baha'i Mysticism and Mystical Practices
-
-r/bahai
-jwiegley
 
 Interesting, I see it as affirming inner truths while correcting errors in
 outward notions. For example, a person may say they worship the Sun, and don't
@@ -1100,32 +678,7 @@ about transcending the limitations of the logical mind by the transports of
 love ("teach it the science of the love of God!"), to the end that one may
 recognize the True Source, and devote both heart and soul.
 
-# The Gateless Gate of The Mumonkan: Mumon's Preface
-
-r/zen
-jwiegley
-
-If you are that Way, what is this talk of entering and not entering? Even if
-you set black next to white, all you see is your own reflection. Having made a
-gate of the Gateless, we wear our arms out pulling at the handle!
-
-# [Meta] Dharma Challange
-
-r/zen
-jwiegley
-
-A brain cell said to a foot cell: “You’re so ignorant and unenlightened!”
-
-The foot cell replied: “What is this ‘you’?”
-
-Brain cell was greatly awakened.
-
-When a light bulb becomes irritated by shadows, he’s forgotten something.
-
 # Trust versus Faith
-
-r/zen
-jwiegley
 
 If I may hazard an analogy:
 
@@ -1137,37 +690,7 @@ sudden enjoyment, and should be savored as much as the end.
 
 Only by relaxing can your hand grip something other than itself.
 
-# Friday Night Zen Poetry Slam and Rap Battle: better bring your A game, fam... there have been a few
-contenders, but at this point I still remain the undefeated reigning champ!
-
-r/zen
-jwiegley
-
-Am I losing the human race?
-lost my original face,
-raised a finger to bring some Zen,
-now just a four-fingered wizard
-cold in a blizzard, hot in the sun
-too much fun; am I picking and choosing?
-came to r/zen for a bruising
-ego, laid out, needs time to unwind
-mind in a bind, said goodybe to time
-mountains are mountains, can't you see?
-but ain't no mountains, trick's on me
-then in the end I found a beginning
-ears ringing, eyes dazed
-every day, same in a way
-now a sudden breath: a hint of death
-want to hear the rest?
-don't trust a word, not yet!
-but come near, see me grinning?
-maybe in this end you'll agree
-I'm just beginning.
-
 # I can’t grasp “grasp”
-
-r/zen
-jwiegley
 
 You can’t grasp at things, you can’t not grasp at things.... what do you do?
 
@@ -1187,9 +710,6 @@ You’re not facing an unsolvable problem: you’re accepting the premise that
 there is a problem at all.
 
 # Bathtub and Basket Koan
-
-r/zen
-jwiegley
 
 I think using mind as an interface with reality is like a thirsty one seeking
 to know the Ocean through a straw. Such a minute part of the experience; all
@@ -1227,9 +747,6 @@ top of the void.
 
 # What is Zen?
 
-r/zen
-jwiegley
-
 I can't answer for you what Zen is, as I'm certainly not qualified. Instead,
 just a word about beginnings; something anyone can do, whether they meditate
 or read or follow a master:
@@ -1258,25 +775,7 @@ remains? What happened to the bubble? Where did it go? If your answer to these
 questions goes from "obvious", to an intriguing confusion, there will be more
 to say.
 
-# Is Zen just a way for lazy monks who don't want to practice
-
-r/zen
-jwiegley
-
-I think of it like digging for gold:
-
-Digging isn’t why there’s gold in the ground.
-
-Dig in the right spot, and you’re done.
-
-Dig in the wrong spot, and a lifetime of work won’t matter.
-
-Never dig, and you’re left to hoping it’s just lying around, waiting.
-
 # Huángbò Xīyùn: Since Mind is above all activities, so must it be with phenomena.
-
-r/zen
-jwiegley
 
 We're definitely clever monkeys. I think we turn to thought because it's
 tractable: within our conceptual limits. This conveys a sense of security,
@@ -1333,35 +832,8 @@ too, is mind. What we're after is what lies beyond the logic of thought, which
 can never be described or assessed by it. To the mind, it is meaningless. It
 is nothing more than what is.
 
-# Mazu's "Purity and Defilement are Equally Delusions.'
-
-r/zen
-jwiegley
-
-Who has what, again? ;-)
-
-At a certain point, this is just moving pieces around on a chess board; but
-without rules there is no game, and equally no fun. Hope your work day goes
-well!
-
-jwiegley
-
-The mind-idol gets remade at every moment. Exhausting!
-
-jwiegley
-
-I? Here? I think /u/WanderingRonin77 may be suggesting, “Beware the defilement
-of purity”.
-
-Break the mind-idol
-Afterward you can’t clean it
-You can’t neglect it.
-
 # CLICKBAIT: A simple three-step program for how to achieve R/Zen "enlightenment" the quick and easy
 way!
-
-r/zen
-jwiegley
 
 Your question makes me think of this quote from Black Elk Speaks:
 
@@ -1390,9 +862,6 @@ What’s the difference?
 
 # Give me some more help.
 
-r/zen
-jwiegley
-
 I appreciate you sharing your suffering, and asking openly about it. Chronic
 nausea is so hard; it saps your will to do most anything else. When nausea
 overcomes me, I use sleep to pass the time as quickly as possible. Imagining
@@ -1417,9 +886,6 @@ and go.
 
 # Zen practice as pragmatic exercise?
 
-r/zen
-jwiegley
-
 Since I sometimes work myself into a state over things that turn out to be
 untrue (insert frog-plant here), it should be equally immersive to choose to
 feel what I'd feel if I were riding a dragon right now. How is that any less
@@ -1431,9 +897,6 @@ true, causing people to go to great lengths to trick themselves just to feel
 the feelings that come from delusion?
 
 # Leave Zen alone and just drop it completely. If I can do it, then you can too!
-
-r/zen
-jwiegley
 
 No sensor, nor sensed. It's the only thing in the room. It is the room as
 experienced. Delusion creates the drama that appears to need resolution. It's
@@ -1460,9 +923,6 @@ start! How do we live in mystery (and this is where I think it gets mystical)
 and not through definition and dialog?
 
 # Baizhang Huaihai [749-814]: If you realize it in this moment, then you've realized it.
-
-r/zen
-jwiegley
 
 A good many problems arise from the mismatch between reality and our view of
 it. Ending this leads to less prejudgement, more thoughtfulness, an open and
@@ -1532,9 +992,6 @@ It reminds me of the following from the Tao Teh Ching:
 
 # What are the ways one resolves a deep anger?
 
-r/zen
-jwiegley
-
 The honesty here is impressive sometimes. Your words remind me of the anger
 that can follow divorce; potent, long-lasting stuff.
 
@@ -1558,9 +1015,6 @@ experience. Becomes so real that we cease to see anything else. A gate with no
 door.
 
 # The Schism: The Northern School of Zen versus the Southern School of Zen.
-
-r/zen
-jwiegley
 
 Let's say you have a habit of interfacing with the world through some
 conceptual framework, and oddly place yourself as a component within this
@@ -1636,9 +1090,6 @@ may come from His association.
 
 # Huangbo Xiyun: And by this understanding will you awake to the truth of Zen.
 
-r/zen
-jwiegley
-
     ...the way to understanding is a sudden perception that subject and object are one.
 
 I think there's a subtlety here which, when lost, can turn such statements
@@ -1671,9 +1122,6 @@ experience of, anything else.
 I believe the error happens when the word "object" is associated with #1.
 
 # Huangbo Xiyun: The various means to Enlightenment are no more than showy ornaments.
-
-r/zen
-jwiegley
 
 I agree completely. Insight should lead to seeing that all arise from the same
 source. Even if differences appear, we are like cells of one body, leaves of
@@ -1715,70 +1163,7 @@ the cold.
 I agree that I only know of your image within my perceptions of you. Through
 that image I say again, hello.
 
-# Crossing through the Gateless Gate: The secret to understanding is in the preface itself.
-
-r/zen
-jwiegley
-
-Do you have any particular likes/dislikes? There’s a ton of stuff out there,
-and I wouldn’t want to just throw a wall of text your way.
-
-jwiegley
-
-I thought you might also enjoy this passage from an ancient Sufi text, where
-the Simurgh is used as a symbol of Reality:
-
-It was in China, late one moonless night,
-The Simorgh first appeared to mortal sight --
-He let a feather float down through the air,
-And rumours of its fame spread everywhere;
-Throughout the world men separately conceived.
-An image of its shape, and all believed
-Their private fantasies uniquely true!
-(In China still this feather is on view,
-Whence comes the saying you have heard, no
-doubt, ‘Seek knowledge, unto China seek it out.’)
-If this same feather had not floated down,
-The world would not be filled with His renown --
-It is a sign of Him, and in each heart
-There lies this feather’s hidden counterpart.
-But since no words suffice, what use are mine
-To represent or to describe this sign?
-Whoever wishes to explore the Way,
-Let him set out -- what more is there to say?”
-
-jwiegley
-
-# After a certain point in study and practice, does Zen negate itself?
-
-r/zen
-jwiegley
-
-It's taken me a while to respond. I've thought over your question for some
-time now, but am afraid there is no answer to give.
-
-It is just what is before you. Yet the problem with ideas is that every term
-carries a host of negations hidden within it. If I say "the present", your
-mind conjures up "not present" to compare it with, in order to understand. If
-I say "here", it gives birth to "not there". This inverse image -- the
-contrast, the context -- is purely mind. It's why, when we look at a book, we
-don't also see kindling, or a doorstop or a frisbee. Seeking to know "book",
-the rest is blotted out. Only the name without negation is true, but owing to
-how human language and thinking work, mind can't know that name.
-
-It doesn't mean we can't break through, though. Even if some dislike the term
-"faith", there is a power we have to step across the bridge, not only despite
-our limitations, but enriched by them. Like a thirsty one letting go and
-falling into a clear river.
-
-jwiegley
-
-I’ve felt the same.
-
 # Zen Minds Assemble! Thoughts and a question regarding a strange bit of dualism...
-
-r/zen
-jwiegley
 
 I would say that "mountain" is a signifier, a symbol standing for an idea.
 
@@ -1801,19 +1186,7 @@ our capacity to think and see and feel. Any perceived complexity, or
 difficulty, or "skill", is like a person who's made a huge knot out of a piece
 of string, and then must untie it.
 
-# Zen and the inescapable trap of being phony
-
-r/zen
-jwiegley
-
-This is like the good-hearted man who’s so afraid of his own evil that he
-wrings his hands in anxiety and is never at peace. Which, if you think about
-that for a moment, is just too ironic.
-
 # Manifestation of God/Holy Spirit/Maid of Heaven Uncreated?
-
-r/bahai
-jwiegley
 
 This is actually a fairly subtle point, as evidenced by the volume of words
 you've received in response. It concerns the station of the Primal Will, and
@@ -1850,37 +1223,7 @@ defies all words and concepts:
   Thus is it said: “Absolute Unity excludeth all attributes.” And they have
   made their dwelling-place in the shadow of the Essence.
 
-# What’s the deal with the one hand clapping?
-
-r/zen
-jwiegley
-
-When the thing you strike with (mind) has no real thing to strike against
-(Reality), what is it accomplishing? It tries to clap, clearly, so what is the
-sound it must be hearing to keep it going? When you see the farce, the jig is
-up.
-
-People take this question to be asking about the sound; what if it’s wondering
-about the action of the lone hand? If dualism is not real, what have you been
-up to?
-
-# Blue Cliff Record (Fiftieth Case)
-
-r/zen
-jwiegley
-
-A “bowl” only exists as a thing to be filled. Rice in the bowl indicates
-completion relative to purpose. It implies the difference between being empty,
-and just wood.
-
-Even with rice in the bowl, emptiness returns to bowl-nature. Every atom
-samadhi, though keenly apprehending reality, is still trying where no effort
-is needed.
-
 # Why are zen sayings, koans, incredibly incomprehensible?
-
-r/zen
-jwiegley
 
 The words aren’t trying to communicate information, but to prompt a sudden
 shift in perspective. Sometimes a question is answered in a way intended to
@@ -1892,29 +1235,6 @@ should do. You shout out, “Sleep on it!”
 To an observer without context, it may deeply puzzle them what sleeping in
 this instance has to do with finding water. But if the man in the river lies
 down, he’ll figure it out.
-
-# Zen Ethics and the Problem of Dualism
-
-r/zen
-jwiegley
-
-You may be conflating existence with function.
-
-All the colors are equally light; even so, the differences we perceive are
-what make vision. The singular essence of light doesn’t mean that everything
-has to be white.
-
-# A Man That Has Had a Dream: The Prophylactic Nature Of Zen Transmission
-
-Perhaps saying "we are born with the ability to awaken" is stating things the
-wrong way around. This makes it seem like enlightenment is some advanced state
-of being, to which we all have a chance to aspire.
-
-What if enlightenment is not something to be "achieved", but the cessation of
-a certain kind of nonsense? Am I more advanced for recognizing that I hunt
-after money, for no other reason than thinking money should be hunted after?
-Or that I search for and prize enlightenment, without knowing what
-"enlightenment" is -- since if I'm searching for it, how could I know?
 
 # Compati
 
@@ -2011,8 +1331,7 @@ symbols. The best tools for me are silence and the memorized Word; also,
 recalling challenges from the day that ruffled my feathers, to realize how
 petty I was being.
 
-# Alan Watts a modern thinker talks about the games we make out of material
-  life.
+# Alan Watts a modern thinker talks about the games we make out of material life.
 
 I've always greatly enjoyed Alan Watts -- and Krishnamurti, Ayn Rand, Sartre,
 and many others who, on the face of it, say things contradictory to Bahá’í
@@ -2062,20 +1381,6 @@ during the day. Seeking to appreciate the beauty of the word of God as I
 recite it. Focusing on a person, and trying to see them in terms of their
 unity, not their differences. Freely roaming, almost day-dreaming, on
 spiritual themes. Among others.
-
-# Progress
-
-It's not about progressing, or not progressing. Avoiding either one misses the
-point. Mastery of something requires great effort and attention, and I don't
-believe for a second that fully living means stumbling through life without
-applying one's self.
-
-What you seek is no one detail, or the lack thereof. You won't find it by
-seeking progress, or avoiding it, or deciding it doesn't exist, or saying it
-has no meaning. All of these lead back to the same place, right where you
-started.
-
-Who ever told you you aren't the carrot?
 
 # To those of you who converted to the Bahá'í Faith from another religion or lack thereof, WHY did you choose Bahá'í?
 
@@ -2206,65 +1511,6 @@ should not be confounded with the meaning of happiness. Only by accepting the
 counsels of the Manifestation of God for each age does true civilization
 emerge, and then only do we properly glimpse why human beings were made to be.
 
-# Copper into Gold
-
-A beauty of the Divine Writings
-is that they operate on many levels.
-A passage need not be only literal,
-or only metaphorical:
-it can be both at once.
-
-There is often harmony
-between divine creation
-and physical creation,
-since both come
-from the same source.
-
-So, there are many layers
-of metaphorical meaning
-in these passages.
-
-It also would not surprise me
-to learn they are literally true.
-Future scientists can let us know.
-
-# Between fear and love
-
-The following is from http://iranpresswatch.org/post/3812/, written by a
-Baha'i, Aram Anahid:
-
-Baha’i writings assert that while social order is upheld by means of reward
-and punishment, the banner of religion is uplifted by Khashiyat Allah, or the
-fear of God:
-
-> The word of God which the Abha Pen hath revealed and inscribed on the first
-  leaf of the Most Exalted Paradise is this: Verily I say: The fear of God
-  hath ever been a sure defense and a safe stronghold for all the peoples of
-  the world. It is the chief cause of the protection of mankind, and the
-  supreme instrument for its preservation.[7]
-
-“Khashiyat Allah” is a Quranic term that refers to a sense of awe and
-reverence inspired by an individual’s recognition of the majesty of God.
-According to Tousi, khashiyat defers from khauf (fear) in that while khauf is
-a painful feeling brought on by the prospect of punishment, khashiyat is an
-emotional state induced by an individual’s recognition of the Absolute
-Greatness of God.[8] While both khauf and khashyiat are seen as psychological
-states that can cause obedience to God, the two operate differently. In the
-case of khashyiat, obedience is caused not by fear of punishment, but by the
-love of God.
-
-The distinction between khauf and khashyiat finds expression in Baha’i
-writings:
-
-> In formulating the principles and laws a part hath been devoted to penalties
-  which form an effective instrument for the security and protection of men.
-  However, dread (khauf) of the penalties maketh people desist only outwardly
-  from committing vile and contemptible deeds, while that which guardeth and
-  restraineth man both outwardly and inwardly hath been and still is the fear
-  of God (khashiyat Allah). It is man’s true protector and his spiritual
-  guardian. It behoveth him to cleave tenaciously unto that which will lead to
-  the appearance of this supreme bounty.[9]
-
 # Mumon's poem about his experience
 
 I think that just as there can be over-intellectualization in Zen study, there
@@ -2304,16 +1550,6 @@ become "Mumon" in the same way the drum had turned into a "lunchtime" drum;
 and all the extra meaning imbued in that drum was like the layers on top of
 "Mumon". "mu" wipes it all away, down to the nature underneath, "the original
 Face".
-
-# Struggling
-
-There is no "division between selves". The inner self you see is the same as
-your petty self, and every other "self": reflections on a rain drop. Now
-splashing onto the ground, they scatter, but the water is still unchanged.
-
-Inner harmony or unity is not the answer; see that the drama of disunity
-playing in your mind is something you're telling yourself exists -- and you
-believe it so completely! How strange.
 
 # I have a hard time believing in the God I was raised to believe
 
@@ -2523,96 +1759,3 @@ requires this morass of ignorance and blindness for the truth to become
 obvious. Perhaps what God has done is subtle, befitting His reality, and it is
 the journey of the soul to ultimately experience the joy of appreciating it.
 And perhaps this was done from love, and no other reason.
-
-# I think I've finally discovered what enlightenment actually is...
-
-> ...there is a glimpse into dharma nature...
-> ...this glimpse is the reality of all realities...
-> ...a window that opens to absolute truth...
-> ...seeing the oneness behind all things...
-
-These phrases mean nothing at all. They're magic words used to trigger
-emotion. Not a single one has content.
-
-Don't try to see dharma-nature. Reality is the one thing you don't need to
-worry about. We imagine "as the water stills, the bottom becomes clear", but
-this supposes a clouding agent between. The framing of this thought is the
-problem!
-
-> we see through to this dharma nature
-
-You're seeing through something that doesn't exist? :-)
-
-> As we move further along in our practice, we may come to a deeper
-> understanding of the true nature of things and act accordingly
-
-There is no deeper understanding. There's only what you have always been.
-There is no you who's progressing through levels, accumulating wisdom,
-gathering insight. The very idea of "deeper understanding" is what you're up
-against. It's a delusion that only grows more subtle.
-
-Reality abides unchanged, and nothing can affect it. Ideas of "progress"
-pertain to the phenomena only, which are always changing and nothing can
-preserve them.
-
-I know you resonate with the ocean/waves metaphor. Tell me, how does a wave
-dive deeper? How does it depart the ocean?
-
-As someone who states "you do not exist", I find it surprising you would
-assert the existence of delusion! This word "exist" is so pesky; it says so
-little. :)
-
-Truly, what is the point of Zen? Would we need it at all if we didn't have
-this tendency to work ourselves into a state over nothing? We're like kids who
-believe there's a monster under the bed. Is awakening to the fact that there
-is no monster a profitable, worthy activity? Or is it a nonsensical activity,
-made necessary by the maniacal insistence of the child?
-
-A wave is a creature of zero thickness, zero depth. It neither dives nor
-departs. As you've pointed out, it's "not really there", except as a moving
-form given passing life by time. It has form due to the ocean, while the ocean
-is the lone reality. All the wave has to do is stop asserting its existence,
-or striving to regain companionship with the ocean. In a moment, there it is,
-a tacit understanding, and all is settled with nothing achieved.
-
-Yes! The question you just asked is more to the point than refined concepts of
-reality or at-oneness. Feed that "person" a bitter pill it can't swallow, and
-don't let it escape until the gears grind to a halt. Just watch, don't
-ratiocinate. You won't stop playing the game if you think there's something to
-be won; and you won't care to play, once you see "winning" for what it is.
-
-# Zen essence vs Zen periphery
-
-A book is just paper and ink, but I have to go beyond that to reach its
-meaning; still further to grasp the intent; and still further to understand
-its animating principle. This last thing is wordless, and needed the whole
-book to bridge the gap between my mind and that of its author.
-
-I feel like some here are saying that Zen is just staring at the paper because
-that’s what’s palpably in front of you. Though maybe it’s relating to the
-principle — which cannot be prisoned even by intent — and leaving the book
-behind once its task is achieved.
-
-# Text
-
-That’s a great question, and I imagine the answer varies depending on whom you
-ask.
-
-Speaking for myself: I’ve found that as a white person, I was brought up with
-a lot of “artificiality” overlaid on the world around me, resulting in a
-worldview where intentions, ideas, promises and definitions can mean more than
-actions, results and realities. I was “living in a dream” so to speak, with
-part of that dream being the unconscious, false perception that whiteness
-conveys superiority: designed to shift blame to other groups, make unfairness
-seem moral, and offer the comforting belief that the universe conspires in my
-favor toward a better future. When such constructs lie at the core of one’s
-social experience, words suddenly carry enormous weight, since how you feel
-and see yourself can hang in that balance.
-
-Likewise, I’ve found that other groups, who don’t benefit from the social
-advantages of this illusion, have no time for it. In consequence they prize
-sincerity, truth and harsh reality, because that is what they deal with — what
-we should all be dealing with!
-
-Definitions become reduced to the mere tools that they are, when not made into
-building blocks of the psyche.
