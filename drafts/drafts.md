@@ -1611,28 +1611,6 @@ once this life is past, but just like development here: however much we can
 still accomplish amazing things, whether deaf or disabled or blind, we can't
 change what we start with after the developmental stage is done.
 
-# How do I hear back from God?
-
-I've found the biggest challenge of the mystical journey to be that our belief
-crafts the world we experience. I don't mean that thinking "rock" is what
-makes you stub your foot, but when you look down and think "rock", that's when
-it becomes a rock that stubbed you.
-
-We look at the world, and see so many things, but how many of the things we
-see are what we told ourselves they would or should be?
-
-At the heart of all that moves and turns, there is something never changing
-even as it always changes. Through the multitude of experiences we've had in
-our lives, beneath it all there is one experience, playing itself out over and
-over again, wondering if we will ever see the stillness for the motion.
-
-I believe you already heard back from God before I wrote this. But it likely
-wasn't, and never will be, in a form you expect. It's remote enough from
-expectation, in fact, that you might someday despair it will ever come.
-
-I think God is exactly as close to us as we think He is. We're the ones with
-limits; not Him.
-
 # Questions about belief
 
 To offer another perspective: I know the Bahá’í Faith is a religion, and often
@@ -1694,30 +1672,6 @@ own tattered "robes" gathering around me.
 Real truth remains such a baffling mystery that when we finally seek to escape
 the chaos, our surrogate self is necessarily just a puppet, wrapped over a
 spasming hand.
-
-# help^4
-
-Look straight ahead of you, around you. You are where you have always been,
-only the appearances have changed. The remembered past cannot affect this, nor
-the imagined future. There is no "me", only this awareness. Any larger concept
-of "me" is a mental overlay on a singular experience, obscuring its nature.
-
-Liberation is just that: not beholden to the past, nothing offered from the
-future. You think it will be good or bad, but by and large it will be as
-things are now, only the sensations altered. This is why things are never
-quite as bad as you'd feared, and never quite as good as you'd hoped. Reality
-isn't dialed to 11 like our imagination of it.
-
-The loss of your father is real, no doubt. He was there, now he is gone. What
-pains you is constantly re-losing him in the mind, over and over again. In
-time this will abate, but if you grasp the mechanism you can find the root of
-suffering.
-
-Your shoulder's pain: that's the body telling you to act. Do act on that. It
-could be a growth or foreign body impinging on a nerve, or as harmless as a
-cyst or damaged tendon or mineral deficiency causing a complication. The body
-is naturally wise -- it has nothing to gain from deception -- so when it gives
-counsel, heed it.
 
 # Is "design" a self-evident aspect of the universe?
 
