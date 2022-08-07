@@ -31,7 +31,7 @@ as a result don’t even benefit from the 10% guaranteed return.
 
 I would say in this example that interest is not is bad, or the banks that
 offer it, or even the wealthy people who take advantage of what’s legally
-available to grow their money; it’s the generational damage one to those who
+available to grow their money; it’s the generational damage done to those who
 were denied the ability to retain their wealth; it’s the preferential
 treatment given to the richest that too long preserves their dominance; it’s
 the lack of accountability *to society itself* which must come to recognize that
