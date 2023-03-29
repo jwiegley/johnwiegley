@@ -1,5 +1,5 @@
 ---
-title: the-dream-example
+title: The example of the dream
 tags: journal
 ---
 
