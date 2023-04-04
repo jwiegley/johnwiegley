@@ -2,10 +2,8 @@
 :ID:       C091D370-913E-450F-9220-6062C06C1276
 :SLUG:     le-morte
 :END:
----
-title: Le morte
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Le morte
 
 #+BEGIN_VERSE
 When that moment comes,

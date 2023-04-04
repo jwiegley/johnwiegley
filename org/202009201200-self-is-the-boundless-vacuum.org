@@ -2,10 +2,8 @@
 :ID:       EC1ED7CA-3324-480C-880A-EA3421277BD5
 :SLUG:     self-is-the-boundless-vacuum
 :END:
----
-title: Self is the boundless vacuum
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Self is the boundless vacuum
 
 #+BEGIN_VERSE
 The seeker's true enemy is finding

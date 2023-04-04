@@ -2,10 +2,8 @@
 :ID:       E2D66D24-73C5-4323-BDAE-8A93CA07E46A
 :SLUG:     eastern-methods-of-instruction-and-the-valley-of-search
 :END:
----
-title: Eastern methods of instruction, and the Valley of Search
-tags: essays
----
+#+filetags: :essays:
+#+title: Eastern methods of instruction, and the Valley of Search
 
 This morning I finished re-reading Eugen Herrigel's lovely little book,
 /Zen and the Art of Archery/. It takes no more than an evening or two to

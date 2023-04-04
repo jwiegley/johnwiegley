@@ -2,10 +2,8 @@
 :ID:       E60A701C-77FF-4896-A18C-DE6CAF68FFBC
 :SLUG:     watsonville
 :END:
----
-title: Watsonville
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Watsonville
 
 #+BEGIN_VERSE
 A cowboy buries hands in jean pockets,

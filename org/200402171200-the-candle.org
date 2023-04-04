@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       A9D73108-7F41-46A2-925E-58C5FCD388EE
 :SLUG:     the-candle
+:LOCATION: 325 Morrow Road
 :END:
----
-title: The Candle
-tags: poetry
-location: 325 Morrow Road
----
+#+filetags: :poetry:
+#+title: The Candle
 
 #+BEGIN_VERSE
 The candle is a master at love.

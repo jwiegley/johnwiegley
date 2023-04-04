@@ -2,10 +2,8 @@
 :ID:       C989AE63-FD9C-4032-9B26-05D556F2A7A7
 :SLUG:     an-analogy-of-the-self
 :END:
----
-title: An analogy of the self
-tags: journal
----
+#+filetags: :journal:
+#+title: An analogy of the self
 
 An analogy of the self, described as a racing car:
 

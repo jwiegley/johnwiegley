@@ -2,10 +2,8 @@
 :ID:       BC20D476-10C0-4506-A21B-6DF40D52223D
 :SLUG:     first-glimmerings
 :END:
----
-title: First glimmerings
-tags: journal
----
+#+filetags: :journal:
+#+title: First glimmerings
 
 We have been gifted the first glimmerings of a vision of humanity that
 transcends the differences currently tearing us apart. In everything we

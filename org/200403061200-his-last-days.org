@@ -2,10 +2,8 @@
 :ID:       CC3801B6-8BEC-4B59-A00B-56C03086FE30
 :SLUG:     his-last-days
 :END:
----
-title: His Last Days
-tags: stories
----
+#+filetags: :stories:
+#+title: His Last Days
 
 Some people ask why I spent so much time with John in his last days.
 It's hard to be with somebody in their time of need when they were never

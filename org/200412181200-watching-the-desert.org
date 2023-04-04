@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       49578014-BA4C-4DDF-96CD-9E65520850AD
 :SLUG:     watching-the-desert
+:LOCATION: IHOP, Oracle Road, Tucson, AZ
+:EDITED:   [2005-04-19 Tue]
 :END:
----
-title: Watching the desert
-tags: poetry
-edited: 04/19/2005
-location: IHOP, Oracle Road, Tucson, AZ
----
+#+filetags: :poetry:
+#+title: Watching the desert
 
 #+BEGIN_VERSE
 The sands of the desert are calm and quiet.

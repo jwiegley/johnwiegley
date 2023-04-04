@@ -2,10 +2,8 @@
 :ID:       B8C6402D-CEF3-4D82-9F21-210001145472
 :SLUG:     what-is-logic
 :END:
----
-title: What is logic?
-tags: essays
----
+#+filetags: :essays:
+#+title: What is logic?
 
 Logic is a sure way of finding the relationship between a set of
 statements.

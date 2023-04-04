@@ -2,10 +2,8 @@
 :ID:       876D81CB-11CC-4BC9-A51F-3643B12FC6A0
 :SLUG:     unknowable-essences
 :END:
----
-title: Unknowable essences
-tags: essays
----
+#+filetags: :essays:
+#+title: Unknowable essences
 
 If we ponder a moment, we realize that the essence of light is not
 knowable. I do not mean the many manifest lights that we see here on

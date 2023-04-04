@@ -2,10 +2,8 @@
 :ID:       AA3D9C0C-CB62-4C6C-AC04-2FA7BF0A7C71
 :SLUG:     poem-of-love
 :END:
----
-title: Poem of love
-tags: journal
----
+#+filetags: :journal:
+#+title: Poem of love
 
 My inspired rendering of a poem on love by Na'im Madyun:
 

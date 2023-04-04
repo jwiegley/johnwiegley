@@ -2,10 +2,8 @@
 :ID:       EEFA2BDB-F7B2-4825-A31F-AEF6D64AEB8E
 :SLUG:     the-divine-worlds-part-1
 :END:
----
-title: The divine worlds, part 1
-tags: journal
----
+#+filetags: :journal:
+#+title: The divine worlds, part 1
 
 In the limited realm of Násút, we see the Manifestations by Their
 humanity, and observe and weigh them using standards we might apply to

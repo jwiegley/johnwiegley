@@ -2,10 +2,8 @@
 :ID:       124C52CE-B391-424D-B206-0F960B8C6236
 :SLUG:     being-human
 :END:
----
-title: Being human
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Being human
 
 #+BEGIN_VERSE
 Dumb. Blind. Awkward.

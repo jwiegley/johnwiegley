@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       4870C57D-F614-4C22-BED9-A32D955D7F74
 :SLUG:     ipleadmmd
+:EDITED:   [2009-01-03 Sat]
 :END:
----
-title: I Plead
-tags: poetry
-edited: 01/03/2009
----
+#+filetags: :poetry:
+#+title: I Plead
 
 #+BEGIN_VERSE
 The humble understand that hell is their proper abode

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       D375CFEB-9143-497E-95B0-DBBEDCB06881
 :SLUG:     pretty-girl
+:LOCATION: American Airlines flight 177 JFK-SFO
+:EDITED:   [2003-11-08 Sat]
 :END:
----
-title: Pretty girl
-tags: poetry
-edited: 11/08/2003
-location: American Airlines flight 177 JFK-SFO
----
+#+filetags: :poetry:
+#+title: Pretty girl
 
 #+BEGIN_VERSE
 I see you wearing ringlets, in a pretty dress;

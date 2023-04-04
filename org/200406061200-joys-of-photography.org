@@ -2,10 +2,8 @@
 :ID:       78975110-E007-4D7D-A69D-0B69611EA334
 :SLUG:     joys-of-photography
 :END:
----
-title: Joys of photography
-tags: journal
----
+#+filetags: :journal:
+#+title: Joys of photography
 
 Photography, my recent hobby, has been a source of unexpected joys --
 made more significant by the fact that I never liked cameras before.

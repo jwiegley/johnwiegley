@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       CE1DDC26-609E-4814-84CD-0800E088988F
 :SLUG:     my-dear-friends
+:LOCATION: 7373 N. 71st Place, Paradise Valley, Arizona
 :END:
----
-title: My dear friends
-tags: poetry
-location: 7373 N. 71st Place, Paradise Valley, Arizona
----
+#+filetags: :poetry:
+#+title: My dear friends
 
 #+BEGIN_VERSE
 How can I say if I love God more,

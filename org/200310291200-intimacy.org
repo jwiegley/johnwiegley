@@ -2,10 +2,8 @@
 :ID:       2FFF1988-76D6-4AB5-983D-4ED8E12D336F
 :SLUG:     intimacy
 :END:
----
-title: Intimacy
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Intimacy
 
 #+BEGIN_VERSE
 A calm wind rises up,

@@ -2,10 +2,8 @@
 :ID:       ABBA5802-2C3C-4302-A95E-8B6E6563A0AF
 :SLUG:     of-what-can-we-be-proud
 :END:
----
-title: Of what can we be proud?
-tags: journal
----
+#+filetags: :journal:
+#+title: Of what can we be proud?
 
 After all these thoughts on ego, I ask myself: Of what can a man be
 proud? In answer, an analogy comes to mind:

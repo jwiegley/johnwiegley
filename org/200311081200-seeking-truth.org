@@ -2,10 +2,8 @@
 :ID:       6A011FB2-2E15-41D5-869C-2F17D0EAA78D
 :SLUG:     seeking-truth
 :END:
----
-title: Seeking truth
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Seeking truth
 
 #+BEGIN_VERSE
 Seek truth where it may be found:

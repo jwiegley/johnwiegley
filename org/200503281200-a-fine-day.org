@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       A51CF1BA-26E2-4614-8200-6E810EA542B0
 :SLUG:     a-fine-day
+:LOCATION: Tempe Bahá'í Center, Arizona
+:EDITED:   [2005-04-03 Sun]
 :END:
----
-title: A fine day
-tags: poetry
-edited: 04/03/2005
-location: Tempe Bahá'í Center, Arizona
----
+#+filetags: :poetry:
+#+title: A fine day
 
 #+BEGIN_VERSE
 The sun is warm today;

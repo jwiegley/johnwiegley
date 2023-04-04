@@ -2,10 +2,8 @@
 :ID:       5C4ECBE9-A461-422A-8826-3FABB3F3FB06
 :SLUG:     the-process-of-learning-and-mystical-pursuit
 :END:
----
-title: The process of learning and mystical pursuit
-tags: essays
----
+#+filetags: :essays:
+#+title: The process of learning and mystical pursuit
 
 In her essay on faná' and baqá'[fn:1], Alison Marshall wrote:
 

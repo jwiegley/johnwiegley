@@ -2,10 +2,8 @@
 :ID:       2FC275B0-AA92-4D69-935E-929F1A2FDF96
 :SLUG:     what-is-bahai-mysticism
 :END:
----
-title: What is Bahá’í mysticism?
-tags: essays
----
+#+filetags: :essays:
+#+title: What is Bahá’í mysticism?
 
 The word "mysticism" has taken on various meanings throughout history,
 as have the practices and beliefs of those who term themselves

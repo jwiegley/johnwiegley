@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       011BFC40-0CFA-4F45-8E5B-113852D04756
 :SLUG:     contemplating-the-ur-soul
+:LOCATION: Dad's house, 90 Watch Hill Drive, Apt B, Colorado Springs
 :END:
----
-title: Contemplating the Ur-soul
-tags: journal
-location: Dad's house, 90 Watch Hill Drive, Apt B, Colorado Springs
----
+#+filetags: :journal:
+#+title: Contemplating the Ur-soul
 
 The following entry is little more than a fantasy, but I use it to help
 place some of the experiences I've had in my life. I don't begin to

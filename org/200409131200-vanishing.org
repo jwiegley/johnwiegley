@@ -2,10 +2,8 @@
 :ID:       374FE018-E884-466B-A967-38B955777C0A
 :SLUG:     vanishing
 :END:
----
-title: Vanishing
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Vanishing
 
 #+BEGIN_VERSE
 The evanescence of vapor;

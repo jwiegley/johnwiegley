@@ -2,10 +2,8 @@
 :ID:       DC159D7C-C303-40CE-801F-97D41FBA0D9A
 :SLUG:     the-fund-is-the-base
 :END:
----
-title: The Fund is the base
-tags: essays
----
+#+filetags: :essays:
+#+title: The Fund is the base
 
 In computer engineering-particularly chip manufacturing-there is a
 concept called a "substrate". A substrate is a medium for design; that

@@ -2,10 +2,8 @@
 :ID:       DAADA5A7-7743-47B4-94B1-90FF4E537E49
 :SLUG:     absorption-in-the-deity
 :END:
----
-title: Absorption in the Deity
-tags: journal
----
+#+filetags: :journal:
+#+title: Absorption in the Deity
 
 I do not know if the concept of "annihilation" (or, nothingness)
 expressed in the Writings is related to the "absorption" mentioned in

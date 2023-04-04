@@ -2,10 +2,8 @@
 :ID:       3E405E41-388D-4BB9-A536-57320FC7DB79
 :SLUG:     images-of-aptos-california
 :END:
----
-title: Images of Aptos, California
-tags: journal
----
+#+filetags: :journal:
+#+title: Images of Aptos, California
 
 A friend and I looked after a mutual friend's kids for a little while,
 so we walked them down to Hidden Beach, in Aptos, California.

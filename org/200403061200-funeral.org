@@ -2,10 +2,8 @@
 :ID:       0D6041A8-8080-4032-AC36-9D5DE645CAA4
 :SLUG:     funeral
 :END:
----
-title: Funeral
-tags: stories
----
+#+filetags: :stories:
+#+title: Funeral
 
 The stream of black coats entering the church seemed never to end.
 Accompanying them were an equal number of black dresses and veils, all

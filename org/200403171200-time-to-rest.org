@@ -2,10 +2,8 @@
 :ID:       2ADBCB54-39C2-484F-B60C-5CE89169E471
 :SLUG:     time-to-rest
 :END:
----
-title: Time to rest
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Time to rest
 
 #+BEGIN_VERSE
 It is too late at night

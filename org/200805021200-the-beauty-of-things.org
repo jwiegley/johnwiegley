@@ -2,10 +2,8 @@
 :ID:       8508C5BA-6EA6-4295-982A-64737B619E13
 :SLUG:     the-beauty-of-things
 :END:
----
-title: The beauty of things
-tags: journal
----
+#+filetags: :journal:
+#+title: The beauty of things
 
 As I look around at the world, I find many things to admire. Certainly
 there is more misery than joy to be found, and I know few people who

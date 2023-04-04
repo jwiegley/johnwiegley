@@ -2,10 +2,8 @@
 :ID:       33536074-A365-4490-8660-EAE6D1C7E2C1
 :SLUG:     introvert-and-extravert
 :END:
----
-title: Introvert and extravert
-tags: journal
----
+#+filetags: :journal:
+#+title: Introvert and extravert
 
 Today I picked up Jung's /Psychology of Types/ and resumed reading where
 I had left off two years ago. Every time I read this book I am struck

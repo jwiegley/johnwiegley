@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       8976299E-C049-4754-A5F7-B89DC9ED1770
 :SLUG:     feel-of-the-midnight-wind
+:LOCATION: Food court, Laguna Hills mall
+:EDITED:   [2005-04-09 Sat]
 :END:
----
-title: Feel of the midnight wind
-tags: poetry
-edited: 04/09/2005
-location: Food court, Laguna Hills mall
----
+#+filetags: :poetry:
+#+title: Feel of the midnight wind
 
 #+BEGIN_VERSE
 I know the feel of the midnight wind;

@@ -2,10 +2,8 @@
 :ID:       C05CC5BD-2B9A-4E5A-B7D8-EB875454E26C
 :SLUG:     opinions-and-truth
 :END:
----
-title: Opinions and truth
-tags: essays
----
+#+filetags: :essays:
+#+title: Opinions and truth
 
 #+BEGIN_QUOTE
 /This essay was written a short while before I learned about the concept

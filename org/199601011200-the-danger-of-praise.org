@@ -2,10 +2,8 @@
 :ID:       01277EF6-A3C7-4690-9973-01C86A4611AB
 :SLUG:     the-danger-of-praise
 :END:
----
-title: The danger of praise
-tags: journal
----
+#+filetags: :journal:
+#+title: The danger of praise
 
 As for the danger of praise, it is only so venemous as the desire to
 escape the consequences of past actions. One is always who he has chosen

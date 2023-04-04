@@ -2,10 +2,8 @@
 :ID:       9BC7E38D-7CE3-4E90-8D98-42BEF9AA25D1
 :SLUG:     competition-and-spirituality
 :END:
----
-title: Competition and spirituality
-tags: journal
----
+#+filetags: :journal:
+#+title: Competition and spirituality
 
 One of the fundamental principles of material life is limitation -- in
 particular the limits of our faculties and the resources they act upon.

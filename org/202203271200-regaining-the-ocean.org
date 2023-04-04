@@ -2,10 +2,8 @@
 :ID:       CA3474E4-6614-4D64-A610-7117F2A5AAF5
 :SLUG:     regaining-the-ocean
 :END:
----
-title: Regaining the ocean
-tags: journal
----
+#+filetags: :journal:
+#+title: Regaining the ocean
 
 A wave is a creature of zero thickness, zero depth. It neither dives nor
 departs. It's "not really there", except as a moving form given passing

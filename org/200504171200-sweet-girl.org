@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       4071BCF4-EDCA-455D-8E37-98761EBCAEE8
 :SLUG:     sweet-girl
+:LOCATION: Horizon Park Center, Scottsdale, Arizona
+:EDITED:   [2005-04-25 Mon]
 :END:
----
-title: Sweet girl
-tags: poetry
-edited: 04/25/2005
-location: Horizon Park Center, Scottsdale, Arizona
----
+#+filetags: :poetry:
+#+title: Sweet girl
 
 #+BEGIN_VERSE
 O sweet girl!

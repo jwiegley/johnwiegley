@@ -2,10 +2,8 @@
 :ID:       AF826E27-B544-4C0A-8987-C946E4E67807
 :SLUG:     seeing-imperfection-in-others
 :END:
----
-title: Seeing imperfection in others
-tags: journal
----
+#+filetags: :journal:
+#+title: Seeing imperfection in others
 
 As I watch the cars and drivers during my trek to Connecticut each
 morning, a strange vision comes over me: Whatever imperfection I see in

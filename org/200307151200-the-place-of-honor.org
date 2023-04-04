@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       45EA2D47-1D1F-4A7A-90E9-276DEEFAB765
 :SLUG:     the-place-of-honor
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: The Place of Honor
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: The Place of Honor
 
 #+BEGIN_VERSE
 If a painting by Rafael,

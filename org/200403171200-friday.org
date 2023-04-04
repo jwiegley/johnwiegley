@@ -2,10 +2,8 @@
 :ID:       0B4B0CD7-1FF4-41FC-A699-42F3F9085D67
 :SLUG:     friday
 :END:
----
-title: Friday
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Friday
 
 #+BEGIN_VERSE
 What human worker bee,

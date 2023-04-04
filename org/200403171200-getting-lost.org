@@ -2,10 +2,8 @@
 :ID:       9DDE8C43-7F25-4AE8-917E-B6A5EA3529F0
 :SLUG:     getting-lost
 :END:
----
-title: Getting lost
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Getting lost
 
 #+BEGIN_VERSE
 We are all butterflies,

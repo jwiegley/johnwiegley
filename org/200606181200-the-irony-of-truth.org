@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       266C3588-EC2C-48C0-B729-A91B0C04156C
 :SLUG:     the-irony-of-truth
+:LOCATION: Room 373, Bay Tower, Royal Kona Resort, Kailua-Kona, Hawai'i
 :END:
----
-title: The Irony of Truth
-tags: poetry
-location: Room 373, Bay Tower, Royal Kona Resort, Kailua-Kona, Hawai'i
----
+#+filetags: :poetry:
+#+title: The Irony of Truth
 
 #+BEGIN_VERSE
 We have always sought Truth.

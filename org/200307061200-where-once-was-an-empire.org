@@ -2,10 +2,8 @@
 :ID:       3EEF1A54-B2A6-40AE-B289-D41371908B43
 :SLUG:     where-once-was-an-empire
 :END:
----
-title: Where once was an empire...
-tags: journal
----
+#+filetags: :journal:
+#+title: Where once was an empire...
 
 [[file:storm.in.italy]]
 

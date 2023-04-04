@@ -2,10 +2,8 @@
 :ID:       002F8197-92F8-484B-BCC5-483F6680D079
 :SLUG:     sea
 :END:
----
-title: Sea
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Sea
 
 #+BEGIN_VERSE
 The sea has its home

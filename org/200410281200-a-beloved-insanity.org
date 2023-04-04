@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       ACEB9DCA-F4F7-4F45-98E0-04B66460696C
 :SLUG:     a-beloved-insanity
+:LOCATION: 9700 Calle Loma Linda, Tucson, AZ
 :END:
----
-title: A beloved insanity
-tags: poetry
-location: 9700 Calle Loma Linda, Tucson, AZ
----
+#+filetags: :poetry:
+#+title: A beloved insanity
 
 #+BEGIN_VERSE
 Love is a beloved insanity.

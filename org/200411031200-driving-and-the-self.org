@@ -2,10 +2,8 @@
 :ID:       6CD47ED9-1609-448F-8923-E7AFB183FED3
 :SLUG:     driving-and-the-self
 :END:
----
-title: Driving and the self
-tags: journal
----
+#+filetags: :journal:
+#+title: Driving and the self
 
 If "self" is our conscious will -- which determines our experience of
 reality -- I count two aspects to exercising this will: how well we pay

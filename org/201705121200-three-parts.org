@@ -2,10 +2,8 @@
 :ID:       165E5C02-1B99-412A-9C4F-79FA2A3A3C42
 :SLUG:     three-parts
 :END:
----
-title: Three parts
-tags: journal
----
+#+filetags: :journal:
+#+title: Three parts
 
 A long time ago I found that every truth I discovered about "God" was
 also, in some way, a truth about "humanity", which in turn was a truth

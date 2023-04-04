@@ -2,10 +2,8 @@
 :ID:       E5B9D982-2591-40A7-AE08-997B0BF7B222
 :SLUG:     the-will-to-be
 :END:
----
-title: The will to be
-tags: journal
----
+#+filetags: :journal:
+#+title: The will to be
 
 I have often wondered why I do not find more joy in the world at being
 alive. Often I though it was the condition of things, but really our

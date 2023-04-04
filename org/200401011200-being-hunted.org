@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       768271A1-7EBD-477E-AF7E-B76F9E5D8DB1
 :SLUG:     being-hunted
+:EDITED:   [2005-04-19 Tue]
 :END:
----
-title: Being hunted
-tags: poetry
-edited: 04/19/2005
----
+#+filetags: :poetry:
+#+title: Being hunted
 
 #+BEGIN_VERSE
 What is it

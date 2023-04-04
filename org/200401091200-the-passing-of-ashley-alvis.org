@@ -2,10 +2,8 @@
 :ID:       04AEF485-AB7C-48B6-8F6B-C5D8547DDC5E
 :SLUG:     the-passing-of-ashley-alvis
 :END:
----
-title: The passing of Ashley Alvis
-tags: journal
----
+#+filetags: :journal:
+#+title: The passing of Ashley Alvis
 
 I learned this evening that my friend, and companion on the mystical
 path, Ashley Alvis, passed away from a heart attack in his home in

@@ -2,10 +2,8 @@
 :ID:       EB3183CD-0A12-4B2C-9C34-8E7A830FCBF0
 :SLUG:     abandon
 :END:
----
-title: abandon
-tags: poetry
----
+#+filetags: :poetry:
+#+title: abandon
 
 #+BEGIN_VERSE
 When there is only God,

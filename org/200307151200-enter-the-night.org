@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       D188FAD9-FFE2-451B-8378-42D02353379B
 :SLUG:     enter-the-night
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: Enter the night
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: Enter the night
 
 #+BEGIN_VERSE
 Wan sun is all that fills

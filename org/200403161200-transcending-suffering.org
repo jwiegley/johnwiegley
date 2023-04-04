@@ -2,10 +2,8 @@
 :ID:       CE7CB083-BCD1-4C99-A34F-D0B9B0773480
 :SLUG:     transcending-suffering
 :END:
----
-title: Transcending suffering
-tags: journal
----
+#+filetags: :journal:
+#+title: Transcending suffering
 
 The spiritual world "bestows only the joy"; suffering comes from this
 world, and part of freeing one's self from it means escaping suffering.

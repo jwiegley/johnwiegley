@@ -2,10 +2,8 @@
 :ID:       660527BB-F621-4F92-96CD-1458C1F70A5E
 :SLUG:     even-more-pictures
 :END:
----
-title: Even more pictures
-tags: journal
----
+#+filetags: :journal:
+#+title: Even more pictures
 
 Been having lots of fun with the new camera lately. It seems that
 shooting from a tripod greatly improves the quality of the images (which

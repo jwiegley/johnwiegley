@@ -2,10 +2,8 @@
 :ID:       CDDF3657-A1F4-4618-958F-53FF3F7E3484
 :SLUG:     gain-and-loss
 :END:
----
-title: Gain and loss
-tags: journal
----
+#+filetags: :journal:
+#+title: Gain and loss
 
 Someone who has nothing gains at every turn; but someone who has too
 much, always perceives that they are losing it.

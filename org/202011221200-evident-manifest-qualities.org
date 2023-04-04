@@ -2,10 +2,8 @@
 :ID:       B46A1132-2496-4A14-9D6C-FA38B819912C
 :SLUG:     evident-manifest-qualities
 :END:
----
-title: Evident and manifest qualities
-tags: journal
----
+#+filetags: :journal:
+#+title: Evident and manifest qualities
 
 I've been thinking lately about the qualities we aspire to achieve
 during our lives, and how these qualities seem to divide roughly into

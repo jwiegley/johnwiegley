@@ -2,10 +2,8 @@
 :ID:       434DE467-9C90-43B6-93AC-16432131A5AB
 :SLUG:     in-search-of
 :END:
----
-title: In Search Of
-tags: stories
----
+#+filetags: :stories:
+#+title: In Search Of
 
 Lily sat by the sea and clutched her hands tightly to her chest. It was
 not enough for the peaceful water to extend, endless into the blue

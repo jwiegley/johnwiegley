@@ -2,10 +2,8 @@
 :ID:       8F66AF8C-FF62-4CC8-A271-684BD681CAB4
 :SLUG:     future-butterfly
 :END:
----
-title: Future butterfly
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Future butterfly
 
 #+BEGIN_VERSE
 A future butterfly

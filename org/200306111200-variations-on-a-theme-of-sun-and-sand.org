@@ -2,10 +2,8 @@
 :ID:       B9CD1BE9-60FB-40DB-84B1-436A2EEBD6BE
 :SLUG:     variations-on-a-theme-of-sun-and-sand
 :END:
----
-title: Variations on a theme of sun and sand...
-tags: journal
----
+#+filetags: :journal:
+#+title: Variations on a theme of sun and sand...
 
 There has not been much novel happening, unless you count the ideas in
 the novel I'm reading... So this letter hasn't much new to describe,

@@ -2,10 +2,8 @@
 :ID:       2256017D-2FEB-4854-A018-04D274372D89
 :SLUG:     broken-crystal
 :END:
----
-title: Broken crystal
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Broken crystal
 
 #+BEGIN_VERSE
 I lived upon a landscape of broken crystal.

@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       D6D302DB-D0B2-450F-8DE2-9C8FC9E5D1D1
 :SLUG:     the-soul-of-rebellion
+:LOCATION: 7373 N. 71st St., Paradise Valley, AZ
 :END:
----
-title: The soul of rebellion
-tags: poetry
-location: 7373 N. 71st St., Paradise Valley, AZ
----
+#+filetags: :poetry:
+#+title: The soul of rebellion
 
 #+BEGIN_VERSE
 I crept my way

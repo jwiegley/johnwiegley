@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       1F64410A-B968-4A2F-971F-0D686A2EF611
 :SLUG:     fear-not-little-seed
+:LOCATION: Chicago, 2015, written for Lori Vodden.
 :END:
----
-title: Fear not, little seed
-tags: poetry
-location: Chicago, 2015, written for Lori Vodden.
----
+#+filetags: :poetry:
+#+title: Fear not, little seed
 
 #+BEGIN_VERSE
 Fear not, little seed.

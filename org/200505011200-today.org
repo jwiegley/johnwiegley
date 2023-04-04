@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       69F9D39D-4185-479D-8F13-C1E86E008D66
 :SLUG:     today
+:LOCATION: Manijeh's house, Gilbert, Arizona
 :END:
----
-title: Today
-tags: poetry
-location: Manijeh's house, Gilbert, Arizona
----
+#+filetags: :poetry:
+#+title: Today
 
 #+BEGIN_VERSE
 I find myself happy today

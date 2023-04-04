@@ -2,10 +2,8 @@
 :ID:       5F72D86A-9E80-4300-8E4D-3575C515D434
 :SLUG:     a-river-of-fog
 :END:
----
-title: A river of fog
-tags: journal
----
+#+filetags: :journal:
+#+title: A river of fog
 
 As I was driving down to San Jose this weekend, when I saw something on
 the hills west of Palo Alto that made me wish I owned a camera. Though,

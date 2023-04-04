@@ -2,10 +2,8 @@
 :ID:       6FA16428-5E7C-4472-96F4-A4D9E5FD50F9
 :SLUG:     at-a-park-in-watsonville
 :END:
----
-title: At a park in Watsonville
-tags: poetry
----
+#+filetags: :poetry:
+#+title: At a park in Watsonville
 
 #+BEGIN_VERSE
 Don Juan Matus!

@@ -2,10 +2,8 @@
 :ID:       CB7B25D2-6EF5-4E60-8FA8-F4487F7C439B
 :SLUG:     minds-cannot-know
 :END:
----
-title: Minds cannot know
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Minds cannot know
 
 #+BEGIN_VERSE
 Minds cannot know, and eyes are blind:

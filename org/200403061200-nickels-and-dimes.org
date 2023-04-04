@@ -2,10 +2,8 @@
 :ID:       7AE0BE29-96F7-42EC-AB21-F4858CFCDB80
 :SLUG:     nickels-and-dimes
 :END:
----
-title: Nickels and dimes
-tags: essays
----
+#+filetags: :essays:
+#+title: Nickels and dimes
 
 When we make choices in this life, do we make them based on knowledge,
 or something else? While reading a book lately, an image came to mind

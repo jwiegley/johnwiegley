@@ -2,10 +2,8 @@
 :ID:       22414E1E-2F54-4864-9658-E42B75D7959C
 :SLUG:     joy-is-at-the-heart-of-it-all
 :END:
----
-title: Joy is at the Heart of it All
-tags: essays
----
+#+filetags: :essays:
+#+title: Joy is at the Heart of it All
 
 Human beings were created to know joy. "He [the Ancient Beauty] hath
 drained to its dregs the cup of sorrow, that all the peoples of the

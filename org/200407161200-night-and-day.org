@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       82721165-B697-4214-86B1-A92186C41863
 :SLUG:     night-and-day
+:LOCATION: 380 Esplanade Ave #211
+:EDITED:   [2005-05-09 Mon]
 :END:
----
-title: Night and Day
-tags: poetry
-edited: 05/09/2005
-location: 380 Esplanade Ave #211
----
+#+filetags: :poetry:
+#+title: Night and Day
 
 #+BEGIN_VERSE
 If all the world is perfect

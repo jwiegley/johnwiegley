@@ -2,10 +2,8 @@
 :ID:       68A774AD-8991-4651-A175-AD53E00D754A
 :SLUG:     the-western-romantic-ideal
 :END:
----
-title: The Western Romantic Ideal
-tags: essays
----
+#+filetags: :essays:
+#+title: The Western Romantic Ideal
 
 Men and women seem to believe -- according to the romanticized ideal of
 marriage in western culture -- that when they marry they become number

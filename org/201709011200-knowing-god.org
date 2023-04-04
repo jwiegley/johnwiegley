@@ -2,10 +2,8 @@
 :ID:       5F4EE1D7-9028-4E26-AD0E-B282CBAE8599
 :SLUG:     knowing-god
 :END:
----
-title: Knowing God?
-tags: essays
----
+#+filetags: :essays:
+#+title: Knowing God?
 
 Let's say you want to become an expert on the sun. What would that mean?
 That you know its temperature, its cycles, its various wavelengths. But

@@ -2,10 +2,8 @@
 :ID:       4CCDD1F0-ABD2-403C-8E22-D2C82E1B3C2A
 :SLUG:     why-i-see-beauty
 :END:
----
-title: Why I see beauty
-tags: journal
----
+#+filetags: :journal:
+#+title: Why I see beauty
 
 I realize now why I find beautiful things beautiful: because I miss God.
 I miss the perfection about Him which my soul knew, before it lost its

@@ -2,10 +2,8 @@
 :ID:       A62B417C-17B4-4F4E-B85C-FAA4A1D453D1
 :SLUG:     why-i-love-david-zindell
 :END:
----
-title: Why I love David Zindell
-tags: journal
----
+#+filetags: :journal:
+#+title: Why I love David Zindell
 
 Because he writes like this:
 

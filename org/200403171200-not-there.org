@@ -2,10 +2,8 @@
 :ID:       B04224D7-C791-41C7-BE4B-F79F69124E75
 :SLUG:     not-there
 :END:
----
-title: Not there
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Not there
 
 #+BEGIN_VERSE
 That love who is not,

@@ -2,10 +2,8 @@
 :ID:       AD94D9FD-6D99-4CC6-B931-7EA7D5958100
 :SLUG:     relying-on-one-another
 :END:
----
-title: Relying on one another
-tags: essays
----
+#+filetags: :essays:
+#+title: Relying on one another
 
 Upon the great ocean of life we sit in a boat. This boat represents the
 sphere of our contact with the world outside. Beyond us, we can see the

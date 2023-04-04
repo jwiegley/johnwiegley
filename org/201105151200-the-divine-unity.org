@@ -2,10 +2,8 @@
 :ID:       281F7308-5A5B-42B5-AB2D-4BFEE4FEDC53
 :SLUG:     the-divine-unity
 :END:
----
-title: The Divine Unity
-tags: journal
----
+#+filetags: :journal:
+#+title: The Divine Unity
 
 I believe that the worlds of limitation and differentiation, and the
 world of Unity, are things we already fully understand. Maybe not in

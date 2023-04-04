@@ -2,10 +2,8 @@
 :ID:       697CF619-2BC4-4CE9-BD90-F4CEDDF5F4E3
 :SLUG:     does-foreknowledge-eliminate-freedom
 :END:
----
-title: Does God's fore-knowledge eliminate free will?
-tags: journal
----
+#+filetags: :journal:
+#+title: Does God's fore-knowledge eliminate free will?
 
 Problem with this question is that it assumes time is linear for
 everyone, including God.

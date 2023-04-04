@@ -2,10 +2,8 @@
 :ID:       12FB63C0-9237-4E70-86E6-AC76AA34B5D4
 :SLUG:     stations-of-mystical-truth
 :END:
----
-title: Stations of mystical truth
-tags: journal
----
+#+filetags: :journal:
+#+title: Stations of mystical truth
 
 There are many levels of truth, one might say. In one station, that of
 limitation, the world is divided according to its qualities, and each

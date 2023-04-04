@@ -2,10 +2,8 @@
 :ID:       69F1C36B-4AA6-4942-8FB9-A376476174FD
 :SLUG:     the-thirsty-fish
 :END:
----
-title: The thirsty fish
-tags: journal
----
+#+filetags: :journal:
+#+title: The thirsty fish
 
 I believe that this world is a crucible, within which the pure of heart
 are tested, and distinguished from the false and self-seeking.

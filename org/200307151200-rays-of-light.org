@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       013A4A49-D190-44EA-993C-ED4FA9629A58
 :SLUG:     rays-of-light
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: Rays of light
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: Rays of light
 
 #+BEGIN_VERSE
 The Rays of light from that Sun

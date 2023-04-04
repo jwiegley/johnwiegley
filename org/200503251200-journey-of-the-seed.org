@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       80408288-A7EE-4F96-B6BB-C264050B6AD5
 :SLUG:     journey-of-the-seed
+:LOCATION: Royal Car Wash, Campbell and Camp Lowell, Tucson, Arizona
+:EDITED:   [2005-04-26 Tue]
 :END:
----
-title: Journey of the seed
-tags: poetry
-edited: 04/26/2005
-location: Royal Car Wash, Campbell and Camp Lowell, Tucson, Arizona
----
+#+filetags: :poetry:
+#+title: Journey of the seed
 
 #+BEGIN_VERSE
 I remember being planted

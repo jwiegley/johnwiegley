@@ -2,10 +2,8 @@
 :ID:       1687B8B0-A81F-40BB-924D-D8A364119467
 :SLUG:     content
 :END:
----
-title: Content
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Content
 
 #+BEGIN_VERSE
 Ignore form. Study content.

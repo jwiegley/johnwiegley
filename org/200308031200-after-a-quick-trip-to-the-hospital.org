@@ -2,10 +2,8 @@
 :ID:       53280FD4-56BF-49C6-856A-2E47A6C2CFCC
 :SLUG:     after-a-quick-trip-to-the-hospital
 :END:
----
-title: After a quick trip to the hospital
-tags: journal
----
+#+filetags: :journal:
+#+title: After a quick trip to the hospital
 
 I decided to visit the hospital since the pain in my hand was pretty
 bad, and it was feeling cold under the bandage I had bought. Always a

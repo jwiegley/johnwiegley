@@ -2,10 +2,8 @@
 :ID:       F092DF3C-BBE7-4B46-97DD-DB96A444AD3B
 :SLUG:     the-beloved-as-the-sun
 :END:
----
-title: The Beloved as the sun
-tags: journal
----
+#+filetags: :journal:
+#+title: The Beloved as the sun
 
 I wish I could talk about what I'm going to talk about. You can tell
 someone about the sun, how it's a million times the size of the Earth,

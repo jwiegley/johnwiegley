@@ -2,10 +2,8 @@
 :ID:       C450FA35-037A-4799-8764-AC0DDB8F060A
 :SLUG:     purpose
 :END:
----
-title: Purpose
-tags: journal
----
+#+filetags: :journal:
+#+title: Purpose
 
 #+BEGIN_EXAMPLE
 Whenever I have thirsted

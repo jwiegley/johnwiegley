@@ -2,10 +2,8 @@
 :ID:       01B2D2EA-D629-4DDA-8505-A662C543D109
 :SLUG:     rhapsody-on-the-seven-valleys
 :END:
----
-title: Rhapsody on the Seven Valleys
-tags: essays
----
+#+filetags: :essays:
+#+title: Rhapsody on the Seven Valleys
 
 In the valley of Search, one seeks out an entrance, looks for some
 secret that will open the door, like pursuing a person we fancy, trying

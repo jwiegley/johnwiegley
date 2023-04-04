@@ -2,10 +2,8 @@
 :ID:       2903EDFC-BC7D-4074-ABB9-DDC525B68149
 :SLUG:     power
 :END:
----
-title: Power
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Power
 
 #+BEGIN_VERSE
 Into the river I cast a stone

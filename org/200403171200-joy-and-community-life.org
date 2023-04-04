@@ -2,10 +2,8 @@
 :ID:       5E7B192E-2C12-42A7-AEEC-00D6718FCD64
 :SLUG:     joy-and-community-life
 :END:
----
-title: Joy and Community Life
-tags: essays
----
+#+filetags: :essays:
+#+title: Joy and Community Life
 
 * What is a Bahá'í?
 :PROPERTIES:

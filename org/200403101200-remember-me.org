@@ -2,10 +2,8 @@
 :ID:       6CBF6741-1A7B-4C00-AF35-492BAB72EF91
 :SLUG:     remember-me
 :END:
----
-title: Remember me
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Remember me
 
 #+BEGIN_VERSE
 Do you remember me?

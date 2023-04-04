@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       3B182D14-191B-422E-B759-D154D9C54824
 :SLUG:     an-unfailing-love
+:LOCATION: 90 Watch Hill Dr Apt B, Colorado Springs, 80906
 :END:
----
-title: An unfailing love
-tags: journal
-location: 90 Watch Hill Dr Apt B, Colorado Springs, 80906
----
+#+filetags: :journal:
+#+title: An unfailing love
 
 If a perfect Creator loves His creation, can it be possible for us, as
 witnesses, to impute to Him a lacking heart? And yet, even in my own

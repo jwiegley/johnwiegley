@@ -2,10 +2,8 @@
 :ID:       1460FFAA-503A-4A1F-8DAA-81D83A2C9164
 :SLUG:     rational-plausibility
 :END:
----
-title: Rational plausibility
-tags: journal
----
+#+filetags: :journal:
+#+title: Rational plausibility
 
 Rational plausibility is a hermenuetical technique of interpreting
 religious scripture by inventing a scheme whereby the madness of it

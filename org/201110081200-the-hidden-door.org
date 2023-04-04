@@ -2,10 +2,8 @@
 :ID:       BA90D0E5-2170-4DBC-9F5C-B26C5E74DC09
 :SLUG:     the-hidden-door
 :END:
----
-title: The hidden door
-tags: journal
----
+#+filetags: :journal:
+#+title: The hidden door
 
 [Today's entry is a re-post of something I posted in 2004, but that was
 accidentally deleted from the server afterwards during an upgrade.]

@@ -2,10 +2,8 @@
 :ID:       3F94A73C-DEE6-4E00-9E12-9E1FBDA91728
 :SLUG:     a-standing-wave-form
 :END:
----
-title: A standing wave form
-tags: poetry
----
+#+filetags: :poetry:
+#+title: A standing wave form
 
 #+BEGIN_VERSE
 Looking at the self,

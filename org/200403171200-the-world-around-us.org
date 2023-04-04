@@ -2,10 +2,8 @@
 :ID:       F7A17AE3-088E-4B39-8CE1-0A586A0AEE3B
 :SLUG:     the-world-around-us
 :END:
----
-title: The world around us
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The world around us
 
 #+BEGIN_VERSE
 To see the summer sun

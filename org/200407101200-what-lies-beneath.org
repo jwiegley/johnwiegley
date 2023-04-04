@@ -2,10 +2,8 @@
 :ID:       DFA5C539-2E19-41EA-A107-020CCB752017
 :SLUG:     what-lies-beneath
 :END:
----
-title: What lies beneath
-tags: journal
----
+#+filetags: :journal:
+#+title: What lies beneath
 
 The vast wilderness of the real opens to view, and I am struck mute. A
 feeling of awe, strangeness -- a disturbing discordance with all I'd

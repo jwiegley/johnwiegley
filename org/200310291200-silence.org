@@ -2,10 +2,8 @@
 :ID:       4E2C6F99-4DF3-4ADA-9439-8C9B1F48B583
 :SLUG:     silence
 :END:
----
-title: Silence
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Silence
 
 #+BEGIN_VERSE
 Silence

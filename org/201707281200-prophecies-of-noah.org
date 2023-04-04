@@ -2,10 +2,8 @@
 :ID:       EEF857E4-D603-49F1-BC64-9762A0735E84
 :SLUG:     prophecies-of-noah
 :END:
----
-title: The prophecies of Noah
-tags: essays
----
+#+filetags: :essays:
+#+title: The prophecies of Noah
 
 Why did Noah prophesize events that did not come to pass, on multiple
 occasions?

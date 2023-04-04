@@ -2,10 +2,8 @@
 :ID:       3FF8FF8E-399F-4B79-8C2F-9573E263ADEE
 :SLUG:     gods-puzzle
 :END:
----
-title: God's puzzle
-tags: journal
----
+#+filetags: :journal:
+#+title: God's puzzle
 
 I propose that all aspects of religion make sense in the context of a
 soul's love for God.

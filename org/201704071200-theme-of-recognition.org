@@ -2,10 +2,8 @@
 :ID:       36FD6D8B-AFF2-4A8D-8659-4D998C22B5C6
 :SLUG:     theme-of-recognition
 :END:
----
-title: Recognition as an interpretive theme
-tags: journal
----
+#+filetags: :journal:
+#+title: Recognition as an interpretive theme
 
 Recognition of God's Manifestation is "the first duty prescribed by God
 for His servants", yet this weighty theme may imply much more than just

@@ -2,10 +2,8 @@
 :ID:       0B3D16E0-3FC8-4253-A3F2-395B68863E78
 :SLUG:     if-my-heart-were-to-speak
 :END:
----
-title: If my heart were to speak...
-tags: poetry
----
+#+filetags: :poetry:
+#+title: If my heart were to speak...
 
 #+BEGIN_VERSE
 If my heart were to speak

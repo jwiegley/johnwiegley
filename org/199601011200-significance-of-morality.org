@@ -2,10 +2,8 @@
 :ID:       C30345ED-D90E-4C3C-A7F0-450BF694A836
 :SLUG:     significance-of-morality
 :END:
----
-title: Significance of morality
-tags: journal
----
+#+filetags: :journal:
+#+title: Significance of morality
 
 Why morality may be significant: In life there seem to be two essential
 processes: transformation and transcendence. Where transformation is the

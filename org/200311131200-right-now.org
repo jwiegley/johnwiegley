@@ -2,10 +2,8 @@
 :ID:       934F6A96-A3CE-4A5A-85FF-6FF3B0C5CA82
 :SLUG:     right-now
 :END:
----
-title: Right now
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Right now
 
 #+BEGIN_VERSE
 Only when I think I have something

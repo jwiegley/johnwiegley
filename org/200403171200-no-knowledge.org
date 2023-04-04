@@ -2,10 +2,8 @@
 :ID:       19380B7E-C066-4634-AA43-CEDC6140F2A8
 :SLUG:     no-knowledge
 :END:
----
-title: No knowledge
-tags: poetry
----
+#+filetags: :poetry:
+#+title: No knowledge
 
 #+BEGIN_VERSE
 Sufficient knowledge has lead to me to a place of no knowledge.

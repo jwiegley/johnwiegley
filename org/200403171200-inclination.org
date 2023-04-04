@@ -2,10 +2,8 @@
 :ID:       0050F784-87E4-463C-959F-D68E83D07736
 :SLUG:     inclination
 :END:
----
-title: Inclination
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Inclination
 
 #+BEGIN_VERSE
 Poetry, music, or art

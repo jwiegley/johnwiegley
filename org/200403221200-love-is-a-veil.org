@@ -2,10 +2,8 @@
 :ID:       72AA5BEB-7119-4556-A69E-393B2D63D60A
 :SLUG:     love-is-a-veil
 :END:
----
-title: Love is a Veil
-tags: essays
----
+#+filetags: :essays:
+#+title: Love is a Veil
 
 #+BEGIN_QUOTE
 Love is a veil betwixt the lover and the beloved.[fn:1]

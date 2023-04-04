@@ -2,10 +2,8 @@
 :ID:       40140F46-575D-49C0-A3CB-5731A613BBA2
 :SLUG:     the-prisoner
 :END:
----
-title: The prisoner
-tags: journal
----
+#+filetags: :journal:
+#+title: The prisoner
 
 Our eye is a prisoner, trapped by the limits of its very function. It
 perceives only the barest fraction of the electromagnetic spectrum --

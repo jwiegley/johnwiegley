@@ -2,10 +2,8 @@
 :ID:       38FD178E-B26D-4D17-A655-0D8A1DD9543E
 :SLUG:     being-hard-on-ourselves
 :END:
----
-title: Being hard on ourselves
-tags: journal
----
+#+filetags: :journal:
+#+title: Being hard on ourselves
 
 In 13th century Christianity, a practice arose among the believers of
 beating themselves publically while they urged others to repent. The

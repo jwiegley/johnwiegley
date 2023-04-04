@@ -2,10 +2,8 @@
 :ID:       BC8B13AA-8107-4232-8853-A97D01DDB64F
 :SLUG:     brief-thoughts
 :END:
----
-title: Brief thoughts
-tags: journal
----
+#+filetags: :journal:
+#+title: Brief thoughts
 
 Altruism of belief is belief that's given with entire freedom, without
 reference to the self. Can an unaltruistic spirit really engage in pure

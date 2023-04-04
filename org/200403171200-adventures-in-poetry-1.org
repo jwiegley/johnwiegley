@@ -2,10 +2,8 @@
 :ID:       7CC37D19-1A09-4ACA-9011-5CDC4E039E6F
 :SLUG:     adventures-in-poetry-1
 :END:
----
-title: Adventures in Poetry
-tags: essays
----
+#+filetags: :essays:
+#+title: Adventures in Poetry
 
 After many years of writing poetry, the experience has greatly changed
 for me. I would like to note down some of these changes, and a bit of

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       38476842-CEAF-4A16-90D9-CEC59712637F
 :SLUG:     rivers-of-people
+:LOCATION: Italy
+:EDITED:   [2004-04-10 Sat]
 :END:
----
-title: Rivers of people
-tags: poetry
-edited: 04/10/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: Rivers of people
 
 #+BEGIN_VERSE
 The rivers of people are all of colored drops;

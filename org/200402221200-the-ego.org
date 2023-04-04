@@ -2,10 +2,8 @@
 :ID:       01768C39-6415-4577-B3F3-2BEFACF38177
 :SLUG:     the-ego
 :END:
----
-title: The Ego
-tags: journal
----
+#+filetags: :journal:
+#+title: The Ego
 
 I think the ego always exists because of two things, because while
 definitions and ideas may refer to realities, they cannot fully describe

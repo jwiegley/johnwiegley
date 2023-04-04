@@ -2,10 +2,8 @@
 :ID:       6EBCD42B-0BD6-494F-8DD5-57D7882B42C3
 :SLUG:     untitled-2
 :END:
----
-title: Untitled 2
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 2
 
 Ahhhhh... If you can read that as a joy of exhalation like the lungs
 clapping, the ribs sequeezing as they hug the air, the heart unable to

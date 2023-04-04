@@ -2,10 +2,8 @@
 :ID:       21E3C6EF-246A-4E00-A376-04FB2A52157B
 :SLUG:     god-and-the-impossible-rock
 :END:
----
-title: God and the impossible rock
-tags: journal
----
+#+filetags: :journal:
+#+title: God and the impossible rock
 
 A question I've sometimes heard asked is:
 

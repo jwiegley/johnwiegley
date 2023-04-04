@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       73025BD1-93BF-4795-8F8A-538B8E23D000
 :SLUG:     when-a-loving-eye-takes-extra-pains
+:LOCATION: Sitges, Spain
+:EDITED:   [2004-03-17 Wed]
 :END:
----
-title: When a loving eye takes extra pains
-tags: poetry
-edited: 03/17/2004
-location: Sitges, Spain
----
+#+filetags: :poetry:
+#+title: When a loving eye takes extra pains
 
 #+BEGIN_VERSE
 If the wind linger

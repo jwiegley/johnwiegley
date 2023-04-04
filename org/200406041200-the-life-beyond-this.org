@@ -2,10 +2,8 @@
 :ID:       E075F6A4-F6C4-45DE-AB9A-480D9B3CB4C7
 :SLUG:     the-life-beyond-this
 :END:
----
-title: The life beyond this
-tags: journal
----
+#+filetags: :journal:
+#+title: The life beyond this
 
 What if the world we see is like an image reflecting off of still water;
 when we die, we will step across into the source of that reflection. In

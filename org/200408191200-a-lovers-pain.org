@@ -2,10 +2,8 @@
 :ID:       9BBAFB47-453B-4BEC-BAE6-D2BBFE40CDC1
 :SLUG:     a-lovers-pain
 :END:
----
-title: A lover's pain
-tags: journal
----
+#+filetags: :journal:
+#+title: A lover's pain
 
 What comes below follows directly from earlier essay,
 [[file:the.hidden.door][The Hidden Door]], which had a profoundly

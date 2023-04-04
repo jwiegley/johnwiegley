@@ -2,10 +2,8 @@
 :ID:       DE9C3066-A677-483F-BB44-5E9EC6DF98C4
 :SLUG:     immediate-knowing
 :END:
----
-title: Immediate knowing
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Immediate knowing
 
 #+BEGIN_VERSE
 A soul can laugh a hundred times

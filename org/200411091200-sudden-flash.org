@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       A87ACB2C-1F8F-4CFF-9EDA-5BB067D0983F
 :SLUG:     sudden-flash
+:LOCATION: 5130 (Barbara Swenson's house), Tucson, AZ
 :END:
----
-title: Sudden flash
-tags: poetry
-location: 5130 (Barbara Swenson's house), Tucson, AZ
----
+#+filetags: :poetry:
+#+title: Sudden flash
 
 #+BEGIN_VERSE
 Rainfall outside my window:

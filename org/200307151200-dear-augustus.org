@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       721400EF-B657-4723-A1E7-3ABCD6353F91
 :SLUG:     dear-augustus
+:LOCATION: Italy
+:EDITED:   [2004-04-10 Sat]
 :END:
----
-title: Dear Augustus
-tags: poetry
-edited: 04/10/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: Dear Augustus
 
 #+BEGIN_VERSE
 They have trapped you in stone, dear Augustus,

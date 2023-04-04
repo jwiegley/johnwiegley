@@ -2,10 +2,8 @@
 :ID:       3C562BE2-EA6F-4736-83FF-32A97C2FB066
 :SLUG:     busy
 :END:
----
-title: Busy
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Busy
 
 #+BEGIN_VERSE
 I think hurriedness is one of the patent evils of our society.

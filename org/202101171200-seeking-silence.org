@@ -2,10 +2,8 @@
 :ID:       D8CC1E1D-7B53-45A2-BC25-323792D16A7A
 :SLUG:     seeking-silence
 :END:
----
-title: Seeking silence
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Seeking silence
 
 #+BEGIN_VERSE
 If you ask questions to find silence,

@@ -2,10 +2,8 @@
 :ID:       B668783A-C28C-4FA9-9E4B-FF82C7C8AB5C
 :SLUG:     multilinearity-and-free-will
 :END:
----
-title: Multilinearity and Free Will
-tags: essays
----
+#+filetags: :essays:
+#+title: Multilinearity and Free Will
 
 The problem of free will concerns the domain of humanity's possible
 evolution. If, on the one hand, we are constrained to whatever decree

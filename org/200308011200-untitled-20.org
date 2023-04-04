@@ -2,10 +2,8 @@
 :ID:       1D3C5421-6634-428E-85BA-CCA7DDE8265F
 :SLUG:     untitled-20
 :END:
----
-title: Untitled 20
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 20
 
 From what you've said, I understand your philosophy to be:
 

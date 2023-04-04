@@ -2,10 +2,8 @@
 :ID:       41187FE9-9CFD-42FA-8AB0-91CF1704D338
 :SLUG:     what-is-philosophy-good-for
 :END:
----
-title: What is philosophy good for?
-tags: journal
----
+#+filetags: :journal:
+#+title: What is philosophy good for?
 
 While most other courses will teach you how to think about a particular
 subject, philosophy is unique in that it questions the process of

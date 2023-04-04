@@ -2,10 +2,8 @@
 :ID:       53193E39-45DD-45E1-9C5B-E59D5F5DC0BB
 :SLUG:     the-purpose-of-religion
 :END:
----
-title: The purpose of religion
-tags: journal
----
+#+filetags: :journal:
+#+title: The purpose of religion
 
 * The soul's aim
 :PROPERTIES:

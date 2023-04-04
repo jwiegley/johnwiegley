@@ -2,10 +2,8 @@
 :ID:       402A697F-7873-4B7B-A8C4-735C52C7F8ED
 :SLUG:     human-thought
 :END:
----
-title: Human thought
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Human thought
 
 #+BEGIN_VERSE
 Human thought is a parade of ignorance:

@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       87CE91DE-2480-4FCF-BEC9-1C27B204C79F
 :SLUG:     a-holy-pain
+:LOCATION: 380 Esplanade #211
 :END:
----
-title: A holy pain
-tags: poetry
-location: 380 Esplanade #211
----
+#+filetags: :poetry:
+#+title: A holy pain
 
 #+BEGIN_VERSE
 Do you feel the holy pain

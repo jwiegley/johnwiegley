@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       195FD771-9E12-47B3-B258-BE0DB2BD9068
 :SLUG:     undivided-being
+:LOCATION: Italy
+:EDITED:   [2004-04-10 Sat]
 :END:
----
-title: Undivided Being
-tags: poetry
-edited: 04/10/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: Undivided Being
 
 #+BEGIN_VERSE
 It began undivided;

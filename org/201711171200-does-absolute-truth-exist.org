@@ -2,10 +2,8 @@
 :ID:       2EAB9C9C-8FD3-4D6C-936F-5BE9C047B054
 :SLUG:     does-absolute-truth-exist
 :END:
----
-title: Does absolute truth exist?
-tags: journal
----
+#+filetags: :journal:
+#+title: Does absolute truth exist?
 
 I think absolute truth does exist, but often when you cast it into terms
 of human language and conception, it becomes relative to those

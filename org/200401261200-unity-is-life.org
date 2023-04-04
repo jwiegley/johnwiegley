@@ -2,10 +2,8 @@
 :ID:       187E093E-3A0F-4B59-8D09-A1674729D7C1
 :SLUG:     unity-is-life
 :END:
----
-title: Unity is life
-tags: journal
----
+#+filetags: :journal:
+#+title: Unity is life
 
 I ran across this quote today, which I like very much. It is by
 `Abdu'l-Bahá, the son of the Founder of the Bahá'í Faith:

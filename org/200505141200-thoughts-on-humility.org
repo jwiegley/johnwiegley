@@ -2,10 +2,8 @@
 :ID:       0E56F7E5-B5B7-4E5E-B3DC-7531908A51B6
 :SLUG:     thoughts-on-humility
 :END:
----
-title: Thoughts on humility
-tags: journal
----
+#+filetags: :journal:
+#+title: Thoughts on humility
 
 * Being humble
 :PROPERTIES:

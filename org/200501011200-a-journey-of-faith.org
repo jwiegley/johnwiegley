@@ -2,10 +2,8 @@
 :ID:       819EB667-F3EB-4213-B928-C5F2F6951A20
 :SLUG:     a-journey-of-faith
 :END:
----
-title: A Journey of Faith
-tags: essays
----
+#+filetags: :essays:
+#+title: A Journey of Faith
 
 I would like to tell story of my encounters with faith. It is a story
 with many chapters so far, and I hope many more to come. Perhaps in what

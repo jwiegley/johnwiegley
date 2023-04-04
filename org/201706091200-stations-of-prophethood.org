@@ -2,10 +2,8 @@
 :ID:       4E62FD95-86D1-4AC9-A223-198AA73F08D3
 :SLUG:     stations-of-prophethood
 :END:
----
-title: Stations of prophethood
-tags: journal
----
+#+filetags: :journal:
+#+title: Stations of prophethood
 
 The Prophets each have a two-fold station: one that is worldly and one
 that is Divine.

@@ -2,10 +2,8 @@
 :ID:       ABE25506-4BBF-4635-A5C2-CDEB4B7CB623
 :SLUG:     poisoned-flour
 :END:
----
-title: Poisoned flour
-tags: journal
----
+#+filetags: :journal:
+#+title: Poisoned flour
 
 As long as we keep baking with poisoned flour, the act of feeding
 humanity will not have the final, desired result.

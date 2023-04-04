@@ -2,10 +2,8 @@
 :ID:       1392AD6B-7DFC-4A51-8CCE-4B27E3B20FA8
 :SLUG:     self-and-soul
 :END:
----
-title: Self and soul
-tags: journal
----
+#+filetags: :journal:
+#+title: Self and soul
 
 The following are just some thoughts on the different natures of self
 and soul.

@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       6BE7A1A4-C2F9-4702-A637-FB82C34F2B97
 :SLUG:     all-of-us-candles
+:LOCATION: Bahji
 :END:
----
-title: All of us candles
-tags: journal
-location: Bahji
----
+#+filetags: :journal:
+#+title: All of us candles
 
 Sometimes I feel as though we are all candles, placed in a room,
 intended to illuminate the vast treasures that are contained therein.

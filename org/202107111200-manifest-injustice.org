@@ -2,10 +2,8 @@
 :ID:       62345305-075C-459A-B0CC-778530B1CCCB
 :SLUG:     manifest-injustice
 :END:
----
-title: Manifest injustice
-tags: journal
----
+#+filetags: :journal:
+#+title: Manifest injustice
 
 Concerning the appearance of manifest injustice in the world, if I may
 use the analogy of a garden: When the Gardener first puts a seed into

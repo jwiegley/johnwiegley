@@ -2,10 +2,8 @@
 :ID:       247B397F-A87E-4DA2-BC59-77A60344B8EB
 :SLUG:     quiet
 :END:
----
-title: Quiet
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Quiet
 
 #+BEGIN_VERSE
 Sometimes,

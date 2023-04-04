@@ -2,10 +2,8 @@
 :ID:       483D3E81-97EE-4A0C-A095-D2B763ED0D89
 :SLUG:     the-greatest-name
 :END:
----
-title: The Greatest Name
-tags: essays
----
+#+filetags: :essays:
+#+title: The Greatest Name
 
 #+BEGIN_QUOTE
 Glory be unto Thee, O Lord of the world and Desire of the nations, O

@@ -2,10 +2,8 @@
 :ID:       21471C5E-F781-431B-A97D-6F0EEEA3E2DE
 :SLUG:     untitled-5
 :END:
----
-title: Untitled 5
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 5
 
 "One-upsmanship" can only happen between egos. In terms of the human
 spirit: if you succeed, I succeed. That is the unity of the human race,

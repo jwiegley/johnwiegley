@@ -2,10 +2,8 @@
 :ID:       BD4F72FB-69A3-450A-9EF2-6C6D2E0B9FA0
 :SLUG:     economy-of-force
 :END:
----
-title: Economy of force
-tags: journal
----
+#+filetags: :journal:
+#+title: Economy of force
 
 The Chinese classic reads "use four ounces to deflect a thousand
 pounds." I think about people and communication: sometimes if we take

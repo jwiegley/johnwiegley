@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       D76FDBD1-FED9-4654-80B2-BD32478ED2CE
 :SLUG:     a-tender-suffering
+:LOCATION: Guest room in the Rhodes' house, 312 Palmer Ave
+:EDITED:   [2003-11-21 Fri]
 :END:
----
-title: A tender suffering
-tags: poetry
-edited: 11/21/2003
-location: Guest room in the Rhodes' house, 312 Palmer Ave
----
+#+filetags: :poetry:
+#+title: A tender suffering
 
 #+BEGIN_VERSE
 A tender suffering, you once taught me --

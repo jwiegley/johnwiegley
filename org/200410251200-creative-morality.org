@@ -2,10 +2,8 @@
 :ID:       56AD32A2-3A42-4328-BC1D-57B02EFEDCE4
 :SLUG:     creative-morality
 :END:
----
-title: Creative morality
-tags: journal
----
+#+filetags: :journal:
+#+title: Creative morality
 
 After writing yesterday's entry, I came across the following quote from
 Alan Watts, in a chapter on "creative morality", which summarizes quite

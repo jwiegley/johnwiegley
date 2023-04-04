@@ -2,10 +2,8 @@
 :ID:       CF60ED62-03AE-4C2F-8613-C9EC40782CF5
 :SLUG:     a-poem-and-three-short-essays-from-florence
 :END:
----
-title: A poem and three short essays from Florence
-tags: journal
----
+#+filetags: :journal:
+#+title: A poem and three short essays from Florence
 
 Seeing people walk through the Uffizi:
 

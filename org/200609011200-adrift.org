@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       DA327E6D-68CD-49D9-B485-4428600681F9
 :SLUG:     adrift
+:LOCATION: Jim Straus's house, 1555 Sherman Avenue, Evanston IL 60201
 :END:
----
-title: Adrift
-tags: journal
-location: Jim Straus's house, 1555 Sherman Avenue, Evanston IL 60201
----
+#+filetags: :journal:
+#+title: Adrift
 
 The more certainly we define ourselves, the more we fear an unraveling
 of that knowledge in the face of change and death.

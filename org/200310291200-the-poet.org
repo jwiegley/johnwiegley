@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       8F131C09-678E-40DD-8C68-AC9262F7F72D
 :SLUG:     the-poet
+:EDITED:   [2003-11-16 Sun]
 :END:
----
-title: The poet
-tags: poetry
-edited: 11/16/2003
----
+#+filetags: :poetry:
+#+title: The poet
 
 #+BEGIN_VERSE
 A poet never knows which way

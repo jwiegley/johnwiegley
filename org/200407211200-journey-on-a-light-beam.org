@@ -2,10 +2,8 @@
 :ID:       B5858316-A9F6-4886-801D-6FCF1088F917
 :SLUG:     journey-on-a-light-beam
 :END:
----
-title: Journey on a light beam
-tags: journal
----
+#+filetags: :journal:
+#+title: Journey on a light beam
 
 The physical world is composed of energy, which began as an
 undifferentiated quantity of energy, but later varied to produce

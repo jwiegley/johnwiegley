@@ -2,10 +2,8 @@
 :ID:       88DCAEE9-A318-4019-83E9-6C252B4A1206
 :SLUG:     the-alien-bookstore-owner
 :END:
----
-title: The Alien Bookstore Owner
-tags: stories
----
+#+filetags: :stories:
+#+title: The Alien Bookstore Owner
 
 Last night I had a very strange dream as well. I was in a neighborhood
 on an alien planet -- although everyone there was just like a human --

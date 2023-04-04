@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       D67313E4-8245-46DA-AD61-D8D42F88E1DF
 :SLUG:     catching-a-glimpse
+:LOCATION: Horizon Park Center, Scottsdale, Arizona
+:EDITED:   [2005-04-25 Mon]
 :END:
----
-title: Catching a glimpse
-tags: poetry
-edited: 04/25/2005
-location: Horizon Park Center, Scottsdale, Arizona
----
+#+filetags: :poetry:
+#+title: Catching a glimpse
 
 #+BEGIN_VERSE
 The wind one morning

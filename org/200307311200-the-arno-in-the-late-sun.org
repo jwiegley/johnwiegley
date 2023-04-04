@@ -2,10 +2,8 @@
 :ID:       2220B71F-1347-4C49-A593-2067B7B67739
 :SLUG:     the-arno-in-the-late-sun
 :END:
----
-title: The Arno in the late sun...
-tags: journal
----
+#+filetags: :journal:
+#+title: The Arno in the late sun...
 
 I walk over the river Arno each day, crossing the Ponte Vecchio to make
 my way into the city center. Today it is finally cool. I had forgotten

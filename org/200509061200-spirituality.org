@@ -2,10 +2,8 @@
 :ID:       FE338887-EB1A-40D1-A5BE-AE320D52D972
 :SLUG:     spirituality
 :END:
----
-title: Spirituality
-tags: journal
----
+#+filetags: :journal:
+#+title: Spirituality
 
 On the subject of spiritual things, I think that true religion always
 brings with it joy and happiness. Whenever these two are missing,

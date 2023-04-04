@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       60818EB1-6935-427B-A2FA-5ADC0022DB3C
 :SLUG:     tales-i-tell-myself
+:LOCATION: 380 Esplanade #211
+:EDITED:   [2004-02-03 Tue]
 :END:
----
-title: Tales I tell myself
-tags: poetry
-edited: 02/03/2004
-location: 380 Esplanade #211
----
+#+filetags: :poetry:
+#+title: Tales I tell myself
 
 #+BEGIN_VERSE
 Too many words...

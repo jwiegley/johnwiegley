@@ -2,10 +2,8 @@
 :ID:       9AF7CA0F-C360-45F3-83BF-505555F4B87B
 :SLUG:     whats-with-dominique-francon
 :END:
----
-title: What's with Dominique Francon?
-tags: essays
----
+#+filetags: :essays:
+#+title: What's with Dominique Francon?
 
 There have been a lot of people asking about the character of Dominique
 Francon in the book /The Fountainhead/, by Ayn Rand. This essay will

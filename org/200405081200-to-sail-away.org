@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       0B3B6415-8C07-49B5-B1B1-F233ED451E68
 :SLUG:     to-sail-away
+:LOCATION: 380 Esplanade #211
+:EDITED:   [2004-09-13 Mon]
 :END:
----
-title: To sail away
-tags: poetry
-edited: 09/13/2004
-location: 380 Esplanade #211
----
+#+filetags: :poetry:
+#+title: To sail away
 
 #+BEGIN_VERSE
 Globes of moonlight float along the water,

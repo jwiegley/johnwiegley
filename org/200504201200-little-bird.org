@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       5662E5D0-F527-4B42-9DB6-CFBB8CA14BC5
 :SLUG:     little-bird
+:LOCATION: Biltmore Fashion Park, Phoenix, Arizona
+:EDITED:   [2005-05-02 Mon]
 :END:
----
-title: Little bird
-tags: poetry
-edited: 05/02/2005
-location: Biltmore Fashion Park, Phoenix, Arizona
----
+#+filetags: :poetry:
+#+title: Little bird
 
 #+BEGIN_VERSE
 I think perhaps

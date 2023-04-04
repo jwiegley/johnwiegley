@@ -2,10 +2,8 @@
 :ID:       F35B6F76-4517-490A-8B06-C678F092CFBC
 :SLUG:     another-retelling-the-metaphysics-of-light
 :END:
----
-title: "Another retelling: The metaphysics of light"
-tags: journal
----
+#+filetags: :journal:
+#+title: "Another retelling: The metaphysics of light"
 
 I would like to resummarize what I've been saying, again, by talking
 about the nature of light.

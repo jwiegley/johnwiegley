@@ -2,10 +2,8 @@
 :ID:       60DA4918-8425-4796-B88A-BF1069775B78
 :SLUG:     at-one-with-everything
 :END:
----
-title: At one with everything?
-tags: journal
----
+#+filetags: :journal:
+#+title: At one with everything?
 
 As I drive along the highway, losing myself to the being of Driving, I
 find that a couple strange things occur: First, I no longer feel a sense

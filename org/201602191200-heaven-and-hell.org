@@ -2,10 +2,8 @@
 :ID:       F4F05377-5DEB-4115-B849-E35EEA3D9F68
 :SLUG:     heaven-and-hell
 :END:
----
-title: Heaven and hell
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Heaven and hell
 
 #+BEGIN_VERSE
 In Heaven

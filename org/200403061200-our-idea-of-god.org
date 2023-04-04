@@ -2,10 +2,8 @@
 :ID:       04970F78-9129-4005-BE98-CD4657313C26
 :SLUG:     our-idea-of-god
 :END:
----
-title: Our idea of God
-tags: essays
----
+#+filetags: :essays:
+#+title: Our idea of God
 
 Each person has a certain conception of "God" that exists in his mind.
 At the very least, it is a word which implies that which is not known.

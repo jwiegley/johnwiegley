@@ -2,10 +2,8 @@
 :ID:       44E6E877-7F5A-491E-920C-E6C8D7232002
 :SLUG:     the-beauty-of-existence
 :END:
----
-title: The beauty of existence
-tags: journal
----
+#+filetags: :journal:
+#+title: The beauty of existence
 
 The Sufis tell that when the nafs (self, or individual soul) is finally
 conquered, it will disappear -- like a drop into the Ocean. This

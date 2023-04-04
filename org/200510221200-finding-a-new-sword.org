@@ -2,10 +2,8 @@
 :ID:       E24BE930-FDBF-47EF-BABE-D889439618E7
 :SLUG:     finding-a-new-sword
 :END:
----
-title: Finding a new sword
-tags: journal
----
+#+filetags: :journal:
+#+title: Finding a new sword
 
 I love to play fantasy adventure games on my laptop, especially right
 now /Neverwinter Nights/. In those sort of games, it's typical to start

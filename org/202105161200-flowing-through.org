@@ -2,10 +2,8 @@
 :ID:       46FB0D65-C336-4D07-A292-C57397EA154C
 :SLUG:     flowing-through
 :END:
----
-title: Flowing through
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Flowing through
 
 #+BEGIN_VERSE
 Looking at the self,

@@ -2,10 +2,8 @@
 :ID:       407E43F1-B362-43C8-9E25-992B88F2B002
 :SLUG:     waiting-for-tomorrow
 :END:
----
-title: Waiting for tomorrow
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Waiting for tomorrow
 
 #+BEGIN_VERSE
 I lost myself to tomorrow.

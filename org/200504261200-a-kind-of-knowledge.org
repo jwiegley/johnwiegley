@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       D5DAB8D9-6B8E-49BA-B68A-91E65797362E
 :SLUG:     a-kind-of-knowledge
+:LOCATION: Barnes & Noble, Shea Blvd, Scottsdale, AZ
+:EDITED:   [2005-05-03 Tue]
 :END:
----
-title: A kind of knowledge
-tags: poetry
-edited: 05/03/2005
-location: Barnes & Noble, Shea Blvd, Scottsdale, AZ
----
+#+filetags: :poetry:
+#+title: A kind of knowledge
 
 #+BEGIN_VERSE
 There is a kind of knowledge that is known only

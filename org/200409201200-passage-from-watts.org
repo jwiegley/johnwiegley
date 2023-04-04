@@ -2,10 +2,8 @@
 :ID:       91F4DA8F-478B-4A96-B6FA-D78299278B82
 :SLUG:     passage-from-watts
 :END:
----
-title: Passage from Watts
-tags: journal
----
+#+filetags: :journal:
+#+title: Passage from Watts
 
 Continuing on with my reading of Alan Watts, I came across these
 paragraphs, which express so well much of what I've been meaning to say:

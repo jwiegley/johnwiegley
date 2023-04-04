@@ -2,10 +2,8 @@
 :ID:       166F60C8-3926-4E66-9417-EF5ECD76F6CE
 :SLUG:     passing-me-by
 :END:
----
-title: Passing me by
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Passing me by
 
 #+BEGIN_VERSE
 I repose with sadness

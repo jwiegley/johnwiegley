@@ -2,10 +2,8 @@
 :ID:       7F6969DB-73F7-4566-9F0A-79245FF077AA
 :SLUG:     spirit-and-thought
 :END:
----
-title: Spirit and thought
-tags: journal
----
+#+filetags: :journal:
+#+title: Spirit and thought
 
 The following idea came up during a discussion this week. We were
 reading a quote that said "at the hour of the soul's separation from the

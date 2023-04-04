@@ -2,10 +2,8 @@
 :ID:       612091A8-C848-423C-90FC-ACE4CD16C366
 :SLUG:     judging-life
 :END:
----
-title: Judging life
-tags: journal
----
+#+filetags: :journal:
+#+title: Judging life
 
 How do we judge life, as a quality? Is it merely a question of a
 functioning brain and heart, or why would we look on invalids with a

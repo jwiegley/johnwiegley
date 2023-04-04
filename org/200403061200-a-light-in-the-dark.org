@@ -2,10 +2,8 @@
 :ID:       C347B0D6-3AB9-4BE9-ACF7-1E8099ECCA7B
 :SLUG:     a-light-in-the-dark
 :END:
----
-title: A Light in the Dark
-tags: essays
----
+#+filetags: :essays:
+#+title: A Light in the Dark
 
 People have asked me at times why I don't do certain things it seems I
 should. In simplest terms, it's usually because I'm busy doing something

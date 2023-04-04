@@ -2,10 +2,8 @@
 :ID:       9E758501-D7F1-42CA-9A2A-F6869FA12F55
 :SLUG:     nightfall-at-the-lighthouse
 :END:
----
-title: Nightfall at the lighthouse
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Nightfall at the lighthouse
 
 #+BEGIN_VERSE
 The sun's light grows cold;

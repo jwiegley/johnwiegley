@@ -2,10 +2,8 @@
 :ID:       9ABCB961-AF06-4B08-843B-66DA5347E477
 :SLUG:     assuming-responsibility-for-our-life
 :END:
----
-title: Assuming responsibility for our life
-tags: journal
----
+#+filetags: :journal:
+#+title: Assuming responsibility for our life
 
 The present course of my thoughts requires that I take responsibility
 for everything that I do and have done. I must accept the consequences

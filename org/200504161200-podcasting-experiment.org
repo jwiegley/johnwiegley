@@ -2,10 +2,8 @@
 :ID:       F935C899-840C-4776-923B-C6AD95FF302C
 :SLUG:     podcasting-experiment
 :END:
----
-title: Podcasting experiment
-tags: journal
----
+#+filetags: :journal:
+#+title: Podcasting experiment
 
 [[http://en.wikipedia.org/wiki/Podcasting][Podcasting]] is a means for
 broadcasting audio content through a medium such as a weblog. Some

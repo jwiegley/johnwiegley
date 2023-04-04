@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       AF5EF6F1-4785-45BB-81F1-1D356D2AF983
 :SLUG:     an-iranian-beauty
+:LOCATION: 7373 N. 71st Place, Paradise Valley, AZ
+:EDITED:   [2005-05-04 Wed]
 :END:
----
-title: An Iranian beauty
-tags: poetry
-edited: 05/04/2005
-location: 7373 N. 71st Place, Paradise Valley, AZ
----
+#+filetags: :poetry:
+#+title: An Iranian beauty
 
 #+BEGIN_VERSE
 Her hair falls

@@ -2,10 +2,8 @@
 :ID:       2F0AF151-8DB4-42A6-8D7C-4F1555CC4041
 :SLUG:     from-san-diego
 :END:
----
-title: From San Diego
-tags: journal
----
+#+filetags: :journal:
+#+title: From San Diego
 
 I'm typing now from a coffee shop in San Diego, visiting with a computer
 friend I've known for years, but never met face-to-face. How nice

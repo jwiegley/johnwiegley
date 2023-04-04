@@ -2,10 +2,8 @@
 :ID:       BC654470-EB07-4971-8341-ECFDBB4B7920
 :SLUG:     what-changes-you
 :END:
----
-title: What changes you
-tags: poetry
----
+#+filetags: :poetry:
+#+title: What changes you
 
 #+BEGIN_VERSE
 If it's the sun,

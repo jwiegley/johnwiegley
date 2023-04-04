@@ -2,10 +2,8 @@
 :ID:       17590E5E-FDF2-4E83-AE26-4204F7095D09
 :SLUG:     reading-the-newspaper
 :END:
----
-title: Reading the newspaper
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Reading the newspaper
 
 #+BEGIN_VERSE
 Ahead of me faced a long hall

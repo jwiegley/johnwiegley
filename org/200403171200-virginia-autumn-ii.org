@@ -2,10 +2,8 @@
 :ID:       07DDF735-CE85-42CB-B487-39A49FDDB86E
 :SLUG:     virginia-autumn-ii
 :END:
----
-title: Virginia autumn II
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Virginia autumn II
 
 #+BEGIN_VERSE
 Virginia autumn, when leaves regale

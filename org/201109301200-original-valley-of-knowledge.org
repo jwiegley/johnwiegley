@@ -2,10 +2,8 @@
 :ID:       38CCE3BF-01F0-4AE7-BE6C-89624ECF13F4
 :SLUG:     original-valley-of-knowledge
 :END:
----
-title: Original valley of knowledge
-tags: journal
----
+#+filetags: :journal:
+#+title: Original valley of knowledge
 
 /The Conference of the Birds/ is a story of thirty birds who are all
 seeking to reach the immortal King. Their guide, the Hoopoe bird,

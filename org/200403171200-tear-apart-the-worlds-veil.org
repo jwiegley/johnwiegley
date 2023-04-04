@@ -2,10 +2,8 @@
 :ID:       52794214-ECF8-4A95-B41F-AAA075BBBFB7
 :SLUG:     tear-apart-the-worlds-veil
 :END:
----
-title: Tear apart the world's veil
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Tear apart the world's veil
 
 #+BEGIN_VERSE
 Tear apart the world's veil:

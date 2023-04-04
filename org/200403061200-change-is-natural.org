@@ -2,10 +2,8 @@
 :ID:       0F00E9FD-BD21-4553-912F-0CE70DFD114E
 :SLUG:     change-is-natural
 :END:
----
-title: Change is natural
-tags: essays
----
+#+filetags: :essays:
+#+title: Change is natural
 
 Change occurs naturally. It has always, and will always occur. The
 direction of change is something we can participate in, of course. At

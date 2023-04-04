@@ -2,10 +2,8 @@
 :ID:       30729DF9-9B8E-4AAE-B191-7CC0B678A671
 :SLUG:     lethology
 :END:
----
-title: Lethology
-tags: stories
----
+#+filetags: :stories:
+#+title: Lethology
 
 Now what was I going to tell you?
 

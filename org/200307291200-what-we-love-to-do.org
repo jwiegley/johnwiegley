@@ -2,10 +2,8 @@
 :ID:       A032223A-988B-4334-BDEE-DF429FC95F8D
 :SLUG:     what-we-love-to-do
 :END:
----
-title: What we love to do
-tags: journal
----
+#+filetags: :journal:
+#+title: What we love to do
 
 The following is a copy of a response I sent to one person's questions.
 I thought others might be interested also. She asked how I recognized

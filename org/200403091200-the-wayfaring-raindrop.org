@@ -2,10 +2,8 @@
 :ID:       AB27936C-CB69-4BAE-A73E-77FE18F29D52
 :SLUG:     the-wayfaring-raindrop
 :END:
----
-title: The Wayfaring Raindrop
-tags: stories
----
+#+filetags: :stories:
+#+title: The Wayfaring Raindrop
 
 In the skies above the ocean sat a cloud to dwarf the heavens. It was
 light grey, dark in patches, and occasionally flashed bright during a

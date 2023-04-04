@@ -2,10 +2,8 @@
 :ID:       ACC3D698-F1AD-49D7-93DF-280BAC912538
 :SLUG:     made-to-love-the-sun
 :END:
----
-title: Made to love the sun
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Made to love the sun
 
 #+BEGIN_VERSE
 A flower is made

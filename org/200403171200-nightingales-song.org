@@ -2,10 +2,8 @@
 :ID:       20D11924-8D6B-4172-B67B-D1B2C682F785
 :SLUG:     nightingales-song
 :END:
----
-title: Nightingale's song
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Nightingale's song
 
 #+BEGIN_VERSE
 Two brothers sat, admiring the song of a nightingale.

@@ -2,10 +2,8 @@
 :ID:       C69C62BF-04F9-458B-B70E-3586792F222B
 :SLUG:     untitled-11
 :END:
----
-title: Untitled 11
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 11
 
 Before I forget again: I wanted to tell you that I have changed my mind
 about receiving financial assistance to go back to school. My feelings

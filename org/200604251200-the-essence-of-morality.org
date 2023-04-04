@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       3F16558B-6362-4864-91C5-F5E1835E648C
 :SLUG:     the-essence-of-morality
+:LOCATION: 90 Watch Hill Drive Apt B, Colorado Springs, 80906
 :END:
----
-title: The essence of morality
-tags: journal
-location: 90 Watch Hill Drive Apt B, Colorado Springs, 80906
----
+#+filetags: :journal:
+#+title: The essence of morality
 
 I believe that morality is this: to see people and the world we live in
 as one's highest value. The direct corollary, of course, is that "the

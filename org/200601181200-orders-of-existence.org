@@ -2,10 +2,8 @@
 :ID:       7CB7C87B-3ADE-4E04-BAB9-AA519E6B1397
 :SLUG:     orders-of-existence
 :END:
----
-title: Orders of existence
-tags: journal
----
+#+filetags: :journal:
+#+title: Orders of existence
 
 Philosophy and religion have long debated the meaning of existence as it
 relates to form and essence.

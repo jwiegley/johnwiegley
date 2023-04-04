@@ -2,10 +2,8 @@
 :ID:       AE75FE42-E978-4902-B5C2-F6DCE82898A3
 :SLUG:     jennifer
 :END:
----
-title: Jennifer
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Jennifer
 
 #+BEGIN_VERSE
 That night, when my head was back,

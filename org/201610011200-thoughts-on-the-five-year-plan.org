@@ -2,10 +2,8 @@
 :ID:       9B8FAB7A-0837-4681-8215-BCBF7C36138B
 :SLUG:     thoughts-on-the-five-year-plan
 :END:
----
-title: Thoughts on the Five Year Plan (2016-2021)
-tags: essays
----
+#+filetags: :essays:
+#+title: Thoughts on the Five Year Plan (2016-2021)
 
 I prepared the following speech for our Unit Convention today, about the
 current Five Year Plan:

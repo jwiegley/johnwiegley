@@ -2,10 +2,8 @@
 :ID:       066A8023-DB3C-4BAA-800B-E4CB65AD277C
 :SLUG:     living-in-the-now
 :END:
----
-title: Living in the now
-tags: journal
----
+#+filetags: :journal:
+#+title: Living in the now
 
 I find that many people have a hard time "being in the present" because
 they think the experience should take a certain form. After all, one can

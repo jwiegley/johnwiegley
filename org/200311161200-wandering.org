@@ -2,10 +2,8 @@
 :ID:       D470AF9B-DBFD-4551-A1D7-DB044DA0C163
 :SLUG:     wandering
 :END:
----
-title: Wandering
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Wandering
 
 #+BEGIN_VERSE
 My soul walks on and on,

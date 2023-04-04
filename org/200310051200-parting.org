@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       C6243B6A-DB76-4946-8063-ED9735CB9F8D
 :SLUG:     parting
+:LOCATION: 380 Esplanade Ave #211
+:EDITED:   [2003-10-21 Tue]
 :END:
----
-title: Parting
-tags: poetry
-edited: 10/21/2003
-location: 380 Esplanade Ave #211
----
+#+filetags: :poetry:
+#+title: Parting
 
 #+BEGIN_VERSE
 Even the sun must leave us,

@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       8D782066-5BEE-45FB-BE06-67B8D4F1C40B
 :SLUG:     dream-of-chastity
+:LOCATION: 325 Morrow Road
 :END:
----
-title: Dream of Chastity
-tags: poetry
-location: 325 Morrow Road
----
+#+filetags: :poetry:
+#+title: Dream of Chastity
 
 #+BEGIN_VERSE
 For you, my dear, the best alone

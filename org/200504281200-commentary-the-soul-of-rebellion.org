@@ -2,10 +2,8 @@
 :ID:       FF9DCDA3-32AC-441E-86CD-023A62E1B4E9
 :SLUG:     commentary-the-soul-of-rebellion
 :END:
----
-title: "Commentary: The soul of rebellion"
-tags: journal
----
+#+filetags: :journal:
+#+title: "Commentary: The soul of rebellion"
 
 Someone asked recently what the inspiration was behind the poem
 "[[file:soul.of.rebellion][The soul of rebellion]]":

@@ -2,10 +2,8 @@
 :ID:       7319B66D-CFD7-4DE4-B2AF-AF89FFB021C0
 :SLUG:     being-a-mystic
 :END:
----
-title: Being a mystic
-tags: journal
----
+#+filetags: :journal:
+#+title: Being a mystic
 
 To me, being a mystic means patterning my life around reliance on forces
 that I can neither directly perceive nor control. I act with the

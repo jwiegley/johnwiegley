@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       E787BF3A-3633-4B04-89AE-3B8B7E3D3E97
 :SLUG:     night-tonight
+:LOCATION: Manijeh's house, Gilbert, Arizona
+:EDITED:   [2005-05-12 Thu]
 :END:
----
-title: Night, tonight
-tags: poetry
-edited: 05/12/2005
-location: Manijeh's house, Gilbert, Arizona
----
+#+filetags: :poetry:
+#+title: Night, tonight
 
 #+BEGIN_VERSE
 Night, tonight

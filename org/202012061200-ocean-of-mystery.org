@@ -2,10 +2,8 @@
 :ID:       FA5FE299-AAC9-4A7A-A582-2D9EDE906D49
 :SLUG:     ocean-of-mystery
 :END:
----
-title: The ocean of mystery
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The ocean of mystery
 
 #+BEGIN_VERSE
 One night, having reached

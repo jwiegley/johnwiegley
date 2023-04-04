@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       B712605C-99AF-4741-8713-EDC4120AA3CD
 :SLUG:     foolishness
+:LOCATION: 7373 N. 71st Place, Paradise Valley, Arizona
+:EDITED:   [2005-04-16 Sat]
 :END:
----
-title: Foolishness
-tags: poetry
-edited: 04/16/2005
-location: 7373 N. 71st Place, Paradise Valley, Arizona
----
+#+filetags: :poetry:
+#+title: Foolishness
 
 #+BEGIN_VERSE
 Writing these lines is foolish.

@@ -2,10 +2,8 @@
 :ID:       C25FF038-8803-428F-BBA7-7A49BF7AA46F
 :SLUG:     black-and-white
 :END:
----
-title: Black and white
-tags: essays
----
+#+filetags: :essays:
+#+title: Black and white
 
 People say that life is not black and white, but is made up of varying
 shades of gray. If we imagine that between black and white there is a

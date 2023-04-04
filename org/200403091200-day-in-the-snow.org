@@ -2,10 +2,8 @@
 :ID:       63BE763A-C8C1-4BCE-B54F-431F2CC75761
 :SLUG:     day-in-the-snow
 :END:
----
-title: Day in the Snow
-tags: stories
----
+#+filetags: :stories:
+#+title: Day in the Snow
 
 It was a cold light that filtered down, one winter morning. Lighting up
 the hoary crust on the bedroom window, it shone on the sleeping eye of

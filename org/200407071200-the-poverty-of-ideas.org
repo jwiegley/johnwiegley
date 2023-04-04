@@ -2,10 +2,8 @@
 :ID:       644F9573-C718-4530-9332-7DD7C8D4C49F
 :SLUG:     the-poverty-of-ideas
 :END:
----
-title: The poverty of ideas
-tags: journal
----
+#+filetags: :journal:
+#+title: The poverty of ideas
 
 This is excerpted from a recent chat with a friend. Many of the ideas
 are taken from

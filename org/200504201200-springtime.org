@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       2311DFF7-1E84-435E-A439-A3A80D38BEEA
 :SLUG:     springtime
+:LOCATION: California Pizza Kitchen, Biltmore Fashion Park, Phx, AZ
+:EDITED:   [2005-04-28 Thu]
 :END:
----
-title: Springtime
-tags: poetry
-edited: 04/28/2005
-location: California Pizza Kitchen, Biltmore Fashion Park, Phx, AZ
----
+#+filetags: :poetry:
+#+title: Springtime
 
 #+BEGIN_VERSE
 Spring has come

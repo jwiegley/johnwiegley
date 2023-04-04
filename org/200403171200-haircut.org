@@ -2,10 +2,8 @@
 :ID:       6DF17539-4F82-4CB4-928E-0E3A9999D528
 :SLUG:     haircut
 :END:
----
-title: Haircut
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Haircut
 
 #+BEGIN_VERSE
 Close-cropped

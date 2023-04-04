@@ -2,10 +2,8 @@
 :ID:       F8ACC844-9290-4C51-82B0-30148A694D6A
 :SLUG:     detachment-and-desire
 :END:
----
-title: Detachment and desire
-tags: journal
----
+#+filetags: :journal:
+#+title: Detachment and desire
 
 My thoughts have been leading me toward the belief that all religious
 truth stems from, and returns to, love. If love is not considered,

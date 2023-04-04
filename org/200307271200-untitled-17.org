@@ -2,10 +2,8 @@
 :ID:       E76D845B-B5F3-4C3B-9B07-EB6ECF59CA8C
 :SLUG:     untitled-17
 :END:
----
-title: Untitled 17
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 17
 
 On the subject of Any Rand, we may be at too wide a gap for e-mail. I am
 not getting lost in her, rather she is causing me to lose myself in my

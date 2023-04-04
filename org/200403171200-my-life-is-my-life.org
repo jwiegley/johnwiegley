@@ -2,10 +2,8 @@
 :ID:       904E23F9-FB04-4192-8522-D57DD7D286E3
 :SLUG:     my-life-is-my-life
 :END:
----
-title: My life is my life
-tags: poetry
----
+#+filetags: :poetry:
+#+title: My life is my life
 
 #+BEGIN_VERSE
 They wonder why I need to be free from the world,

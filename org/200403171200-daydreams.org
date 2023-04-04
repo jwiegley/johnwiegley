@@ -2,10 +2,8 @@
 :ID:       09250D69-94F9-4C2D-8E93-0C223EF8645B
 :SLUG:     daydreams
 :END:
----
-title: Daydreams
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Daydreams
 
 #+BEGIN_VERSE
 The deer in the park

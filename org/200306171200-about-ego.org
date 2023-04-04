@@ -2,10 +2,8 @@
 :ID:       09BFD725-4E41-4BCF-96FC-0C3E55B77514
 :SLUG:     about-ego
 :END:
----
-title: About ego
-tags: journal
----
+#+filetags: :journal:
+#+title: About ego
 
 I have thought a lot about ego, because it is, I believe, a trap. Not a
 trap that we become too full of ego, but a trap in which we avoid

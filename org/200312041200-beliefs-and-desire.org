@@ -2,10 +2,8 @@
 :ID:       513719D3-B2AA-44DC-8BD0-16F7A320E088
 :SLUG:     beliefs-and-desire
 :END:
----
-title: Beliefs and desire
-tags: journal
----
+#+filetags: :journal:
+#+title: Beliefs and desire
 
 A quiet day, just spent at home writing programs, eating at the Chinese
 restaurant with a book, and watching "Finding Nemo". From the day, a few

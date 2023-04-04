@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       E9E19BB6-6636-4906-9C86-8033939A962E
 :SLUG:     poem-for-naw-ruz
+:LOCATION: Sitges, Spain
+:EDITED:   [2004-03-16 Tue]
 :END:
----
-title: Poem for Naw-Rúz
-tags: poetry
-edited: 03/16/2004
-location: Sitges, Spain
----
+#+filetags: :poetry:
+#+title: Poem for Naw-Rúz
 
 #+BEGIN_VERSE
 Naw-Rúz, Naw-Rúz, calls the Live Oak

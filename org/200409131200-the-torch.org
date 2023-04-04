@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       EA45F1F5-9B55-4919-A048-9F649790E2F0
 :SLUG:     the-torch
+:LOCATION: 380 Esplanade #211
+:EDITED:   [2005-04-04 Mon]
 :END:
----
-title: The torch
-tags: poetry
-edited: 04/04/2005
-location: 380 Esplanade #211
----
+#+filetags: :poetry:
+#+title: The torch
 
 #+BEGIN_VERSE
 I feel upon my heart

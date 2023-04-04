@@ -2,10 +2,8 @@
 :ID:       57C87400-3C02-4A5D-905C-A2031E58179D
 :SLUG:     tea
 :END:
----
-title: Tea!
-tags: journal
----
+#+filetags: :journal:
+#+title: Tea!
 
 Lately I have gotten into the habit of drinking tea. Persian tea, to be
 precise. And also of making it, of seeking out the implements and

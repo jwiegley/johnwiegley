@@ -2,10 +2,8 @@
 :ID:       37E77282-93B4-495B-9D80-E5197D916DA9
 :SLUG:     wolf
 :END:
----
-title: Wolf
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Wolf
 
 #+BEGIN_VERSE
 Hungry eyes, wolf;

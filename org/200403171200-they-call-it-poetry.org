@@ -2,10 +2,8 @@
 :ID:       7B1009BB-E919-4797-931B-7B6636D1FEA4
 :SLUG:     they-call-it-poetry
 :END:
----
-title: They call it poetry
-tags: poetry
----
+#+filetags: :poetry:
+#+title: They call it poetry
 
 #+BEGIN_VERSE
 When the soul's cry

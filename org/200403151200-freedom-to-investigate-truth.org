@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       3430F651-5EBA-43C1-A45B-4B6B62CD3437
 :SLUG:     freedom-to-investigate-truth
+:EDITED:   [2006-04-27 Thu]
 :END:
----
-title: Freedom to investigate truth
-tags: essays
-edited: 04/27/2006
----
+#+filetags: :essays:
+#+title: Freedom to investigate truth
 
 Someone asked: /Suppose someone investigates a matter, sincerely and
 honestly, to the best of her ability and with what resources are

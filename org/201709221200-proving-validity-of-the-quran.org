@@ -2,10 +2,8 @@
 :ID:       AD86BE8D-1844-4AE6-A539-259BCC3425BF
 :SLUG:     proving-validity-of-the-quran
 :END:
----
-title: Proving the validity of the Qur’án?
-tags: journal
----
+#+filetags: :journal:
+#+title: Proving the validity of the Qur’án?
 
 It's hard to give a "proof" of the Qur'án, in the sense of convincing
 others instantly and utterly, but there are a few facts to consider:

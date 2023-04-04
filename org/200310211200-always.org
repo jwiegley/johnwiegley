@@ -2,10 +2,8 @@
 :ID:       5FE97C32-F8C6-45DC-9E4C-A69BE422D746
 :SLUG:     always
 :END:
----
-title: Always
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Always
 
 #+BEGIN_VERSE
 Happiness is a flowing warmth that

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       C876841B-F7CE-4EEF-9E62-9A7C5852A4DC
 :SLUG:     rainy-day
+:LOCATION: Esplanade
+:EDITED:   [2004-02-03 Tue]
 :END:
----
-title: Rainy day
-tags: poetry
-edited: 02/03/2004
-location: Esplanade
----
+#+filetags: :poetry:
+#+title: Rainy day
 
 #+BEGIN_VERSE
 A clap of light shatters the sky

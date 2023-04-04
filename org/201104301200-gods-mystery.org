@@ -2,10 +2,8 @@
 :ID:       7258CE2B-7006-4EA4-9FD9-D9685B003023
 :SLUG:     gods-mystery
 :END:
----
-title: God's mystery
-tags: journal
----
+#+filetags: :journal:
+#+title: God's mystery
 
 When we look at the world, we notice many qualities in varying degree,
 such as power, strength, durability, mass. And when we read about God's

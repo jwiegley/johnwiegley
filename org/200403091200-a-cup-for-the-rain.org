@@ -2,10 +2,8 @@
 :ID:       41A0BAC0-5E94-4501-B5B9-0FF9A6AF02BD
 :SLUG:     a-cup-for-the-rain
 :END:
----
-title: A Cup for the Rain
-tags: stories
----
+#+filetags: :stories:
+#+title: A Cup for the Rain
 
 I don't remember how we came to be in that place, gathered beneath that
 magnificent tree, its long branches touching the sky. All of us were

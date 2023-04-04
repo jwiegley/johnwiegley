@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       19E400D6-E3B4-4674-92A7-993A7B5D863A
 :SLUG:     a-borrowed-tale
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: A borrowed tale
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: A borrowed tale
 
 #+BEGIN_VERSE
 The moon speaks of its faraway sun

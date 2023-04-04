@@ -2,10 +2,8 @@
 :ID:       87E01EAE-C5AF-4586-BD78-11B6A6D741D8
 :SLUG:     translating-thought-into-language
 :END:
----
-title: Translating thought into language
-tags: essays
----
+#+filetags: :essays:
+#+title: Translating thought into language
 
 The essence of one's thought is a very hard thing to describe. And even
 though we often think to ourselves in terms of words, there is something

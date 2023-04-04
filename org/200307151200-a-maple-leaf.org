@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       A9C9E0E1-2B3C-497F-B648-7FEF9D57A120
 :SLUG:     a-maple-leaf
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: A maple leaf
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: A maple leaf
 
 #+BEGIN_VERSE
 A maple leaf

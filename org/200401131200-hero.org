@@ -2,10 +2,8 @@
 :ID:       9E278D2F-9B0F-4D55-B76B-1A7AAC9D41E4
 :SLUG:     hero
 :END:
----
-title: "Hero"
-tags: journal
----
+#+filetags: :journal:
+#+title: "Hero"
 
 Just received a DVD in the mail that I ordered a few days ago: Jet Li's
 "Hero". This title has almost becoming my favorite all-time movie. It

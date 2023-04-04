@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       66E03D35-3AA1-401F-AD06-C08B384C6C7F
 :SLUG:     paying-homage
+:LOCATION: McClintock and Southern Ave, Tempe, Arizona
+:EDITED:   [2005-04-01 Fri]
 :END:
----
-title: Paying homage
-tags: poetry
-edited: 04/01/2005
-location: McClintock and Southern Ave, Tempe, Arizona
----
+#+filetags: :poetry:
+#+title: Paying homage
 
 #+BEGIN_VERSE
 See how the wild daisy

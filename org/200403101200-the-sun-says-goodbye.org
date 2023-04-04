@@ -2,10 +2,8 @@
 :ID:       473971A3-769B-4DB5-869E-6202C2A688D4
 :SLUG:     the-sun-says-goodbye
 :END:
----
-title: The sun says goodbye
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The sun says goodbye
 
 #+BEGIN_VERSE
 So gentle, the sun's light,

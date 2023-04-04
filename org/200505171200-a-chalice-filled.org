@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       9261D00D-252B-4A14-9981-40F240F6A48F
 :SLUG:     a-chalice-filled
+:LOCATION: Sina's apartment in NYC, 512 Seminary Row, Manhatten
 :END:
----
-title: A chalice filled
-tags: poetry
-location: Sina's apartment in NYC, 512 Seminary Row, Manhatten
----
+#+filetags: :poetry:
+#+title: A chalice filled
 
 #+BEGIN_VERSE
 I was a crystal chalice

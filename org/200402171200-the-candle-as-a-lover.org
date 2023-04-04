@@ -2,10 +2,8 @@
 :ID:       AC12120F-EB1B-4F52-A05E-7FA6D8A4683F
 :SLUG:     the-candle-as-a-lover
 :END:
----
-title: The candle as a lover
-tags: journal
----
+#+filetags: :journal:
+#+title: The candle as a lover
 
 Today a poem, using the well-known metaphor of [[file:the.candle][The
 Candle]] to depict the heights of mystic love -- in which the lover

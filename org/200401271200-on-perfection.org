@@ -2,10 +2,8 @@
 :ID:       97B07325-5523-4498-8F05-04A9B4F9A2D4
 :SLUG:     on-perfection
 :END:
----
-title: On perfection
-tags: journal
----
+#+filetags: :journal:
+#+title: On perfection
 
 [WARNING] Note with key '1' defined at line 45 column 1 but not used.
 A perfect Creator makes only perfection; but in the world we see around

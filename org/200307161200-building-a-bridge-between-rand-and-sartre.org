@@ -2,10 +2,8 @@
 :ID:       42DACD70-E2AE-4874-92CD-74E5CAC5EDF5
 :SLUG:     building-a-bridge-between-rand-and-sartre
 :END:
----
-title: Building a bridge between Rand and Sartre
-tags: stories
----
+#+filetags: :stories:
+#+title: Building a bridge between Rand and Sartre
 
 First, some implications of Sartre's theory of being. The for-itself
 (IF), expressed as human awareness or consciousness, lives in

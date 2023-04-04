@@ -2,10 +2,8 @@
 :ID:       E9DCD4DB-D5CB-4932-A508-E2CAE4070EF3
 :SLUG:     perfection
 :END:
----
-title: Perfection
-tags: journal
----
+#+filetags: :journal:
+#+title: Perfection
 
 When talking about God, heaven and this life, one often hears the word
 "perfection". However, none of us has experienced what this word refers

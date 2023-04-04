@@ -2,10 +2,8 @@
 :ID:       C640433A-EC7E-4E2B-B2EF-FB2EA2997B71
 :SLUG:     untitled-18
 :END:
----
-title: Untitled 18
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 18
 
 You make me realize that I do not want people to hear my words: but what
 they labor to describe. To that end, I'd be willing to shout them from

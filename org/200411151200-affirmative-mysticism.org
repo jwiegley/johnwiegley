@@ -2,10 +2,8 @@
 :ID:       84AD1B9A-392E-4CFF-8200-0607192CB7D7
 :SLUG:     affirmative-mysticism
 :END:
----
-title: Affirmative mysticism
-tags: journal
----
+#+filetags: :journal:
+#+title: Affirmative mysticism
 
 The Sufi path (tariqat) in general seeks renunciation to achieve
 abundance: sort of like emptying a cup so it may be filled with water.

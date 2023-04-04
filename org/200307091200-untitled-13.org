@@ -2,10 +2,8 @@
 :ID:       928E0EB5-D055-4BD9-8308-A30D7287B522
 :SLUG:     untitled-13
 :END:
----
-title: Untitled 13
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 13
 
 [[file:ways.of.the.force][This story]] is another product of this time
 in Italy, and also embodies many recent thoughts in a more picturesque

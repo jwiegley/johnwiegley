@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       01833E6E-B650-4FB5-BBE3-4219906A1A30
 :SLUG:     poem-to-the-sea
+:LOCATION: 380 Esplanade
 :END:
----
-title: Poem to the Sea
-tags: poetry
-location: 380 Esplanade
----
+#+filetags: :poetry:
+#+title: Poem to the Sea
 
 #+BEGIN_VERSE
 I watch you, my friend,

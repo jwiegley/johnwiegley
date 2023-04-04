@@ -2,10 +2,8 @@
 :ID:       1BBA562E-EFC4-4EB0-B617-1F5B00D6C8C9
 :SLUG:     a-different-reality
 :END:
----
-title: A different reality
-tags: journal
----
+#+filetags: :journal:
+#+title: A different reality
 
 I woke up this morning from a very powerful dream; the feeling of it is
 still with me. In its details it was rather simple, but in its feeling

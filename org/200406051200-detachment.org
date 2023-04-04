@@ -2,10 +2,8 @@
 :ID:       067E3100-786B-431D-9967-7F7A5C4CF64D
 :SLUG:     detachment
 :END:
----
-title: Detachment
-tags: journal
----
+#+filetags: :journal:
+#+title: Detachment
 
 Detachment can be a tricky concept. It underlies most spiritual
 striving, but can have many forms. In the Bahá'í Writings, the original

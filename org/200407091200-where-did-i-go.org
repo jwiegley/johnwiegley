@@ -2,10 +2,8 @@
 :ID:       CF6D01FF-901E-41B9-87F0-7EE57F59CCAC
 :SLUG:     where-did-i-go
 :END:
----
-title: Where did "I" go?
-tags: journal
----
+#+filetags: :journal:
+#+title: Where did "I" go?
 
 Because concepts can never embrace reality, I find myself faced with the
 strange mystery that I will never know who or what I am. "I" is a

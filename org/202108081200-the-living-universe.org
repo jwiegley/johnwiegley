@@ -2,10 +2,8 @@
 :ID:       90DEB61F-2BA7-43FF-9484-B0935ACEF931
 :SLUG:     the-living-universe
 :END:
----
-title: The living universe
-tags: journal
----
+#+filetags: :journal:
+#+title: The living universe
 
 Culturally I was brought up to see myself as an active agent within a
 largely passive universe: A mechanist view wherein I make decisions and

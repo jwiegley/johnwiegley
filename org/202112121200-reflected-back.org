@@ -2,10 +2,8 @@
 :ID:       56DFE11A-7CF1-48DF-9FF1-B730CBC30E5D
 :SLUG:     reflected-back
 :END:
----
-title: Reflected back
-tags: journal
----
+#+filetags: :journal:
+#+title: Reflected back
 
 We dwell in Reality, but do we see it? A great part of what we perceive
 seems to be our own self reflected back at us: feeling real enough to

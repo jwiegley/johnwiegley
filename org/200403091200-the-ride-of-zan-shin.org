@@ -2,10 +2,8 @@
 :ID:       F835C99E-6474-45DB-817B-D1415092B4BB
 :SLUG:     the-ride-of-zan-shin
 :END:
----
-title: The Ride of Zan Shin
-tags: stories
----
+#+filetags: :stories:
+#+title: The Ride of Zan Shin
 
 With his hair waving in the wind, Zan Shin laughed. His beautiful hair
 was black, flowing in unseen currents that played along the wind like a

@@ -2,10 +2,8 @@
 :ID:       AA6B629B-36EC-4D7D-987A-AA809532BA69
 :SLUG:     the-knife
 :END:
----
-title: The knife
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The knife
 
 #+BEGIN_VERSE
 It's not the qualities

@@ -2,10 +2,8 @@
 :ID:       0E05D984-1BC7-4381-80D9-C1A2C0734A5E
 :SLUG:     sitting-with-the-friend
 :END:
----
-title: Sitting with the Friend
-tags: journal
----
+#+filetags: :journal:
+#+title: Sitting with the Friend
 
 As I ponder about God and existence, it becomes harder and harder to
 separate the two. In fact, I have a harder time dividing them than I do

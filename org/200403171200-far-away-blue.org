@@ -2,10 +2,8 @@
 :ID:       5706694A-568A-4F5C-9312-E656D2C89A0C
 :SLUG:     far-away-blue
 :END:
----
-title: Far away blue
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Far away blue
 
 #+BEGIN_VERSE
 Far-away blue

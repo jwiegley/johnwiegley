@@ -2,10 +2,8 @@
 :ID:       72719F9D-EC5F-424C-8E4F-41FA7C75FBFB
 :SLUG:     to-be-raazi
 :END:
----
-title: To be raazi
-tags: journal
----
+#+filetags: :journal:
+#+title: To be raazi
 
 In Arabic there is a word which means: accepting, contented, pleased
 with, satisfied, acquiescent, agreeable. In mystical texts it is found

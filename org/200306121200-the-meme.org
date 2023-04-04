@@ -2,10 +2,8 @@
 :ID:       A17AB21C-BE96-4037-A7A6-C2BF5D637D67
 :SLUG:     the-meme
 :END:
----
-title: The Meme
-tags: journal
----
+#+filetags: :journal:
+#+title: The Meme
 
 An essay that profoundly affected my insight into the nature of present
 day society, written as quickly as my hand could move on the page, over

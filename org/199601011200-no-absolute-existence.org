@@ -2,10 +2,8 @@
 :ID:       A4F8B352-92BD-4166-BDF9-246DA5C34A1A
 :SLUG:     no-absolute-existence
 :END:
----
-title: No absolute existence
-tags: journal
----
+#+filetags: :journal:
+#+title: No absolute existence
 
 There is no absolute existence for anything but God. No evil, etc. But
 for us, who see things imperfectly, different things exist relative to

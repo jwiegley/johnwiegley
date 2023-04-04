@@ -2,10 +2,8 @@
 :ID:       2BE2C568-2D1A-4BB2-B672-AE82C0139A0E
 :SLUG:     finding-the-path
 :END:
----
-title: Finding the path
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Finding the path
 
 #+BEGIN_VERSE
 Leave me alone --

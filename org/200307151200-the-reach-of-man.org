@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       452034C0-B73C-40F2-AC77-54093B6EBF1C
 :SLUG:     the-reach-of-man
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: The Reach of Man
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: The Reach of Man
 
 #+BEGIN_VERSE
 Look up there, at the clouds;

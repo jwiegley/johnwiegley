@@ -2,10 +2,8 @@
 :ID:       CE2308DD-59CF-4FB4-A58D-E8D636647364
 :SLUG:     green-lizards
 :END:
----
-title: Green lizards
-tags: stories
----
+#+filetags: :stories:
+#+title: Green lizards
 
 The road was clear of traffic, open, leading to the inner heart of the
 south bay. All around were eucalyptus, palm trees, the hazy sky of

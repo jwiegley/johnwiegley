@@ -2,10 +2,8 @@
 :ID:       57B6928D-21D1-4599-9560-0A12AF61B6FB
 :SLUG:     re-telling-the-tale
 :END:
----
-title: Re-telling the tale (3 of 3)
-tags: journal
----
+#+filetags: :journal:
+#+title: Re-telling the tale (3 of 3)
 
 [WARNING] Note with key '1' defined at line 95 column 1 but not used.
 This entry repeats the ideas of the previous three, but using a

@@ -2,10 +2,8 @@
 :ID:       585574FA-33A2-4D60-8F67-28E4B94C9B91
 :SLUG:     to-joel
 :END:
----
-title: To Joel
-tags: poetry
----
+#+filetags: :poetry:
+#+title: To Joel
 
 #+BEGIN_VERSE
 May true thoughts, like dawn's rosy fingers,

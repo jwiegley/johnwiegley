@@ -2,10 +2,8 @@
 :ID:       9949FF9A-A63A-4F2C-8BC0-ADB10D31C919
 :SLUG:     feeling-rich
 :END:
----
-title: Feeling rich
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Feeling rich
 
 #+BEGIN_VERSE
 Colors, like purple;

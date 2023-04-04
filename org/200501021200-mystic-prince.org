@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       B1BF3205-DE63-409D-BD66-7F81469921BA
 :SLUG:     mystic-prince
+:LOCATION: Epic Cafe, 4th Ave and University, Tucson, AZ
+:EDITED:   [2005-03-15 Tue]
 :END:
----
-title: Mystic prince
-tags: poetry
-edited: 03/15/2005
-location: Epic Cafe, 4th Ave and University, Tucson, AZ
----
+#+filetags: :poetry:
+#+title: Mystic prince
 
 #+BEGIN_VERSE
 The moth is a mystic prince:

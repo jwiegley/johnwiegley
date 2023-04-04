@@ -2,10 +2,8 @@
 :ID:       F123C72D-A382-49C5-9863-B105A1FBAA27
 :SLUG:     a-moments-peace
 :END:
----
-title: A moment's peace
-tags: poetry
----
+#+filetags: :poetry:
+#+title: A moment's peace
 
 #+BEGIN_VERSE
 I picture you running, with arms wide,

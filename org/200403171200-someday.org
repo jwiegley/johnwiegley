@@ -2,10 +2,8 @@
 :ID:       F152B314-BF14-4993-B274-6585AAD697A0
 :SLUG:     someday
 :END:
----
-title: Someday
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Someday
 
 #+BEGIN_VERSE
 We always know that summer will come,

@@ -2,10 +2,8 @@
 :ID:       217B4ABF-A0C1-423E-B0D1-BEC712B0712A
 :SLUG:     joshua
 :END:
----
-title: Joshua
-tags: stories
----
+#+filetags: :stories:
+#+title: Joshua
 
 Joshua rested his face on both hands, gazing at the sea. It moved
 rhythmically, with so much peace. He longed to stretch out his wings and

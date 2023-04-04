@@ -2,10 +2,8 @@
 :ID:       2F2B19E7-D7ED-4A3A-84FA-EB84928C3E23
 :SLUG:     origins-of-the-self
 :END:
----
-title: Origins of the self
-tags: journal
----
+#+filetags: :journal:
+#+title: Origins of the self
 
 The following is just a collection of thoughts inspired from readings in
 philosophy, and the Seven Valleys:

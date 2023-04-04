@@ -2,10 +2,8 @@
 :ID:       B368372C-F424-46B9-8572-FB9497D0A31F
 :SLUG:     heart-and-mind
 :END:
----
-title: Heart and mind
-tags: journal
----
+#+filetags: :journal:
+#+title: Heart and mind
 
 Imagine someone you've known for many, many years: maybe a spouse, a
 friend, a parent.

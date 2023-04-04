@@ -2,10 +2,8 @@
 :ID:       13E5D303-A902-48CB-BE8F-C1D57BE3DBCB
 :SLUG:     thoughts-of-march
 :END:
----
-title: Thoughts of March
-tags: journal
----
+#+filetags: :journal:
+#+title: Thoughts of March
 
 The Fast has reached its end. What an interesting month it's been, with
 hard moments intense enough to make me sick, and high points so

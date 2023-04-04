@@ -2,10 +2,8 @@
 :ID:       0A2F4BDC-4D3D-418E-AD0F-CAF53A8C4B03
 :SLUG:     a-candles-flame
 :END:
----
-title: A candle's flame
-tags: poetry
----
+#+filetags: :poetry:
+#+title: A candle's flame
 
 #+BEGIN_VERSE
 The darker the evening, the warmer its light --

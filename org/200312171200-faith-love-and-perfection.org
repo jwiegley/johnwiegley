@@ -2,10 +2,8 @@
 :ID:       3CC551E9-CE7F-41CF-B2CD-98FBC93FD170
 :SLUG:     faith-love-and-perfection
 :END:
----
-title: Faith, love and perfection
-tags: journal
----
+#+filetags: :journal:
+#+title: Faith, love and perfection
 
 These three ideas have been on my mind a great deal lately. Let me see
 if I can summarize:

@@ -2,10 +2,8 @@
 :ID:       4645D114-7FC1-4CC2-8495-8E4421C1B2C3
 :SLUG:     from-sight-to-sound
 :END:
----
-title: From sight to sound
-tags: journal
----
+#+filetags: :journal:
+#+title: From sight to sound
 
 After all these entries on seeing and perception, something different:
 My first ever attempt at recording a song! with the inestimable help of

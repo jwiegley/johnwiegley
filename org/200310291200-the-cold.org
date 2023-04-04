@@ -2,10 +2,8 @@
 :ID:       EF7D53F1-DC4D-45EA-A79F-696E390B3037
 :SLUG:     the-cold
 :END:
----
-title: The cold
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The cold
 
 #+BEGIN_VERSE
 The sun was a lover's heart:

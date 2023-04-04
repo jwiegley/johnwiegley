@@ -2,10 +2,8 @@
 :ID:       845B864D-2F95-4A29-AF9B-308D6BEBD378
 :SLUG:     virginia-autumn
 :END:
----
-title: Virginia autumn
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Virginia autumn
 
 #+BEGIN_VERSE
 The wind... the wind...

@@ -2,10 +2,8 @@
 :ID:       6098048F-EE60-416A-B784-03A0A6B98FBB
 :SLUG:     what-is-love
 :END:
----
-title: What is love?
-tags: journal
----
+#+filetags: :journal:
+#+title: What is love?
 
 The question "What is love?" has a simple and immediate answer, but can
 never be shared and no one has ever understood it -- though lovers

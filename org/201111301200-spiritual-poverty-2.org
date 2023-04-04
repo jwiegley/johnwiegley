@@ -2,10 +2,8 @@
 :ID:       265C85A2-20CA-4EE0-8CD9-62D94C805EEC
 :SLUG:     spiritual-poverty-2
 :END:
----
-title: More on spiritual poverty
-tags: journal
----
+#+filetags: :journal:
+#+title: More on spiritual poverty
 
 An individual has two parts, his spiritual, or divine nature, and his
 self, or lower nature. His spirit is manifested by the soul, and his

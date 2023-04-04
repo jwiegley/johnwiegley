@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       B5C30E1C-313D-441D-8FD1-1DD4B7CB2BBB
 :SLUG:     every-being-is-a-symbol
+:LOCATION: Italy
+:EDITED:   [2004-04-10 Sat]
 :END:
----
-title: Every being is a symbol
-tags: poetry
-edited: 04/10/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: Every being is a symbol
 
 #+BEGIN_VERSE
 Ah, true, sleepless one,

@@ -2,10 +2,8 @@
 :ID:       726540B1-EAE2-4AD8-A56A-44001AB25DAE
 :SLUG:     introducing-the-hidden-door
 :END:
----
-title: "Introducing: The hidden door"
-tags: journal
----
+#+filetags: :journal:
+#+title: "Introducing: The hidden door"
 
 Today's essay, written over several pieces of the most delectable
 California roll sushi, is something of a landmark for me. After writing

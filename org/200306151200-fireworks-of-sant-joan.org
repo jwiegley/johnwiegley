@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       1C73F450-F2A6-4130-93AA-115577C15BBB
 :SLUG:     fireworks-of-sant-joan
+:LOCATION: Spain
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: Fireworks (of Sant Joan)
-tags: poetry
-edited: 03/22/2004
-location: Spain
----
+#+filetags: :poetry:
+#+title: Fireworks (of Sant Joan)
 
 #+BEGIN_VERSE
 At one moment, it is too quiet.

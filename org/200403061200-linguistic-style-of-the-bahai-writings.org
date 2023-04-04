@@ -2,10 +2,8 @@
 :ID:       E650AE0B-67E8-4417-9B68-18CA1082A7F8
 :SLUG:     linguistic-style-of-the-bahai-writings
 :END:
----
-title: Linguistic style of the Bahá'í Writings
-tags: essays
----
+#+filetags: :essays:
+#+title: Linguistic style of the Bahá'í Writings
 
 The difference between plain English and "high" English is roughly
 similar to the difference between Bahá'u'lláh's language, and that of

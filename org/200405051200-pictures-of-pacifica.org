@@ -2,10 +2,8 @@
 :ID:       0E97578D-6CC9-4E31-8194-E597CFF39B14
 :SLUG:     pictures-of-pacifica
 :END:
----
-title: Pictures of Pacifica
-tags: journal
----
+#+filetags: :journal:
+#+title: Pictures of Pacifica
 
 Finally! I can show some images of my home town, Pacifica, California
 (which is about four miles south from the city of San Francisco). I've

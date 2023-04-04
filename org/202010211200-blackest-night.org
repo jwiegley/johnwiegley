@@ -2,10 +2,8 @@
 :ID:       93F29660-AD1C-4111-908E-194FD4FF4D86
 :SLUG:     blackest-night
 :END:
----
-title: The blackest night
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The blackest night
 
 #+BEGIN_VERSE
 O my dear, moth-like soul!

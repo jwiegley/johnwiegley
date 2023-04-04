@@ -2,10 +2,8 @@
 :ID:       75DC3E8B-3A23-4ADE-A5ED-FC4CB4809EC6
 :SLUG:     common-questions-about-the-seven-valleys
 :END:
----
-title: Common questions about the Seven Valleys
-tags: essays
----
+#+filetags: :essays:
+#+title: Common questions about the Seven Valleys
 
 Note: My answers to these questions are my own opinions, since none of
 them are known to be answered explicitly in the Bahá'í Writings. I will

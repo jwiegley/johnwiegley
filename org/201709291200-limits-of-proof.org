@@ -2,10 +2,8 @@
 :ID:       25BF7382-8E5F-4A92-9F86-C6584AEB23AD
 :SLUG:     limits-of-proof
 :END:
----
-title: The limits of proof
-tags: journal
----
+#+filetags: :journal:
+#+title: The limits of proof
 
 Every method of "proof" available to us is a human-devised system, based
 on formulations of logic we are able to comprehend. It might surprise

@@ -2,10 +2,8 @@
 :ID:       F4C29441-9CBD-4788-975A-19C03CDFF2A1
 :SLUG:     the-faith-to-me
 :END:
----
-title: The Faith to me
-tags: essays
----
+#+filetags: :essays:
+#+title: The Faith to me
 
 What I think everyone should know is that the Bahá'í Faith believes
 every human being to be an infinitely beautiful light, albeit trapped

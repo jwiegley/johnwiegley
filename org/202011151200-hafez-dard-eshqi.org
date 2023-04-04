@@ -2,10 +2,8 @@
 :ID:       D2D5B1E6-9365-45D4-A9C7-EDB4B5E85A55
 :SLUG:     hafez-dard-eshqi
 :END:
----
-title: My translation of Hafez' "dard-e-eqshi"
-tags: poetry
----
+#+filetags: :poetry:
+#+title: My translation of Hafez' "dard-e-eqshi"
 
 #+BEGIN_VERSE
 I have suffered the pain of love... do not ask

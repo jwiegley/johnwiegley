@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       CF9C1766-43F5-423A-9D8D-111E6CC68D41
 :SLUG:     the-real-desert
+:LOCATION: Norikonoko, Telegraph Road, Berkeley, CA
 :END:
----
-title: The real desert
-tags: poetry
-location: Norikonoko, Telegraph Road, Berkeley, CA
----
+#+filetags: :poetry:
+#+title: The real desert
 
 #+BEGIN_VERSE
 The real desert

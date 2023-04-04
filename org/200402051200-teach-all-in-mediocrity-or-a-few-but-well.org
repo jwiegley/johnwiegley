@@ -2,10 +2,8 @@
 :ID:       6E2D0C3E-1213-472A-A83F-BFE1ECEAF0EB
 :SLUG:     teach-all-in-mediocrity-or-a-few-but-well
 :END:
----
-title: Teach all in mediocrity, or a few but well?
-tags: journal
----
+#+filetags: :journal:
+#+title: Teach all in mediocrity, or a few but well?
 
 Imagine a free university, in which anyone can attend the first level
 class of any subject, without registering. There would have to be

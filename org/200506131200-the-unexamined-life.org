@@ -2,10 +2,8 @@
 :ID:       D8BA36B1-0E98-486F-866C-65EBDAD85FFB
 :SLUG:     the-unexamined-life
 :END:
----
-title: The unexamined life
-tags: journal
----
+#+filetags: :journal:
+#+title: The unexamined life
 
 Imagine one friend gives another an amazing piece of Arabic calligraphy,
 framed under glass and bordered in ornate, gold leaf filigree. It is so

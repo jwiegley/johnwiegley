@@ -2,10 +2,8 @@
 :ID:       EF1DD202-AF89-491E-9837-3047DDB28B6D
 :SLUG:     proving-infallibility
 :END:
----
-title: Proving infallibility
-tags: essays
----
+#+filetags: :essays:
+#+title: Proving infallibility
 
 #+BEGIN_QUOTE
 Someone asked of Bahá'u'lláh: /But as I have gone over and over the

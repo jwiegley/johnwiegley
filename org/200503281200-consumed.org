@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       CD511A7C-67D3-4471-BB38-76BE86BC1AC4
 :SLUG:     consumed
+:LOCATION: Tempe Bahá'í Center, Arizona
+:EDITED:   [2005-04-19 Tue]
 :END:
----
-title: Consumed
-tags: poetry
-edited: 04/19/2005
-location: Tempe Bahá'í Center, Arizona
----
+#+filetags: :poetry:
+#+title: Consumed
 
 #+BEGIN_VERSE
 O fire, beautiful fire!

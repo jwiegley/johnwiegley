@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       49F8BA59-F790-4594-8ABC-7E020623DC58
 :SLUG:     different-worlds
+:LOCATION: Chit Chat Cafe
+:EDITED:   [2004-03-10 Wed]
 :END:
----
-title: Different worlds
-tags: poetry
-edited: 03/10/2004
-location: Chit Chat Cafe
----
+#+filetags: :poetry:
+#+title: Different worlds
 
 #+BEGIN_VERSE
 And so it begins...

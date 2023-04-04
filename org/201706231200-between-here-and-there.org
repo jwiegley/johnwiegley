@@ -2,10 +2,8 @@
 :ID:       BB80B43A-8410-4B4E-979E-025634751B1B
 :SLUG:     between-here-and-there
 :END:
----
-title: Between here and there
-tags: journal
----
+#+filetags: :journal:
+#+title: Between here and there
 
 When we start from the assumption that between "here" and "There" a
 great distance remains, the Divine is very hard to find because it

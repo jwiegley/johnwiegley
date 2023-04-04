@@ -2,10 +2,8 @@
 :ID:       2EB739A5-2D61-422D-89E1-EB16BFF37EBC
 :SLUG:     the-riven-heart
 :END:
----
-title: The riven heart
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The riven heart
 
 #+BEGIN_VERSE
 Deep in the riven heart

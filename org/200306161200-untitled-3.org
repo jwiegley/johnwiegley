@@ -2,10 +2,8 @@
 :ID:       687C95B2-F6F1-4540-A9D8-69587E30E30A
 :SLUG:     untitled-3
 :END:
----
-title: Untitled 3
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 3
 
 I wish you could be here to walk along the sandy beaches with me, and we
 could spend the late evenings talking about these ideas rather than my

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       BEC4B284-84A6-4312-A8E0-CA6561E6D788
 :SLUG:     without-words
+:LOCATION: Italy
+:EDITED:   [2004-04-10 Sat]
 :END:
----
-title: Without words
-tags: poetry
-edited: 04/10/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: Without words
 
 #+BEGIN_VERSE
 It can all be said

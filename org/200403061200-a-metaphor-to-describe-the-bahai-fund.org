@@ -2,10 +2,8 @@
 :ID:       CB4FCAA4-3535-4A32-90F3-86F5B18D9EBF
 :SLUG:     a-metaphor-to-describe-the-bahai-fund
 :END:
----
-title: A metaphor to describe the Bahá'í Fund
-tags: essays
----
+#+filetags: :essays:
+#+title: A metaphor to describe the Bahá'í Fund
 
 Imagine a society quite like our own: there is a city, a power plant,
 and thousands of homes and buildings. The trick is to get the power to

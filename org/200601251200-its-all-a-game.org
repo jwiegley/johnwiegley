@@ -2,10 +2,8 @@
 :ID:       762E692E-914D-43D0-8183-4CE8FC3A6A53
 :SLUG:     its-all-a-game
 :END:
----
-title: It's all a game
-tags: journal
----
+#+filetags: :journal:
+#+title: It's all a game
 
 Again, I am immersed in the world of fantasy role-playing games, this
 time as a human mage in the [[http://worldofwarcraft.com][World of

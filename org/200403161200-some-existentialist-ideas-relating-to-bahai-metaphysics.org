@@ -2,10 +2,8 @@
 :ID:       962D356B-6F3C-4AC4-B29C-1BF9726DAB0C
 :SLUG:     some-existentialist-ideas-relating-to-bahai-metaphysics
 :END:
----
-title: Some existentialist ideas relating to Bahá'í metaphysics
-tags: essays
----
+#+filetags: :essays:
+#+title: Some existentialist ideas relating to Bahá'í metaphysics
 
 * The being of the world, and the non-being of consciousness
 :PROPERTIES:

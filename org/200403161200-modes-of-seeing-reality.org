@@ -2,10 +2,8 @@
 :ID:       59F48434-7F99-4945-9512-488E2D432251
 :SLUG:     modes-of-seeing-reality
 :END:
----
-title: Modes of Seeing Reality
-tags: essays
----
+#+filetags: :essays:
+#+title: Modes of Seeing Reality
 
 The sun that arose yesterday and the sun that rises tomorrow are
 considered the same because the idea referred to by "sun" has not

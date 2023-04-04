@@ -2,10 +2,8 @@
 :ID:       90F465E6-4A19-4316-9AAF-9242A61BDB54
 :SLUG:     the-winding-river
 :END:
----
-title: The winding river
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The winding river
 
 #+BEGIN_VERSE
 Slowly wends the winding river,

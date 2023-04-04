@@ -2,10 +2,8 @@
 :ID:       481DC384-DC7F-49BA-A1A5-6F4BA6CFA2C6
 :SLUG:     some-random-thoughts
 :END:
----
-title: Some random thoughts
-tags: journal
----
+#+filetags: :journal:
+#+title: Some random thoughts
 
 * The Cause of God
 :PROPERTIES:

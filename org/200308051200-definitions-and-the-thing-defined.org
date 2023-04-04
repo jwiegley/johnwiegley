@@ -2,10 +2,8 @@
 :ID:       1D8531CC-4358-46C7-9972-0BA078582034
 :SLUG:     definitions-and-the-thing-defined
 :END:
----
-title: Definitions and the-thing-defined
-tags: journal
----
+#+filetags: :journal:
+#+title: Definitions and the-thing-defined
 
 The following selection is from pages 221-2 of /Zen/:
 

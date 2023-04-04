@@ -2,10 +2,8 @@
 :ID:       66AFA70A-5C00-43F2-B92A-421090E693E7
 :SLUG:     dustheap-mortal-world
 :END:
----
-title: The dust-heap of this mortal world
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The dust-heap of this mortal world
 
 #+BEGIN_VERSE
 This world is a dust-heap --

@@ -2,10 +2,8 @@
 :ID:       4E3566E0-1AE9-4421-AEA0-8930ECFD9B59
 :SLUG:     going-beyond-thought
 :END:
----
-title: Going beyond thought
-tags: journal
----
+#+filetags: :journal:
+#+title: Going beyond thought
 
 We experience a reality which so far appears unlimited both in its depth
 and range. It would seem that human happiness consists of exploring and

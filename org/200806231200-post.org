@@ -2,10 +2,8 @@
 :ID:       D027CF57-3B7A-464A-BFFE-4E7D780BBA30
 :SLUG:     post
 :END:
----
-title: اسير نشدنی
-tags: journal
----
+#+filetags: :journal:
+#+title: اسير نشدنی
 
 #+BEGIN_EXAMPLE
 A mirror cannot capture the light of the sun,

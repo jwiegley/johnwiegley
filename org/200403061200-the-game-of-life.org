@@ -2,10 +2,8 @@
 :ID:       7FE7AECE-040A-453D-A7BE-843CCDADFFFC
 :SLUG:     the-game-of-life
 :END:
----
-title: The game of life
-tags: essays
----
+#+filetags: :essays:
+#+title: The game of life
 
 Recently, there have been many interactive video games made available
 that make games of the past seem trivial. Games like EverQuest, Ultima

@@ -2,10 +2,8 @@
 :ID:       4404993C-508D-4A08-B9C7-D143F35E24B3
 :SLUG:     the-steed-of-pain
 :END:
----
-title: The steed of pain
-tags: journal
----
+#+filetags: :journal:
+#+title: The steed of pain
 
 In the mystical journeys of the Seven Valleys, a point occurs in the
 valley of love where Bahá'u'lláh says, "The steed of this valley is

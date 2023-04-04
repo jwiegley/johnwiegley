@@ -2,10 +2,8 @@
 :ID:       D85FCE0B-D55B-46F3-B047-E12180F17B74
 :SLUG:     at-midnight
 :END:
----
-title: At midnight
-tags: poetry
----
+#+filetags: :poetry:
+#+title: At midnight
 
 #+BEGIN_VERSE
 There is peace upon the ocean:

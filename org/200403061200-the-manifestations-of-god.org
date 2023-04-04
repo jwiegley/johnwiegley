@@ -2,10 +2,8 @@
 :ID:       6A3901C0-5DF2-4D5C-96EF-D9D8E4FBEC84
 :SLUG:     the-manifestations-of-god
 :END:
----
-title: The Manifestations of God
-tags: essays
----
+#+filetags: :essays:
+#+title: The Manifestations of God
 
 For a long time I have been puzzling as to the meaning of the title
 "Manifestation of God". It seems rather obvious what it means in an

@@ -2,10 +2,8 @@
 :ID:       09ED9DCA-9D12-4912-8E9B-A101167C3F1C
 :SLUG:     pure-light
 :END:
----
-title: Pure light
-tags: journal
----
+#+filetags: :journal:
+#+title: Pure light
 
 A few times I've talked about God's being invisible, and that we know
 Him is through His outward manifestations and attributes -- in the way a

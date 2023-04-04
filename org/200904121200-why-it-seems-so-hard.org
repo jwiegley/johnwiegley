@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       A5933483-5924-4319-A77E-2054E7076949
 :SLUG:     why-it-seems-so-hard
+:LOCATION: AcademyLand Apts, #5, True Blue, Grenada, West Indies
 :END:
----
-title: Why it seems so hard
-tags: journal
-location: AcademyLand Apts, #5, True Blue, Grenada, West Indies
----
+#+filetags: :journal:
+#+title: Why it seems so hard
 
 I've been thinking about why pursuing a spiritual life can be so
 difficult, and I think I can boil it down now to one, core issue:

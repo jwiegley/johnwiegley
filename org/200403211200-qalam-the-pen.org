@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       8C2F0EAC-1C74-4515-94EE-18DCA75BDA0A
 :SLUG:     qalam-the-pen
+:LOCATION: 4161 W. Melinda Lane, Tucson
+:EDITED:   [2005-04-14 Thu]
 :END:
----
-title: Qalam (the Pen)
-tags: poetry
-edited: 04/14/2005
-location: 4161 W. Melinda Lane, Tucson
----
+#+filetags: :poetry:
+#+title: Qalam (the Pen)
 
 #+BEGIN_VERSE
 Each man is himself a pen:

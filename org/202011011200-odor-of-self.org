@@ -2,10 +2,8 @@
 :ID:       E6603B15-26AE-42EF-AFA0-C559A123CA5B
 :SLUG:     odor-of-self
 :END:
----
-title: The odor of self
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The odor of self
 
 #+BEGIN_VERSE
 Only the self

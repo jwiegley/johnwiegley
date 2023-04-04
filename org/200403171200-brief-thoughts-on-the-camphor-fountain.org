@@ -2,10 +2,8 @@
 :ID:       A0C6BCAF-64DA-4BC3-8280-0BD8439E9E5D
 :SLUG:     brief-thoughts-on-the-camphor-fountain
 :END:
----
-title: Brief thoughts on "the camphor fountain"
-tags: essays
----
+#+filetags: :essays:
+#+title: Brief thoughts on "the camphor fountain"
 
 In the Qur'án, verse 76:5, we find:
 

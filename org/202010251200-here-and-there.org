@@ -2,10 +2,8 @@
 :ID:       47BF81E0-3EE6-473F-A606-9FF21CDD5058
 :SLUG:     here-and-there
 :END:
----
-title: Here and there
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Here and there
 
 #+BEGIN_VERSE
 "Here" and "there" have separated us.

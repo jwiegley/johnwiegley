@@ -2,10 +2,8 @@
 :ID:       B95BF30F-69DF-4FF9-B35E-6CD1E6F97D55
 :SLUG:     productivity-and-joy
 :END:
----
-title: Productivity and joy
-tags: essays
----
+#+filetags: :essays:
+#+title: Productivity and joy
 
 All of my life people around me have focused on the "bottom line" (using
 their own particular definition). I think this has become a /problem/

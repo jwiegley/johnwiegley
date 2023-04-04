@@ -2,10 +2,8 @@
 :ID:       EE5DADD1-9F65-405E-9DA5-06390ED568C6
 :SLUG:     on-wealth
 :END:
----
-title: On wealth
-tags: journal
----
+#+filetags: :journal:
+#+title: On wealth
 
 Wealth is sometimes presented as the accumulation of riches. When we
 ask, "Whom do we consider a wealthy man?", one often thinks of a man

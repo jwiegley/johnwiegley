@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       AE6E6CBA-749A-418E-8E96-EC365F84AA8A
 :SLUG:     ruby-wine
+:LOCATION: Epic cafe, Tucson, AZ
+:EDITED:   [2004-12-06 Mon]
 :END:
----
-title: Ruby wine
-tags: poetry
-edited: 12/06/2004
-location: Epic cafe, Tucson, AZ
----
+#+filetags: :poetry:
+#+title: Ruby wine
 
 #+BEGIN_VERSE
 Hold up the wine cup

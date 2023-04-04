@@ -2,10 +2,8 @@
 :ID:       81FFEE92-1D6A-45DB-A085-35A158A96BD1
 :SLUG:     mistakes
 :END:
----
-title: Mistakes
-tags: journal
----
+#+filetags: :journal:
+#+title: Mistakes
 
 Mistakes are not just a thing that happens, they are the ebb and flow of
 our lives. Do not think that mistakes will debar future service, because

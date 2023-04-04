@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       6DC6C0C4-DCE5-4D37-958A-2F7D7CDD6700
 :SLUG:     the-tree
+:LOCATION: Popeye's, Thornydale Road, Tucson, AZ
 :END:
----
-title: The tree
-tags: poetry
-location: Popeye's, Thornydale Road, Tucson, AZ
----
+#+filetags: :poetry:
+#+title: The tree
 
 #+BEGIN_VERSE
 The tree

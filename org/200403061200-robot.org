@@ -2,10 +2,8 @@
 :ID:       ADE57782-FAC4-4108-BAC3-51995970E19C
 :SLUG:     robot
 :END:
----
-title: Robot
-tags: stories
----
+#+filetags: :stories:
+#+title: Robot
 
 A young boy grew up in the control room of a giant robot, on shoulders
 that towered fifty feet from the ground. The room had everything the boy

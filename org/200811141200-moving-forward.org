@@ -2,10 +2,8 @@
 :ID:       88F8D6B0-D5A7-4BDE-9040-5956B10B3975
 :SLUG:     moving-forward
 :END:
----
-title: Moving forward
-tags: journal
----
+#+filetags: :journal:
+#+title: Moving forward
 
 It strikes me how earnestly many of us strive for ultimate acceptance. I
 see it in people's words and actions; in self-recrimination; especially

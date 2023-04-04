@@ -2,10 +2,8 @@
 :ID:       F1D73EA2-B0AF-407C-8ADF-4417DD6117B6
 :SLUG:     introducing-the-seven-valleys
 :END:
----
-title: Introducing the Seven Valleys
-tags: essays
----
+#+filetags: :essays:
+#+title: Introducing the Seven Valleys
 
 The Seven Valleys was written by Bahá'u'lláh near the 1860s. In it He
 responds to questions from a certain Shaykh Muhyi'd-Din, who at one

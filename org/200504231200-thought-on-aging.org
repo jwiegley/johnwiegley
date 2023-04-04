@@ -2,10 +2,8 @@
 :ID:       4A1E5B8E-856D-4601-BCE1-AA415A30258C
 :SLUG:     thought-on-aging
 :END:
----
-title: Thought on aging
-tags: journal
----
+#+filetags: :journal:
+#+title: Thought on aging
 
 Although I'm only thirty-three years old, I've aged enough for
 sufficient maladies to appear that at least one health insurance company

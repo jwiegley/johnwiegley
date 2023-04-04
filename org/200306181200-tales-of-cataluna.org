@@ -2,10 +2,8 @@
 :ID:       6D3ADD99-FB32-4EBC-B6F5-3575609D5CE1
 :SLUG:     tales-of-cataluna
 :END:
----
-title: Tales of Cataluña
-tags: journal
----
+#+filetags: :journal:
+#+title: Tales of Cataluña
 
 Cataluña is the name of the district, or state, in northern Andalucia,
 in the eastern part of Spain. If you have not looked at a map, I am less

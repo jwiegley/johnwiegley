@@ -2,10 +2,8 @@
 :ID:       C4FBAC56-C602-4E13-AFC7-F7A881C7EE4B
 :SLUG:     bright-andalucia
 :END:
----
-title: Bright Andalucia
-tags: journal
----
+#+filetags: :journal:
+#+title: Bright Andalucia
 
 Now I am writing to you all on paper, day by day, to be typed in later.
 This, to better capture the pace of the days themselves. Sitges is a

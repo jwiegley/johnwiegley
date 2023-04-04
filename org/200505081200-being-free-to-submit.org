@@ -2,10 +2,8 @@
 :ID:       9CA4B438-55B8-40CF-8AC8-14E15AF3D75C
 :SLUG:     being-free-to-submit
 :END:
----
-title: Being free to submit
-tags: journal
----
+#+filetags: :journal:
+#+title: Being free to submit
 
 Freedom is an interesting concept. We basically want to be free in order
 to take advantage of whatever opportunities come to us, so we can use

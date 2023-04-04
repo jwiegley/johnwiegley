@@ -2,10 +2,8 @@
 :ID:       D0E7FFC9-5040-40B2-89B4-0D430140C569
 :SLUG:     privacy-and-diaries
 :END:
----
-title: Privacy and diaries
-tags: journal
----
+#+filetags: :journal:
+#+title: Privacy and diaries
 
 A reason for a diary to be kept private is that it contains one's
 thoughts in one's own language. Which is different from expressing an

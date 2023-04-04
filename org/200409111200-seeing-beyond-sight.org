@@ -2,10 +2,8 @@
 :ID:       F24366E7-A615-4B62-9123-233AEF441246
 :SLUG:     seeing-beyond-sight
 :END:
----
-title: Seeing beyond sight
-tags: journal
----
+#+filetags: :journal:
+#+title: Seeing beyond sight
 
 I was thinking today how if we focus on the parts of the body, each
 individually, we cannot see the larger movement that is "the body". And

@@ -2,10 +2,8 @@
 :ID:       6554110F-BA97-4680-A1FE-14E3A56D5462
 :SLUG:     the-mystery-of-life
 :END:
----
-title: The mystery of life
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The mystery of life
 
 #+BEGIN_VERSE
 When this poem started,

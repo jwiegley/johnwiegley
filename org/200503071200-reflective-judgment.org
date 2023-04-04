@@ -2,10 +2,8 @@
 :ID:       51DBF190-93F5-4679-B2AB-E02D70D67288
 :SLUG:     reflective-judgment
 :END:
----
-title: Reflective judgment
-tags: journal
----
+#+filetags: :journal:
+#+title: Reflective judgment
 
 This random thought came into my head a while back, and I wanted to jot
 it down:

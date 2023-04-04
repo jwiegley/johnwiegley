@@ -2,10 +2,8 @@
 :ID:       9C6FF84E-C3D7-40CA-8BF8-FCF63FEC2F8E
 :SLUG:     what-is-the-bahai-faith-to-me
 :END:
----
-title: What is the Bahá'í Faith to me?
-tags: journal
----
+#+filetags: :journal:
+#+title: What is the Bahá'í Faith to me?
 
 This physical life we are born into is just a beginning: not only of
 body and soul, but also our awareness of the nature of existence. The

@@ -2,10 +2,8 @@
 :ID:       B7329B8A-1C18-43EA-9CBF-6F8B38F2EDAB
 :SLUG:     a-perspective-on-fame
 :END:
----
-title: A perspective on fame
-tags: journal
----
+#+filetags: :journal:
+#+title: A perspective on fame
 
 A friend and I have often questioned the pursuit of fame. One hopes to
 pursue a thing for its merit: if it satisfies the heart or has some

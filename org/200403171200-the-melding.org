@@ -2,10 +2,8 @@
 :ID:       9A0F3F38-21FA-4686-A735-60AD2927F015
 :SLUG:     the-melding
 :END:
----
-title: The melding
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The melding
 
 #+BEGIN_VERSE
 Looking at a blank sheet

@@ -2,10 +2,8 @@
 :ID:       930D4E91-5F7E-40A0-A893-B5EED7AED5B4
 :SLUG:     two-sides-of-a-coin
 :END:
----
-title: Two sides of a coin
-tags: journal
----
+#+filetags: :journal:
+#+title: Two sides of a coin
 
 If I seek pleasure, and reject pain[fn:1], I lose what both are a part
 of: my depth of feeling. But to an artist, depth of feeling is all. If

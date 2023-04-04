@@ -2,10 +2,8 @@
 :ID:       BD78DEE8-40E7-40EA-B8A5-21EC81897039
 :SLUG:     life
 :END:
----
-title: Life
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Life
 
 #+BEGIN_VERSE
 Whisper to me,

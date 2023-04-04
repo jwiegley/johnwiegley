@@ -2,10 +2,8 @@
 :ID:       2CB665E5-FF79-4BB4-835E-429AC3A079CD
 :SLUG:     afterwards
 :END:
----
-title: Afterwards
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Afterwards
 
 #+BEGIN_VERSE
 The pen and paper are for later.

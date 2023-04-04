@@ -2,10 +2,8 @@
 :ID:       ED77B4A2-68C7-4D71-86D1-5A271350196F
 :SLUG:     body-and-spirit
 :END:
----
-title: Body and spirit
-tags: journal
----
+#+filetags: :journal:
+#+title: Body and spirit
 
 If the world is like a body, "God" is the spirit of that body. His Will
 animates and gives purpose to everything; He illumines the forms of

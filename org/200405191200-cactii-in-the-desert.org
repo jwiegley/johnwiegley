@@ -2,10 +2,8 @@
 :ID:       1438A759-E1B4-4ACF-BA99-88ADB4049385
 :SLUG:     cactii-in-the-desert
 :END:
----
-title: Cactii in the Desert
-tags: journal
----
+#+filetags: :journal:
+#+title: Cactii in the Desert
 
 These past two weeks I have been traveling between California and
 Arizona (a full day of driving so far). I'll be back in San Francisco

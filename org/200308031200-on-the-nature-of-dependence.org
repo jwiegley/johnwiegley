@@ -2,10 +2,8 @@
 :ID:       350926AD-ED7D-4E0D-8364-DE2FAA88A21A
 :SLUG:     on-the-nature-of-dependence
 :END:
----
-title: On the nature of dependence
-tags: journal
----
+#+filetags: :journal:
+#+title: On the nature of dependence
 
 Hello to everyone, and good bye!!
 

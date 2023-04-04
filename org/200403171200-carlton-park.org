@@ -2,10 +2,8 @@
 :ID:       1A62BB1F-DA78-4C9E-B2BC-E984C8893627
 :SLUG:     carlton-park
 :END:
----
-title: Carlton Park
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Carlton Park
 
 #+BEGIN_VERSE
 The green army raises their swords,

@@ -2,10 +2,8 @@
 :ID:       CCD1D7D5-FC50-4CF1-AC6F-778CAEB6B1F2
 :SLUG:     life-owes-us-nothing
 :END:
----
-title: Life owes us nothing
-tags: journal
----
+#+filetags: :journal:
+#+title: Life owes us nothing
 
 One of the major themes of recent thought has been the idea that life
 does not owe us anything. In consequence, we must take complete

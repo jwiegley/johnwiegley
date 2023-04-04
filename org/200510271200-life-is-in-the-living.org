@@ -2,10 +2,8 @@
 :ID:       889CF9C5-259C-4B15-BD90-E40CD14CF221
 :SLUG:     life-is-in-the-living
 :END:
----
-title: Life is in the living
-tags: journal
----
+#+filetags: :journal:
+#+title: Life is in the living
 
 Peter had asked, "I understand the power and value that Faith itself
 /can/ bring to a man, but what does it really mean beyond self-induced

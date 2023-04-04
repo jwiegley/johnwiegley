@@ -2,10 +2,8 @@
 :ID:       681DF1FD-02C8-48A3-B176-848A9CA2C805
 :SLUG:     unsung-virtues
 :END:
----
-title: Unsung virtues
-tags: journal
----
+#+filetags: :journal:
+#+title: Unsung virtues
 
 There are some attributes of character which are commonly regarded as
 detrimental to "getting along in the world". Well, if what you want most

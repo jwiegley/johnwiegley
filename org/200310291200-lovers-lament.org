@@ -2,10 +2,8 @@
 :ID:       5FDBBE32-2944-462C-A3B6-27DE9AA3D1BC
 :SLUG:     lovers-lament
 :END:
----
-title: Lovers lament
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Lovers lament
 
 #+BEGIN_VERSE
 One perfect tear, falling into the ocean waves.

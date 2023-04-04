@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       A52704A7-4008-4B68-91EC-70D15FC65383
 :SLUG:     the-mood-of-night
+:LOCATION: Sitges, Spain
+:EDITED:   [2004-03-07 Sun]
 :END:
----
-title: The mood of night
-tags: poetry
-edited: 03/07/2004
-location: Sitges, Spain
----
+#+filetags: :poetry:
+#+title: The mood of night
 
 #+BEGIN_VERSE
 A mood of night

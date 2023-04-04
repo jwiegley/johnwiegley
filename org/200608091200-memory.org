@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       1AB61635-0AFA-4AEE-B110-11E0C55E6016
 :SLUG:     memory
+:LOCATION: 239 Misty Creek Drive
 :END:
----
-title: Memory
-tags: poetry
-location: 239 Misty Creek Drive
----
+#+filetags: :poetry:
+#+title: Memory
 
 #+BEGIN_VERSE
 Only the soft rains do I hear...

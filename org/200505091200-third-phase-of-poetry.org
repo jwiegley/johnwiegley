@@ -2,10 +2,8 @@
 :ID:       69EE57D4-7875-4C19-BD9F-7825C1026338
 :SLUG:     third-phase-of-poetry
 :END:
----
-title: Third phase of poetry
-tags: journal
----
+#+filetags: :journal:
+#+title: Third phase of poetry
 
 I had thought there were two phases of writing poetry, but now I find
 there are at least three.

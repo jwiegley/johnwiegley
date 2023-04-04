@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       FF9183A7-59F1-4C54-892A-A4D61A0B34F5
 :SLUG:     the-waves
+:LOCATION: Sitges, Spain
+:EDITED:   [2004-03-07 Sun]
 :END:
----
-title: The waves
-tags: poetry
-edited: 03/07/2004
-location: Sitges, Spain
----
+#+filetags: :poetry:
+#+title: The waves
 
 #+BEGIN_VERSE
 Perhaps a great pair of hands

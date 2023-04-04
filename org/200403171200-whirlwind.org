@@ -2,10 +2,8 @@
 :ID:       A349A8F0-6E6E-44B9-91B7-9C47B4AF1F4B
 :SLUG:     whirlwind
 :END:
----
-title: Whirlwind
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Whirlwind
 
 #+BEGIN_VERSE
 Gathering together its full force

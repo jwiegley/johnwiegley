@@ -2,10 +2,8 @@
 :ID:       9FC7093C-DA1F-438B-9568-2D4862F27351
 :SLUG:     faced-with-a-puzzle
 :END:
----
-title: Faced with a Puzzle
-tags: essays
----
+#+filetags: :essays:
+#+title: Faced with a Puzzle
 
 When I'm at Feast, I'm almost always with the "active" believers, people
 who come to Feast even if it's not their favorite thing to do (the

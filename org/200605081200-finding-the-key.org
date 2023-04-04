@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       C12E0ABB-4F02-4BF8-817F-B0A95040F8FA
 :SLUG:     finding-the-key
+:LOCATION: Nasim's house, 239 Misty Creek Drive, Monument, Colorado
 :END:
----
-title: Finding the key
-tags: journal
-location: Nasim's house, 239 Misty Creek Drive, Monument, Colorado
----
+#+filetags: :journal:
+#+title: Finding the key
 
 A few days ago I wrote that the essence of morality lies in valuing
 life, since we tend to do right by what we care about most -- which is

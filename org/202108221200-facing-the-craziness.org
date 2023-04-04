@@ -2,10 +2,8 @@
 :ID:       ABDC1B84-5C52-41E7-8955-1D90AD62472A
 :SLUG:     facing-the-craziness
 :END:
----
-title: Facing the craziness
-tags: journal
----
+#+filetags: :journal:
+#+title: Facing the craziness
 
 There have been times when I scratched the thing I loved most by myself,
 just to face the craziness head on.

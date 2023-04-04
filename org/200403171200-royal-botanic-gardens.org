@@ -2,10 +2,8 @@
 :ID:       6BE69237-7199-4493-B2F4-1FF3F9DEFE1B
 :SLUG:     royal-botanic-gardens
 :END:
----
-title: Royal Botanic Gardens
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Royal Botanic Gardens
 
 #+BEGIN_VERSE
 Today my soul is a butterfly

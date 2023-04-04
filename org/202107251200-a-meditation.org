@@ -2,10 +2,8 @@
 :ID:       B59EAC83-6D90-4123-85C9-1B1B99D10A55
 :SLUG:     a-meditation
 :END:
----
-title: A meditation
-tags: journal
----
+#+filetags: :journal:
+#+title: A meditation
 
 Breath deeply. Take a moment to let your eyes close; clear your mind of
 thoughts best you can; let a feeling of stillness settle upon you. In

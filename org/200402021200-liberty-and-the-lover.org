@@ -2,10 +2,8 @@
 :ID:       02EEDED6-7003-4D66-A9BA-5278B94F55D0
 :SLUG:     liberty-and-the-lover
 :END:
----
-title: Liberty and the lover
-tags: journal
----
+#+filetags: :journal:
+#+title: Liberty and the lover
 
 Liberty means being free. But for the lover, this can only mean freedom
 to reach his Beloved...

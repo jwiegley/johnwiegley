@@ -2,10 +2,8 @@
 :ID:       0F5CEFF4-E819-42C8-8677-92D1FC25D6CD
 :SLUG:     ive-found-you
 :END:
----
-title: I've found you
-tags: poetry
----
+#+filetags: :poetry:
+#+title: I've found you
 
 #+BEGIN_VERSE
 I have waited so long for a companion,

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       D5F9B2EB-DCF2-4B3C-B2CF-A70838F8FBEE
 :SLUG:     choice
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: Choice
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: Choice
 
 #+BEGIN_VERSE
 I asked for water: He made the rivers;

@@ -2,10 +2,8 @@
 :ID:       068E766C-6C14-4687-8203-816482F466F8
 :SLUG:     regard-your-enemy-as-your-friend
 :END:
----
-title: "Regard your enemy as your friend..."
-tags: essays
----
+#+filetags: :essays:
+#+title: "Regard your enemy as your friend..."
 
 As nearly everyone has found, this principle cannot be applied brute
 force. Enemies are enemies, and no tweaking of your eyes will see them

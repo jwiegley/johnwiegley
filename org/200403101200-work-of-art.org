@@ -2,10 +2,8 @@
 :ID:       B1B6DFF0-6D6F-4CC0-9797-C6A65D6DDC6B
 :SLUG:     work-of-art
 :END:
----
-title: Work of art
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Work of art
 
 #+BEGIN_VERSE
 I fall in love,

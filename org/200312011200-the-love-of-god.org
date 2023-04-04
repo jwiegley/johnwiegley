@@ -2,10 +2,8 @@
 :ID:       F6EC59BC-7F72-49AE-9E9D-7B8EEF4D42EC
 :SLUG:     the-love-of-god
 :END:
----
-title: The love of God
-tags: journal
----
+#+filetags: :journal:
+#+title: The love of God
 
 A long drive today (nine hours). And a discovery: In the past year or
 so, I have been thinking much on the love of God, and how this plays

@@ -2,10 +2,8 @@
 :ID:       486EC24F-BD46-4D92-BA78-1E0C91BF0C5B
 :SLUG:     mercantile
 :END:
----
-title: Mercantile
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Mercantile
 
 #+BEGIN_VERSE
 Prayer magnetizes the needle of the heart;

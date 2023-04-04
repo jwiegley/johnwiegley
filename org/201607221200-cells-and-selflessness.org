@@ -2,10 +2,8 @@
 :ID:       B676385A-ADA0-4B50-B31D-5846DF9DB153
 :SLUG:     cells-and-selflessness
 :END:
----
-title: Cells and selflessness
-tags: essays
----
+#+filetags: :essays:
+#+title: Cells and selflessness
 
 An analogy I've been giving some thought to lately is that of cells in a
 human body. I think they have something to say about the meaning of

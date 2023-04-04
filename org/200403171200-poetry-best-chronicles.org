@@ -2,10 +2,8 @@
 :ID:       21CF40AD-ADCE-452B-8F21-75F10BDC81A7
 :SLUG:     poetry-best-chronicles
 :END:
----
-title: Poetry best chronicles
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Poetry best chronicles
 
 #+BEGIN_VERSE
 Poetry best chronicles the devastation of the heart.

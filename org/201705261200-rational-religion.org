@@ -2,10 +2,8 @@
 :ID:       E9E184C0-0D31-4968-92FB-B164993EB481
 :SLUG:     rational-religion
 :END:
----
-title: Rational religion
-tags: journal
----
+#+filetags: :journal:
+#+title: Rational religion
 
 We naturally want religion to be rational, easily comprehended, and
 defensible before all arguments, but it has never been so. Some aspects

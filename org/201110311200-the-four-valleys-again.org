@@ -2,10 +2,8 @@
 :ID:       23E66842-3CB7-4163-9B63-911894BE9BC7
 :SLUG:     the-four-valleys-again
 :END:
----
-title: The Four Valleys again
-tags: journal
----
+#+filetags: :journal:
+#+title: The Four Valleys again
 
 At the end of the Seven Valleys, Bahá'u'lláh makes a statement about the
 furthering journeys of the spiritual wayfarer:

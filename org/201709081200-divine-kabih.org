@@ -2,10 +2,8 @@
 :ID:       1EA06C90-732B-4F2E-934D-A5897DFC6378
 :SLUG:     divine-kabih
 :END:
----
-title: The divine Ka`bih
-tags: journal
----
+#+filetags: :journal:
+#+title: The divine Ka`bih
 
 "God's eternity", in the Arabic, is often stated as "baqá". It is
 discovered upon completing self-annihilation, faná. These two relate to

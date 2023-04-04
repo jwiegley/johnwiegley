@@ -2,10 +2,8 @@
 :ID:       9280C0A9-6E7B-402D-829C-05D9BCEEE942
 :SLUG:     why-does-god-let-it-happen
 :END:
----
-title: Why does God let it happen?
-tags: essays
----
+#+filetags: :essays:
+#+title: Why does God let it happen?
 
 It is sometimes thought that while life could be wonderful, mankind is
 just too flawed, corrupt or generally inept; or that the world we've

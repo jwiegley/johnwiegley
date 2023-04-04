@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       4E61DEE6-B7A6-4032-B79E-944DFB83AE86
 :SLUG:     a-mime
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: A mime
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: A mime
 
 #+BEGIN_VERSE
 I watched a mime

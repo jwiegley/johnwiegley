@@ -2,10 +2,8 @@
 :ID:       7CA1110A-A91C-428F-9E8A-CD75C4F45405
 :SLUG:     farmer-and-miller
 :END:
----
-title: The farmer and the miller
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The farmer and the miller
 
 #+BEGIN_VERSE
 The shell of the seed is hard, so hard!

@@ -2,10 +2,8 @@
 :ID:       906DCA0C-5B4A-4971-8508-985AEEAB4D47
 :SLUG:     life-is-a-gift
 :END:
----
-title: Life is a gift
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Life is a gift
 
 #+BEGIN_VERSE
 Your life is a gift.

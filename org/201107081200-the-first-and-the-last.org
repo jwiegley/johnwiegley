@@ -2,10 +2,8 @@
 :ID:       25B1E530-4999-42DD-B552-5051F208F03A
 :SLUG:     the-first-and-the-last
 :END:
----
-title: The First and the Last (1 of 3)
-tags: journal
----
+#+filetags: :journal:
+#+title: The First and the Last (1 of 3)
 
 In the Writings there is a quote from the Qur'án mentioned in several
 places, often in mystical contexts:

@@ -2,10 +2,8 @@
 :ID:       F69B59CF-6011-4E22-B0F3-56F2532EDAF6
 :SLUG:     unavoidable-koan
 :END:
----
-title: Unavoidable koan
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Unavoidable koan
 
 #+BEGIN_VERSE
 In a dream, I imagine I've lost my arm.

@@ -2,10 +2,8 @@
 :ID:       E2032633-3B23-4DE8-8847-F4AB95FCB3EE
 :SLUG:     wearing-away-the-self
 :END:
----
-title: Wearing away the self
-tags: journal
----
+#+filetags: :journal:
+#+title: Wearing away the self
 
 Our selves can sometimes be like the crust of Earth, which hides the
 burning, naked heart. And although sometimes we may erupt, it requires

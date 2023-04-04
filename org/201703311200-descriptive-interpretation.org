@@ -2,10 +2,8 @@
 :ID:       A616B2E4-B1AC-4E29-8E6C-4310D37225A9
 :SLUG:     descriptive-interpretation
 :END:
----
-title: Descriptive interpretation
-tags: journal
----
+#+filetags: :journal:
+#+title: Descriptive interpretation
 
 There are certain mystical passages in the Bahá'í Writings that can be
 read quite differently if one shifts from a prescriptive, self-oriented

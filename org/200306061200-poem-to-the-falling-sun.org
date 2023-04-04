@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       AA80E3AD-5400-4E61-ABAF-E3D901EB84EA
 :SLUG:     poem-to-the-falling-sun
+:LOCATION: Plaza Industria, Sitges, Spain
+:EDITED:   [2003-11-21 Fri]
 :END:
----
-title: Poem to the falling sun
-tags: poetry
-edited: 11/21/2003
-location: Plaza Industria, Sitges, Spain
----
+#+filetags: :poetry:
+#+title: Poem to the falling sun
 
 #+BEGIN_VERSE
 Of all the sky's blue,

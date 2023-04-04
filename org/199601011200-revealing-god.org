@@ -2,10 +2,8 @@
 :ID:       D5A9606B-5D8D-4029-BCDB-39EED2EC3B7A
 :SLUG:     revealing-god
 :END:
----
-title: Revealing God
-tags: journal
----
+#+filetags: :journal:
+#+title: Revealing God
 
 The Revelation of God, as the term should imply, is about revealing God.
 If one's religious experience involves only the members of the

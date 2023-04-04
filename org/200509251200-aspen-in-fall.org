@@ -2,10 +2,8 @@
 :ID:       F6C169ED-EB6A-4018-A6EC-BFB09313F58C
 :SLUG:     aspen-in-fall
 :END:
----
-title: Aspen in fall
-tags: journal
----
+#+filetags: :journal:
+#+title: Aspen in fall
 
 Yesterday I drove up to Aspen, Colorado on what might have been one of
 the prettiest days of the year. The weather was cool but warm, the trees

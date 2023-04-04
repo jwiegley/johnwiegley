@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       84044C18-946B-4B55-BADE-761BCBD151EF
 :SLUG:     being-together
+:LOCATION: Diedrich's Coffee, Marguerite, Mission Viejo, CA
 :END:
----
-title: Being together
-tags: poetry
-location: Diedrich's Coffee, Marguerite, Mission Viejo, CA
----
+#+filetags: :poetry:
+#+title: Being together
 
 #+BEGIN_VERSE
 How can I describe being together?

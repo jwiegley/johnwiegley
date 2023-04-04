@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       B2A8D47A-7978-4F9E-9A34-9D119DFA0939
 :SLUG:     the-mystic
+:LOCATION: 7373 N. 71st Place, PV, AZ
 :END:
----
-title: The mystic
-tags: poetry
-location: 7373 N. 71st Place, PV, AZ
----
+#+filetags: :poetry:
+#+title: The mystic
 
 #+BEGIN_VERSE
 The true mystic is a lion

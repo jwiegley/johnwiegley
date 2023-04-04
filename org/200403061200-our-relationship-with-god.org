@@ -2,10 +2,8 @@
 :ID:       C9A39772-EA90-4CAF-9E31-1094EC79E731
 :SLUG:     our-relationship-with-god
 :END:
----
-title: Our relationship with God
-tags: essays
----
+#+filetags: :essays:
+#+title: Our relationship with God
 
 A relationship with any living thing involves a certain degree of
 mystery, since there is a capriciousness inherent in living things: an

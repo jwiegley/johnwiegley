@@ -2,10 +2,8 @@
 :ID:       1DD87754-25C0-47E2-A832-D1E42C168140
 :SLUG:     sigh
 :END:
----
-title: Sigh
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Sigh
 
 #+BEGIN_VERSE
 The day rose upon a sheltered rock,

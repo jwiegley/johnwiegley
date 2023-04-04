@@ -2,10 +2,8 @@
 :ID:       599BA74A-9A5D-4152-8B10-5071E8826824
 :SLUG:     ways-of-the-force
 :END:
----
-title: Ways of the Force
-tags: stories
----
+#+filetags: :stories:
+#+title: Ways of the Force
 
 * Attack
 :PROPERTIES:

@@ -2,10 +2,8 @@
 :ID:       72A17C31-537C-4DB1-B3DA-95E4D7074E04
 :SLUG:     the-human-factor
 :END:
----
-title: The human factor
-tags: journal
----
+#+filetags: :journal:
+#+title: The human factor
 
 When we set out to comprehend Truth, our greatest barrier is the mind we
 do so with. Like the eyes our mind is bounded by its own limitations,

@@ -2,10 +2,8 @@
 :ID:       164EC8DF-F902-4A21-8A4D-583C3B12E341
 :SLUG:     turtle
 :END:
----
-title: Turtle
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Turtle
 
 #+BEGIN_VERSE
 He paws the ground

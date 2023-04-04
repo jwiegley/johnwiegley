@@ -2,10 +2,8 @@
 :ID:       6166D0E9-3FDA-421E-9B19-23091EE0EE1F
 :SLUG:     waiting
 :END:
----
-title: Waiting
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Waiting
 
 #+BEGIN_VERSE
 Waiting for the tips of trees

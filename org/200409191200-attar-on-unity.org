@@ -2,10 +2,8 @@
 :ID:       6716E6E7-500A-469C-9A26-19756D78D9FE
 :SLUG:     attar-on-unity
 :END:
----
-title: "`Attár on Unity"
-tags: journal
----
+#+filetags: :journal:
+#+title: "`Attár on Unity"
 
 Farídu'd-Dín `Attár, a 12th century Sufi poet, wrote a mystical poem
 called the Conference of the Birds (my favorite translation is in prose,

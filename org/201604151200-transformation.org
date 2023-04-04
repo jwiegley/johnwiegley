@@ -2,10 +2,8 @@
 :ID:       4B5AF2B4-CF77-47B8-89BB-5B8FA84CAB03
 :SLUG:     transformation
 :END:
----
-title: Transformation
-tags: journal
----
+#+filetags: :journal:
+#+title: Transformation
 
 I believe that within each of us lies a door -- a hidden door -- that
 opens on a place both entirely strange and perfectly familiar. Our

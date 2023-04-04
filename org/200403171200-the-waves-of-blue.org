@@ -2,10 +2,8 @@
 :ID:       581BD587-C902-4035-9CCA-DE27F273FBBB
 :SLUG:     the-waves-of-blue
 :END:
----
-title: The waves of blue
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The waves of blue
 
 #+BEGIN_VERSE
 Remind me of that time

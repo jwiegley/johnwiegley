@@ -2,10 +2,8 @@
 :ID:       C5F6F5C0-8ADF-41A9-B55D-A85CF1F648AF
 :SLUG:     what-you-are-is-never-changing
 :END:
----
-title: What you are is never changing
-tags: journal
----
+#+filetags: :journal:
+#+title: What you are is never changing
 
 What you are is never changing, and you can't put a finger on it. It
 can't be humble, it can't be proud. It's only ever aware.

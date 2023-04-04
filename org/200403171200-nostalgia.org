@@ -2,10 +2,8 @@
 :ID:       732F24EC-A6F3-40CE-991F-F91BF4960347
 :SLUG:     nostalgia
 :END:
----
-title: Nostalgia
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Nostalgia
 
 #+BEGIN_VERSE
 I remember sun.

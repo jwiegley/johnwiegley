@@ -2,10 +2,8 @@
 :ID:       18E7C6D5-9A6D-4D7E-BD66-574A4E43BE3C
 :SLUG:     the-soul-knows
 :END:
----
-title: The soul knows
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The soul knows
 
 #+BEGIN_VERSE
 What the soul knows cannot be said --

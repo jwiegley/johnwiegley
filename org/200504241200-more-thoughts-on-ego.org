@@ -2,10 +2,8 @@
 :ID:       129BC9FC-ECB3-42EC-AA02-77A31452AB33
 :SLUG:     more-thoughts-on-ego
 :END:
----
-title: More thoughts on ego
-tags: journal
----
+#+filetags: :journal:
+#+title: More thoughts on ego
 
 When I'm doing something that goes well, I think about how I'm seeing
 God in that too. He is the Beauty of all beautiful things; He is life

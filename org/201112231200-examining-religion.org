@@ -2,10 +2,8 @@
 :ID:       3E787441-3E7E-40EC-9C72-4F73A56A8BF1
 :SLUG:     examining-religion
 :END:
----
-title: Examining religion
-tags: journal
----
+#+filetags: :journal:
+#+title: Examining religion
 
 Can religion really satisfy human needs? Hasn't it been the product of
 disorder and strife more often than not?

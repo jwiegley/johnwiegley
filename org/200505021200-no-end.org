@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       8B629D4C-9DE6-49A0-AF27-4E88CCD33FFA
 :SLUG:     no-end
+:LOCATION: Biltmore Fashion Park, Phoenix, Arizona
 :END:
----
-title: No end
-tags: poetry
-location: Biltmore Fashion Park, Phoenix, Arizona
----
+#+filetags: :poetry:
+#+title: No end
 
 #+BEGIN_VERSE
 Sometimes I feel such mysteries

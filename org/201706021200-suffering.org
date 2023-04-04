@@ -2,10 +2,8 @@
 :ID:       FDBB394F-D9DD-4E00-92E4-9EDB4BFB04B7
 :SLUG:     suffering
 :END:
----
-title: Suffering
-tags: journal
----
+#+filetags: :journal:
+#+title: Suffering
 
 Viewed on its own, physical death and suffering in this world are among
 the worst of its evils. How can God, Who is so good, permit these evils

@@ -2,10 +2,8 @@
 :ID:       670FDFE3-1562-4D10-9F76-FB7E2CD97C70
 :SLUG:     creation-from-nothingness
 :END:
----
-title: Creation from nothingness
-tags: journal
----
+#+filetags: :journal:
+#+title: Creation from nothingness
 
 Any physical creation exists within a pre-determined set of bounds,
 making "creation" only an iteration within a domain. Hence creation

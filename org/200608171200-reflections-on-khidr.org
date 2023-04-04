@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       57E507EE-ECA8-4038-A97A-0C5201D398CB
 :SLUG:     reflections-on-khidr
+:LOCATION: 239 Misty Creek Drive, Monument, CO, 80132
 :END:
----
-title: Reflections on Khidr
-tags: journal
-location: 239 Misty Creek Drive, Monument, CO, 80132
----
+#+filetags: :journal:
+#+title: Reflections on Khidr
 
 As I pondered the story of Khidr again (search for "Khidr" here if some
 background is needed), a new thought came to me:

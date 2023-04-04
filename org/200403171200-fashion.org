@@ -2,10 +2,8 @@
 :ID:       4F75C369-8AF4-46EB-B799-40EACBF03EB3
 :SLUG:     fashion
 :END:
----
-title: Fashion
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Fashion
 
 #+BEGIN_VERSE
 People dress up their figures

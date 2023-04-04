@@ -2,10 +2,8 @@
 :ID:       1043CA0B-57FF-47EF-80C2-633299CB0260
 :SLUG:     after-watching-the-news
 :END:
----
-title: After watching the news
-tags: poetry
----
+#+filetags: :poetry:
+#+title: After watching the news
 
 #+BEGIN_VERSE
 Power often changes hands,

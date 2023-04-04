@@ -2,10 +2,8 @@
 :ID:       2672E186-B5B8-43B0-9AEB-1DA8C9656863
 :SLUG:     backbiting
 :END:
----
-title: Backbiting
-tags: essays
----
+#+filetags: :essays:
+#+title: Backbiting
 
 The Writings are fortunately very clear on what back-biting is:
 

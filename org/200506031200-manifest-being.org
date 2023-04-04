@@ -2,10 +2,8 @@
 :ID:       5DE7D0F2-934F-4B97-9C18-8C7E2BF40DF1
 :SLUG:     manifest-being
 :END:
----
-title: Manifest being
-tags: journal
----
+#+filetags: :journal:
+#+title: Manifest being
 
 "Manifest being" is a thought which works for me as a kind of union
 between mysticism -- the quest for ecstatic union with the hidden

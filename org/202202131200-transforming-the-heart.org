@@ -2,10 +2,8 @@
 :ID:       01FAE318-5382-42D0-A7A5-CFB58B53B698
 :SLUG:     transforming-the-heart
 :END:
----
-title: Transforming the heart
-tags: journal
----
+#+filetags: :journal:
+#+title: Transforming the heart
 
 Something that occurred to me this week: In my relationship to God, I
 know I have to eventually love the Blessed Beauty so dearly that any

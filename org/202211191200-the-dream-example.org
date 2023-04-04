@@ -2,10 +2,8 @@
 :ID:       C01960F7-4888-41AB-A97F-3AF107AEE158
 :SLUG:     the-dream-example
 :END:
----
-title: The example of the dream
-tags: journal
----
+#+filetags: :journal:
+#+title: The example of the dream
 
 ** Question
 :PROPERTIES:

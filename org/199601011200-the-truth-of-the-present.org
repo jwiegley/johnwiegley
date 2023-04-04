@@ -2,10 +2,8 @@
 :ID:       8C683553-6CC4-4CBD-A791-7BA9F3DC1A57
 :SLUG:     the-truth-of-the-present
 :END:
----
-title: The truth of the present
-tags: journal
----
+#+filetags: :journal:
+#+title: The truth of the present
 
 The only truth we encounter is the present, and the words of the
 prophets. Because the past we remember inaccurately, and our conceptions

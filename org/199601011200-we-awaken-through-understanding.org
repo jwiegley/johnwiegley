@@ -2,10 +2,8 @@
 :ID:       C3F9C1CF-E8E7-4D17-B391-395494043AF9
 :SLUG:     we-awaken-through-understanding
 :END:
----
-title: We awaken through understanding
-tags: journal
----
+#+filetags: :journal:
+#+title: We awaken through understanding
 
 We are so constituted that our nature is awakened through understanding.
 True understanding causes a transformation down to the most basic level,

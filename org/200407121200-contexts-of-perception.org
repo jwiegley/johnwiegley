@@ -2,10 +2,8 @@
 :ID:       A8DFE605-7267-4BD0-8379-1DC3C35A0ECE
 :SLUG:     contexts-of-perception
 :END:
----
-title: Contexts of perception
-tags: journal
----
+#+filetags: :journal:
+#+title: Contexts of perception
 
 After thinking, here is another analogy to explain the functional,
 relative nature of concepts: If I look at a tree in a meadow, I can

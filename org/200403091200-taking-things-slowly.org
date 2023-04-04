@@ -2,10 +2,8 @@
 :ID:       7C4A06C6-4A5A-4E73-98CB-9936E992C5AB
 :SLUG:     taking-things-slowly
 :END:
----
-title: Taking things slowly
-tags: journal
----
+#+filetags: :journal:
+#+title: Taking things slowly
 
 There is an exercise I've been working on for the past week, which has
 produced very interesting results for me. I mention it here, not to

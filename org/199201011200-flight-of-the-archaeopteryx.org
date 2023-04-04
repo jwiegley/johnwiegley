@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       846E53A3-7486-4315-AC42-E0F168677A84
 :SLUG:     flight-of-the-archaeopteryx
+:EDITED:   [2004-03-17 Wed]
 :END:
----
-title: Flight of the Archaeopteryx
-tags: poetry
-edited: 03/17/2004
----
+#+filetags: :poetry:
+#+title: Flight of the Archaeopteryx
 
 #+BEGIN_VERSE
 Seven men, with seven needs, but fourteen wants and half the time,

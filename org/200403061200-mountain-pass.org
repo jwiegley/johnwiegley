@@ -2,10 +2,8 @@
 :ID:       108A48B2-1B93-48DC-99DC-9CDE15D5C23C
 :SLUG:     mountain-pass
 :END:
----
-title: Mountain Pass
-tags: stories
----
+#+filetags: :stories:
+#+title: Mountain Pass
 
 It was a strange day when the man rode in. He wore leather boots of a
 make we hadn't seen before. His hat too: there was something indefinite

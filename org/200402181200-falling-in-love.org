@@ -2,10 +2,8 @@
 :ID:       14B4A234-2054-4069-8C1E-19D4FF2DA3B4
 :SLUG:     falling-in-love
 :END:
----
-title: Falling in love
-tags: journal
----
+#+filetags: :journal:
+#+title: Falling in love
 
 When I fall in love, I notice two things happen: First, I begin to
 sacrifice myself (time, energy, health); second, I become unaware that

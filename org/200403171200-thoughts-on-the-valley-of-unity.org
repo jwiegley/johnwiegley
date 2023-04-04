@@ -2,10 +2,8 @@
 :ID:       5F498083-E4AD-45A2-8EDA-093CAC8E3E5D
 :SLUG:     thoughts-on-the-valley-of-unity
 :END:
----
-title: Thoughts on the Valley of Unity
-tags: essays
----
+#+filetags: :essays:
+#+title: Thoughts on the Valley of Unity
 
 * Qualities of the wayfarer
 :PROPERTIES:

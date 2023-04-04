@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       9A485FB5-294F-4E73-BFAE-01B2173803BB
 :SLUG:     a-sea-of-arms-and-legs
+:LOCATION: Sitges, Spain
+:EDITED:   [2004-03-17 Wed]
 :END:
----
-title: A sea of arms and legs
-tags: poetry
-edited: 03/17/2004
-location: Sitges, Spain
----
+#+filetags: :poetry:
+#+title: A sea of arms and legs
 
 #+BEGIN_VERSE
 They spill like a sea,

@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       17B67CE3-006E-4F96-8390-98DD4F4BAC7D
 :SLUG:     heat
+:LOCATION: 380 Esplanade Ave #211
 :END:
----
-title: Heat
-tags: poetry
-location: 380 Esplanade Ave #211
----
+#+filetags: :poetry:
+#+title: Heat
 
 #+BEGIN_VERSE
 Whenever I see you,

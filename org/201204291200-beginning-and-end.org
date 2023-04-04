@@ -2,10 +2,8 @@
 :ID:       8B434C5D-111D-41B5-AED4-94E3F8F33EB6
 :SLUG:     beginning-and-end
 :END:
----
-title: The beginning and the end
-tags: essays
----
+#+filetags: :essays:
+#+title: The beginning and the end
 
 There is a recurring theme in the Writings, both Islamic and Bahá'í, of
 four divine states which are referred to in the verse: "He is the first

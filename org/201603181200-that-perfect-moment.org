@@ -2,10 +2,8 @@
 :ID:       FC50448C-E622-400F-9626-C2AA8AB091BA
 :SLUG:     that-perfect-moment
 :END:
----
-title: That perfect moment
-tags: poetry
----
+#+filetags: :poetry:
+#+title: That perfect moment
 
 #+BEGIN_VERSE
 I was not made to be perfect.

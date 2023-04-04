@@ -2,10 +2,8 @@
 :ID:       BBB64AEF-9444-4E7C-AB13-78BACA6F9371
 :SLUG:     i-remember-the-waves
 :END:
----
-title: I remember the waves...
-tags: stories
----
+#+filetags: :stories:
+#+title: I remember the waves...
 
 #+BEGIN_QUOTE
 /Dedicated to Mary, and the souls she helped whose bodies would not

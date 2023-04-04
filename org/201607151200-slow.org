@@ -2,10 +2,8 @@
 :ID:       82358C2D-DC0F-4813-A052-3CD2A59A259E
 :SLUG:     slow
 :END:
----
-title: Slow
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Slow
 
 #+BEGIN_VERSE
 In a time languorous

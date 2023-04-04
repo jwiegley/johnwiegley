@@ -2,10 +2,8 @@
 :ID:       6A907267-487A-4860-8362-5D2E2BDA4E13
 :SLUG:     a-metaphor-of-the-seven-valleys
 :END:
----
-title: A metaphor of the Seven Valleys
-tags: journal
----
+#+filetags: :journal:
+#+title: A metaphor of the Seven Valleys
 
 In some ways, the story of the Seven Valleys closely parallels that of
 human romance.

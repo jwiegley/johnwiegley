@@ -2,10 +2,8 @@
 :ID:       6F819E2B-F53E-4C4E-9B04-1F0E41C0A769
 :SLUG:     autumn
 :END:
----
-title: Autumn
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Autumn
 
 #+BEGIN_VERSE
 Unhappy trees of autumn,

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       D61F8A3D-EB45-4DB1-A33C-4A62013B1949
 :SLUG:     poetry
+:LOCATION: Spain
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: Poetry
-tags: poetry
-edited: 03/22/2004
-location: Spain
----
+#+filetags: :poetry:
+#+title: Poetry
 
 #+BEGIN_VERSE
 Poetry is what a man writes

@@ -2,10 +2,8 @@
 :ID:       127BEDBA-4780-4300-B81E-4F8A49435721
 :SLUG:     untitled-10
 :END:
----
-title: Untitled 10
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 10
 
 The place that I am staying is quite lovely. Because I am staying for 40
 days, more or less, they gave me a nice rate of about $65/night. It

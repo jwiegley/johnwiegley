@@ -2,10 +2,8 @@
 :ID:       08EB8EDF-26ED-4EBC-915C-E39AB2A4C9FD
 :SLUG:     all-things-are-provided-by-god
 :END:
----
-title: All things are provided by God
-tags: essays
----
+#+filetags: :essays:
+#+title: All things are provided by God
 
 [WARNING] Note with key '1' defined at line 95 column 1 but not used.
 [WARNING] Note with key '10' defined at line 113 column 1 but not used.

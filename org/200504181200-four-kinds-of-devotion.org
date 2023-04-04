@@ -2,10 +2,8 @@
 :ID:       D1D791FF-8D8B-48D3-A029-F16F7504F2E3
 :SLUG:     four-kinds-of-devotion
 :END:
----
-title: Four kinds of devotion
-tags: journal
----
+#+filetags: :journal:
+#+title: Four kinds of devotion
 
 In my experiences lately I have found there to be four basic kinds of
 devotion. These categories are arbitrary, of course, but they help me to

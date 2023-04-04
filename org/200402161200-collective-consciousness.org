@@ -2,10 +2,8 @@
 :ID:       17BE329A-C845-42E1-867A-63A62F48A249
 :SLUG:     collective-consciousness
 :END:
----
-title: Collective consciousness
-tags: journal
----
+#+filetags: :journal:
+#+title: Collective consciousness
 
 The past few days I've been musing on a psychological mechanism not
 unlike a "collective consciousness". It deserves mention because it has

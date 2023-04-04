@@ -2,10 +2,8 @@
 :ID:       18CDEED1-A6FE-4314-A4B6-C909073BEDA3
 :SLUG:     spellcaster
 :END:
----
-title: Spellcaster
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Spellcaster
 
 #+BEGIN_VERSE
 Silence. Cold thoughts.

@@ -2,10 +2,8 @@
 :ID:       16E2BF84-2191-4526-B941-A0E2FF287D78
 :SLUG:     dreams
 :END:
----
-title: Dreams
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Dreams
 
 #+BEGIN_VERSE
 The waters are not blue,

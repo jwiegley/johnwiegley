@@ -2,10 +2,8 @@
 :ID:       000FD66F-F17F-4915-A8F8-3F364832AD3A
 :SLUG:     strange-feeling-of-excitement
 :END:
----
-title: Strange feeling of excitement
-tags: journal
----
+#+filetags: :journal:
+#+title: Strange feeling of excitement
 
 This morning I was awoken by a strange phenomenon. At around 9:30am, I
 suddenly had a feeling of intense, overwhelming excitement. It was not

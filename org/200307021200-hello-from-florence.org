@@ -2,10 +2,8 @@
 :ID:       1BC1F560-217D-41FE-845A-B7173E1DEB98
 :SLUG:     hello-from-florence
 :END:
----
-title: Hello from Florence!
-tags: journal
----
+#+filetags: :journal:
+#+title: Hello from Florence!
 
 This e-mail begins back in Sitges, where we last left off...
 

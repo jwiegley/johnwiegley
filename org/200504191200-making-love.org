@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       5A085ACA-EEA3-4A28-AE89-A31A214D5401
 :SLUG:     making-love
+:LOCATION: Uncle Sam's Deli, Shea Blvd, Scottsdale, Arizona
+:EDITED:   [2005-04-28 Thu]
 :END:
----
-title: Making love
-tags: poetry
-edited: 04/28/2005
-location: Uncle Sam's Deli, Shea Blvd, Scottsdale, Arizona
----
+#+filetags: :poetry:
+#+title: Making love
 
 #+BEGIN_VERSE
 I'm sitting here

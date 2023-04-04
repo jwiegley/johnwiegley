@@ -2,10 +2,8 @@
 :ID:       875F7EAC-855B-4D1C-9A5E-1C4801B8FED4
 :SLUG:     threadbare
 :END:
----
-title: Threadbare
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Threadbare
 
 #+BEGIN_VERSE
 My connection to the world

@@ -2,11 +2,9 @@
 :ID:       D24B920D-AE13-4BC5-88B2-87729A497346
 :SLUG:     moonlight
 :END:
----
-title: Moonlight
-tags: poetry
+#+filetags: :poetry:
+#+title: Moonlight
 written: 10/29/2003
----
 
 #+BEGIN_VERSE
 The light is pure,

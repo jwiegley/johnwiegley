@@ -2,10 +2,8 @@
 :ID:       5CB5177D-7618-4344-BBD8-549A8ACD4C41
 :SLUG:     first-poem-about-the-sea
 :END:
----
-title: First poem about the sea
-tags: poetry
----
+#+filetags: :poetry:
+#+title: First poem about the sea
 
 #+BEGIN_VERSE
 If I speak to you of the sea,

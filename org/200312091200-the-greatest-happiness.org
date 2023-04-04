@@ -2,10 +2,8 @@
 :ID:       5C2A7137-48FC-40D9-B456-4C8F7407A46B
 :SLUG:     the-greatest-happiness
 :END:
----
-title: The greatest happiness
-tags: journal
----
+#+filetags: :journal:
+#+title: The greatest happiness
 
 If (name here) is the soul's fulfillment, it represents the greatest
 joy, the true happiness. And if this is so, we'd choose it over

@@ -2,10 +2,8 @@
 :ID:       1D9DC558-DBE4-4E1B-B613-C8A4F35058E2
 :SLUG:     conceptions-of-faith
 :END:
----
-title: Conceptions of faith
-tags: journal
----
+#+filetags: :journal:
+#+title: Conceptions of faith
 
 It seems so awfully strange, that we should be bound to agree with the
 religious sentiments of our current era. As I look around, I realize

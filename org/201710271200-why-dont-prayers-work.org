@@ -2,10 +2,8 @@
 :ID:       F6E9F580-0D82-44CC-8578-8C83625B2D0F
 :SLUG:     why-dont-prayers-work
 :END:
----
-title: Why don't prayers work?
-tags: journal
----
+#+filetags: :journal:
+#+title: Why don't prayers work?
 
 Prayer is a mystery; it's not like withdrawing money from an ATM.
 Sometimes it's working when you think it isn't, and vice versa.

@@ -2,10 +2,8 @@
 :ID:       74C34094-2790-43CC-AEC2-61B7EF48E6A7
 :SLUG:     mysticism
 :END:
----
-title: Mysticism
-tags: journal
----
+#+filetags: :journal:
+#+title: Mysticism
 
 [WARNING] Note with key '1' defined at line 59 column 1 but not used.
 All knowledge furthers the development of vision. If one study

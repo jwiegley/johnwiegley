@@ -2,10 +2,8 @@
 :ID:       FA4C93A8-CBF9-4F32-959C-187077632F9D
 :SLUG:     the-day-of-grace
 :END:
----
-title: The Day of Grace
-tags: journal
----
+#+filetags: :journal:
+#+title: The Day of Grace
 
 'Abdu'l-Bahá wrote:
 

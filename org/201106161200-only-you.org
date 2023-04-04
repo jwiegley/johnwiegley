@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       E23ABEF1-6213-4F49-84C9-1A12B30B4725
 :SLUG:     only-you
+:LOCATION: 239 Misty Creek Drive, Monument, Colorado, 80132
 :END:
----
-title: Only You
-tags: poetry
-location: 239 Misty Creek Drive, Monument, Colorado, 80132
----
+#+filetags: :poetry:
+#+title: Only You
 
 #+BEGIN_VERSE
 There are times when I come to You in prayer,

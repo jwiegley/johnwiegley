@@ -2,10 +2,8 @@
 :ID:       7C8315D9-1F41-4375-A643-7624E49446B3
 :SLUG:     pausing-for-a-moment
 :END:
----
-title: Pausing for a moment
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Pausing for a moment
 
 #+BEGIN_VERSE
 All I would need is to hang like a fish

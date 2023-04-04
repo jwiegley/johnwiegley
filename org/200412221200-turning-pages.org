@@ -2,10 +2,8 @@
 :ID:       7B7D7B79-2D74-4B0E-806A-A58C2A2625C3
 :SLUG:     turning-pages
 :END:
----
-title: Turning pages
-tags: journal
----
+#+filetags: :journal:
+#+title: Turning pages
 
 Listening to someone talk about "being in the present" the other day, I
 found myself thinking that this idea is very strange. We are always in

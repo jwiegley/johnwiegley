@@ -2,10 +2,8 @@
 :ID:       FE4108F6-C380-41C8-983F-450A430EFB40
 :SLUG:     unnecessary-necessity
 :END:
----
-title: Unnecessary necessity
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Unnecessary necessity
 
 #+BEGIN_VERSE
 To me Zen is freedom

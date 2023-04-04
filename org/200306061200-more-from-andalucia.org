@@ -2,10 +2,8 @@
 :ID:       426DA112-4BE0-49A0-BA7B-AF11F7DC6D7E
 :SLUG:     more-from-andalucia
 :END:
----
-title: More from Andalucia
-tags: journal
----
+#+filetags: :journal:
+#+title: More from Andalucia
 
 A favorite place after four is now the Plaça Industria, where a pair of
 white benches remain in the shade for six hours, and people can be seen

@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       9B8EDAEE-FAD8-4F16-9762-AAD7ECA2D6A5
 :SLUG:     sleeping-earth
+:LOCATION: 380 Esplanade Ave #211
 :END:
----
-title: Sleeping earth
-tags: poetry
-location: 380 Esplanade Ave #211
----
+#+filetags: :poetry:
+#+title: Sleeping earth
 
 #+BEGIN_VERSE
 Tonight, only peace.

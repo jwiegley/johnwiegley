@@ -2,10 +2,8 @@
 :ID:       8C87F149-2E5E-4CE1-9599-D617AA00933E
 :SLUG:     kingdom-of-names
 :END:
----
-title: Kingdom of Names
-tags: journal
----
+#+filetags: :journal:
+#+title: Kingdom of Names
 
 The first task of Adam, in the book of Genesis, was to name everything
 he saw in the world; to fit each thing into a unit; to create a new

@@ -2,10 +2,8 @@
 :ID:       CC8E5746-36CC-4404-9B4C-2C9916C40315
 :SLUG:     strike-while-the-iron-is-hot
 :END:
----
-title: Strike while the iron is hot
-tags: journal
----
+#+filetags: :journal:
+#+title: Strike while the iron is hot
 
 There's a saying, "Strike while the iron is hot!" When forging iron or
 steel, it is very hard and resists change until a certain temperature,

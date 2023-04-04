@@ -2,10 +2,8 @@
 :ID:       0406CDF4-2B05-481E-879C-8FBF7FA2BDF6
 :SLUG:     second-skin
 :END:
----
-title: Second skin
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Second skin
 
 #+BEGIN_VERSE
 Even as mystery is an air

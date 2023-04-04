@@ -2,10 +2,8 @@
 :ID:       90E87AFE-161A-46D5-98F3-EF5244CCC75B
 :SLUG:     shout-out-to-the-old-school
 :END:
----
-title: Shout out to the old school
-tags: journal
----
+#+filetags: :journal:
+#+title: Shout out to the old school
 
 Back when the Apple IIe was /the/ machine for home computing, and every
 geek knew his 65C02 opcodes like the back of his hand, I used to

@@ -2,10 +2,8 @@
 :ID:       2FB02346-92F3-4364-A088-14DE39E0EBE4
 :SLUG:     apologies-to-god
 :END:
----
-title: Apologies to God
-tags: journal
----
+#+filetags: :journal:
+#+title: Apologies to God
 
 Dear God,
 

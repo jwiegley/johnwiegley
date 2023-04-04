@@ -2,10 +2,8 @@
 :ID:       3FAF4A41-FE9F-4362-BA01-8EC56CF613F1
 :SLUG:     free-will
 :END:
----
-title: Free will
-tags: journal
----
+#+filetags: :journal:
+#+title: Free will
 
 The idea of free will was first put forth in the West by Epicurus,
 around 300 BC. He believed we had freedom because of the "clinamen": an

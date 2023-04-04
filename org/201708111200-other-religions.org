@@ -2,10 +2,8 @@
 :ID:       A7B247DA-4C42-4DDE-B976-10664FCF9861
 :SLUG:     other-religions
 :END:
----
-title: Other religions
-tags: journal
----
+#+filetags: :journal:
+#+title: Other religions
 
 There are two fundamental ways of viewing religion: From the perspective
 of the Divine Unity, and the perspective of this world of distinction.

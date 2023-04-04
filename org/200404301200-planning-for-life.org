@@ -2,10 +2,8 @@
 :ID:       F4A9F9EA-B300-4373-B4FE-91F524D17B13
 :SLUG:     planning-for-life
 :END:
----
-title: Planning for life
-tags: journal
----
+#+filetags: :journal:
+#+title: Planning for life
 
 Of what does a life consist? Written in hopes of finding a better way to
 plan my activities:

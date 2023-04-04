@@ -2,10 +2,8 @@
 :ID:       C1A06C09-FDFE-492D-9DD8-A45996B10CE1
 :SLUG:     ode-to-a-salmon
 :END:
----
-title: Ode to a salmon
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Ode to a salmon
 
 #+BEGIN_VERSE
 Flesh: pink, cold, oily:

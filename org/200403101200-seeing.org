@@ -2,10 +2,8 @@
 :ID:       361E5D4D-57BA-4C44-9C65-11BEC58B8B80
 :SLUG:     seeing
 :END:
----
-title: Seeing
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Seeing
 
 #+BEGIN_VERSE
 This morning I awoke,

@@ -2,10 +2,8 @@
 :ID:       F344E2D9-7553-4976-8AF9-97800FFCBC5C
 :SLUG:     a-precious-bestowal
 :END:
----
-title: A precious bestowal
-tags: essays
----
+#+filetags: :essays:
+#+title: A precious bestowal
 
 "All that is in heaven and earth I have ordained for thee, except the
 human heart..."

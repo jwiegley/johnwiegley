@@ -2,10 +2,8 @@
 :ID:       83022FAC-1B49-40D1-8A9C-C8ACD451E5B3
 :SLUG:     the-traveler
 :END:
----
-title: The Traveler
-tags: stories
----
+#+filetags: :stories:
+#+title: The Traveler
 
 A harsh light from the noon-day sun washed over a little grove of pine
 trees. The air was exceptionally clean, and the trees reached up into

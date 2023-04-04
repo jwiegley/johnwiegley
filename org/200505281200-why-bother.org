@@ -2,10 +2,8 @@
 :ID:       99CE95D3-B83A-48B5-AE16-520866200868
 :SLUG:     why-bother
 :END:
----
-title: Why bother?
-tags: journal
----
+#+filetags: :journal:
+#+title: Why bother?
 
 When one climbs a mountaintop to watch the sunset, what is the object?
 And if another doesn't bother, and stays at the bottom of the hill, what

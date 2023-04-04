@@ -2,10 +2,8 @@
 :ID:       26C6F08B-BB20-4961-9945-55F07F36EE47
 :SLUG:     a-dream
 :END:
----
-title: A dream
-tags: journal
----
+#+filetags: :journal:
+#+title: A dream
 
 The following dream occurred Saturday morning, April 23rd. It has an
 added significance for me because these are the days (Apr 21 -- May 2)

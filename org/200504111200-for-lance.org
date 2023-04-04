@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       72BC069F-1371-4A41-B439-1D00482E4501
 :SLUG:     for-lance
+:LOCATION: Manijeh's house, Gilbert, Arizona
 :END:
----
-title: For Lance
-tags: poetry
-location: Manijeh's house, Gilbert, Arizona
----
+#+filetags: :poetry:
+#+title: For Lance
 
 #+BEGIN_VERSE
 Sunlight

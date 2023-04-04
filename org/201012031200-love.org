@@ -2,10 +2,8 @@
 :ID:       2708279D-B49D-4E0F-B3A9-06F283FCCC9A
 :SLUG:     love
 :END:
----
-title: Love
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Love
 
 #+BEGIN_VERSE
 When you love,

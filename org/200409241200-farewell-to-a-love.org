@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       8CB0317C-917A-4DA4-9E8F-C610D3A371CF
 :SLUG:     farewell-to-a-love
+:LOCATION: 380 Esplanade #211
 :END:
----
-title: Farewell to a love
-tags: poetry
-location: 380 Esplanade #211
----
+#+filetags: :poetry:
+#+title: Farewell to a love
 
 #+BEGIN_VERSE
 You were my earth,

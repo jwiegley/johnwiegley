@@ -2,10 +2,8 @@
 :ID:       33B22DB7-B764-4264-AA60-20AE15EF96DE
 :SLUG:     becoming-nothing
 :END:
----
-title: Becoming nothing
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Becoming nothing
 
 #+BEGIN_VERSE
 The longing of a lover's eyes,

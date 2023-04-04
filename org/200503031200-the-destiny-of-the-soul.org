@@ -2,10 +2,8 @@
 :ID:       99883E03-C753-4DBC-83BF-BBE3AD7384D7
 :SLUG:     the-destiny-of-the-soul
 :END:
----
-title: The destiny of the soul
-tags: essays
----
+#+filetags: :essays:
+#+title: The destiny of the soul
 
 * The soul's origin
 :PROPERTIES:

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       F22730BF-6D55-4D45-9033-CA02EB42AA01
 :SLUG:     the-spirit-of-fire
+:LOCATION: Spain
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: The Spirit of Fire
-tags: poetry
-edited: 03/22/2004
-location: Spain
----
+#+filetags: :poetry:
+#+title: The Spirit of Fire
 
 #+BEGIN_VERSE
 Can we say that fire has a spirit?

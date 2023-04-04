@@ -2,10 +2,8 @@
 :ID:       7DD7433B-F495-4FFC-A3ED-0FBE16A51D6B
 :SLUG:     love-change-community
 :END:
----
-title: Love, change, community
-tags: journal
----
+#+filetags: :journal:
+#+title: Love, change, community
 
 Even though things are not as they could be, things at the present are
 as they should or must be. It doesn't mean they will stay that way

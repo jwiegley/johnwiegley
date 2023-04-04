@@ -2,10 +2,8 @@
 :ID:       21746661-1E05-4256-BBA9-9D3F18512444
 :SLUG:     turn-thereunto
 :END:
----
-title: Turn thereunto
-tags: journal
----
+#+filetags: :journal:
+#+title: Turn thereunto
 
 Today's entry is about a word that appears in the Bahá'í Writings:
 /tawajjuh/, or "attention".

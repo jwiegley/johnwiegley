@@ -2,10 +2,8 @@
 :ID:       8FF991C7-FE0B-4890-A724-86C4F4430193
 :SLUG:     lazy-day
 :END:
----
-title: Lazy day
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Lazy day
 
 #+BEGIN_VERSE
 The cloud, the blue, the sun;

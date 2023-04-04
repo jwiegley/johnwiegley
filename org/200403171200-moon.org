@@ -2,10 +2,8 @@
 :ID:       545E648B-7480-4516-B02D-BAAC5C155775
 :SLUG:     moon
 :END:
----
-title: Moon
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Moon
 
 #+BEGIN_VERSE
 The moon lives up there,

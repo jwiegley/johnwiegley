@@ -2,10 +2,8 @@
 :ID:       7130E849-AD5A-4199-93C3-8C1C84040223
 :SLUG:     making-mistakes
 :END:
----
-title: Making mistakes
-tags: journal
----
+#+filetags: :journal:
+#+title: Making mistakes
 
 As I live, I continue to make mistakes, too often to count. But what is
 a mistake? If something that detracts from a desired state or outcome,

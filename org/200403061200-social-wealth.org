@@ -2,10 +2,8 @@
 :ID:       90840A28-1F23-4683-9188-1FE852DC4A9C
 :SLUG:     social-wealth
 :END:
----
-title: Social wealth
-tags: essays
----
+#+filetags: :essays:
+#+title: Social wealth
 
 It seems to me that most people in a position of wealth do not know what
 to do with that wealth. I include myself among this number, and realize

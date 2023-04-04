@@ -2,10 +2,8 @@
 :ID:       04E3F469-3E4D-41B6-A375-A0006DB842CC
 :SLUG:     the-stages-of-chess-mastery
 :END:
----
-title: The stages of chess mastery
-tags: journal
----
+#+filetags: :journal:
+#+title: The stages of chess mastery
 
 * The reactionary player
 :PROPERTIES:

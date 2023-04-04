@@ -2,10 +2,8 @@
 :ID:       3AE447C1-FABD-4E26-AC6B-EE7629F9F224
 :SLUG:     a-plain-of-gold
 :END:
----
-title: A plain of gold
-tags: journal
----
+#+filetags: :journal:
+#+title: A plain of gold
 
 The reality is that I'm standing on a plain of gold, with a golden
 shovel, looking out through eyes and mind of gold. Dig anywhere, and I

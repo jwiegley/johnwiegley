@@ -2,10 +2,8 @@
 :ID:       AD039298-CBD6-4178-A449-CFB08E959D4C
 :SLUG:     signs-of-spirituality
 :END:
----
-title: Signs of a spiritual person
-tags: essays
----
+#+filetags: :essays:
+#+title: Signs of a spiritual person
 
 Look at how they treat others. Do they complain about life, or
 appreciate what they have? Do they have time for you when you need it?

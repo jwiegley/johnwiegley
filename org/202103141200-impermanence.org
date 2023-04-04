@@ -2,10 +2,8 @@
 :ID:       F5728FAF-EDE2-4376-9BE1-20EF21FB214B
 :SLUG:     impermanence
 :END:
----
-title: Impermanence
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Impermanence
 
 #+BEGIN_VERSE
 All my life I've built

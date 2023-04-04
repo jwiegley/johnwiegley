@@ -2,10 +2,8 @@
 :ID:       7FA396C2-A2F4-4360-81BB-91A18206D513
 :SLUG:     as-a-glass
 :END:
----
-title: As a glass
-tags: poetry
----
+#+filetags: :poetry:
+#+title: As a glass
 
 #+BEGIN_VERSE
 When before I'd wandered

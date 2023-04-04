@@ -2,10 +2,8 @@
 :ID:       E22786CC-1B7F-4104-9551-74009FA56CC8
 :SLUG:     a-short-story-and-another-essay
 :END:
----
-title: A short story and another essay
-tags: journal
----
+#+filetags: :journal:
+#+title: A short story and another essay
 
 Another essay, refining some of the thoughts from yesterday's second.
 

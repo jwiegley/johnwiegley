@@ -2,10 +2,8 @@
 :ID:       731EBC68-048C-4362-B73A-ED3732CC225F
 :SLUG:     virtue-renewed
 :END:
----
-title: Virtue renewed
-tags: journal
----
+#+filetags: :journal:
+#+title: Virtue renewed
 
 Like many things, I think the attitudes of past religions toward certain
 subjects, such as prayer, fasting and chastity, have given us a

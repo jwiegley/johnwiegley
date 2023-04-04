@@ -2,10 +2,8 @@
 :ID:       97A22DD7-FB4C-4511-BF7D-27B01A41410F
 :SLUG:     city-of-light
 :END:
----
-title: A city of light
-tags: poetry
----
+#+filetags: :poetry:
+#+title: A city of light
 
 #+BEGIN_VERSE
 I have seen a city

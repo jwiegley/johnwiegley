@@ -2,10 +2,8 @@
 :ID:       EE86700E-F233-44F2-A4EF-B889F3CD57CC
 :SLUG:     religion
 :END:
----
-title: Religion
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Religion
 
 #+BEGIN_VERSE
 Religion

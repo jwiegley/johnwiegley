@@ -2,10 +2,8 @@
 :ID:       0C0B4C7F-0BBE-4A69-9D2A-4CDE62ABD113
 :SLUG:     kitten-strikes-again
 :END:
----
-title: Kitten strikes again
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Kitten strikes again
 
 #+BEGIN_VERSE
 When the water clears

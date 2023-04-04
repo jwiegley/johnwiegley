@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       E798ED56-9A89-4461-AEFA-02A3B0F9A7CE
 :SLUG:     normal
+:LOCATION: 380 Esplanade
 :END:
----
-title: Normal
-tags: poetry
-location: 380 Esplanade
----
+#+filetags: :poetry:
+#+title: Normal
 
 #+BEGIN_VERSE
 In the town of Normal

@@ -2,10 +2,8 @@
 :ID:       40BFFA0B-5C64-47B3-A2E9-5FDE134760AC
 :SLUG:     movie-what-the-do-we-know
 :END:
----
-title: "Movie: *What the #$?! do we (k)now?*"
-tags: journal
----
+#+filetags: :journal:
+#+title: "Movie: *What the #$?! do we (k)now?*"
 
 This movie was playing in an arts theater in Tempe, Arizona. A girl in a
 specialty shop told me it was about quantum physics; and since the

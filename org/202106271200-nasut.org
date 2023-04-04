@@ -2,10 +2,8 @@
 :ID:       A5C311C4-956B-40F7-A03A-EB42AF54DAC8
 :SLUG:     nasut
 :END:
----
-title: Násút
-tags: journal
----
+#+filetags: :journal:
+#+title: Násút
 
 I would also propose a non-literal reading of Násút as it refers to the
 human condition. In those moments when we truly abandon self, when a

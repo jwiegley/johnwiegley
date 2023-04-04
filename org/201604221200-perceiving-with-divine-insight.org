@@ -2,10 +2,8 @@
 :ID:       FEF7256D-994C-4B44-B809-738E8C135099
 :SLUG:     perceiving-with-divine-insight
 :END:
----
-title: Perceiving with divine insight
-tags: journal
----
+#+filetags: :journal:
+#+title: Perceiving with divine insight
 
 [WARNING] Note with key '3' defined at line 105 column 1 but not used.
 In the Seven Valleys, each Valley depicts a different world-view.

@@ -2,10 +2,8 @@
 :ID:       6F07289C-8ABD-4C84-8062-5BF94067409C
 :SLUG:     shine
 :END:
----
-title: Shine
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Shine
 
 #+BEGIN_VERSE
 Be happy!

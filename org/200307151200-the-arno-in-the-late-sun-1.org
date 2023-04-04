@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       F33DE00F-86C9-40B2-B94C-5489021F28A9
 :SLUG:     the-arno-in-the-late-sun-1
+:LOCATION: Italy
+:EDITED:   [2004-04-10 Sat]
 :END:
----
-title: The Arno in the late sun
-tags: poetry
-edited: 04/10/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: The Arno in the late sun
 
 #+BEGIN_VERSE
 The Arno in the late sun:

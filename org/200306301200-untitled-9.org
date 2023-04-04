@@ -2,10 +2,8 @@
 :ID:       CCCC5964-A9E2-4FE5-B6A6-7402C0F3D4CC
 :SLUG:     untitled-9
 :END:
----
-title: Untitled 9
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 9
 
 I have now lost the assumption that people think of the obvious things.
 It is just that assumption which has slowed the rate of invention. How

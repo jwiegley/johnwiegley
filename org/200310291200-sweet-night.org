@@ -2,10 +2,8 @@
 :ID:       D1BB1ED1-DC32-43E0-8849-7D581ADE6E15
 :SLUG:     sweet-night
 :END:
----
-title: Sweet night
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Sweet night
 
 #+BEGIN_VERSE
 Alone, the night too black --

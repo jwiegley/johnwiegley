@@ -2,10 +2,8 @@
 :ID:       469995ED-E36B-4834-B0ED-19B85CF891F4
 :SLUG:     community-of-waves
 :END:
----
-title: A community of waves
-tags: essays
----
+#+filetags: :essays:
+#+title: A community of waves
 
 Throughout the world's mystical literature, Bahá'í and otherwise, there
 is a recurring theme of the soul's journey toward God from this plane of

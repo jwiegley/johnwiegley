@@ -2,10 +2,8 @@
 :ID:       26166D96-A7BB-461B-A5F9-54D06DFAF205
 :SLUG:     the-effect-of-religion
 :END:
----
-title: The effect of religion
-tags: journal
----
+#+filetags: :journal:
+#+title: The effect of religion
 
 I think the spiritual world is real, but it is like a seeing man looking
 for the sun in a cave. Until he leaves the cave, no report, however

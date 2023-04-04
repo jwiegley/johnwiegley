@@ -2,10 +2,8 @@
 :ID:       10B712AA-127B-4643-9209-BE7FE7DBD8C9
 :SLUG:     duty-and-purpose
 :END:
----
-title: Duty and purpose
-tags: journal
----
+#+filetags: :journal:
+#+title: Duty and purpose
 
 From early this morning, a simpler thought on duty and love that seems
 to demonstrate their interrelated importance: Duty is like purpose, and

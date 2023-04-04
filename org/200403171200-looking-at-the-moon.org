@@ -2,10 +2,8 @@
 :ID:       E3FAE813-7B8E-4C41-A657-EB7423760D14
 :SLUG:     looking-at-the-moon
 :END:
----
-title: Looking at the moon
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Looking at the moon
 
 #+BEGIN_VERSE
 I look at the moon:

@@ -2,10 +2,8 @@
 :ID:       E9B042E8-E3EF-4174-96CA-053A566BA49C
 :SLUG:     the-measure
 :END:
----
-title: The measure
-tags: journal
----
+#+filetags: :journal:
+#+title: The measure
 
 What if progress along the mystical path toward God is measured by our
 capacity to love our own creation? According to what I called "the

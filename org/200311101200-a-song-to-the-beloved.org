@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       D8F3F0C2-0C1E-48DC-B7F6-E422EAE40D93
 :SLUG:     a-song-to-the-beloved
+:LOCATION: 380 Esplanade Ave #211, Pacifica
+:EDITED:   [2004-11-22 Mon]
 :END:
----
-title: A Song to the Beloved
-tags: poetry
-edited: 11/22/2004
-location: 380 Esplanade Ave #211, Pacifica
----
+#+filetags: :poetry:
+#+title: A Song to the Beloved
 
 #+BEGIN_VERSE
 I seek someone, but who is she?

@@ -2,10 +2,8 @@
 :ID:       1BB4C628-FCB9-4950-B529-18C9A8FAFEC1
 :SLUG:     striving-for-sorrow
 :END:
----
-title: Striving for sorrow?
-tags: journal
----
+#+filetags: :journal:
+#+title: Striving for sorrow?
 
 I have been paying attention recently to people's "life ethic", or the
 central philosophy which organizes their thoughts and activities. In

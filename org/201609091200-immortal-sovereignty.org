@@ -2,10 +2,8 @@
 :ID:       EAAE856E-0773-4164-988D-4E3E0A560079
 :SLUG:     immortal-sovereignty
 :END:
----
-title: Immortal sovereignty
-tags: journal
----
+#+filetags: :journal:
+#+title: Immortal sovereignty
 
 What follows are some musings on the following Hidden Word:
 

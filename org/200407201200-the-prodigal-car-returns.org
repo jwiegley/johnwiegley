@@ -2,10 +2,8 @@
 :ID:       7ABF2606-2446-4C27-AEA4-3155097503E6
 :SLUG:     the-prodigal-car-returns
 :END:
----
-title: The prodigal car returns
-tags: journal
----
+#+filetags: :journal:
+#+title: The prodigal car returns
 
 After less than a day, thanks to the efforts of my local police, my car
 has been returned. It was found somewhere in the next city over (Daly

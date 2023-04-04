@@ -2,10 +2,8 @@
 :ID:       9E95EB28-5060-44FC-9965-10E25320AABB
 :SLUG:     pain
 :END:
----
-title: Pain
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Pain
 
 #+BEGIN_VERSE
 Man clutches at his heart with an empty fist --

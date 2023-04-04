@@ -2,10 +2,8 @@
 :ID:       ADD60951-8C04-4DD0-AE6A-EFE4B1348957
 :SLUG:     night-journey
 :END:
----
-title: Night journey
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Night journey
 
 #+BEGIN_VERSE
 Blue and black it all becomes

@@ -2,10 +2,8 @@
 :ID:       E61C088F-FAA6-47CE-A67F-220373F97C74
 :SLUG:     the-real-world
 :END:
----
-title: The real world
-tags: journal
----
+#+filetags: :journal:
+#+title: The real world
 
 I was asked recently what I thought about the nature of beauty and
 truth. Since these are typical questions for Philosophy, I wanted to

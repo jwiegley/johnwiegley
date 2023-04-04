@@ -2,10 +2,8 @@
 :ID:       76F0C917-325B-44E7-A87D-184F96829955
 :SLUG:     mind-and-the-individual
 :END:
----
-title: '"Mind" and the individual'
-tags: journal
----
+#+filetags: :journal:
+#+title: '"Mind" and the individual'
 
 People living in America seem to place too great an emphasis on the
 "mind" in the life of the individual. I have made this statement several

@@ -2,10 +2,8 @@
 :ID:       44F6137F-6159-4928-8BFD-51DCF69E31D5
 :SLUG:     short-man-and-long-man
 :END:
----
-title: Short man and long man
-tags: journal
----
+#+filetags: :journal:
+#+title: Short man and long man
 
 This theory has been part of my thinking since it first occurred to me
 several years ago. As I remember, it happened while I was still working

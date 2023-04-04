@@ -2,10 +2,8 @@
 :ID:       F4AF46CC-B3FA-4D8A-9099-9FBBBA20791F
 :SLUG:     the-teacher
 :END:
----
-title: The teacher
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The teacher
 
 #+BEGIN_VERSE
 The teacher must first

@@ -2,10 +2,8 @@
 :ID:       707CD46B-F66F-4A34-B143-4D5FCE056C6D
 :SLUG:     why-god-sends-prophets
 :END:
----
-title: Why does God send Prophets?
-tags: journal
----
+#+filetags: :journal:
+#+title: Why does God send Prophets?
 
 If God is All-Powerful, He doesn't need a Prophet to make Himself known
 to mankind. This implies that either He doesn't exist, or He doesn't

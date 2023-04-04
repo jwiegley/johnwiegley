@@ -2,10 +2,8 @@
 :ID:       F8C8EA9F-2EDE-480C-BC1B-2640A275BC06
 :SLUG:     property-and-prosperity
 :END:
----
-title: Property and prosperity
-tags: essays
----
+#+filetags: :essays:
+#+title: Property and prosperity
 
 If I walk into a computer store and pick up a laptop, without paying for
 it, someone will try to stop me before I leave. If I ignore them, they

@@ -2,10 +2,8 @@
 :ID:       8E7C2B8E-915D-4DE4-8BC9-C7995A8C73CB
 :SLUG:     the-movement-of-being
 :END:
----
-title: The movement of being
-tags: journal
----
+#+filetags: :journal:
+#+title: The movement of being
 
 A fellow wayfarer in the wilds of the mind wrote:
 

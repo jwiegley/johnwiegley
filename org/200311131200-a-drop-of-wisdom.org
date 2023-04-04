@@ -2,10 +2,8 @@
 :ID:       BBBB9EE7-0436-4AA2-ACD0-CFB62EB4AA6C
 :SLUG:     a-drop-of-wisdom
 :END:
----
-title: A drop of wisdom
-tags: poetry
----
+#+filetags: :poetry:
+#+title: A drop of wisdom
 
 #+BEGIN_VERSE
 Ask the lover for a drop of wisdom

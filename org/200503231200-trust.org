@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       16D1EBBB-FC5A-49EC-8C5F-F98D6C068F40
 :SLUG:     trust
+:LOCATION: between Tucson and Phoenix, at a rest stop
 :END:
----
-title: Trust
-tags: poetry
-location: between Tucson and Phoenix, at a rest stop
----
+#+filetags: :poetry:
+#+title: Trust
 
 #+BEGIN_VERSE
 Once, in another world,

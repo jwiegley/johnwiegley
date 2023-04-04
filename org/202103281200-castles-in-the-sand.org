@@ -2,10 +2,8 @@
 :ID:       5E5FF31F-D8D1-48FB-BCD5-F8D909F876DF
 :SLUG:     castles-in-the-sand
 :END:
----
-title: Castles in the sand
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Castles in the sand
 
 #+BEGIN_VERSE
 My thoughts are like castles made from sand,

@@ -2,10 +2,8 @@
 :ID:       0CFDC003-EB3E-4FB1-8D77-62DA620030F0
 :SLUG:     the-reflexive-principle
 :END:
----
-title: The reflexive principle
-tags: journal
----
+#+filetags: :journal:
+#+title: The reflexive principle
 
 An idea I've been working with in my spiritual pursuits lately is
 something I think of as "the reflexive principle". It's basically a

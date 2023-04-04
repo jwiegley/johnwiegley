@@ -2,10 +2,8 @@
 :ID:       54D232B2-040A-4DA6-B73D-5D06BDE4AD07
 :SLUG:     the-pauper-is-a-prince
 :END:
----
-title: The pauper is a prince
-tags: journal
----
+#+filetags: :journal:
+#+title: The pauper is a prince
 
 When I came out of the movie theater a couple of days ago, the sky was
 filled with lightning. I sat down to watch for a little while, and

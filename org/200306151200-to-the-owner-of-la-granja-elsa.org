@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       0B0EE388-E616-41D4-994F-B435A4F26E30
 :SLUG:     to-the-owner-of-la-granja-elsa
+:LOCATION: Sitges, Spain
+:EDITED:   [2004-03-07 Sun]
 :END:
----
-title: To the owner of La Granja Elsa
-tags: poetry
-edited: 03/07/2004
-location: Sitges, Spain
----
+#+filetags: :poetry:
+#+title: To the owner of La Granja Elsa
 
 #+BEGIN_VERSE
 La belleza ed la Granja Elsa

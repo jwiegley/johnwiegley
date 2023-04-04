@@ -2,10 +2,8 @@
 :ID:       F7042BB4-123A-4173-9D07-E3A7F94A4CDA
 :SLUG:     vision-and-the-architect
 :END:
----
-title: Vision and the architect (2 of 3)
-tags: journal
----
+#+filetags: :journal:
+#+title: Vision and the architect (2 of 3)
 
 What I'd like to examine next is how different types of people relate to
 the hidden concept of oakness, at varying levels of abstraction. There

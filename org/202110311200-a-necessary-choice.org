@@ -2,10 +2,8 @@
 :ID:       DE7F1467-48DD-4FC0-BACE-F6B1E22C32BC
 :SLUG:     a-necessary-choice
 :END:
----
-title: A necessary choice
-tags: journal
----
+#+filetags: :journal:
+#+title: A necessary choice
 
 Imagine, using the warden example, that we were given a choice of
 grilled cheese, chicken, or fish for dinner. Now, say God knows in

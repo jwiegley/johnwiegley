@@ -2,10 +2,8 @@
 :ID:       862B2C15-B8EF-466E-87E0-37B9558F86A1
 :SLUG:     moving-with-alacrity
 :END:
----
-title: Moving with alacrity
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Moving with alacrity
 
 #+BEGIN_VERSE
 We move forward with alacrity

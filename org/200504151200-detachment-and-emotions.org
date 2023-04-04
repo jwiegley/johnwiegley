@@ -2,10 +2,8 @@
 :ID:       EF56A947-EB68-40F9-96E4-AAF7190A3962
 :SLUG:     detachment-and-emotions
 :END:
----
-title: Detachment and emotions
-tags: journal
----
+#+filetags: :journal:
+#+title: Detachment and emotions
 
 If the world is like a mirror reflecting the attributes of God, we can
 say that the mirror shines because of the Sun within it, and not by its

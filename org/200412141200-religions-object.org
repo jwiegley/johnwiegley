@@ -2,10 +2,8 @@
 :ID:       6F962027-9512-4BF6-8A83-7EBAA86346A7
 :SLUG:     religions-object
 :END:
----
-title: Religion's object
-tags: journal
----
+#+filetags: :journal:
+#+title: Religion's object
 
 Looking at religion as a system of morals and teachings directed toward
 a goal, I find it has two general forms depending on the desired object.

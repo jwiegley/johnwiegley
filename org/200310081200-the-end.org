@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       77BD528B-19E7-45A2-9F6C-0FC8938794B1
 :SLUG:     the-end
+:LOCATION: Dad's house, 325 Morrow, upper room
+:EDITED:   [2003-10-22 Wed]
 :END:
----
-title: The End
-tags: poetry
-edited: 10/22/2003
-location: Dad's house, 325 Morrow, upper room
----
+#+filetags: :poetry:
+#+title: The End
 
 #+BEGIN_VERSE
 Happiness is the real real.

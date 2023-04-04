@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       BADD17DE-7E4D-4772-A31F-10AC8C852771
 :SLUG:     you
+:LOCATION: Tempe Bahá'í Center, Arizona
+:EDITED:   [2005-05-02 Mon]
 :END:
----
-title: You
-tags: poetry
-edited: 05/02/2005
-location: Tempe Bahá'í Center, Arizona
----
+#+filetags: :poetry:
+#+title: You
 
 #+BEGIN_VERSE
 Tenderly, with your arms around me

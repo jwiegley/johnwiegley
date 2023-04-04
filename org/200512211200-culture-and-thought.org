@@ -2,10 +2,8 @@
 :ID:       F5182B76-EE5E-4FB9-8EBD-8EE29BFA3269
 :SLUG:     culture-and-thought
 :END:
----
-title: Culture and thought
-tags: journal
----
+#+filetags: :journal:
+#+title: Culture and thought
 
 Lately I have been thinking a lot about culture and how our cultural
 upbringing dominates our interpretations of very basic things. Where

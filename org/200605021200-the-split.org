@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       13581FB9-96A2-4B68-B1CE-6F34D97D79EE
 :SLUG:     the-split
+:LOCATION: Colorado Springs, Colorado
 :END:
----
-title: The split
-tags: journal
-location: Colorado Springs, Colorado
----
+#+filetags: :journal:
+#+title: The split
 
 There is a phenomenon of consciousness which I've observed to be the
 cause of much heartache in the field of religious pursuit. It is

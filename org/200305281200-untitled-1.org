@@ -2,10 +2,8 @@
 :ID:       E4620B44-E74C-4BA8-8D91-9E471670F7F0
 :SLUG:     untitled-1
 :END:
----
-title: Untitled 1
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 1
 
 I have arrived in Barcelona! after a comfortable flight of fourteen
 hours that went by almost unnoticed. Between a movie and a book, it was

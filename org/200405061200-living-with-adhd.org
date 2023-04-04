@@ -2,10 +2,8 @@
 :ID:       BECF7518-13E3-4BA2-AE58-CEE17B512B98
 :SLUG:     living-with-adhd
 :END:
----
-title: Living with ADHD
-tags: essays
----
+#+filetags: :essays:
+#+title: Living with ADHD
 
 Since the age of four, it was noticed by doctors that I did not pay
 attention to things the same way as other children. When the

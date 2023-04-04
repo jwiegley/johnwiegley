@@ -2,10 +2,8 @@
 :ID:       D4B9FF59-5681-486E-B49E-949748BD91A5
 :SLUG:     city-lights
 :END:
----
-title: City lights
-tags: poetry
----
+#+filetags: :poetry:
+#+title: City lights
 
 #+BEGIN_VERSE
 The city is strung with lights,

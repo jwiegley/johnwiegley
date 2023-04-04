@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       0748E7E8-719C-44DD-99B8-8B8D803CC366
 :SLUG:     whom-we-seek
+:LOCATION: American Airlines flight 177 JFK-SFO
+:EDITED:   [2003-11-08 Sat]
 :END:
----
-title: Whom we seek
-tags: poetry
-edited: 11/08/2003
-location: American Airlines flight 177 JFK-SFO
----
+#+filetags: :poetry:
+#+title: Whom we seek
 
 #+BEGIN_VERSE
 There is a silence that waits for sound.

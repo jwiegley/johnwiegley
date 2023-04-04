@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       12657B6C-9B50-44F9-87C4-3C7DC75FD02C
 :SLUG:     the-moon
+:LOCATION: Phoenicia Cafe, 7th St, Tempe, Arizona
+:EDITED:   [2005-04-25 Mon]
 :END:
----
-title: The moon
-tags: poetry
-edited: 04/25/2005
-location: Phoenicia Cafe, 7th St, Tempe, Arizona
----
+#+filetags: :poetry:
+#+title: The moon
 
 #+BEGIN_VERSE
 How strange that

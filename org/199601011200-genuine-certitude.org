@@ -2,10 +2,8 @@
 :ID:       C5B92F4A-4D57-4F93-8BD7-17B12D4837E3
 :SLUG:     genuine-certitude
 :END:
----
-title: Genuine certitude
-tags: journal
----
+#+filetags: :journal:
+#+title: Genuine certitude
 
 I think real certitude is the product of assiduously striving to gain a
 deeper understanding of life, and a faith in God thereby. And as we

@@ -2,10 +2,8 @@
 :ID:       F6BD7125-5C6B-4754-BE1E-8B011E4D83FA
 :SLUG:     gods-intent-in-creating-us
 :END:
----
-title: God's intent in creating us
-tags: essays
----
+#+filetags: :essays:
+#+title: God's intent in creating us
 
 Someone on soc.religion.bahai wrote: "It doesn't make sense to me that
 he had an 'urge' like a biological clock, that would require need on

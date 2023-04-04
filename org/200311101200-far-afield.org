@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       BDDDD756-9668-46E6-ACD4-F0EFBC05DFAA
 :SLUG:     far-afield
+:LOCATION: 380 Esplanade Ave #211, Pacifica
+:EDITED:   [2004-09-13 Mon]
 :END:
----
-title: Far afield
-tags: poetry
-edited: 09/13/2004
-location: 380 Esplanade Ave #211, Pacifica
----
+#+filetags: :poetry:
+#+title: Far afield
 
 #+BEGIN_VERSE
 The more foolish I know myself to be

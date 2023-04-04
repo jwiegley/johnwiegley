@@ -2,10 +2,8 @@
 :ID:       32AA8DD9-8F82-4182-BE10-3A6DEDFA284C
 :SLUG:     human-reality
 :END:
----
-title: Human reality
-tags: journal
----
+#+filetags: :journal:
+#+title: Human reality
 
 If human reality is a mirror, then it only shines because of the sun
 appearing within it. A painting's beauty is only revealed because of

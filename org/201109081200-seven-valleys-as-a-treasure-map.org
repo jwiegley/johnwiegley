@@ -2,10 +2,8 @@
 :ID:       279211B3-5D84-4599-8A48-064C942F1F72
 :SLUG:     seven-valleys-as-a-treasure-map
 :END:
----
-title: Seven Valleys as a treasure map
-tags: journal
----
+#+filetags: :journal:
+#+title: Seven Valleys as a treasure map
 
 When I was a kid, I remember being strangely fascinated with the idea of
 treasure. I used to spend hours outside my home in Virginia, walking up

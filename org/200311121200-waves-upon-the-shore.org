@@ -2,10 +2,8 @@
 :ID:       D14C8427-DA4C-4A2E-882A-9250CD7ECEB4
 :SLUG:     waves-upon-the-shore
 :END:
----
-title: Waves upon the shore
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Waves upon the shore
 
 #+BEGIN_VERSE
 Into the receding dark, we each must slip away.

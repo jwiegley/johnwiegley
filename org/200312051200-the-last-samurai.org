@@ -2,10 +2,8 @@
 :ID:       7A0DEB8F-BD65-4762-A7B3-2C664A2FF864
 :SLUG:     the-last-samurai
 :END:
----
-title: "The Last Samurai"
-tags: journal
----
+#+filetags: :journal:
+#+title: "The Last Samurai"
 
 Saw the movie "The Last Samurai" tonight. It transported me. The way it
 depicted a land of soulful beauty, and people devoted to honoring that

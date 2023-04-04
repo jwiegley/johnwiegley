@@ -2,10 +2,8 @@
 :ID:       31F05143-BD22-48ED-960A-7FA9E6FCE916
 :SLUG:     true-recognition
 :END:
----
-title: True recognition
-tags: journal
----
+#+filetags: :journal:
+#+title: True recognition
 
 There are two different kinds of recognition: surface recognition, or
 acknowledgement; and true recognition, where one understands the

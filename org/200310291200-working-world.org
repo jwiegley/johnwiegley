@@ -2,10 +2,8 @@
 :ID:       6E4F9DC7-ABB7-4F26-80F6-11774A86EBF8
 :SLUG:     working-world
 :END:
----
-title: Working world
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Working world
 
 #+BEGIN_VERSE
 Liberate me from the woe,

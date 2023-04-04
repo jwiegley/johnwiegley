@@ -2,10 +2,8 @@
 :ID:       1B658E0E-532B-4D20-BB7D-63C1F4CECCE6
 :SLUG:     a-journey-of-recognition
 :END:
----
-title: A journey of recognition
-tags: journal
----
+#+filetags: :journal:
+#+title: A journey of recognition
 
 An infant learns pretty soon to recognize her mother, and who she is;
 but only after that woman has grown, and has had children of her own and

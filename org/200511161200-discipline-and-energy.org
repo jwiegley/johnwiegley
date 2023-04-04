@@ -2,10 +2,8 @@
 :ID:       7DFE00ED-04A1-431D-A365-A2CF66B12F53
 :SLUG:     discipline-and-energy
 :END:
----
-title: Discipline and energy
-tags: journal
----
+#+filetags: :journal:
+#+title: Discipline and energy
 
 A while ago, when talking about the [[file:j2005#thedarkside][light and
 dark sides]] I think we all have, I was saying that while the light has

@@ -2,10 +2,8 @@
 :ID:       72F7F379-C5F2-4869-82AC-D8A64C51082C
 :SLUG:     stepping-beyond
 :END:
----
-title: Stepping beyond
-tags: journal
----
+#+filetags: :journal:
+#+title: Stepping beyond
 
 Having described the veil, and the merits of the veil, I was struck by a
 thought of how to beyond it. It is not a passing of the body, however,

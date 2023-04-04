@@ -2,10 +2,8 @@
 :ID:       C2BFFD9C-826D-42DD-9111-F82E408D8EFE
 :SLUG:     a-letter-of-love
 :END:
----
-title: A letter of love
-tags: journal
----
+#+filetags: :journal:
+#+title: A letter of love
 
 This love letter is a composite of several letters written over a long
 period of time. There is really no reason to post it here other than to

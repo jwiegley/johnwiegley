@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       C53CA706-F4C5-4179-8A0B-476864D57E09
 :SLUG:     to-nasim
+:LOCATION: Biltmore Fashion Park, Phoenix, Arizona
+:EDITED:   [2005-08-28 Sun]
 :END:
----
-title: To Nasim
-tags: poetry
-edited: 08/28/2005
-location: Biltmore Fashion Park, Phoenix, Arizona
----
+#+filetags: :poetry:
+#+title: To Nasim
 
 #+BEGIN_VERSE
 O Nasim!

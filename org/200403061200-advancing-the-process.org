@@ -2,10 +2,8 @@
 :ID:       A231FECD-69D4-4FDD-BD33-F7752612B417
 :SLUG:     advancing-the-process
 :END:
----
-title: Advancing the process
-tags: essays
----
+#+filetags: :essays:
+#+title: Advancing the process
 
 The following analogy looks at the relationship between effort and
 progress, and how sometimes we chastise ourselves for the wrong thing.

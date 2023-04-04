@@ -2,10 +2,8 @@
 :ID:       15B16198-BEF5-4C31-A49B-06FA58314C71
 :SLUG:     meeting-the-ocean
 :END:
----
-title: Meeting the ocean
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Meeting the ocean
 
 #+BEGIN_VERSE
 A shadow cannot meet the Sun.

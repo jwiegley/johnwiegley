@@ -2,10 +2,8 @@
 :ID:       BA09B09E-7C6C-41B1-8808-B3121AFAB95B
 :SLUG:     untitled-6
 :END:
----
-title: Untitled 6
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 6
 
 As to why the right-wing likes Rand, I think it is due to a
 misapprehension of her words. Rand never clarifies the distinction

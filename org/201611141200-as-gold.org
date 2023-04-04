@@ -2,10 +2,8 @@
 :ID:       B9EF61CB-4E19-4F4C-92FC-255A2FC0C87A
 :SLUG:     as-gold
 :END:
----
-title: As gold
-tags: poetry
----
+#+filetags: :poetry:
+#+title: As gold
 
 #+BEGIN_VERSE
 As gold is loved for its twinkle in another's eye,

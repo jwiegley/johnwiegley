@@ -2,10 +2,8 @@
 :ID:       E232C5C7-9898-435B-A9A9-559AF3E356DA
 :SLUG:     obsession-with-the-alien
 :END:
----
-title: Obsession with the alien
-tags: journal
----
+#+filetags: :journal:
+#+title: Obsession with the alien
 
 People's obsession with alien abduction may boil down to a feeling that
 something superior is among us, secretly, acting toward an unknown end.

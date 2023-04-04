@@ -2,10 +2,8 @@
 :ID:       10A5E10E-8BB1-44F8-9CCD-52801EAA623C
 :SLUG:     faith-and-reality
 :END:
----
-title: Faith and reality
-tags: journal
----
+#+filetags: :journal:
+#+title: Faith and reality
 
 I have come to believe that faith has the power to create new realities.
 This theme recurred to me after watching the film "Artificial

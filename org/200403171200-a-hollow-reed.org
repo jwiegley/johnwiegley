@@ -2,10 +2,8 @@
 :ID:       B4011BCA-2AF2-4BBD-8183-1B042756B9B8
 :SLUG:     a-hollow-reed
 :END:
----
-title: A hollow reed
-tags: poetry
----
+#+filetags: :poetry:
+#+title: A hollow reed
 
 #+BEGIN_VERSE
 I am like a reed of flesh,

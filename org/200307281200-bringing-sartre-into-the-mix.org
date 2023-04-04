@@ -2,10 +2,8 @@
 :ID:       2EC0B589-4510-45A4-805A-F7142D8617AA
 :SLUG:     bringing-sartre-into-the-mix
 :END:
----
-title: Bringing Sartre into the mix
-tags: journal
----
+#+filetags: :journal:
+#+title: Bringing Sartre into the mix
 
 In my last message I left out one of my favorites, Jean Paul Sartre. He
 does fit into all of this, rather beautifully in fact. One of the things

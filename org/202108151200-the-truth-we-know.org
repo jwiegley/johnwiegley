@@ -2,10 +2,8 @@
 :ID:       A408E690-4078-4994-B5D1-8753D539B1A5
 :SLUG:     the-truth-we-know
 :END:
----
-title: The truth we know
-tags: journal
----
+#+filetags: :journal:
+#+title: The truth we know
 
 The truth we know is a concept, a proof that something is well-defined
 based on what we're willing to accept.

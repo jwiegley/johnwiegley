@@ -2,10 +2,8 @@
 :ID:       BAF522A1-6832-48F9-A3B4-27E41E59A82B
 :SLUG:     path-of-knowledge
 :END:
----
-title: The path of knowledge
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The path of knowledge
 
 #+BEGIN_VERSE
 First, He beckons you, to see if you will come;

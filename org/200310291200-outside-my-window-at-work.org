@@ -2,10 +2,8 @@
 :ID:       E952B8C0-89A3-457C-B0DE-8CE0E777DEDD
 :SLUG:     outside-my-window-at-work
 :END:
----
-title: Outside my window at work
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Outside my window at work
 
 #+BEGIN_VERSE
 I was awed by life.

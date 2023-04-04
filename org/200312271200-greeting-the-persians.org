@@ -2,10 +2,8 @@
 :ID:       C10BBD15-9F06-4708-B784-0976D2290368
 :SLUG:     greeting-the-persians
 :END:
----
-title: Greeting the Persians
-tags: journal
----
+#+filetags: :journal:
+#+title: Greeting the Persians
 
 Yesterday and today were spent serving at the Grand Canyon Bahá'í
 Conference in Phoenix, Arizona. I was security there, which at these

@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       4B71A984-4E96-48A6-8480-9548564C3D2D
 :SLUG:     a-subtle-virtue
+:LOCATION: 239 Misty Creek Drive, Monument, Colorado
 :END:
----
-title: A subtle virtue
-tags: journal
-location: 239 Misty Creek Drive, Monument, Colorado
----
+#+filetags: :journal:
+#+title: A subtle virtue
 
 The idea of detachment has puzzled me for a long time, mainly because
 its basic tenant -- as pursued by many of the people I know -- seems to

@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       F1B6B60A-06D8-4EC0-809E-B06DB9F678D4
 :SLUG:     the-master
+:LOCATION: Chocolate Iguana, Tucson, Arizona
 :END:
----
-title: The Master
-tags: poetry
-location: Chocolate Iguana, Tucson, Arizona
----
+#+filetags: :poetry:
+#+title: The Master
 
 #+BEGIN_VERSE
 When the Master appears

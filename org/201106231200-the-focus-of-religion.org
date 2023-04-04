@@ -2,10 +2,8 @@
 :ID:       22A46789-6322-4D4D-B67E-940EABBF54FD
 :SLUG:     the-focus-of-religion
 :END:
----
-title: The focus of religion
-tags: journal
----
+#+filetags: :journal:
+#+title: The focus of religion
 
 It's starting to seem to me that religion has a very clear focus:
 

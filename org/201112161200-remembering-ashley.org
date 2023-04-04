@@ -2,10 +2,8 @@
 :ID:       F524DB3D-34FA-4C8B-B966-3440240C47DE
 :SLUG:     remembering-ashley
 :END:
----
-title: Remembering Ashley
-tags: journal
----
+#+filetags: :journal:
+#+title: Remembering Ashley
 
 I first met Ashley Alvis, I don't know how -- in that way things happen
 which are meant to happen. We spoke briefly over a few e-mails, and I

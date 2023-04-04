@@ -2,10 +2,8 @@
 :ID:       F2CA93ED-CDF2-427E-9A5F-273905D69E46
 :SLUG:     the-absolute-additive
 :END:
----
-title: The absolute additive
-tags: journal
----
+#+filetags: :journal:
+#+title: The absolute additive
 
 Peter Lee sent in a comment and question regarding the last few blog
 entries, which I found so well expressed I asked for his permission to

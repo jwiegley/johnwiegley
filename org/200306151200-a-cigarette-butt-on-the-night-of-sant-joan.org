@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       7A5F591A-872A-4477-A763-EACABAC0C38C
 :SLUG:     a-cigarette-butt-on-the-night-of-sant-joan
+:LOCATION: Spain
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: A Cigarette Butt (on the night of Sant Joan)
-tags: poetry
-edited: 03/22/2004
-location: Spain
----
+#+filetags: :poetry:
+#+title: A Cigarette Butt (on the night of Sant Joan)
 
 #+BEGIN_VERSE
 He lays fallen upon the ground,

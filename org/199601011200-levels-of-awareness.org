@@ -2,10 +2,8 @@
 :ID:       0C42CBDC-9AEB-4AEF-B97B-F1108D477A8F
 :SLUG:     levels-of-awareness
 :END:
----
-title: Levels of awareness
-tags: journal
----
+#+filetags: :journal:
+#+title: Levels of awareness
 
 It seems strange, but there appear to be at least two levels of
 awareness going on inside me. Remember how I had said I did not know

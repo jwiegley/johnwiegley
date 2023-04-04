@@ -2,10 +2,8 @@
 :ID:       5790D173-A0BB-44DF-8EDA-273E5CAD9A7B
 :SLUG:     no-greater-barrier
 :END:
----
-title: No greater barrier
-tags: poetry
----
+#+filetags: :poetry:
+#+title: No greater barrier
 
 #+BEGIN_VERSE
 There is no greater barrier in our journey

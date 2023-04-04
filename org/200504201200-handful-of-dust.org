@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       CF8F1755-F944-4670-963C-2059828BCF59
 :SLUG:     handful-of-dust
+:LOCATION: California Pizza Kitchen, Biltmore Fashion Park, Phx, AZ
+:EDITED:   [2005-04-28 Thu]
 :END:
----
-title: Handful of dust
-tags: poetry
-edited: 04/28/2005
-location: California Pizza Kitchen, Biltmore Fashion Park, Phx, AZ
----
+#+filetags: :poetry:
+#+title: Handful of dust
 
 #+BEGIN_VERSE
 I know God is the Creator of all

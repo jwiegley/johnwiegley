@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       A9D833C2-1DF4-40ED-9B23-67FE7D2193D4
 :SLUG:     haiku
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: Haiku
-tags: poetry
-edited: 03/22/2004
----
+#+filetags: :poetry:
+#+title: Haiku
 
 #+BEGIN_VERSE
 Quietly before the rains,

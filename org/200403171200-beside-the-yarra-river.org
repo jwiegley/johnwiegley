@@ -2,10 +2,8 @@
 :ID:       A76CFC11-9C3D-4001-875C-8CC8A5E52B58
 :SLUG:     beside-the-yarra-river
 :END:
----
-title: Beside the Yarra river
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Beside the Yarra river
 
 #+BEGIN_VERSE
 On the grass

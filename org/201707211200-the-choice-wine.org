@@ -2,10 +2,8 @@
 :ID:       F8D91AFA-C01C-4580-94BF-435D6C59F826
 :SLUG:     the-choice-wine
 :END:
----
-title: The choice wine, sealed with musk
-tags: journal
----
+#+filetags: :journal:
+#+title: The choice wine, sealed with musk
 
 Some thoughts on the "wine sealed by musk", mentioned in the
 Kitáb-i-Íqán:

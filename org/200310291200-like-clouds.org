@@ -2,10 +2,8 @@
 :ID:       4BF3735D-84AE-49F1-9B87-E597CBD5BE9F
 :SLUG:     like-clouds
 :END:
----
-title: Like clouds
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Like clouds
 
 #+BEGIN_VERSE
 Ideas should be like clouds:

@@ -2,10 +2,8 @@
 :ID:       199BB601-1321-4B8B-90D3-8B168791E82D
 :SLUG:     favorite-movies-and-songs
 :END:
----
-title: Favorite movies and songs
-tags: journal
----
+#+filetags: :journal:
+#+title: Favorite movies and songs
 
 Wrote up a [[file:GoodMovies][list of my favorite movies]]. If you have
 recommendations for ones I may have missed, please send me an e-mail

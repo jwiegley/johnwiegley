@@ -2,10 +2,8 @@
 :ID:       765EB957-D006-4179-B4BA-3A41C721FECB
 :SLUG:     the-wave-is-powerless
 :END:
----
-title: The wave is powerless
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The wave is powerless
 
 #+BEGIN_VERSE
 The wave is powerless

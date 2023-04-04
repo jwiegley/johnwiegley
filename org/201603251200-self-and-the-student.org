@@ -2,10 +2,8 @@
 :ID:       6DF6A248-8F6A-4840-B01C-5590178C15AD
 :SLUG:     self-and-the-student
 :END:
----
-title: Self and the student
-tags: journal
----
+#+filetags: :journal:
+#+title: Self and the student
 
 I've mentioned before that perhaps spirituality consists of the degree
 to which one has truly recognized the Manifestation of God, and devoted

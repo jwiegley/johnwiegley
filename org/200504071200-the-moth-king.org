@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       1AF18583-9B1A-46D2-8801-D5FCE8541ED3
 :SLUG:     the-moth-king
+:LOCATION: Chocolate Iguana, Tucson, Arizona
 :END:
----
-title: The Moth King
-tags: poetry
-location: Chocolate Iguana, Tucson, Arizona
----
+#+filetags: :poetry:
+#+title: The Moth King
 
 #+BEGIN_VERSE
 Behold!

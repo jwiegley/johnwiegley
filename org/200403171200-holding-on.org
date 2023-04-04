@@ -2,10 +2,8 @@
 :ID:       666E1A01-3628-4970-8479-961E43F6B7A5
 :SLUG:     holding-on
 :END:
----
-title: Holding on
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Holding on
 
 #+BEGIN_VERSE
 Sadness sits down with me for tea,

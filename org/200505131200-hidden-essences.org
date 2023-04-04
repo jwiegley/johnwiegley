@@ -2,10 +2,8 @@
 :ID:       0616FCAF-F1DC-402D-81D3-9652808CACC5
 :SLUG:     hidden-essences
 :END:
----
-title: Hidden essences
-tags: journal
----
+#+filetags: :journal:
+#+title: Hidden essences
 
 No one has known my soul; not even I. Like a Platonic Form, it shies
 from the realm of being. It has never appeared in a mortal shape -- this

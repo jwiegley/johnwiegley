@@ -2,10 +2,8 @@
 :ID:       D4240ED1-11DA-4683-A166-AD363879FAA3
 :SLUG:     solstice
 :END:
----
-title: Solstice
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Solstice
 
 #+BEGIN_VERSE
 The warm summer nights have now betrayed me,

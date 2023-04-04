@@ -2,10 +2,8 @@
 :ID:       61EFA66A-669E-43A2-B66A-11640762CAED
 :SLUG:     state-of-prayer
 :END:
----
-title: A state of prayer
-tags: journal
----
+#+filetags: :journal:
+#+title: A state of prayer
 
 To live in a state of prayer entails not only uttering sacred verses in
 moments of devotion; it suggests, too, that throughout the day we should

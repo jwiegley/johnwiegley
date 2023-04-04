@@ -2,10 +2,8 @@
 :ID:       AAD3A098-26A8-4142-8FC1-39B6499A3D96
 :SLUG:     patience-and-impatience
 :END:
----
-title: Patience and impatience
-tags: journal
----
+#+filetags: :journal:
+#+title: Patience and impatience
 
 One analogy that makes the concept of both requiring and abandoning
 patience in the mystic path make sense is human love. When a young man

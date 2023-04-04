@@ -2,10 +2,8 @@
 :ID:       69176EA1-A716-4E3E-8CE9-48BB379E6500
 :SLUG:     artistic-endeavor
 :END:
----
-title: Artistic endeavor
-tags: journal
----
+#+filetags: :journal:
+#+title: Artistic endeavor
 
 In pursuit of artistic endeavor, the goal is to capture from an event
 the essential element which makes it real for the viewer. Only this

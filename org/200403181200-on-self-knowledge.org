@@ -2,10 +2,8 @@
 :ID:       28C302FE-4002-4D28-9D86-63F85BC80459
 :SLUG:     on-self-knowledge
 :END:
----
-title: On self-knowledge
-tags: journal
----
+#+filetags: :journal:
+#+title: On self-knowledge
 
 What can we truly know about ourselves? Whatever I call myself depends
 entirely on who's around me. Thus, I only seem anxious when others are

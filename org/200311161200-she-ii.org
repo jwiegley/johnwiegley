@@ -2,10 +2,8 @@
 :ID:       BF304285-6896-46EA-A864-3C357AE25EFD
 :SLUG:     she-ii
 :END:
----
-title: She II
-tags: poetry
----
+#+filetags: :poetry:
+#+title: She II
 
 #+BEGIN_VERSE
 I reach my hand to touch her hair,

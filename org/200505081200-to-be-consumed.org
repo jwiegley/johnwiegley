@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       0A2BD539-CA12-4A04-96BE-C1D04B5909C9
 :SLUG:     to-be-consumed
+:LOCATION: 7373 N. 71st Place, Paradise Valley, Arizona
+:EDITED:   [2005-05-12 Thu]
 :END:
----
-title: To be consumed
-tags: poetry
-edited: 05/12/2005
-location: 7373 N. 71st Place, Paradise Valley, Arizona
----
+#+filetags: :poetry:
+#+title: To be consumed
 
 #+BEGIN_VERSE
 Whom do I write to now?

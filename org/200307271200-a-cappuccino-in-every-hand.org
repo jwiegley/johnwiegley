@@ -2,10 +2,8 @@
 :ID:       0BAA976F-C79B-4392-A282-CD2387EDA95E
 :SLUG:     a-cappuccino-in-every-hand
 :END:
----
-title: A cappuccino in every hand
-tags: journal
----
+#+filetags: :journal:
+#+title: A cappuccino in every hand
 
 This trip, spending time alone in new places, has proven its value ten
 times over. If you are thinking of something similar, let nothing stop

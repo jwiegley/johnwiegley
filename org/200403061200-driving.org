@@ -2,10 +2,8 @@
 :ID:       D6D63166-AF8C-4A0C-A51C-2256454AA386
 :SLUG:     driving
 :END:
----
-title: Driving
-tags: stories
----
+#+filetags: :stories:
+#+title: Driving
 
 As Michael left the meeting there was fury streaming from his eyes. The
 fools! What business did they have, making decisions at all! They should

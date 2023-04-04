@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       05F72033-4179-4098-967E-233AD93EEF75
 :SLUG:     spirituality-1
+:LOCATION: Spain
+:EDITED:   [2004-09-13 Mon]
 :END:
----
-title: Spirituality
-tags: poetry
-edited: 09/13/2004
-location: Spain
----
+#+filetags: :poetry:
+#+title: Spirituality
 
 #+BEGIN_VERSE
 I believe now that

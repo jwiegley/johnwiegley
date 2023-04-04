@@ -2,10 +2,8 @@
 :ID:       A9AA062A-8998-4EF9-B137-63575F02B69E
 :SLUG:     hexadecimal-alphabet-for-code
 :END:
----
-title: Hexadecimal alphabet for code
-tags: journal
----
+#+filetags: :journal:
+#+title: Hexadecimal alphabet for code
 
 A set of digits that can represent hexdecimal, in a manner without
 ambiguity whether spoken or handwritten: =0-9 F L N R Y W=.

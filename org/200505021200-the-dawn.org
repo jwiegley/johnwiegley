@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       1C2979E1-43CF-4E9D-A290-CACD78EB1C56
 :SLUG:     the-dawn
+:LOCATION: Biltmore Fashion Park, Phoenix, Arizona
 :END:
----
-title: The Dawn
-tags: poetry
-location: Biltmore Fashion Park, Phoenix, Arizona
----
+#+filetags: :poetry:
+#+title: The Dawn
 
 #+BEGIN_VERSE
 So many things to study, to know,

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       C2800882-05FA-4C44-9967-799F9F9FF781
 :SLUG:     a-cherished-sound
+:LOCATION: 380 Esplanade #211
+:EDITED:   [2004-08-20 Fri]
 :END:
----
-title: A cherished sound
-tags: poetry
-edited: 08/20/2004
-location: 380 Esplanade #211
----
+#+filetags: :poetry:
+#+title: A cherished sound
 
 #+BEGIN_VERSE
 The lilt of your gentle voice,

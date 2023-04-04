@@ -2,10 +2,8 @@
 :ID:       C4D73BEA-FC23-41EB-9387-E9572BA6FB93
 :SLUG:     the-life-we-live
 :END:
----
-title: The life we live
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The life we live
 
 #+BEGIN_VERSE
 The deepest part of my being

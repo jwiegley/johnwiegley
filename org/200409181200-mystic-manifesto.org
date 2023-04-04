@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       C9B5BC9D-31B9-41B5-B78C-19306CE8665A
 :SLUG:     mystic-manifesto
+:LOCATION: 380 Esplanade #211, Pacifica, CA
+:EDITED:   [2005-04-10 Sun]
 :END:
----
-title: Mystic Manifesto
-tags: poetry
-edited: 04/10/2005
-location: 380 Esplanade #211, Pacifica, CA
----
+#+filetags: :poetry:
+#+title: Mystic Manifesto
 
 #+BEGIN_VERSE
 It is said that I dream too much.

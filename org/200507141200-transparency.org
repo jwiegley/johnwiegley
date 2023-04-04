@@ -2,10 +2,8 @@
 :ID:       14DEC185-89C0-4F4E-B13D-715CFFED3F8B
 :SLUG:     transparency
 :END:
----
-title: Transparency
-tags: journal
----
+#+filetags: :journal:
+#+title: Transparency
 
 Everything hidden requires a manifestation to first become known, just
 as the soul, without a body, would remain pure spirit and invisible. So

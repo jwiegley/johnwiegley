@@ -2,10 +2,8 @@
 :ID:       B69DE26F-935A-402B-840E-596950869F14
 :SLUG:     the-tao
 :END:
----
-title: The Tao
-tags: journal
----
+#+filetags: :journal:
+#+title: The Tao
 
 Love loves because it is love, this is the way of the Tao. Just as water
 flows, ice hardens, rocks abide. When life is like this, there is no

@@ -2,10 +2,8 @@
 :ID:       9C28AC01-386C-4CB1-8BAD-313F0509A2AC
 :SLUG:     emotional-memory
 :END:
----
-title: Emotional memory
-tags: journal
----
+#+filetags: :journal:
+#+title: Emotional memory
 
 What if memory is really an emotional process? For example, when I
 thought to recall the word "atavism", it didn't take very long for the

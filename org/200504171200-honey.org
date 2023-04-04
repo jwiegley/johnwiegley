@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       0C8FA9EE-467D-4569-A3FC-B3F317C708F1
 :SLUG:     honey
+:LOCATION: Horizon Park Center, Scottsdale, Arizona
+:EDITED:   [2005-04-25 Mon]
 :END:
----
-title: Honey
-tags: poetry
-edited: 04/25/2005
-location: Horizon Park Center, Scottsdale, Arizona
----
+#+filetags: :poetry:
+#+title: Honey
 
 #+BEGIN_VERSE
 Her voice has a sweetness

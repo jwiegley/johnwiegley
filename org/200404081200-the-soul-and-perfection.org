@@ -2,10 +2,8 @@
 :ID:       4BE2E6DD-DF5F-42AB-9838-065642501882
 :SLUG:     the-soul-and-perfection
 :END:
----
-title: The soul and perfection
-tags: journal
----
+#+filetags: :journal:
+#+title: The soul and perfection
 
 The soul can love only perfection. But first it must learn how to
 recognize perfection. When it begins seeing it in life, it falls in love

@@ -2,10 +2,8 @@
 :ID:       C3D99D97-D3D0-4F87-AF31-298D8F67D9B4
 :SLUG:     closer-than-our-life's-vein
 :END:
----
-title: Closer than our life's vein
-tags: journal
----
+#+filetags: :journal:
+#+title: Closer than our life's vein
 
 God is nearer to us than our life's vein, and we are always "but one
 step away from the glorious heights above, and the celestial Tree of

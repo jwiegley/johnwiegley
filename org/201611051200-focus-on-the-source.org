@@ -2,10 +2,8 @@
 :ID:       12A8F705-B4DC-4BE1-A007-177866B4867D
 :SLUG:     focus-on-the-source
 :END:
----
-title: Focus on the Source
-tags: journal
----
+#+filetags: :journal:
+#+title: Focus on the Source
 
 The mountain in front of you can be conquered step by step. Connect with
 Bahá'u'lláh, not the form and image of what Bahá'í looks like. Hold on

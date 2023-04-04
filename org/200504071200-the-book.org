@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       D0CF1C87-D856-4CD0-A624-A6FB00E84749
 :SLUG:     the-book
+:LOCATION: Sina's house, Tucson, Arizona,
+:EDITED:   [2005-04-19 Tue]
 :END:
----
-title: The book
-tags: poetry
-edited: 04/19/2005
-location: Sina's house, Tucson, Arizona,
----
+#+filetags: :poetry:
+#+title: The book
 
 #+BEGIN_VERSE
 I awoke to find myself holding a book.

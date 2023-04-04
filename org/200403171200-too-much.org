@@ -2,10 +2,8 @@
 :ID:       995B6432-CA63-4F72-B25F-7829596AC292
 :SLUG:     too-much
 :END:
----
-title: Too much
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Too much
 
 #+BEGIN_VERSE
 Someone has taken Dream

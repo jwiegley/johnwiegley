@@ -2,10 +2,8 @@
 :ID:       5404D835-D925-4091-B7EE-267A89E68B17
 :SLUG:     righteousness-deserves-no-focus
 :END:
----
-title: Righteousness deserves no focus
-tags: journal
----
+#+filetags: :journal:
+#+title: Righteousness deserves no focus
 
 This entry is dedicated to my friend Sina, considering how many times
 we've pondered this subject together.

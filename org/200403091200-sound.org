@@ -2,10 +2,8 @@
 :ID:       7BADF207-3DD2-4BD9-8F64-4C2EDECA887F
 :SLUG:     sound
 :END:
----
-title: Sound
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Sound
 
 #+BEGIN_VERSE
 The blue thumbprints of an artist's proof,

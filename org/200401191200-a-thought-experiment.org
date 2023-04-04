@@ -2,10 +2,8 @@
 :ID:       866EEC00-C3FF-42D6-8068-A9194B083B53
 :SLUG:     a-thought-experiment
 :END:
----
-title: A thought experiment
-tags: journal
----
+#+filetags: :journal:
+#+title: A thought experiment
 
 Since today we commemorate the life of Dr. Martin Luther King, Jr., here
 in the United States, I would like to share a thought experiment of mine

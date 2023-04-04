@@ -2,10 +2,8 @@
 :ID:       E85374E8-6814-4479-892C-FD2206BA4672
 :SLUG:     pictures-from-colorado
 :END:
----
-title: Pictures from Colorado
-tags: journal
----
+#+filetags: :journal:
+#+title: Pictures from Colorado
 
 The other day I had a chance to go hiking with my father at the Seven
 Falls park in Colorado Springs. There are several photographs from the

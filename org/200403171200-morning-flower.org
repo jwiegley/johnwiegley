@@ -2,10 +2,8 @@
 :ID:       B406D00B-EF2A-4BCE-BDAF-58E6D2444DA4
 :SLUG:     morning-flower
 :END:
----
-title: Morning flower
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Morning flower
 
 #+BEGIN_VERSE
 At dawn she reclined in thought,

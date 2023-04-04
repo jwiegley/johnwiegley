@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       4E803946-703A-423E-BD09-CE78D03E54D6
 :SLUG:     beloved-of-him
+:LOCATION: 239 Misty Creek Dr, Monument, CO
 :END:
----
-title: Beloved of Him
-tags: journal
-location: 239 Misty Creek Dr, Monument, CO
----
+#+filetags: :journal:
+#+title: Beloved of Him
 
 It strikes me that the private destiny of each individual is something
 other than achieving the perfections he imagines for himself.

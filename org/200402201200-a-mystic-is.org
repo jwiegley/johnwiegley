@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       CE5ACE83-641A-45A7-AB52-C76A79420DD6
 :SLUG:     a-mystic-is
+:LOCATION: 380 Esplanade Ave #211
+:EDITED:   [2004-03-16 Tue]
 :END:
----
-title: A Mystic is...
-tags: poetry
-edited: 03/16/2004
-location: 380 Esplanade Ave #211
----
+#+filetags: :poetry:
+#+title: A Mystic is...
 
 #+BEGIN_VERSE
 A mystic, perhaps, is no more than a linguist.

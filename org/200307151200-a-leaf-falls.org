@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       0FC3201C-56D5-4FBA-81C2-DBFB65CED872
 :SLUG:     a-leaf-falls
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: A leaf falls
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: A leaf falls
 
 #+BEGIN_VERSE
 A leaf falls into the river,

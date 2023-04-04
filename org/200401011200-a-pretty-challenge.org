@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       8380FF39-33BC-488C-9649-FB9D0DBEE739
 :SLUG:     a-pretty-challenge
+:EDITED:   [2005-03-27 Sun]
 :END:
----
-title: A pretty challenge
-tags: poetry
-edited: 03/27/2005
----
+#+filetags: :poetry:
+#+title: A pretty challenge
 
 #+BEGIN_VERSE
 Whenever I look at the girls of the world,

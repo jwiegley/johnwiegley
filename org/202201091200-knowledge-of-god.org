@@ -2,10 +2,8 @@
 :ID:       B90B4D40-4B38-49B1-8101-DC6ECDAE540A
 :SLUG:     knowledge-of-god
 :END:
----
-title: Knowledge of God
-tags: journal
----
+#+filetags: :journal:
+#+title: Knowledge of God
 
 On Reddit someone said recently:
 

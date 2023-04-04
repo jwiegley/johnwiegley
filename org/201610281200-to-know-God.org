@@ -2,10 +2,8 @@
 :ID:       A2D90B5D-EF63-4C84-912F-6CB206B0FB8E
 :SLUG:     to-know-God
 :END:
----
-title: To know God
-tags: journal
----
+#+filetags: :journal:
+#+title: To know God
 
 I believe that God created us out of love, since love is an attribute of
 His perfection. He created each thing, and a paradise for that thing, so

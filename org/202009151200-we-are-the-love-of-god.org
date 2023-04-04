@@ -2,10 +2,8 @@
 :ID:       9D803F70-EA3F-4296-B3C1-EE7B9A41A246
 :SLUG:     we-are-the-love-of-god
 :END:
----
-title: We are the love of God
-tags: poetry
----
+#+filetags: :poetry:
+#+title: We are the love of God
 
 #+BEGIN_VERSE
 No concept, idea or intimation of God

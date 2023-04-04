@@ -2,10 +2,8 @@
 :ID:       947472B1-2788-4270-B653-C334F8A72292
 :SLUG:     never-mind
 :END:
----
-title: Never mind
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Never mind
 
 #+BEGIN_VERSE
 Never mind that I just ignored you,

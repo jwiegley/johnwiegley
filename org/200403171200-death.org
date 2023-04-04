@@ -2,10 +2,8 @@
 :ID:       E60169FA-4DA2-44B7-B9BF-E09D150BA526
 :SLUG:     death
 :END:
----
-title: Death
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Death
 
 #+BEGIN_VERSE
 Within a dream I dreamt of another place

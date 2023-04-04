@@ -2,10 +2,8 @@
 :ID:       319A12F3-6D0F-46D9-AC45-8F6F5BBBFE50
 :SLUG:     ultimate-symbol-of-detachment
 :END:
----
-title: Ultimate symbol of detachment
-tags: journal
----
+#+filetags: :journal:
+#+title: Ultimate symbol of detachment
 
 That "la" in the phrase "La ilaha illa al-llah" is the ultimate symbol
 of detachment. Because in that "la", nothing else has significance in

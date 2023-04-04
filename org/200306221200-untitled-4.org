@@ -2,10 +2,8 @@
 :ID:       57A768CA-14C2-481A-A53A-815391D86DB6
 :SLUG:     untitled-4
 :END:
----
-title: Untitled 4
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 4
 
 Here's a Catalan breakfast for you to try:
 

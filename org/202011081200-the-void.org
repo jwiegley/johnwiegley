@@ -2,10 +2,8 @@
 :ID:       0CDEB70D-9BE7-422F-85A9-AA19A45FF8EC
 :SLUG:     the-void
 :END:
----
-title: The void
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The void
 
 #+BEGIN_VERSE
 The void

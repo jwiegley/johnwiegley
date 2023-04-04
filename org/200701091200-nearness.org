@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       66B5AEF7-C023-459B-AE43-676C05AED506
 :SLUG:     nearness
+:LOCATION: 239 Misty Creek Drive, Monument, Colorado, USA
 :END:
----
-title: Nearness
-tags: poetry
-location: 239 Misty Creek Drive, Monument, Colorado, USA
----
+#+filetags: :poetry:
+#+title: Nearness
 
 #+BEGIN_VERSE
 If a candle approach the Sun,

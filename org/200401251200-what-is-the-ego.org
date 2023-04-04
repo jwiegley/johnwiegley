@@ -2,10 +2,8 @@
 :ID:       31C5D07C-AC01-434A-A449-AF42AF410ADF
 :SLUG:     what-is-the-ego
 :END:
----
-title: What is the ego?
-tags: journal
----
+#+filetags: :journal:
+#+title: What is the ego?
 
 Shooting from the hip, but: Our ego is how define ourselves, which must
 always be separate from the underlying reality (since definitions, like

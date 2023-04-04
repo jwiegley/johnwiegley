@@ -2,10 +2,8 @@
 :ID:       921B9979-9277-4896-BBCD-08C4E7D28000
 :SLUG:     resistance-to-change
 :END:
----
-title: Resistance to change
-tags: journal
----
+#+filetags: :journal:
+#+title: Resistance to change
 
 The things we try to change in ourselves are resistant to that change,
 because we make the attempt. This very effort is where they derive their

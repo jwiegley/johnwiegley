@@ -2,10 +2,8 @@
 :ID:       AB6195D8-AB11-4112-B3A9-B5A72BC77319
 :SLUG:     a-mystical-commentary-on-quality
 :END:
----
-title: A mystical commentary on Quality
-tags: journal
----
+#+filetags: :journal:
+#+title: A mystical commentary on Quality
 
 The following uses the concept of Quality, as discussed in all the
 previous e-mails, to attempt a commentary on the last valley of /The

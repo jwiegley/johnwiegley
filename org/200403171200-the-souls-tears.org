@@ -2,10 +2,8 @@
 :ID:       3FFDD88D-6251-4B73-9C13-5EAD9A4F73EA
 :SLUG:     the-souls-tears
 :END:
----
-title: The soul's tears
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The soul's tears
 
 #+BEGIN_VERSE
 The eyes of the soul

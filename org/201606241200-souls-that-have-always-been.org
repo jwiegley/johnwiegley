@@ -2,10 +2,8 @@
 :ID:       03B3F8AA-C088-4B30-8EA2-8DC2DB10E3EF
 :SLUG:     souls-that-have-always-been
 :END:
----
-title: Souls that have always been
-tags: essays
----
+#+filetags: :essays:
+#+title: Souls that have always been
 
 I have always wondered about the meaning of this selection from "The
 Hidden Words":

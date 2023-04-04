@@ -2,10 +2,8 @@
 :ID:       D70C8F14-1E9D-469A-9CF8-50E4B1E8F450
 :SLUG:     untitled-19
 :END:
----
-title: Untitled 19
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 19
 
 To one of your ideas I have a response, and that is on the subject of
 "insecurity". You can probably gather from my past letters that I'd have

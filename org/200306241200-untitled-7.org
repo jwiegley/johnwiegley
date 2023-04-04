@@ -2,10 +2,8 @@
 :ID:       D38968B2-4EA1-4C3C-9D74-277686803676
 :SLUG:     untitled-7
 :END:
----
-title: Untitled 7
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 7
 
 If I love your potential, it is because I love our potential. As we are
 different, I expect that potential to manifest in different ways. Since

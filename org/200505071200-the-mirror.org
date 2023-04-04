@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       9E286922-95EA-4182-8F19-2612BC0D8181
 :SLUG:     the-mirror
+:LOCATION: Manijeh's house, Gilbert, Arizona
 :END:
----
-title: The mirror
-tags: poetry
-location: Manijeh's house, Gilbert, Arizona
----
+#+filetags: :poetry:
+#+title: The mirror
 
 #+BEGIN_VERSE
 A mirror is little more than

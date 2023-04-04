@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       DFF2245A-FDE7-4ADB-9AE5-54FD80A79E5B
 :SLUG:     summer-in-tempe
+:LOCATION: McClintock and Southern Ave, Tempe, Arizona
+:EDITED:   [2005-04-19 Tue]
 :END:
----
-title: Summer in Tempe
-tags: poetry
-edited: 04/19/2005
-location: McClintock and Southern Ave, Tempe, Arizona
----
+#+filetags: :poetry:
+#+title: Summer in Tempe
 
 #+BEGIN_VERSE
 What a fierce sun stares at me today.

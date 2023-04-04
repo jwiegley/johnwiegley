@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       4AA03634-B593-4DDF-A6A3-F922B35733D5
 :SLUG:     to-roger-and-dania
+:LOCATION: Basement of 325 Morrow Road
+:EDITED:   [2003-10-29 Wed]
 :END:
----
-title: To Roger and Dania
-tags: poetry
-edited: 10/29/2003
-location: Basement of 325 Morrow Road
----
+#+filetags: :poetry:
+#+title: To Roger and Dania
 
 #+BEGIN_VERSE
 Love is a land outside of place and time

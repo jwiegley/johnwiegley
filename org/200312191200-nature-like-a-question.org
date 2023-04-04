@@ -2,10 +2,8 @@
 :ID:       AD1A4646-596B-4BB7-99F9-1EBA3A080893
 :SLUG:     nature-like-a-question
 :END:
----
-title: Nature like a question
-tags: journal
----
+#+filetags: :journal:
+#+title: Nature like a question
 
 I will be away for a little while, off for the holidays to my mother's
 house near Irvine, to Phoenix for a Bahá'í conference and then to Tucson

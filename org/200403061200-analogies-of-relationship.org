@@ -2,10 +2,8 @@
 :ID:       7BAD8292-0B0D-4D6F-A7A9-5105002DBAAD
 :SLUG:     analogies-of-relationship
 :END:
----
-title: Analogies of relationship
-tags: essays
----
+#+filetags: :essays:
+#+title: Analogies of relationship
 
 There are many analogies which have been used to portray the soul's
 relationship to God. The following is a brief summary of some of them,

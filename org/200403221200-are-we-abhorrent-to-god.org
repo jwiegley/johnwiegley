@@ -2,10 +2,8 @@
 :ID:       B6C0E106-A280-4BE1-80E4-5B3C7EF557E0
 :SLUG:     are-we-abhorrent-to-god
 :END:
----
-title: Are we abhorrent to God?
-tags: essays
----
+#+filetags: :essays:
+#+title: Are we abhorrent to God?
 
 [WARNING] Note with key '1' defined at line 256 column 1 but not used.
 #+BEGIN_EXAMPLE

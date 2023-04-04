@@ -2,10 +2,8 @@
 :ID:       FF5AC4F3-2748-42D3-B733-D7CA29AE65BE
 :SLUG:     athirst-in-loves-desert
 :END:
----
-title: Athirst in Love's Desert
-tags: stories
----
+#+filetags: :stories:
+#+title: Athirst in Love's Desert
 
 The rocks crumbling underfoot went unnoticed next to the burning sun
 above. The air was dry, and quickly blew all moisture from Majnún's

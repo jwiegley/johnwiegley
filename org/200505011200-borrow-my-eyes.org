@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       8DCF86EB-312E-4984-AF8E-62A925DD8C10
 :SLUG:     borrow-my-eyes
+:LOCATION: Harkins Shae 14 (theater), Scottsdale, Arizona
+:EDITED:   [2005-05-05 Thu]
 :END:
----
-title: Borrow my eyes
-tags: poetry
-edited: 05/05/2005
-location: Harkins Shae 14 (theater), Scottsdale, Arizona
----
+#+filetags: :poetry:
+#+title: Borrow my eyes
 
 #+BEGIN_VERSE
 If you could see your own face

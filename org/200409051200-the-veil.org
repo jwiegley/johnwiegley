@@ -2,10 +2,8 @@
 :ID:       BE7490B5-7FF0-4799-BCEA-A0949E4759BA
 :SLUG:     the-veil
 :END:
----
-title: The veil
-tags: journal
----
+#+filetags: :journal:
+#+title: The veil
 
 Driving the road between Yosemite Park and San Francisco, my skin
 toasting in the sun and my heart communing with the spirit of Driving, a

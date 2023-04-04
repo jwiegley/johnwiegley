@@ -2,10 +2,8 @@
 :ID:       8435BCFC-D80E-4E5A-9C04-82F4CFC6D0B7
 :SLUG:     on-beauty
 :END:
----
-title: On beauty
-tags: journal
----
+#+filetags: :journal:
+#+title: On beauty
 
 In philosophy, it has always been the beauty of truth that attracted me.
 I recommend Plato's "Symposium" to anyone for a nice read on this.

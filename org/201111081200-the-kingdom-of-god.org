@@ -2,10 +2,8 @@
 :ID:       DEB12D63-9212-4124-820B-D9763375EA8B
 :SLUG:     the-kingdom-of-god
 :END:
----
-title: The Kingdom of God
-tags: journal
----
+#+filetags: :journal:
+#+title: The Kingdom of God
 
 One of the things religion aims to teach people is how to appreciate
 God's creation. In the Seven Valleys, Bahá'u'lláh says the purpose is

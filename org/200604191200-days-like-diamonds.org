@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       8C651405-25CA-47F8-9AAA-57BC7857A9A7
 :SLUG:     days-like-diamonds
+:LOCATION: 90 Watch Hill Drive Apt B, Colorado Springs, 80906
 :END:
----
-title: Days like diamonds
-tags: poetry
-location: 90 Watch Hill Drive Apt B, Colorado Springs, 80906
----
+#+filetags: :poetry:
+#+title: Days like diamonds
 
 #+BEGIN_VERSE
 To me,

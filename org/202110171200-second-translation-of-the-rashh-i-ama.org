@@ -2,10 +2,8 @@
 :ID:       838901A6-E43A-44AB-9DCE-7EB5FE77ECC4
 :SLUG:     second-translation-of-the-rashh-i-ama
 :END:
----
-title: Second translation of the Rashh-i-`Amá
-tags: journal
----
+#+filetags: :journal:
+#+title: Second translation of the Rashh-i-`Amá
 
 There is a particular music and rhythm, an entrancing feel of being
 carried along, swept up in a verbal embrace. It's a written form of the

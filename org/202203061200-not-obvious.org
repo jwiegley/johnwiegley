@@ -2,10 +2,8 @@
 :ID:       C9F833FF-774B-4405-801B-E59E6ED97FAC
 :SLUG:     not-obvious
 :END:
----
-title: Not obvious
-tags: journal
----
+#+filetags: :journal:
+#+title: Not obvious
 
 Many seem to think that belief in God should be based on His being
 obvious and easily proven to exist. Yet the nature of this life, with

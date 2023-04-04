@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       B9B36751-0035-4513-9704-1725372931F9
 :SLUG:     peace-and-satisfaction
+:LOCATION: 373 Bay Tower, Royal Koan Resort, Kailua-Kona, Big Island, Hawai'i
 :END:
----
-title: Peace and satisfaction
-tags: journal
-location: 373 Bay Tower, Royal Koan Resort, Kailua-Kona, Big Island, Hawai'i
----
+#+filetags: :journal:
+#+title: Peace and satisfaction
 
 A while back, I wrote about being content with the will of God under all
 circumstances -- a state of being referred to in Arabic as being

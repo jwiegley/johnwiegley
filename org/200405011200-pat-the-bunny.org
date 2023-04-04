@@ -2,10 +2,8 @@
 :ID:       A9D390C5-25E6-439F-B6DB-5CD81C1C385C
 :SLUG:     pat-the-bunny
 :END:
----
-title: Pat the Bunny
-tags: journal
----
+#+filetags: :journal:
+#+title: Pat the Bunny
 
 Today I took the plunge and bought a camera (digital) for the first time
 in my life. The only other time I was able to take pictures for myself

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       E181E568-1985-459F-B70D-CEB4B462C57E
 :SLUG:     to-a-beautiful-girl
+:LOCATION: 280 Esplanade Ave #211
+:EDITED:   [2003-11-08 Sat]
 :END:
----
-title: To a beautiful girl
-tags: poetry
-edited: 11/08/2003
-location: 280 Esplanade Ave #211
----
+#+filetags: :poetry:
+#+title: To a beautiful girl
 
 #+BEGIN_VERSE
 Your beauty is a thief

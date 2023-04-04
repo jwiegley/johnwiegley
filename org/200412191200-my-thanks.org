@@ -2,10 +2,8 @@
 :ID:       0C525E1C-D1F0-4E1F-849E-C30BE8D7F773
 :SLUG:     my-thanks
 :END:
----
-title: My thanks
-tags: journal
----
+#+filetags: :journal:
+#+title: My thanks
 
 What if I had never been born? What if I had never known what love felt
 like? To my Creator, I can only offers thanks from the bottom of my

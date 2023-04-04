@@ -2,10 +2,8 @@
 :ID:       BA29F737-5B59-4107-AA8F-84B2ACC221A0
 :SLUG:     flight-1
 :END:
----
-title: Flight
-tags: stories
----
+#+filetags: :stories:
+#+title: Flight
 
 The car pulled up alongside an empty field, empty but for summer grasses
 and glowing marigolds. A soft light seemed to pour from the Arcadian

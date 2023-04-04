@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       F9B9F124-D436-4D9B-8404-D76BADBE1397
 :SLUG:     reading-scripture
+:LOCATION: 239 Misty Creek Drive, Monument, Colorado
 :END:
----
-title: Reading scripture
-tags: poetry
-location: 239 Misty Creek Drive, Monument, Colorado
----
+#+filetags: :poetry:
+#+title: Reading scripture
 
 #+BEGIN_VERSE
 If a wise man speaks to a fool,

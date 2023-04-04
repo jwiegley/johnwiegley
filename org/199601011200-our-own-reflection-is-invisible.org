@@ -2,10 +2,8 @@
 :ID:       44C4EA2B-AC26-4D31-A45B-0D5237FCD406
 :SLUG:     our-own-reflection-is-invisible
 :END:
----
-title: Our own reflection is invisible
-tags: journal
----
+#+filetags: :journal:
+#+title: Our own reflection is invisible
 
 If I were placed in a room with no reflecting surfaces, it would be
 impossible for me, using only my eyes, to behold my own face. This would

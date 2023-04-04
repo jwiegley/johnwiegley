@@ -2,10 +2,8 @@
 :ID:       38DCB2B9-BDCB-4147-808A-92C3CC748168
 :SLUG:     reflections-on-the-fast
 :END:
----
-title: Reflections on the Fast
-tags: essays
----
+#+filetags: :essays:
+#+title: Reflections on the Fast
 
 *Provides* a striking contrast to our everyday life which allows us to
 observe our accustomed behaviors and discover in what ways we can

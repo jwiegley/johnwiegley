@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       0D90EAF5-81D8-46BF-8925-F172053C1060
 :SLUG:     the-mouse-before-christmas
+:LOCATION: Weseloh Honda, Mission Viejo, CA
+:EDITED:   [2005-04-15 Fri]
 :END:
----
-title: The Mouse Before Christmas
-tags: poetry
-edited: 04/15/2005
-location: Weseloh Honda, Mission Viejo, CA
----
+#+filetags: :poetry:
+#+title: The Mouse Before Christmas
 
 #+BEGIN_VERSE
 'Twas the season for sneezing

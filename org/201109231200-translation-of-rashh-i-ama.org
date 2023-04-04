@@ -2,10 +2,8 @@
 :ID:       00279B96-31C4-4BB7-9555-D1CF9A2F32F1
 :SLUG:     translation-of-rashh-i-ama
 :END:
----
-title: Translation of the Rashh-i-`Amá
-tags: journal
----
+#+filetags: :journal:
+#+title: Translation of the Rashh-i-`Amá
 
 I've found myself unable to comment on the meaning of Rashh-i-`Amá,
 although it seems to be a tremendous song of joy at the event of

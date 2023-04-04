@@ -2,10 +2,8 @@
 :ID:       ACC8494B-3F94-427A-A8D3-575726543174
 :SLUG:     little-heart
 :END:
----
-title: Little heart
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Little heart
 
 #+BEGIN_VERSE
 Little heart:

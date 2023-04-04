@@ -2,10 +2,8 @@
 :ID:       2E587D77-1D89-4297-952C-C8C718A67EFA
 :SLUG:     cold
 :END:
----
-title: Cold
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Cold
 
 #+BEGIN_VERSE
 Cold,

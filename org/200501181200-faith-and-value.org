@@ -2,10 +2,8 @@
 :ID:       004BD234-7800-4B30-AEA5-F85063860CD3
 :SLUG:     faith-and-value
 :END:
----
-title: Faith and value
-tags: journal
----
+#+filetags: :journal:
+#+title: Faith and value
 
 The perception of value determines behavior; the soul of virtue is bound
 up in how we feel about things. What is valued varies from person to

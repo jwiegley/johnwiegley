@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       9A3CAC7F-9628-416E-9CFD-5DA966489D9F
 :SLUG:     time
+:LOCATION: Siamak's house on Kershaw Road, Monument, Colorado
 :END:
----
-title: Time
-tags: poetry
+#+filetags: :poetry:
+#+title: Time
 note: Written in memory of Sirus Rouhani
-location: Siamak's house on Kershaw Road, Monument, Colorado
----
 
 #+BEGIN_VERSE
 What cup is there more bitter than Time?

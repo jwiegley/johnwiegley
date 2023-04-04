@@ -2,10 +2,8 @@
 :ID:       187C945C-FF03-401C-B653-3432056CA5BB
 :SLUG:     the-birth-of-the-twin-manifestations
 :END:
----
-title: The Birth of the Twin Manifestations
-tags: essays
----
+#+filetags: :essays:
+#+title: The Birth of the Twin Manifestations
 
 The Bahá'í Faith originated in Persian in the middle of the 19th
 century, at a time when the Industrial Revolution was just underway;

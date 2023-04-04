@@ -2,10 +2,8 @@
 :ID:       ECBFC924-41E2-47F8-B6FC-499B828C6A09
 :SLUG:     born-and-unborn
 :END:
----
-title: The Born and the Unborn
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The Born and the Unborn
 
 #+BEGIN_VERSE
 So many drops, cast on the spray

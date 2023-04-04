@@ -2,10 +2,8 @@
 :ID:       D79FA834-E7C5-4452-A4ED-1317A149CB05
 :SLUG:     being-too-hard
 :END:
----
-title: Being too hard on yourself
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Being too hard on yourself
 
 #+BEGIN_VERSE
 Being too hard on yourself

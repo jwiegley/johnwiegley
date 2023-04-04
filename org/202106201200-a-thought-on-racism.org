@@ -2,10 +2,8 @@
 :ID:       8F783CF1-7B43-496F-9508-7CCDA37ADDB4
 :SLUG:     a-thought-on-racism
 :END:
----
-title: A thought on racism
-tags: journal
----
+#+filetags: :journal:
+#+title: A thought on racism
 
 A thought I had this week: We have two deep problems regarding racism in
 this country: A policy problem, and a love problem. Anti-racism is an

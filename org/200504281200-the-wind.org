@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       1FEE0B75-3494-419C-A870-8156AB8FAECB
 :SLUG:     the-wind
+:LOCATION: 7373 N. 71st Place, PV, AZ
+:EDITED:   [2005-05-03 Tue]
 :END:
----
-title: The wind
-tags: poetry
-edited: 05/03/2005
-location: 7373 N. 71st Place, PV, AZ
----
+#+filetags: :poetry:
+#+title: The wind
 
 #+BEGIN_VERSE
 The wind whispers secrets

@@ -2,10 +2,8 @@
 :ID:       DDD81D9C-5ABE-48E7-A2D5-9BB079E2546C
 :SLUG:     definition
 :END:
----
-title: Definition
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Definition
 
 #+BEGIN_VERSE
 I saw a tree in a forest,

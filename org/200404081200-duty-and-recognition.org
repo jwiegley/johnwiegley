@@ -2,10 +2,8 @@
 :ID:       5DDF99D2-79BA-43D9-B85D-7A9361DA93A2
 :SLUG:     duty-and-recognition
 :END:
----
-title: Duty and recognition
-tags: essays
----
+#+filetags: :essays:
+#+title: Duty and recognition
 
 What does it means to have a duty to recognize God's Messenger?
 

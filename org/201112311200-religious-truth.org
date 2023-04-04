@@ -2,10 +2,8 @@
 :ID:       A72FB548-A920-40B7-813F-F02285E99D1D
 :SLUG:     religious-truth
 :END:
----
-title: Religious truth and the Covenant
-tags: journal
----
+#+filetags: :journal:
+#+title: Religious truth and the Covenant
 
 Religious truth can at times seem obscure and difficult to fathom:
 

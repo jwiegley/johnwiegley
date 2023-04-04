@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       B1CCA775-FB2A-427F-9DA9-D74E0B302934
 :SLUG:     the-zest-of-life
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: The zest of life
-tags: essays
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :essays:
+#+title: The zest of life
 
 #+BEGIN_EXAMPLE
 Pain is the zest of life

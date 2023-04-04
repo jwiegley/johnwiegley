@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       F83CCF9C-22FB-41CF-8086-F2A860A42232
 :SLUG:     seize-the-day
+:LOCATION: 7373 N. 71st Place, Paradise Valley, Arizona
 :END:
----
-title: Seize the day
-tags: poetry
-location: 7373 N. 71st Place, Paradise Valley, Arizona
----
+#+filetags: :poetry:
+#+title: Seize the day
 
 #+BEGIN_VERSE
 Does the wind also

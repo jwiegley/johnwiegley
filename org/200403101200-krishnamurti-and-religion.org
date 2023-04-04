@@ -2,10 +2,8 @@
 :ID:       BB0AE3FF-67A4-4AA1-80B6-17EAEF511E9C
 :SLUG:     krishnamurti-and-religion
 :END:
----
-title: Krishnamurti and "religion"
-tags: essays
----
+#+filetags: :essays:
+#+title: Krishnamurti and "religion"
 
 Concerning the philosophy of Krishnamurti, reviewed from one Bahá'í's
 point of view: Any "path" must be a conceived thing, because it directs

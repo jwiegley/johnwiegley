@@ -2,10 +2,8 @@
 :ID:       028FB9D4-1F7A-4F9F-8971-44952911614F
 :SLUG:     an-essay-to-tie-the-pieces
 :END:
----
-title: An essay to tie the pieces
-tags: journal
----
+#+filetags: :journal:
+#+title: An essay to tie the pieces
 
 Thank you to all for your letters back. I will right to you more
 individually later. Right now I have to release the bucking monster of

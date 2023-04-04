@@ -2,10 +2,8 @@
 :ID:       061C2F2D-DE3C-4D6B-A019-77DCA206EAEC
 :SLUG:     have-faith
 :END:
----
-title: Have faith
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Have faith
 
 #+BEGIN_VERSE
 Great is the mountain,

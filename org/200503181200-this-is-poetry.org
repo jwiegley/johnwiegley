@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       A9841399-5DF6-419C-B737-E194EEB28F0F
 :SLUG:     this-is-poetry
+:LOCATION: 7373 N. 71st Street, Paradise Valley, Arizona
+:EDITED:   [2005-04-21 Thu]
 :END:
----
-title: This is poetry
-tags: poetry
-edited: 04/21/2005
-location: 7373 N. 71st Street, Paradise Valley, Arizona
----
+#+filetags: :poetry:
+#+title: This is poetry
 
 #+BEGIN_VERSE
 Sometimes, only poems will do.

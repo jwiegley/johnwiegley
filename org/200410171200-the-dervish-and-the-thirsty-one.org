@@ -2,10 +2,8 @@
 :ID:       A406421E-143A-48B5-AE50-6851B1155481
 :SLUG:     the-dervish-and-the-thirsty-one
 :END:
----
-title: The dervish and the thirsty one
-tags: journal
----
+#+filetags: :journal:
+#+title: The dervish and the thirsty one
 
 Once a poor man, burning with thirst, approached a merchant. He implored
 him for a cup of water, and the merchant gave him a drink from his

@@ -2,10 +2,8 @@
 :ID:       DBBB5716-4533-4F5F-BA1C-52D94DB2FF59
 :SLUG:     butterflies
 :END:
----
-title: Butterflies
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Butterflies
 
 #+BEGIN_VERSE
 Why they make a nest of my stomach, I'll never know.

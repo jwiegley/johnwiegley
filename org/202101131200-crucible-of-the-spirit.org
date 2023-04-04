@@ -2,10 +2,8 @@
 :ID:       2883E76B-31D3-4585-A891-9C47196F9B1A
 :SLUG:     crucible-of-the-spirit
 :END:
----
-title: Crucible of the spirit
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Crucible of the spirit
 
 #+BEGIN_VERSE
 If life is a crucible

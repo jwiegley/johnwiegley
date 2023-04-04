@@ -2,10 +2,8 @@
 :ID:       EE0A6B95-3B03-41DB-A02D-C4C862F047EF
 :SLUG:     unwritable
 :END:
----
-title: Unwritable
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Unwritable
 
 #+BEGIN_VERSE
 A pen-painted picture

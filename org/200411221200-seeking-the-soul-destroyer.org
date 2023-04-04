@@ -2,10 +2,8 @@
 :ID:       485803E8-AD3E-47CC-B33A-4322CDD7C145
 :SLUG:     seeking-the-soul-destroyer
 :END:
----
-title: Seeking the soul-destroyer
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Seeking the soul-destroyer
 
 #+BEGIN_VERSE
 I am seeking the soul-destroyer!

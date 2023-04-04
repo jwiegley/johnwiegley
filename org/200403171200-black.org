@@ -2,10 +2,8 @@
 :ID:       A284A015-BFE7-43BE-8A6A-42EEB864C189
 :SLUG:     black
 :END:
----
-title: Black
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Black
 
 #+BEGIN_VERSE
 Empty days, spotted nights of

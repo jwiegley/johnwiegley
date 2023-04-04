@@ -2,10 +2,8 @@
 :ID:       557ABB15-3FC9-4B7B-B6C5-055CAEF826DB
 :SLUG:     began-weblog
 :END:
----
-title: Began weblog
-tags: journal
----
+#+filetags: :journal:
+#+title: Began weblog
 
 Began a weblog today for the purpose of publishing poems and essays as
 they are written. The rest of the pages are still being converted, so

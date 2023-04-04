@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       D4169421-3136-4E4F-A75D-E0AF166A5109
 :SLUG:     the-long-journey
+:LOCATION: Nasim's house in Monument, CO
 :END:
----
-title: The long journey
-tags: poetry
-location: Nasim's house in Monument, CO
----
+#+filetags: :poetry:
+#+title: The long journey
 
 #+BEGIN_VERSE
 I have spoken to a few of the wise ones

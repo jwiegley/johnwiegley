@@ -2,10 +2,8 @@
 :ID:       17DD2352-76A8-4C8D-A338-BC4F7A187F6D
 :SLUG:     good-bye-to-all-until-we-meet-again
 :END:
----
-title: Good bye to all, until we meet again
-tags: journal
----
+#+filetags: :journal:
+#+title: Good bye to all, until we meet again
 
 Now this really is good-bye, because the week is ending, the shops are
 closing for their vacation (August is the off-season), everyone is going

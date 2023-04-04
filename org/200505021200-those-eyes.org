@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       323A78B7-2E24-43CB-9D7D-A57373AD985E
 :SLUG:     those-eyes
+:LOCATION: Biltmore Fashion Park, Phoenix, Arizona
+:EDITED:   [2005-05-07 Sat]
 :END:
----
-title: Those eyes
-tags: poetry
-edited: 05/07/2005
-location: Biltmore Fashion Park, Phoenix, Arizona
----
+#+filetags: :poetry:
+#+title: Those eyes
 
 #+BEGIN_VERSE
 Young Leyla,

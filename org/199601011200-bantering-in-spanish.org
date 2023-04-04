@@ -2,10 +2,8 @@
 :ID:       37D610D3-CD36-41C1-B42C-B67BD5F58087
 :SLUG:     bantering-in-spanish
 :END:
----
-title: Bantering in Spanish
-tags: journal
----
+#+filetags: :journal:
+#+title: Bantering in Spanish
 
 At Conchita's Ice Cream this afternoon, while eating a double-scoop of
 Cinnamon Chocolate and Coffee Almond Fudge, I met two very pleasant

@@ -2,10 +2,8 @@
 :ID:       E3D57FC5-79D7-4F7E-A9F6-47AF9402B694
 :SLUG:     becoming
 :END:
----
-title: Becoming
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Becoming
 
 #+BEGIN_VERSE
 I kneel, bowing to the dust.

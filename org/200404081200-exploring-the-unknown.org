@@ -2,10 +2,8 @@
 :ID:       3B32D2AB-41C6-40E3-99C5-D94936DFE4AA
 :SLUG:     exploring-the-unknown
 :END:
----
-title: Exploring the unknown
-tags: essays
----
+#+filetags: :essays:
+#+title: Exploring the unknown
 
 Every set of laws describes a system. The extent of each system -- all
 the possible expressions within the scope of its laws -- is its domain.

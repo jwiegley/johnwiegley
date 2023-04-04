@@ -2,10 +2,8 @@
 :ID:       6FFDA4A0-F981-4C38-B5FE-0CE2DEC6AB7E
 :SLUG:     compass-of-the-mind
 :END:
----
-title: The reach of mind
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The reach of mind
 
 #+BEGIN_VERSE
 The mind is a capable container

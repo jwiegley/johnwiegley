@@ -2,10 +2,8 @@
 :ID:       B136436B-00BF-4AD7-ACF4-BDDDB6E964E3
 :SLUG:     mmmmm-tortellini
 :END:
----
-title: Mmmmm... Tortellini
-tags: journal
----
+#+filetags: :journal:
+#+title: Mmmmm... Tortellini
 
 Greetings again from the Florentine hills! Each day, from my hotel room
 south of the city, with its beautiful bathroom in blue tile overlooking

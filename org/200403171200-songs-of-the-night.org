@@ -2,10 +2,8 @@
 :ID:       1325BB01-2F51-4C0E-A7A7-32B831AA164A
 :SLUG:     songs-of-the-night
 :END:
----
-title: Songs of the night
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Songs of the night
 
 "So dry, so dry, | are the lips of the world. | | The longing for a kiss
 overwhelms us, | prompting us to seek lovers | in green paper, or

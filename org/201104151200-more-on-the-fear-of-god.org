@@ -2,10 +2,8 @@
 :ID:       831E7D35-F65E-45D6-9AD9-B6919699A4CE
 :SLUG:     more-on-the-fear-of-god
 :END:
----
-title: More on the Fear of God
-tags: journal
----
+#+filetags: :journal:
+#+title: More on the Fear of God
 
 I'm not sure if you've ever done any sailing, or forging of metal, or
 shooting at the range, but when you engage in an activity that has an

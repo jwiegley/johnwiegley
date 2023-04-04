@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       8E81A4FD-C791-420A-BA16-ECE5BE88BAFF
 :SLUG:     praise
+:LOCATION: 7373 N. 71st Place, PV, AZ
+:EDITED:   [2005-04-25 Mon]
 :END:
----
-title: Praise
-tags: poetry
-edited: 04/25/2005
-location: 7373 N. 71st Place, PV, AZ
----
+#+filetags: :poetry:
+#+title: Praise
 
 #+BEGIN_VERSE
 What expressions of love

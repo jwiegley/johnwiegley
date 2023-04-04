@@ -2,10 +2,8 @@
 :ID:       DC458DDA-B407-4330-A9C2-2B9D91232C2A
 :SLUG:     the-three-stations
 :END:
----
-title: The three stations
-tags: journal
----
+#+filetags: :journal:
+#+title: The three stations
 
 In these Seven Valleys Bahá'u'lláh describes the Valleys and Cities in
 reference to three spiritual stations: the station of limitation

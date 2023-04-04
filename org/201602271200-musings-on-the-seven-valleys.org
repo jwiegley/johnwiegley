@@ -2,10 +2,8 @@
 :ID:       98059C31-A0DC-47D3-B1C5-50D11B8BEC5B
 :SLUG:     musings-on-the-seven-valleys
 :END:
----
-title: Musings on the Seven Valleys
-tags: essays
----
+#+filetags: :essays:
+#+title: Musings on the Seven Valleys
 
 Within the Seven Valleys, Bahá'u'lláh distinguishes three particular
 stations, or maqámát: The station of limitation (tahdíd), comprising the

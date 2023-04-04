@@ -2,10 +2,8 @@
 :ID:       A40ACCE8-DC8D-4030-97D0-8B9EE70124F8
 :SLUG:     forgotten
 :END:
----
-title: Forgotten
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Forgotten
 
 #+BEGIN_VERSE
 The paper was pure white,

@@ -2,10 +2,8 @@
 :ID:       AA9B21AC-2A46-438D-AAF3-E23467055D02
 :SLUG:     blue
 :END:
----
-title: blue
-tags: poetry
----
+#+filetags: :poetry:
+#+title: blue
 
 #+BEGIN_VERSE
 blue

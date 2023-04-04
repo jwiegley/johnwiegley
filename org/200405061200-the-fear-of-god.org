@@ -2,10 +2,8 @@
 :ID:       9F30DD51-3487-4675-9652-18879000E6DD
 :SLUG:     the-fear-of-god
 :END:
----
-title: The Fear of God
-tags: essays
----
+#+filetags: :essays:
+#+title: The Fear of God
 
 The clearest way I have ever understood the fear of God is this: Pain is
 to the body what the fear of God is to the soul. Do any of us enjoy

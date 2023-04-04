@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       7E1BFB09-0E12-4956-8A3C-D736CDAAB962
 :SLUG:     above-the-deeps
+:LOCATION: 90 Watch Hill Drive, Apt B, Colorado Springs
 :END:
----
-title: Above the deeps
-tags: poetry
-location: 90 Watch Hill Drive, Apt B, Colorado Springs
----
+#+filetags: :poetry:
+#+title: Above the deeps
 
 #+BEGIN_VERSE
 It led the way before me:

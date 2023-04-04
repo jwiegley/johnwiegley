@@ -2,10 +2,8 @@
 :ID:       71D80FD0-E2DB-4525-9D83-80C0B2FACC75
 :SLUG:     all-kinds-of-liberation
 :END:
----
-title: All kinds of liberation
-tags: journal
----
+#+filetags: :journal:
+#+title: All kinds of liberation
 
 In an elegantly ironic move by our friend, the Universe, even as I wrote
 about liberation from sorrow, my car was apparently being liberated from

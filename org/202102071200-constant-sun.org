@@ -2,10 +2,8 @@
 :ID:       2DCC2545-3A32-47A6-AE13-32959C4CA5BA
 :SLUG:     constant-sun
 :END:
----
-title: Constant sun
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Constant sun
 
 #+BEGIN_VERSE
 The sun rises and sets;

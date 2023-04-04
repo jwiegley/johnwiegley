@@ -2,10 +2,8 @@
 :ID:       DBD9576B-79F2-43C7-A9D9-F2EBEEEBBD11
 :SLUG:     the-golden-cow
 :END:
----
-title: The Golden Cow
-tags: stories
----
+#+filetags: :stories:
+#+title: The Golden Cow
 
 How could I know the boat would rock so softly? The motion of it became
 a peaceful rest, and from that I fell into a deeper sleep. It must have

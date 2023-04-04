@@ -2,10 +2,8 @@
 :ID:       286CF62E-F84D-44F3-BEA9-5B30D1F8F256
 :SLUG:     pragmatism-and-value
 :END:
----
-title: Pragmatism and value
-tags: essays
----
+#+filetags: :essays:
+#+title: Pragmatism and value
 
 A theme in society that has often bothered me is that which says, "what
 is not pragmatic, is not useful".

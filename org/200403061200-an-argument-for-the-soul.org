@@ -2,10 +2,8 @@
 :ID:       6E514CA8-5222-4FAC-AADC-961D730A3CDA
 :SLUG:     an-argument-for-the-soul
 :END:
----
-title: An argument for the soul
-tags: essays
----
+#+filetags: :essays:
+#+title: An argument for the soul
 
 The world we live in is one of transience, flux and malleability. Yet
 the ideals we hold are the opposite of this: our sense of virtue, for

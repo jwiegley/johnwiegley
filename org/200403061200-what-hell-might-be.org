@@ -2,10 +2,8 @@
 :ID:       35086717-9373-4752-BCD0-40C72C6ADE5E
 :SLUG:     what-hell-might-be
 :END:
----
-title: What hell might be
-tags: essays
----
+#+filetags: :essays:
+#+title: What hell might be
 
 Imagine that our lives were like that of a foundling bird in its nest.
 Newly born, he sees around him only a tall, thatched wall of brown and a

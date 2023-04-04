@@ -2,10 +2,8 @@
 :ID:       A249477F-6590-4A0E-A191-6B213D49E7B1
 :SLUG:     the-black-swans
 :END:
----
-title: The black swans
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The black swans
 
 #+BEGIN_VERSE
 Sunlight fell on everything,

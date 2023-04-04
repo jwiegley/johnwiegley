@@ -2,10 +2,8 @@
 :ID:       89E97A83-CBD0-4EAD-906A-075DB87A4258
 :SLUG:     the-sun-and-not-the-sun
 :END:
----
-title: The sun and not the sun
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The sun and not the sun
 
 #+BEGIN_VERSE
 Imagine all your life

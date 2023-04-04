@@ -2,10 +2,8 @@
 :ID:       A8064437-BE66-4AEE-83B1-B48E5EAE74C5
 :SLUG:     the-concept-of-ownership
 :END:
----
-title: The concept of ownership
-tags: journal
----
+#+filetags: :journal:
+#+title: The concept of ownership
 
 The concept of ownership is one that holds true only when the scope of
 consideration is the individual himself. Broadened to encompass society,

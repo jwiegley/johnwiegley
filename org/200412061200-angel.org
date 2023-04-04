@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       F8EDE0AA-90FC-417B-BC39-1973DE49D3C4
 :SLUG:     angel
+:LOCATION: 9700 Calle Loma Linda, Tucson, AZ
 :END:
----
-title: Angel
-tags: poetry
-location: 9700 Calle Loma Linda, Tucson, AZ
----
+#+filetags: :poetry:
+#+title: Angel
 
 #+BEGIN_VERSE
 I knew a girl

@@ -2,10 +2,8 @@
 :ID:       75081CD7-859F-44E5-9169-C90340ECC8DD
 :SLUG:     the-question
 :END:
----
-title: The question
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The question
 
 #+BEGIN_VERSE
 All of life is a question.

@@ -2,10 +2,8 @@
 :ID:       6E6BE90A-B87E-43C5-86FB-A686B8170976
 :SLUG:     religion-and-ethics
 :END:
----
-title: Religion and Ethics
-tags: essays
----
+#+filetags: :essays:
+#+title: Religion and Ethics
 
 #+BEGIN_QUOTE
 ... it is the relationship of the individual soul to God and the

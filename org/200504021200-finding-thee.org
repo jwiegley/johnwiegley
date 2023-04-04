@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       5E999EC4-ECE9-4274-BA07-A9A45D690B39
 :SLUG:     finding-thee
+:LOCATION: La Borgata, Paradise Valley, Arizona
 :END:
----
-title: Finding Thee
-tags: poetry
-location: La Borgata, Paradise Valley, Arizona
----
+#+filetags: :poetry:
+#+title: Finding Thee
 
 #+BEGIN_VERSE
 I turned my sight unto myself

@@ -2,10 +2,8 @@
 :ID:       21AA1C22-0A73-4591-9330-78373A355E80
 :SLUG:     untitled-24
 :END:
----
-title: Untitled 24
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 24
 
 It has been hot here in Europe the entire time, coating me in sweat
 constantly. But I find I do not mind it much; I drink a log of water and

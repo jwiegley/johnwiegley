@@ -2,10 +2,8 @@
 :ID:       40C85F04-B9D2-47A9-A6A4-C4EFCDD021D3
 :SLUG:     the-way
 :END:
----
-title: The Way
-tags: journal
----
+#+filetags: :journal:
+#+title: The Way
 
 Based on a conversation I had with my good friend Sina about "The Last
 Samurai":

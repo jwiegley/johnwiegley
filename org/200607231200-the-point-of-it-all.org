@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       D5F7ABFD-26E4-4857-9398-CE3E1DBC0A77
 :SLUG:     the-point-of-it-all
+:LOCATION: 239 Misty Creek Dr, Monument, CO
 :END:
----
-title: The point of it all
-tags: journal
-location: 239 Misty Creek Dr, Monument, CO
----
+#+filetags: :journal:
+#+title: The point of it all
 
 I have been thinking lately that material things satisfy us only because
 their reality draws from a deeper Source. What brought this to a point

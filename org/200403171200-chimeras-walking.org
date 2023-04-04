@@ -2,10 +2,8 @@
 :ID:       25DF7C4C-7586-4AE2-9F8B-F7DC8B2A4E30
 :SLUG:     chimeras-walking
 :END:
----
-title: Chimeras walking
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Chimeras walking
 
 #+BEGIN_VERSE
 Caprice, clad in epidermal cloth;

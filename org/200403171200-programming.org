@@ -2,10 +2,8 @@
 :ID:       B1D71CDC-F098-4CEB-8767-04646A701EE9
 :SLUG:     programming
 :END:
----
-title: Programming
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Programming
 
 #+BEGIN_VERSE
 Silently I peer into my computer,

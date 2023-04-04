@@ -2,10 +2,8 @@
 :ID:       86F2B1FF-5B6E-49BD-BC0A-7721B8212A07
 :SLUG:     the-need-for-morals
 :END:
----
-title: The need for morals
-tags: journal
----
+#+filetags: :journal:
+#+title: The need for morals
 
 After wondering why I have been emphasizing morality so much lately
 (both in writing and in my thoughts), a realization occurred to me:

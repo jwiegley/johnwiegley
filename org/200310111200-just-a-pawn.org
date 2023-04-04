@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       F5F07BC1-308F-419F-ADD2-DB240F1094E1
 :SLUG:     just-a-pawn
+:LOCATION: 325 Morrow Road
+:EDITED:   [2003-10-22 Wed]
 :END:
----
-title: Just a pawn
-tags: poetry
-edited: 10/22/2003
-location: 325 Morrow Road
----
+#+filetags: :poetry:
+#+title: Just a pawn
 
 #+BEGIN_VERSE
 Without consent, my heart accepted your religion,

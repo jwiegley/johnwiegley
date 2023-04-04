@@ -2,10 +2,8 @@
 :ID:       9C66CA20-8FFA-4D1D-B2D1-E232FAE6C6A6
 :SLUG:     the-mystics-path
 :END:
----
-title: The mystic's path
-tags: journal
----
+#+filetags: :journal:
+#+title: The mystic's path
 
 This world is joined to another, in the way that these words are joined
 to the meaning behind them; and like these words, if you cannot read

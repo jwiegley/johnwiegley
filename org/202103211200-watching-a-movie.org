@@ -2,10 +2,8 @@
 :ID:       7DFC8225-5039-4189-A370-F98075BFE631
 :SLUG:     watching-a-movie
 :END:
----
-title: Waching a movie
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Waching a movie
 
 #+BEGIN_VERSE
 A movie plays...

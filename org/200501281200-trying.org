@@ -2,10 +2,8 @@
 :ID:       31AEF995-D4AD-428B-8F25-A43747618A86
 :SLUG:     trying
 :END:
----
-title: Trying
-tags: journal
----
+#+filetags: :journal:
+#+title: Trying
 
 Nothing seems to get in the way of growth more than trying -- in the
 sense that the word is used these days. An example of this came up while

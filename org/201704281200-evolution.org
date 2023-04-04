@@ -2,10 +2,8 @@
 :ID:       267351A0-F3AC-4EE2-9EB3-55A44192AF07
 :SLUG:     evolution
 :END:
----
-title: Evolution
-tags: journal
----
+#+filetags: :journal:
+#+title: Evolution
 
 All things serve God's purpose, so it's quite possible that many of the
 current theories on species development are valid. What Bahá'ís add is

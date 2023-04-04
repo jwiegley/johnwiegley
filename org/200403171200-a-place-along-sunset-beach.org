@@ -2,10 +2,8 @@
 :ID:       53FCAC48-ECFB-4306-9632-0F0A3B288B8D
 :SLUG:     a-place-along-sunset-beach
 :END:
----
-title: A place along sunset beach
-tags: poetry
----
+#+filetags: :poetry:
+#+title: A place along sunset beach
 
 #+BEGIN_VERSE
 Where the ever-deepening silence

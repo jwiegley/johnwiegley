@@ -2,10 +2,8 @@
 :ID:       620EE6B1-24AA-4940-AC81-FA14E11A928D
 :SLUG:     four-valleys-as-an-independent-tablet
 :END:
----
-title: Four Valleys as an independent tablet
-tags: journal
----
+#+filetags: :journal:
+#+title: Four Valleys as an independent tablet
 
 As I read the Four Valleys, it gives me the impression that, like the
 Seven Valleys seems to do, it depicts a series of relationships that

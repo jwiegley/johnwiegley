@@ -2,10 +2,8 @@
 :ID:       3DF833B4-C49B-4CA7-BC36-74F623DF4F70
 :SLUG:     love-and-pain
 :END:
----
-title: Love and pain
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Love and pain
 
 #+BEGIN_VERSE
 I have taken Pain into my arms

@@ -2,10 +2,8 @@
 :ID:       0E82FE75-83C0-4452-817E-1679F7A69716
 :SLUG:     on-meditation
 :END:
----
-title: On meditation
-tags: essays
----
+#+filetags: :essays:
+#+title: On meditation
 
 As for any set form of meditation, we have the following from the
 letters of Shoghi Effendi:

@@ -2,10 +2,8 @@
 :ID:       D6C9131A-1C72-4449-B488-36084D15DE8F
 :SLUG:     is-life-meaningless
 :END:
----
-title: Is life meaningless?
-tags: journal
----
+#+filetags: :journal:
+#+title: Is life meaningless?
 
 Keep in mind that, as children, "play" was totally meaningless too. It
 had no societal benefit, no ultimate effect. We played, it ended, so

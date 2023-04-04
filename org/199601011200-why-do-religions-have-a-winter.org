@@ -2,10 +2,8 @@
 :ID:       DCFE30E0-D41C-48CA-B128-0ECB2D6CBFB5
 :SLUG:     why-do-religions-have-a-winter
 :END:
----
-title: Why do religions have a winter?
-tags: journal
----
+#+filetags: :journal:
+#+title: Why do religions have a winter?
 
 Why is it that every Dispensation has a winter? A time when the fortunes
 of the Faith have reached their fullest consummation, and it nows begins

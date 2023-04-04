@@ -2,10 +2,8 @@
 :ID:       1A41A009-5666-4E2B-8EDF-E0FD1D9AF8EF
 :SLUG:     arrogant-poetry
 :END:
----
-title: Arrogant poetry
-tags: journal
----
+#+filetags: :journal:
+#+title: Arrogant poetry
 
 A friend and I sat down today to make a mystical exercise out of writing
 arrogant poetry. This kind of poetry is when you center your focus on a

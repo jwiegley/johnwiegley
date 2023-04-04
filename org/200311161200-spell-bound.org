@@ -2,10 +2,8 @@
 :ID:       CC53313E-FE7E-4F5C-AE88-BD673E081B7B
 :SLUG:     spell-bound
 :END:
----
-title: Spell bound
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Spell bound
 
 #+BEGIN_VERSE
 Soft light scatters in an empty room,

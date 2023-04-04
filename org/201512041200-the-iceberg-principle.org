@@ -2,10 +2,8 @@
 :ID:       E3E9A0E1-5B3D-43CD-B1B0-C4A3449490FD
 :SLUG:     the-iceberg-principle
 :END:
----
-title: The Iceberg Principle
-tags: essays
----
+#+filetags: :essays:
+#+title: The Iceberg Principle
 
 There is an interesting dynamic in our Faith between what we "do". and
 what we "accomplish". Our doings occur in this world -- where they can

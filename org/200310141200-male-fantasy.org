@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       9676A672-CDAA-47C5-A969-9CA81308C0C6
 :SLUG:     male-fantasy
+:LOCATION: American Airlines flight 177 JFK-SFO
+:EDITED:   [2004-05-08 Sat]
 :END:
----
-title: Male Fantasy
-tags: poetry
-edited: 05/08/2004
-location: American Airlines flight 177 JFK-SFO
----
+#+filetags: :poetry:
+#+title: Male Fantasy
 
 #+BEGIN_VERSE
 To spread my seed into a woman

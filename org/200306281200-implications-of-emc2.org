@@ -2,10 +2,8 @@
 :ID:       932118D3-7E3D-4B63-82FF-CD357FF1A944
 :SLUG:     implications-of-emc2
 :END:
----
-title: Implications of E=mc2
-tags: journal
----
+#+filetags: :journal:
+#+title: Implications of E=mc2
 
 /(I no longer see as much value in the following theory, but it has its
 place within the context of the travelogue)/.

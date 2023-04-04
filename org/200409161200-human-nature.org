@@ -2,10 +2,8 @@
 :ID:       7528E03A-769C-4A33-A1E9-22B4A8447D62
 :SLUG:     human-nature
 :END:
----
-title: Human nature
-tags: journal
----
+#+filetags: :journal:
+#+title: Human nature
 
 Although religion tells us that none is worthy of admiration, save God,
 in another way human beings are the life of the world. I offer a brief

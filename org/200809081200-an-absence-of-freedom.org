@@ -2,10 +2,8 @@
 :ID:       31568BC3-C7ED-4235-9DD0-360FE7B3A992
 :SLUG:     an-absence-of-freedom
 :END:
----
-title: An absence of Freedom
-tags: journal
----
+#+filetags: :journal:
+#+title: An absence of Freedom
 
 I live in a part of the world where I can mostly take freedom for
 granted. And I think it fair to say that this is how it should be,

@@ -2,10 +2,8 @@
 :ID:       022F4A1D-702D-4D16-8E80-221E3602B1CC
 :SLUG:     seasons
 :END:
----
-title: Seasons
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Seasons
 
 #+BEGIN_VERSE
 Sometimes a poem is like a fever

@@ -2,10 +2,8 @@
 :ID:       9544952E-E638-47A0-B290-06D0E5006414
 :SLUG:     a-pen-that-wants-no-rest
 :END:
----
-title: A pen that wants no rest
-tags: journal
----
+#+filetags: :journal:
+#+title: A pen that wants no rest
 
 Ok, I told my heart it could stop creating and also go on vacation, but
 it was right to just ignore that idea!

@@ -2,10 +2,8 @@
 :ID:       6738625F-F4DE-48BC-A424-254F3FDA4D76
 :SLUG:     dear-reader
 :END:
----
-title: Dear reader!
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Dear reader!
 
 #+BEGIN_VERSE
 Dear reader!

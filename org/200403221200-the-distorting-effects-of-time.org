@@ -2,10 +2,8 @@
 :ID:       758B5241-E001-468F-8D5B-62428FAD4155
 :SLUG:     the-distorting-effects-of-time
 :END:
----
-title: The distorting effects of time
-tags: essays
----
+#+filetags: :essays:
+#+title: The distorting effects of time
 
 Time can play funny tricks when we look at the world. Seen today, it is
 true that there are many faiths, and they all profess ultimately the

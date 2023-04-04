@@ -2,10 +2,8 @@
 :ID:       C5C7F75E-ED86-4B63-95D2-B05671B06501
 :SLUG:     untitled-16
 :END:
----
-title: Untitled 16
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 16
 
 As for living for one's self: It was a revelation to me to find this
 hole inside my being, that my own soul was creating to escape from

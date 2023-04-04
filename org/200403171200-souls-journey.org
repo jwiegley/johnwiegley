@@ -2,10 +2,8 @@
 :ID:       5ED0F43D-F9CF-4282-A60F-4FB40B2AD669
 :SLUG:     souls-journey
 :END:
----
-title: Soul's journey
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Soul's journey
 
 #+BEGIN_VERSE
 Through the rose, man comprehend's beauty;

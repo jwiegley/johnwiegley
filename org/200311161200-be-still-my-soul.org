@@ -2,10 +2,8 @@
 :ID:       14871E90-79D8-4EB0-8645-EB45390857ED
 :SLUG:     be-still-my-soul
 :END:
----
-title: Be still my soul
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Be still my soul
 
 #+BEGIN_VERSE
 Nighttime -- a quiet footstep.

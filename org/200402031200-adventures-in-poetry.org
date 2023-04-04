@@ -2,10 +2,8 @@
 :ID:       D905F8B4-E58C-4DCA-961D-EA185508DC20
 :SLUG:     adventures-in-poetry
 :END:
----
-title: Adventures in Poetry
-tags: journal
----
+#+filetags: :journal:
+#+title: Adventures in Poetry
 
 I have been thinking about poetry recently, and how the experience of
 writing it has changed for me over the years. These thoughts are

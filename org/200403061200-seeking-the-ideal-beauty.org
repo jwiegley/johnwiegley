@@ -2,10 +2,8 @@
 :ID:       56751C72-C01B-41E3-8501-F21422587C36
 :SLUG:     seeking-the-ideal-beauty
 :END:
----
-title: Seeking the ideal beauty
-tags: essays
----
+#+filetags: :essays:
+#+title: Seeking the ideal beauty
 
 One of the underlying thoughts in religion, and more ancient philosophic
 literature, is the idea of the human being's kinship with the divine:

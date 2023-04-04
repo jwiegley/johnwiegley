@@ -2,10 +2,8 @@
 :ID:       3A353675-3304-4DB0-8D22-CA4553E1DB1F
 :SLUG:     casting-spells
 :END:
----
-title: Casting spells
-tags: journal
----
+#+filetags: :journal:
+#+title: Casting spells
 
 "spell" in Old English meant "speak", and casting a spell means speaking
 words of power such that they invoke something. How is that different

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       6F70A9C0-421F-42CB-9471-9FBA90442603
 :SLUG:     letter-to-the-watchman
+:LOCATION: 380 Esplanade
+:EDITED:   [2004-02-11 Wed]
 :END:
----
-title: Letter to the Watchman
-tags: poetry
-edited: 02/11/2004
-location: 380 Esplanade
----
+#+filetags: :poetry:
+#+title: Letter to the Watchman
 
 #+BEGIN_VERSE
 Your love is so very hard, my friend --

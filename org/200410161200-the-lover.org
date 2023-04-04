@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       8F4C24F5-D063-4245-A824-4052F3B6A5B8
 :SLUG:     the-lover
+:LOCATION: 9700 Calle Loma Linda, Tucson, AZ
+:EDITED:   [2004-11-10 Wed]
 :END:
----
-title: The Lover
-tags: poetry
-edited: 11/10/2004
-location: 9700 Calle Loma Linda, Tucson, AZ
----
+#+filetags: :poetry:
+#+title: The Lover
 
 #+BEGIN_VERSE
 A lover hasn't the heart for knowledge

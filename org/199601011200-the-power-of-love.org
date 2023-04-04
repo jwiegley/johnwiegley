@@ -2,10 +2,8 @@
 :ID:       71BA56AC-F4B2-4371-B504-D009773A0F1B
 :SLUG:     the-power-of-love
 :END:
----
-title: The power of love
-tags: journal
----
+#+filetags: :journal:
+#+title: The power of love
 
 The supreme motivating force in creation is Love. It is the only truly
 transformative power. Hatred and force, however ably exerted, can never

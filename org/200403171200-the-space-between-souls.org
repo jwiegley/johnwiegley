@@ -2,10 +2,8 @@
 :ID:       43E86FFC-33C8-4430-AF64-5439CA7FE173
 :SLUG:     the-space-between-souls
 :END:
----
-title: The space between souls
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The space between souls
 
 #+BEGIN_VERSE
 A flower reaches to the sun:

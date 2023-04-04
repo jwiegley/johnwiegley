@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       A8158FAA-A0F6-4209-995E-E42FD4DA3885
 :SLUG:     the-rose
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: The rose
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: The rose
 
 #+BEGIN_VERSE
 The rose

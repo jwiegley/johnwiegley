@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       65045631-1C30-4130-B09F-05DAC6D8BF86
 :SLUG:     awaiting-you
+:LOCATION: Sina's House, Tucson, AZ
 :END:
----
-title: Awaiting you
-tags: poetry
-location: Sina's House, Tucson, AZ
----
+#+filetags: :poetry:
+#+title: Awaiting you
 
 #+BEGIN_VERSE
 My beloved, I am awaiting you.

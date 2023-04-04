@@ -2,10 +2,8 @@
 :ID:       02418031-5532-4B09-A9B9-BC68F5D5FEC6
 :SLUG:     i-understand-it-not
 :END:
----
-title: I understand it not
-tags: poetry
----
+#+filetags: :poetry:
+#+title: I understand it not
 
 #+BEGIN_VERSE
 So good is my King

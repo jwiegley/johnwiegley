@@ -2,10 +2,8 @@
 :ID:       7ED1DEAA-227D-4C04-9225-AD46D2BE76A0
 :SLUG:     gateless-barrier
 :END:
----
-title: The gateless barrier
-tags: journal
----
+#+filetags: :journal:
+#+title: The gateless barrier
 
 Wisdom cannot be found without seeking knowledge, but knowledge does not
 grant wisdom -- in fact, can prevent it. One must acquire knowledge with

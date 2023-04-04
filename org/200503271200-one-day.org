@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       0A2FBF40-29FC-4121-AFF0-2F24BEF1E13B
 :SLUG:     one-day
+:LOCATION: Manijeh's house, Gilbert, Arizona
+:EDITED:   [2005-04-25 Mon]
 :END:
----
-title: One day
-tags: poetry
-edited: 04/25/2005
-location: Manijeh's house, Gilbert, Arizona
----
+#+filetags: :poetry:
+#+title: One day
 
 #+BEGIN_VERSE
 There came a day

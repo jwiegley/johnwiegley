@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       C462B0E6-BAC4-4E54-ADD2-145F8FA9B172
 :SLUG:     the-heart-is-free
+:LOCATION: 380 Esplanade #211
+:EDITED:   [2004-03-19 Fri]
 :END:
----
-title: The heart is free
-tags: poetry
-edited: 03/19/2004
-location: 380 Esplanade #211
----
+#+filetags: :poetry:
+#+title: The heart is free
 
 #+BEGIN_VERSE
 Should the moon settle on the waters

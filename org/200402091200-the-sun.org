@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       8936C8B4-DC68-45ED-B7A1-762D527657F7
 :SLUG:     the-sun
+:LOCATION: 325 Morrow Road
 :END:
----
-title: The Sun
-tags: poetry
-location: 325 Morrow Road
----
+#+filetags: :poetry:
+#+title: The Sun
 
 #+BEGIN_VERSE
 I am fond of the sun.

@@ -2,10 +2,8 @@
 :ID:       C048C2D6-6131-40F6-9D78-FB6E2A87F72E
 :SLUG:     the-boredom-point
 :END:
----
-title: The boredom point
-tags: journal
----
+#+filetags: :journal:
+#+title: The boredom point
 
 I seems to be facing a block which I cannot get past. By its feeling, I
 believe I have encountered it many times, and in many ways, through the

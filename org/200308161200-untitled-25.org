@@ -2,10 +2,8 @@
 :ID:       D1D3B307-85D3-4C5F-B620-365CA6BF4129
 :SLUG:     untitled-25
 :END:
----
-title: Untitled 25
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 25
 
 Yes, in just an hour I go to the train station and begin the long
 journey home.

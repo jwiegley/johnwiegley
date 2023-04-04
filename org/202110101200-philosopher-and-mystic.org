@@ -2,10 +2,8 @@
 :ID:       336911CB-AA55-4CE1-B1E7-47FCE402A5C2
 :SLUG:     philosopher-and-mystic
 :END:
----
-title: Philosopher and mystic
-tags: journal
----
+#+filetags: :journal:
+#+title: Philosopher and mystic
 
 A philosopher is technically a lover of wisdom, someone who seeks
 understanding and a greater comprehension of reality. They revel in

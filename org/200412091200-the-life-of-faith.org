@@ -2,10 +2,8 @@
 :ID:       5310DE15-2EE3-4D83-B9EA-1B1BBCF2655C
 :SLUG:     the-life-of-faith
 :END:
----
-title: The life of faith
-tags: journal
----
+#+filetags: :journal:
+#+title: The life of faith
 
 There are countless mental frameworks to describe the variety of life. I
 think they are all false. Even theists change their idea of what faith

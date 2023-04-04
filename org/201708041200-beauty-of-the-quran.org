@@ -2,10 +2,8 @@
 :ID:       24FA52E6-15C5-4D1C-A6DA-81CCF9791C06
 :SLUG:     beauty-of-the-quran
 :END:
----
-title: Discovering the beauty of the Qur'án
-tags: essays
----
+#+filetags: :essays:
+#+title: Discovering the beauty of the Qur'án
 
 How do we, as lovers of the Ancient Beauty, come to recognize the
 gem-like beauty of the Qur'án, as an emanation from His Exalted Pen?

@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       92B11F46-86E3-4267-8590-D37CC846DB33
 :SLUG:     after-the-rain
+:LOCATION: 239 Misty Creek Drive, Monument, Colorado
 :END:
----
-title: After the rain
-tags: poetry
-location: 239 Misty Creek Drive, Monument, Colorado
----
+#+filetags: :poetry:
+#+title: After the rain
 
 #+BEGIN_VERSE
 When the smell of rain

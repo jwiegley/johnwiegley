@@ -2,10 +2,8 @@
 :ID:       0E5D3D00-DB77-42F8-A7C2-A1C077155E71
 :SLUG:     climb
 :END:
----
-title: Climb
-tags: stories
----
+#+filetags: :stories:
+#+title: Climb
 
 In the German city of Cologne there is a very tall, old and famous
 church named the Dom Kirsche. On one side, in a tall spire that reaches

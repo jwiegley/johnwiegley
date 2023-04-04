@@ -2,10 +2,8 @@
 :ID:       7EC2CF1C-9338-434D-B88F-75382A6633BB
 :SLUG:     unseen-arms
 :END:
----
-title: Unseen arms
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Unseen arms
 
 #+BEGIN_VERSE
 I cannot touch what I long to hold,

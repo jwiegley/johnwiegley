@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       24E54E6B-08AB-4387-A76F-62FF722F53B0
 :SLUG:     somber-sea
+:LOCATION: Starbucks, Daly City, off of John Daly Blvd.
+:EDITED:   [2006-03-30 Thu]
 :END:
----
-title: Somber sea
-tags: poetry
-edited: 03/30/2006
-location: Starbucks, Daly City, off of John Daly Blvd.
----
+#+filetags: :poetry:
+#+title: Somber sea
 
 #+BEGIN_VERSE
 The sea was somber, almost somnambulant --

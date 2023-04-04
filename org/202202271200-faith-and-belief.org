@@ -2,10 +2,8 @@
 :ID:       B108FCD2-3AAF-42C4-9A1D-DFFB913B95B3
 :SLUG:     faith-and-belief
 :END:
----
-title: Faith and belief
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Faith and belief
 
 #+BEGIN_VERSE
 Belief is a commitment

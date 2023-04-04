@@ -2,10 +2,8 @@
 :ID:       542AA496-BDA1-425D-9C95-CC35548F6D0C
 :SLUG:     untitled-14
 :END:
----
-title: Untitled 14
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 14
 
 How very strange that you would point out that side of it [feeling the
 passion of possibility]. It is true, I have been feeling that same sense

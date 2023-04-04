@@ -2,10 +2,8 @@
 :ID:       6AC80B7D-A0DF-4BE3-BDD5-F261542C589E
 :SLUG:     the-glory-of-limitation
 :END:
----
-title: The glory of limitation
-tags: journal
----
+#+filetags: :journal:
+#+title: The glory of limitation
 
 In limitation there is a special beauty. Whatever is limited is more
 dear. The less time we spend with someone, the more precious it is. The

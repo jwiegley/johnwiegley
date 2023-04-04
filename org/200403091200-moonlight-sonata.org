@@ -2,10 +2,8 @@
 :ID:       1B717EC3-F144-478C-85ED-D11CD1734A5D
 :SLUG:     moonlight-sonata
 :END:
----
-title: Moonlight Sonata
-tags: stories
----
+#+filetags: :stories:
+#+title: Moonlight Sonata
 
 I remember there was dark everywhere -- dark and smoke. The smoke burned
 at the base of my nose, inside, where one feels the air as he breathes

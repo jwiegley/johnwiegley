@@ -2,10 +2,8 @@
 :ID:       1C3327E7-63BA-4F6F-8A76-D042E6F380EA
 :SLUG:     what-is-philosophy
 :END:
----
-title: What is philosophy?
-tags: essays
----
+#+filetags: :essays:
+#+title: What is philosophy?
 
 This is an opinion of mine which is perhaps not shared by many, but
 comes from my own view of what philosophy means, and why it's important.

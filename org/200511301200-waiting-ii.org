@@ -2,10 +2,8 @@
 :ID:       DC31C741-DCBF-4B26-ABCF-9F069D91D83F
 :SLUG:     waiting-ii
 :END:
----
-title: Waiting II
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Waiting II
 
 #+BEGIN_VERSE
 Life hammers its minute nails

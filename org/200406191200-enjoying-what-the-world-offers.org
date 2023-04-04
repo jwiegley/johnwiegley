@@ -2,10 +2,8 @@
 :ID:       E14C0D3A-FED3-4C91-944E-0E98FC27F0EC
 :SLUG:     enjoying-what-the-world-offers
 :END:
----
-title: Enjoying what the world offers
-tags: essays
----
+#+filetags: :essays:
+#+title: Enjoying what the world offers
 
 Recently I have been thinking about one's attachment to the world, and
 what it is proper to enjoy, and when enjoyment leads to excess.

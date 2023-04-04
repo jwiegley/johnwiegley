@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       12CA741F-2854-4813-97B3-5A64A891AC9A
 :SLUG:     dear-leyla
+:LOCATION: 7373 N. 71st Place, Paradise Valley, Arizona
 :END:
----
-title: Dear Leyla
-tags: poetry
-location: 7373 N. 71st Place, Paradise Valley, Arizona
----
+#+filetags: :poetry:
+#+title: Dear Leyla
 
 #+BEGIN_VERSE
 Dear Leyla,

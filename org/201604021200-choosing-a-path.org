@@ -2,10 +2,8 @@
 :ID:       FB44542F-A20A-425A-AD57-032C28245313
 :SLUG:     choosing-a-path
 :END:
----
-title: Choosing a path
-tags: journal
----
+#+filetags: :journal:
+#+title: Choosing a path
 
 How do we choose a "Way" to follow? We have to ascertain whether someone
 is qualified to give us Laws, and then follow them. A child can't judge

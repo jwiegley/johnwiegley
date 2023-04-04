@@ -2,10 +2,8 @@
 :ID:       8E804442-DB3B-41E9-975A-4C33BFBCCA92
 :SLUG:     a-flaw-in-markets
 :END:
----
-title: A flaw in markets
-tags: journal
----
+#+filetags: :journal:
+#+title: A flaw in markets
 
 I think the system of today has meritorious features, but it's not
 complete enough for what the future needs. It was designed by and for a

@@ -2,10 +2,8 @@
 :ID:       555711C1-DEB6-4B26-BDD3-7165FA3F405E
 :SLUG:     to-zen
 :END:
----
-title: To zen
-tags: journal
----
+#+filetags: :journal:
+#+title: To zen
 
 "to zen" is to know something without knowing it, to do something
 without knowing how. It is similar to intuition, but far deeper. It

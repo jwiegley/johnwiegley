@@ -2,10 +2,8 @@
 :ID:       08D936EA-89FE-45FF-BBFD-8B597CE1C3B6
 :SLUG:     wealth
 :END:
----
-title: Wealth
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Wealth
 
 #+BEGIN_VERSE
 There are two ways to become wealthy:

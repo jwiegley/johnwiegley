@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       DAB46EFE-F336-4C87-8926-454965854BBD
 :SLUG:     like-the-wind
+:LOCATION: Sedona Cafe, Sedona, Arizona
 :END:
----
-title: Like the wind
-tags: poetry
-location: Sedona Cafe, Sedona, Arizona
----
+#+filetags: :poetry:
+#+title: Like the wind
 
 #+BEGIN_VERSE
 You were like the wind in my life:

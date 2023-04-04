@@ -2,10 +2,8 @@
 :ID:       E2472A03-5E5F-4CF8-9EA2-B340B584C6D6
 :SLUG:     revelation
 :END:
----
-title: The Revelation of God
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The Revelation of God
 
 #+BEGIN_VERSE
 The Revelation of God is like a curtain

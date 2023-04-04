@@ -2,10 +2,8 @@
 :ID:       EFD38BE0-1266-45D4-A3EE-A518DA021A2A
 :SLUG:     thoughts-on-homosexual-acts
 :END:
----
-title: Thoughts on homosexual acts
-tags: essays
----
+#+filetags: :essays:
+#+title: Thoughts on homosexual acts
 
 We know for certain the Bahá'í Faith disallows homosexual copulation.
 What I cannot see is how this implies anything except that He found such

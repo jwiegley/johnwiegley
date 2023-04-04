@@ -2,10 +2,8 @@
 :ID:       DB3DCBD3-3453-41C9-A7C2-DF609F7EFED1
 :SLUG:     fallen
 :END:
----
-title: "Fallen"
-tags: journal
----
+#+filetags: :journal:
+#+title: "Fallen"
 
 My brother introduced me today to the album "Fallen", by Evanescence.
 This is one of the best all-around albums I've heard in a long time,

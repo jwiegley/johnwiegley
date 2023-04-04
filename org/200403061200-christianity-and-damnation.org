@@ -2,10 +2,8 @@
 :ID:       E5FDA441-CB90-404F-ADAB-F3B7FC3B94B9
 :SLUG:     christianity-and-damnation
 :END:
----
-title: Christianity and damnation
-tags: essays
----
+#+filetags: :essays:
+#+title: Christianity and damnation
 
 Christianity has always seemed to me to offer religion as an alternative
 to damnation. Follow Christ, because through Him your sins will be

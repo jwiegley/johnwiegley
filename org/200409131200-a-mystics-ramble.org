@@ -2,10 +2,8 @@
 :ID:       847BCC19-887E-4CD0-BB09-095EFFBC22C0
 :SLUG:     a-mystics-ramble
 :END:
----
-title: A mystic's ramble
-tags: poetry
----
+#+filetags: :poetry:
+#+title: A mystic's ramble
 
 #+BEGIN_VERSE
 when tragedy befalls the truly kind,

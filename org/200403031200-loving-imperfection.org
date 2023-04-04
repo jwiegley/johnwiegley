@@ -2,10 +2,8 @@
 :ID:       12564D5A-023A-499D-8A70-60A1C225306E
 :SLUG:     loving-imperfection
 :END:
----
-title: Loving imperfection
-tags: journal
----
+#+filetags: :journal:
+#+title: Loving imperfection
 
 Loving what is perfect alone leads to a distaste for what is imperfect,
 weakening our appreciation of life's fullness. It starts a cycle of

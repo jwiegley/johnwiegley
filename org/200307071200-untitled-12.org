@@ -2,10 +2,8 @@
 :ID:       D5E3D377-0C60-43D6-8898-49BA83BAF1BB
 :SLUG:     untitled-12
 :END:
----
-title: Untitled 12
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 12
 
 It is true that I value intellect over feelings. To make one's choices
 by feeling alone, following the path that feels right, is the way of the

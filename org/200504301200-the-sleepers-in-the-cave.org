@@ -2,10 +2,8 @@
 :ID:       726F131F-97D8-438C-A58B-8ABA81407190
 :SLUG:     the-sleepers-in-the-cave
 :END:
----
-title: The Sleepers in the Cave
-tags: journal
----
+#+filetags: :journal:
+#+title: The Sleepers in the Cave
 
 There is a particular story in the Qur'án which until now has made no
 sense to me. I've only had one idea of what it could mean. Today,

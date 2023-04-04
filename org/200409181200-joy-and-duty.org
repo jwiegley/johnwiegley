@@ -2,10 +2,8 @@
 :ID:       5DB556FE-721B-4F9E-A988-AD4699BB49B2
 :SLUG:     joy-and-duty
 :END:
----
-title: Joy and duty
-tags: journal
----
+#+filetags: :journal:
+#+title: Joy and duty
 
 Since perceiving the unity of duality in my thinking, there is another
 duality which requires a moment of attention: that between joy and duty

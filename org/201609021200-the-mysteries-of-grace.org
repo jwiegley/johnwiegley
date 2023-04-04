@@ -2,10 +2,8 @@
 :ID:       B484A380-50F0-4409-9C88-790F8320EB7B
 :SLUG:     the-mysteries-of-grace
 :END:
----
-title: The mysteries of grace
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The mysteries of grace
 
 #+BEGIN_VERSE
 Two men prayed to God:

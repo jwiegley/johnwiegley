@@ -2,10 +2,8 @@
 :ID:       0A1A77BE-1B67-4DA2-A288-AC2D223FF341
 :SLUG:     a-contingent-freedom
 :END:
----
-title: A contingent freedom
-tags: journal
----
+#+filetags: :journal:
+#+title: A contingent freedom
 
 I am writing now from inside the cathedral of Santa Maria Novella, which
 is located across the street from the train station. It is a large

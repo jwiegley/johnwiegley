@@ -2,10 +2,8 @@
 :ID:       761E2563-EE3F-43AE-BDA2-1D1813B4CC72
 :SLUG:     birthday-wishes
 :END:
----
-title: Birthday wishes
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Birthday wishes
 
 #+BEGIN_VERSE
 If all the years

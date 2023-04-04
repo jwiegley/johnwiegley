@@ -2,10 +2,8 @@
 :ID:       6E580E69-DFA7-4811-919C-140E93C7E28C
 :SLUG:     the-love-of-poetry
 :END:
----
-title: The love of poetry
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The love of poetry
 
 #+BEGIN_VERSE
 Forgive me if my words aren't to your liking,

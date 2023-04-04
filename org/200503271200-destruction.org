@@ -2,10 +2,8 @@
 :ID:       0D8C7B41-64D2-463A-B3BA-E35CF53B038E
 :SLUG:     destruction
 :END:
----
-title: Destruction
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Destruction
 
 #+BEGIN_VERSE
 If poetry is devastating,

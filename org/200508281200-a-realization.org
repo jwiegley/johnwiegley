@@ -2,10 +2,8 @@
 :ID:       933E8207-2396-495E-8F2F-3146AFAF07C0
 :SLUG:     a-realization
 :END:
----
-title: A realization
-tags: journal
----
+#+filetags: :journal:
+#+title: A realization
 
 Something that's been puzzling me a lot lately is my reaction to
 possible romantic relationships. When I was younger I remember wanting

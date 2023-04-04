@@ -2,10 +2,8 @@
 :ID:       726870EF-3F1A-489D-8527-37C85E546B90
 :SLUG:     back-on-the-road
 :END:
----
-title: Back on the road
-tags: journal
----
+#+filetags: :journal:
+#+title: Back on the road
 
 Today I was driving up north from Albuquerque to Colorado Springs, to
 visit my dad for a few months. While I was driving I saw two amazing

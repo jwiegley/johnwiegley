@@ -2,10 +2,8 @@
 :ID:       17438F76-FACF-417E-B14D-5ABF35247DB1
 :SLUG:     thought-and-ignorance
 :END:
----
-title: Thought and ignorance
-tags: journal
----
+#+filetags: :journal:
+#+title: Thought and ignorance
 
 Thought is based in ignorance, since the motive for engaging in thought
 is to effect a transition into knowledge. But if thought is based in

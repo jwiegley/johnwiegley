@@ -2,10 +2,8 @@
 :ID:       643A613F-5ACB-4F4D-8399-5ABF01DD55BC
 :SLUG:     the-way-of-love
 :END:
----
-title: The Way of Love
-tags: essays
----
+#+filetags: :essays:
+#+title: The Way of Love
 
 Humanity stands in dire need of a mystical approach: the way of love.
 

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       72BA2476-ABBF-4249-BB10-2A62F1C58314
 :SLUG:     to-khidr
+:LOCATION: Biltmore Fashion Park, Phoenix, Arizona
+:EDITED:   [2005-05-01 Sun]
 :END:
----
-title: To Khidr
-tags: poetry
-edited: 05/01/2005
-location: Biltmore Fashion Park, Phoenix, Arizona
----
+#+filetags: :poetry:
+#+title: To Khidr
 
 #+BEGIN_VERSE
 O Khidr!

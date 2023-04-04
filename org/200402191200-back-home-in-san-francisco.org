@@ -2,10 +2,8 @@
 :ID:       657C87C5-1874-4482-98B1-EAA113B3558E
 :SLUG:     back-home-in-san-francisco
 :END:
----
-title: Back home in San Francisco
-tags: journal
----
+#+filetags: :journal:
+#+title: Back home in San Francisco
 
 I have arrived safely back home in San Francisco -- where it is /much/
 warmer than New Jersey, though still a jacket is needed. In a few days

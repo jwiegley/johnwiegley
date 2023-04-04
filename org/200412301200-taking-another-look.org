@@ -2,10 +2,8 @@
 :ID:       F077B651-54F1-4A74-B4F0-8BE85D56EF38
 :SLUG:     taking-another-look
 :END:
----
-title: Taking another look
-tags: journal
----
+#+filetags: :journal:
+#+title: Taking another look
 
 I've often heard Adolf Hitler used as an example of human evil. With
 quite a bit of merit. And there is often the hypothetical question of

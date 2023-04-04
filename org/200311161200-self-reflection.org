@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       CA86EF06-3613-43DC-BA14-823248880563
 :SLUG:     self-reflection
+:LOCATION: Viva Italiano
 :END:
----
-title: Self reflection
-tags: poetry
-location: Viva Italiano
----
+#+filetags: :poetry:
+#+title: Self reflection
 
 #+BEGIN_VERSE
 In the branches

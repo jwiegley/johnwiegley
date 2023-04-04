@@ -2,10 +2,8 @@
 :ID:       71DB8324-01C8-47E1-B624-062E1756D674
 :SLUG:     desert-sands
 :END:
----
-title: Desert sands
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Desert sands
 
 #+BEGIN_VERSE
 Adrift... so terribly adrift.

@@ -2,10 +2,8 @@
 :ID:       3722BF12-A36F-4090-A1F7-8A7FB827B7D4
 :SLUG:     the-trap
 :END:
----
-title: The trap
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The trap
 
 #+BEGIN_VERSE
 I felt warm sunlight

@@ -2,10 +2,8 @@
 :ID:       A326FB29-F853-4EC8-98FA-04FC08379BC3
 :SLUG:     from-language-to-words
 :END:
----
-title: From language to words
-tags: poetry
----
+#+filetags: :poetry:
+#+title: From language to words
 
 #+BEGIN_VERSE
 I wish I had a switch

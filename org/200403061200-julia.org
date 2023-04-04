@@ -2,10 +2,8 @@
 :ID:       07ABB27D-8FC5-4D0C-B246-813CE9E8374C
 :SLUG:     julia
 :END:
----
-title: Julia
-tags: stories
----
+#+filetags: :stories:
+#+title: Julia
 
 It was late afternoon, with a fiery sun setting behind gentle, rolling
 hills, when I finally got my friend, General Herbert Wilcox, to open up

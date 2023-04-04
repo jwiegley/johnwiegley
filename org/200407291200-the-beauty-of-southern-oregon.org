@@ -2,10 +2,8 @@
 :ID:       7972482E-89C9-47B2-BE12-05BA7B196284
 :SLUG:     the-beauty-of-southern-oregon
 :END:
----
-title: The beauty of southern Oregon
-tags: journal
----
+#+filetags: :journal:
+#+title: The beauty of southern Oregon
 
 This past weekend I went on a camping trip with my brother, my
 sister-in-law, and several of their friends. While there I was able to

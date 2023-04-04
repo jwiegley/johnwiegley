@@ -2,10 +2,8 @@
 :ID:       25271D42-197F-4241-A9B6-9338F422A570
 :SLUG:     to-ashley
 :END:
----
-title: To Ashley
-tags: poetry
----
+#+filetags: :poetry:
+#+title: To Ashley
 
 #+BEGIN_VERSE
 That's the story,

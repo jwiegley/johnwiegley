@@ -2,10 +2,8 @@
 :ID:       3546E620-E785-4E99-9464-97D8F35362BA
 :SLUG:     smoke
 :END:
----
-title: Smoke
-tags: stories
----
+#+filetags: :stories:
+#+title: Smoke
 
 There was too much smoke; everything rushed at me at once -- I hardly
 had time to breath. When I reached her she was almost gone, wheezing

@@ -2,10 +2,8 @@
 :ID:       7C353426-AAD2-4BBA-AE6F-440C3F80FC90
 :SLUG:     poems-from-last-summer
 :END:
----
-title: Poems from last summer
-tags: journal
----
+#+filetags: :journal:
+#+title: Poems from last summer
 
 In the poetry section of this site there is now a compilation of all the
 poems that were written last summer, extracted from my journal and

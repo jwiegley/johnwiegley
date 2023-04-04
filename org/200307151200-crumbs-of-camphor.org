@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       F132C827-D6B7-4534-88BF-04AFAAEB5B1C
 :SLUG:     crumbs-of-camphor
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: Crumbs of camphor
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: Crumbs of camphor
 
 #+BEGIN_VERSE
 The lights of evening above,

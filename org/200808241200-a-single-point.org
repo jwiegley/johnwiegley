@@ -2,10 +2,8 @@
 :ID:       5761F246-C2B5-4E99-94E9-06BE044FE4CA
 :SLUG:     a-single-point
 :END:
----
-title: A single point
-tags: journal
----
+#+filetags: :journal:
+#+title: A single point
 
 I have come to believe that all knowledge and understanding derives from
 a single Point, and that this Point is so complete, and yet so rarefied,

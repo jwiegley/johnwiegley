@@ -2,10 +2,8 @@
 :ID:       BFF4AD72-6142-4FD7-A5B2-CAA8C7B3FBE7
 :SLUG:     for-teachers
 :END:
----
-title: For teachers
-tags: poetry
----
+#+filetags: :poetry:
+#+title: For teachers
 
 "In a drop thou beholdest the secrets of the sea" | so with all the
 perfections potential in thee. | | As a teacher draws forth from the

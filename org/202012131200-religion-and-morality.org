@@ -2,10 +2,8 @@
 :ID:       47D7CE9A-8572-473E-9C7E-21337E6AF510
 :SLUG:     religion-and-morality
 :END:
----
-title: Religion and morality
-tags: journal
----
+#+filetags: :journal:
+#+title: Religion and morality
 
 I think that saying, "religion is about morality", is the same as
 saying, "playing the violin is about proper fingering and posture".

@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       242BF982-E0CD-49A2-B13E-D73E0263A5C1
 :SLUG:     people
+:LOCATION: 7373 N. 71st Place, PV, AZ
 :END:
----
-title: People
-tags: poetry
-location: 7373 N. 71st Place, PV, AZ
----
+#+filetags: :poetry:
+#+title: People
 
 #+BEGIN_VERSE
 Before it blooms

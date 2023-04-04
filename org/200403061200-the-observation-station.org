@@ -2,10 +2,8 @@
 :ID:       B66F62EC-8FF7-4951-B17D-77A1CDD7EFEA
 :SLUG:     the-observation-station
 :END:
----
-title: The observation station
-tags: stories
----
+#+filetags: :stories:
+#+title: The observation station
 
 There was a group of us in an observing station, based somewhere on the
 ocean near the Florida keys. From a satellite above, encircling the

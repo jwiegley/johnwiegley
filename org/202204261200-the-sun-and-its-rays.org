@@ -2,10 +2,8 @@
 :ID:       E00A57D4-59F4-4C8F-BB37-0264D61C059D
 :SLUG:     the-sun-and-its-rays
 :END:
----
-title: The sun and its rays
-tags: journal
----
+#+filetags: :journal:
+#+title: The sun and its rays
 
 When I compare the Primal Will to the sun, it's clear to me that the sun
 too has an origin: the laws of physics which allow gravity to seize

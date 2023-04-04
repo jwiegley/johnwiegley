@@ -2,10 +2,8 @@
 :ID:       F25604FD-1818-4EBF-AD0C-84A0ECF05ACD
 :SLUG:     love-for-it-all
 :END:
----
-title: Love for it all
-tags: journal
----
+#+filetags: :journal:
+#+title: Love for it all
 
 I have been reading, on blogs and bulletin boards, about killing Mara,
 committing one's self to rigorous discipline, changing our lives, etc.

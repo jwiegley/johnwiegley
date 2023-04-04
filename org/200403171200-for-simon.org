@@ -2,10 +2,8 @@
 :ID:       073A06BD-2D97-40B3-9A98-201CA094C2A7
 :SLUG:     for-simon
 :END:
----
-title: For Simón
-tags: poetry
----
+#+filetags: :poetry:
+#+title: For Simón
 
 #+BEGIN_VERSE
 How many kind eyes

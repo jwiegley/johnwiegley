@@ -2,10 +2,8 @@
 :ID:       220EA0A4-D0D6-4A3A-A247-895511F51F36
 :SLUG:     magic
 :END:
----
-title: Magic
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Magic
 
 #+BEGIN_VERSE
 Magic requires that people allow it to happen.

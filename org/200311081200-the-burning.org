@@ -2,10 +2,8 @@
 :ID:       B5751453-DCC7-4C0B-949B-44544DF95AB3
 :SLUG:     the-burning
 :END:
----
-title: The burning
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The burning
 
 #+BEGIN_VERSE
 What do I learn

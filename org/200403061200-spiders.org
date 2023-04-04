@@ -2,10 +2,8 @@
 :ID:       79C43BE1-A977-43BF-BAEB-1BF69D11E183
 :SLUG:     spiders
 :END:
----
-title: Spiders
-tags: stories
----
+#+filetags: :stories:
+#+title: Spiders
 
 This morning I had a very strange dream, but very lucid. It definitely
 felt like it had a deeper meaning. Fortunately, I remembered it long

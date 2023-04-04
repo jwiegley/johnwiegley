@@ -2,10 +2,8 @@
 :ID:       C1EB6B76-89F1-41BA-9DB9-1B4FE4E3AB86
 :SLUG:     doubting-our-beliefs
 :END:
----
-title: Doubting our beliefs
-tags: journal
----
+#+filetags: :journal:
+#+title: Doubting our beliefs
 
 I think one should always doubt their belief in God, because what is
 belief made from? Finite conceptions of an infinite truth are always

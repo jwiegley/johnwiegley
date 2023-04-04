@@ -2,10 +2,8 @@
 :ID:       9837DE7C-ABCC-4E51-8A48-E2DE6F187A99
 :SLUG:     religion-does-not-get-harder
 :END:
----
-title: Religion does not get harder
-tags: essays
----
+#+filetags: :essays:
+#+title: Religion does not get harder
 
 I am doubtful of the conventional Western attitude toward religion, that
 is hard, requires strenuous effort, and after all that just keeps

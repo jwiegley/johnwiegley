@@ -2,10 +2,8 @@
 :ID:       F320789C-B9A1-4F43-B09F-CA64E4F2127E
 :SLUG:     rands-philosophy
 :END:
----
-title: Rand's philosophy
-tags: journal
----
+#+filetags: :journal:
+#+title: Rand's philosophy
 
 What's funny is that Rand would not want to be followed, according to
 her philosophy, she would want to be outdone.

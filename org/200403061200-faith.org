@@ -2,10 +2,8 @@
 :ID:       9A5DF760-55F8-43E9-BF86-959CED949C61
 :SLUG:     faith
 :END:
----
-title: Faith
-tags: stories
----
+#+filetags: :stories:
+#+title: Faith
 
 There was once a sailor, alone at sea on a small boat, who lost his ship
 during a storm. He survived by making a raft from some rescued timbers,

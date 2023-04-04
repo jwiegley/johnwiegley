@@ -2,10 +2,8 @@
 :ID:       C8228CF4-F922-433A-82FA-D354E95EB8AD
 :SLUG:     images-from-the-southwest
 :END:
----
-title: Images from the Southwest
-tags: journal
----
+#+filetags: :journal:
+#+title: Images from the Southwest
 
 Starting from south of Phoenix, this month I went to Albuquerque, then
 the Navajo reservation, then Flagstaff, back to Albuquerque, then to

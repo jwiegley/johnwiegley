@@ -2,10 +2,8 @@
 :ID:       6F17AE5C-2FDF-49DD-91A7-1116F3BE3F42
 :SLUG:     sacrifice-and-pain
 :END:
----
-title: Sacrifice and pain
-tags: journal
----
+#+filetags: :journal:
+#+title: Sacrifice and pain
 
 I've heard it said a few times that sacrifice is when we do something
 for another that involves pain. However, I'm not sure the concept of

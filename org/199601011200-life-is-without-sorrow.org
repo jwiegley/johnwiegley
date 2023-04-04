@@ -2,10 +2,8 @@
 :ID:       0341A167-C81E-4D68-92B7-8B95D86C885F
 :SLUG:     life-is-without-sorrow
 :END:
----
-title: Life is without sorrow
-tags: journal
----
+#+filetags: :journal:
+#+title: Life is without sorrow
 
 Life sends us no sorrow. It is only our perception of it -- our
 misunderstanding of life -- that causes us hurt. We are the authors of

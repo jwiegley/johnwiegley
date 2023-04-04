@@ -2,10 +2,8 @@
 :ID:       5294C9D7-3859-4ACC-A06E-C8FF4C09BE44
 :SLUG:     patterns-in-time
 :END:
----
-title: Patterns in time
-tags: journal
----
+#+filetags: :journal:
+#+title: Patterns in time
 
 There's something about patterns that only occur in a dilated time view,
 as if, by stepping back, the mosaic against which we do all of the

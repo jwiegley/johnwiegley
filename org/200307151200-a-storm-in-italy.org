@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       0AFCC66C-0C36-4080-89C4-79A26C1DDDF5
 :SLUG:     a-storm-in-italy
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: A storm in Italy
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: A storm in Italy
 
 #+BEGIN_VERSE
 Tonight there is a storm in Italy,

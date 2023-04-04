@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       E0EEC930-1E30-41D7-83B3-12D3B17CBE61
 :SLUG:     being-in-love
+:LOCATION: A bowling alley, Scottsdale, Arizona
+:EDITED:   [2005-08-23 Tue]
 :END:
----
-title: Being in love
-tags: poetry
-edited: 08/23/2005
-location: A bowling alley, Scottsdale, Arizona
----
+#+filetags: :poetry:
+#+title: Being in love
 
 #+BEGIN_VERSE
 How do I know I'm in love?

@@ -2,10 +2,8 @@
 :ID:       8B601864-F1A0-455F-A1FC-10C9A1B8E73D
 :SLUG:     religion-and-authority
 :END:
----
-title: Religion and authority
-tags: essays
----
+#+filetags: :essays:
+#+title: Religion and authority
 
 Is religion an authority in life? Are humans meant to explore truth
 individually, personally, or is it the place of religion to dictate

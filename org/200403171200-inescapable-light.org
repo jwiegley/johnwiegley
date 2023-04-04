@@ -2,10 +2,8 @@
 :ID:       DF4F0255-4268-4470-9AB5-468C8D203099
 :SLUG:     inescapable-light
 :END:
----
-title: Inescapable light
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Inescapable light
 
 #+BEGIN_VERSE
 Each drop of light

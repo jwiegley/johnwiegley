@@ -2,10 +2,8 @@
 :ID:       03646473-1BE1-47EC-881D-3589A53155F6
 :SLUG:     experience
 :END:
----
-title: Experience
-tags: journal
----
+#+filetags: :journal:
+#+title: Experience
 
 This is one side of a chat with a friend earlier this evening, which
 connects with ideas from the entry on the beauty of existence:

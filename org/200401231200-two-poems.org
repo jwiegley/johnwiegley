@@ -2,10 +2,8 @@
 :ID:       09714C56-4C49-4F91-813D-73F329A3084D
 :SLUG:     two-poems
 :END:
----
-title: Two poems
-tags: journal
----
+#+filetags: :journal:
+#+title: Two poems
 
 Not many thoughts recently -- life has been very full. But at least a
 couple of poems: [[file:letter.to.watchman][letter to the watchman]], a

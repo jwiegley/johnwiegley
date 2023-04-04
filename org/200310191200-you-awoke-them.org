@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       1137E9B0-8CFE-4120-A27D-02A0F7FF4ADC
 :SLUG:     you-awoke-them
+:LOCATION: Guest room in the Rhodes' house, 312 Palmer Ave
+:EDITED:   [2003-11-12 Wed]
 :END:
----
-title: You awoke them
-tags: poetry
-edited: 11/12/2003
-location: Guest room in the Rhodes' house, 312 Palmer Ave
----
+#+filetags: :poetry:
+#+title: You awoke them
 
 #+BEGIN_VERSE
 My sadness falls in sweetened drops

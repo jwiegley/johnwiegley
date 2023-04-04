@@ -2,10 +2,8 @@
 :ID:       1EFDADC0-75B2-4A5E-9BB3-406F2ADE21E2
 :SLUG:     in-him-we-are-the-sea
 :END:
----
-title: In Him, we are the sea
-tags: journal
----
+#+filetags: :journal:
+#+title: In Him, we are the sea
 
 I think the most profound communication of one's love for God lies in
 complete and radiant acceptance of others, until they feel the warmth of

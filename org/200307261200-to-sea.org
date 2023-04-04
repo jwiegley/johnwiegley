@@ -2,10 +2,8 @@
 :ID:       CC331613-C7F9-4198-AB59-83DB76E653AB
 :SLUG:     to-sea
 :END:
----
-title: To sea
-tags: stories
----
+#+filetags: :stories:
+#+title: To sea
 
 The sun was still high enough to makes the waves a bright blue, changing
 to jewel green near the shore. Small darts of color moved in the

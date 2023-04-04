@@ -2,10 +2,8 @@
 :ID:       62A1CB60-1ECF-4ADE-89D5-674A024F27E3
 :SLUG:     the-aim-of-religion
 :END:
----
-title: The aim of religion
-tags: essays
----
+#+filetags: :essays:
+#+title: The aim of religion
 
 Although it is true that every religion upholds the "twin pillars of
 reward and punishment", yet this is not the purpose of religion. To

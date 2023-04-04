@@ -2,10 +2,8 @@
 :ID:       6D8FFA2F-34A8-43E8-B6FA-92212495D733
 :SLUG:     thoughts-on-awareness
 :END:
----
-title: Thoughts on awareness
-tags: journal
----
+#+filetags: :journal:
+#+title: Thoughts on awareness
 
 These are a few notes jotted down during my trip to Oregon:
 

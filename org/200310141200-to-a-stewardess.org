@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       898BBA41-B514-42E9-BCE1-FA3D43C724C0
 :SLUG:     to-a-stewardess
+:LOCATION: American Airlines flight 177 JFK-SFO
+:EDITED:   [2003-11-08 Sat]
 :END:
----
-title: To a stewardess
-tags: poetry
-edited: 11/08/2003
-location: American Airlines flight 177 JFK-SFO
----
+#+filetags: :poetry:
+#+title: To a stewardess
 
 #+BEGIN_VERSE
 Not wizards

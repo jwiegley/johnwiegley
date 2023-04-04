@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       B30E1714-EF38-4EC2-B989-0D1EAE444437
 :SLUG:     flight
+:EDITED:   [2004-03-17 Wed]
 :END:
----
-title: Flight
-tags: poetry
-edited: 03/17/2004
----
+#+filetags: :poetry:
+#+title: Flight
 
 #+BEGIN_VERSE
 If a bird's wings are so soft

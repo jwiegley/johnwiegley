@@ -2,10 +2,8 @@
 :ID:       5645D877-1898-489D-8ADD-772A6EE58F43
 :SLUG:     fish-in-the-ocean
 :END:
----
-title: A fish in the ocean
-tags: journal
----
+#+filetags: :journal:
+#+title: A fish in the ocean
 
 Consider yourself like a fish, swimming in the heart of the ocean,
 searching for water... you think haven't found it because you don't swim

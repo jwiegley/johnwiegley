@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       FBA5729A-1C46-4189-B704-52EA4E1C6AAE
 :SLUG:     the-mystic-sailor
+:LOCATION: Uncle Jim's house in Lake Geneva, Wisconsin
 :END:
----
-title: The mystic sailor
-tags: poetry
-location: Uncle Jim's house in Lake Geneva, Wisconsin
----
+#+filetags: :poetry:
+#+title: The mystic sailor
 
 #+BEGIN_VERSE
 I have, at great price

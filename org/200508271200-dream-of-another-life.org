@@ -2,10 +2,8 @@
 :ID:       0EEFD2C9-7D41-48BC-AE92-E543078A3236
 :SLUG:     dream-of-another-life
 :END:
----
-title: Dream of another life
-tags: journal
----
+#+filetags: :journal:
+#+title: Dream of another life
 
 In a dream I was climbing a long tower. I asked, "Where are we going?"
 and people said: "To see the Christ." It was a broad tower with a spiral

@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       30DC7CD6-C74C-488E-8B0B-0C322C9F900D
 :SLUG:     a-keen-intent
+:LOCATION: Spain
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: A Keen Intent
-tags: poetry
-edited: 03/22/2004
-location: Spain
----
+#+filetags: :poetry:
+#+title: A Keen Intent
 
 #+BEGIN_VERSE
 The movements of a train

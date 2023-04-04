@@ -2,10 +2,8 @@
 :ID:       FC7D90EC-3160-44AA-B1EB-7615BF344991
 :SLUG:     una-fantasia-della-notte
 :END:
----
-title: Una fantasia della notte
-tags: journal
----
+#+filetags: :journal:
+#+title: Una fantasia della notte
 
 The mood of the lake at midnight was like the waters it contained.
 Moonlight from a full moon flowed on the pebbles and the watercress at

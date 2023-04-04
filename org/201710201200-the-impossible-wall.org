@@ -2,10 +2,8 @@
 :ID:       DB1D3122-063A-4AD4-A428-0731C1627DFB
 :SLUG:     the-impossible-wall
 :END:
----
-title: Can God build a wall he cannot break?
-tags: journal
----
+#+filetags: :journal:
+#+title: Can God build a wall he cannot break?
 
 This question rests on a false premise: It assumes there exists
 something -- the building materials for a wall -- that is outside of

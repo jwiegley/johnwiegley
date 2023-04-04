@@ -2,10 +2,8 @@
 :ID:       B3B4B0DD-DA00-42C1-B32D-9325AEBE47A0
 :SLUG:     o-lovely-moth
 :END:
----
-title: O lovely moth!
-tags: poetry
----
+#+filetags: :poetry:
+#+title: O lovely moth!
 
 #+BEGIN_VERSE
 O lovely moth!

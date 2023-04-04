@@ -2,10 +2,8 @@
 :ID:       4482A700-02D7-4204-8D56-3EC5C1C46197
 :SLUG:     does-god-need-prayers
 :END:
----
-title: Does God need our prayers?
-tags: journal
----
+#+filetags: :journal:
+#+title: Does God need our prayers?
 
 A flower opens its petals and prays to the sun, not because the sun
 needs it.

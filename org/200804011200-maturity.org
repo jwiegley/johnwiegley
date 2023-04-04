@@ -2,10 +2,8 @@
 :ID:       466590EF-A4F6-4001-AAD3-CFC38492EE6A
 :SLUG:     maturity
 :END:
----
-title: Maturity
-tags: journal
----
+#+filetags: :journal:
+#+title: Maturity
 
 A cornerstone of maturity is knowing how things will appear through the
 eyes of another: how others are affected by action and consequence. The

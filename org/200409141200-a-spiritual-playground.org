@@ -2,10 +2,8 @@
 :ID:       1D85CDE5-C690-4EEC-AEDF-9802718B534C
 :SLUG:     a-spiritual-playground
 :END:
----
-title: A spiritual playground
-tags: journal
----
+#+filetags: :journal:
+#+title: A spiritual playground
 
 If the world around us is a living metaphor for the world of the spirit,
 then in the relationships we have here, perhaps there is something to be

@@ -2,10 +2,8 @@
 :ID:       4A1E9EF1-81B6-4045-8EF4-BC7833FA74A5
 :SLUG:     learning
 :END:
----
-title: Learning
-tags: journal
----
+#+filetags: :journal:
+#+title: Learning
 
 If we experience failure from the perspective of a humble posture of
 learning, then failure makes the mind ready for what it needs to learn.

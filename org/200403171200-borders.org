@@ -2,10 +2,8 @@
 :ID:       9DD45BDB-7AF2-4A41-B23E-B3523C737DAD
 :SLUG:     borders
 :END:
----
-title: Borders
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Borders
 
 #+BEGIN_VERSE
 The world is filled with borders --

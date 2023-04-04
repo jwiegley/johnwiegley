@@ -2,10 +2,8 @@
 :ID:       CDC24240-F68A-4F38-AB10-7B3A6DC4780F
 :SLUG:     human-relationships
 :END:
----
-title: Human relationships
-tags: journal
----
+#+filetags: :journal:
+#+title: Human relationships
 
 Our relationship with our spouse can be our closest relationship to God.
 Proof:

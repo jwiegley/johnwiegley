@@ -2,10 +2,8 @@
 :ID:       368A5788-8771-4D73-9FE5-48A6E41E5A3B
 :SLUG:     a-spirits-rhapsody
 :END:
----
-title: A spirit's rhapsody
-tags: poetry
----
+#+filetags: :poetry:
+#+title: A spirit's rhapsody
 
 #+BEGIN_VERSE
 In a single clap of thunder

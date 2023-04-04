@@ -2,10 +2,8 @@
 :ID:       2AAB256A-57AB-49A9-8736-9F711567078E
 :SLUG:     freefall
 :END:
----
-title: Freefall
-tags: stories
----
+#+filetags: :stories:
+#+title: Freefall
 
 At thirty years of age, he stood thirty stories above one of the world's
 busiest cities. Down below the people moved across a palette of black

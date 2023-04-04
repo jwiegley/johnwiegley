@@ -2,10 +2,8 @@
 :ID:       C3FE3A30-BB5D-414D-BA5B-FCDAF8ADF17B
 :SLUG:     technology
 :END:
----
-title: Technology
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Technology
 
 #+BEGIN_VERSE
 Where is the ode's cry,

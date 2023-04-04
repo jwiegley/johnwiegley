@@ -2,10 +2,8 @@
 :ID:       FE74975B-56E5-49BF-9506-CD7E6A91F851
 :SLUG:     paying-respects
 :END:
----
-title: Paying respects
-tags: journal
----
+#+filetags: :journal:
+#+title: Paying respects
 
 I would like to take a moment to pay my respects to some of the writers
 and thinkers who have most influenced my mind. In somewhat chronological

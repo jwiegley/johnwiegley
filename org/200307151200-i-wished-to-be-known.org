@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       8EB7E133-1A8C-4429-A334-0E78F8AED0A4
 :SLUG:     i-wished-to-be-known
+:LOCATION: Italy
+:EDITED:   [2004-04-10 Sat]
 :END:
----
-title: I wished to be known
-tags: poetry
-edited: 04/10/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: I wished to be known
 
 #+BEGIN_VERSE
 The sunlight is honey

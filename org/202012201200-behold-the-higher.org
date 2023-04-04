@@ -2,10 +2,8 @@
 :ID:       8FFF7512-285B-48DB-B634-72B21D2F5D1B
 :SLUG:     behold-the-higher
 :END:
----
-title: Behold the higher
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Behold the higher
 
 #+BEGIN_VERSE
 If you claim

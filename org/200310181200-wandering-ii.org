@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       60CE19A9-59A4-4904-8576-52017C34107B
 :SLUG:     wandering-ii
+:LOCATION: 380 Esplanade Ave #211
+:EDITED:   [2005-11-30 Wed]
 :END:
----
-title: Wandering II
-tags: poetry
-edited: 11/30/2005
-location: 380 Esplanade Ave #211
----
+#+filetags: :poetry:
+#+title: Wandering II
 
 #+BEGIN_VERSE
 There is a wilderness underfoot

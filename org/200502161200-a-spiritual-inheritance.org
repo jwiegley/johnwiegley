@@ -2,10 +2,8 @@
 :ID:       7FCD282C-D2F7-4C1F-9305-49862E3CA656
 :SLUG:     a-spiritual-inheritance
 :END:
----
-title: A spiritual inheritance
-tags: journal
----
+#+filetags: :journal:
+#+title: A spiritual inheritance
 
 I was thinking this morning about pain and hardship, especially those
 endured by my friends. Specifically loneliness: how some long to find

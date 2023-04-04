@@ -2,10 +2,8 @@
 :ID:       84F95130-B0DC-485D-938E-F1EBE675223E
 :SLUG:     dance-of-fading-time
 :END:
----
-title: Dance of fading time
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Dance of fading time
 
 #+BEGIN_VERSE
 A candle sputters

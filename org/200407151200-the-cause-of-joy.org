@@ -2,10 +2,8 @@
 :ID:       C9ADFCBE-C295-4703-B2A2-0A9D5BC55A37
 :SLUG:     the-cause-of-joy
 :END:
----
-title: The Cause of Joy
-tags: journal
----
+#+filetags: :journal:
+#+title: The Cause of Joy
 
 I have heard a sentiment from many people over the years which I would
 like to respond to in a clear, concise way. It boils down to people's

@@ -2,10 +2,8 @@
 :ID:       65A11811-F5FF-49CC-8D20-0DE4E177EAC7
 :SLUG:     non-dualism-and-maya
 :END:
----
-title: Non-dualism and maya
-tags: journal
----
+#+filetags: :journal:
+#+title: Non-dualism and maya
 
 In the philosophy of non-dualism, it is often the thinker's goal to "go
 beyond" the multiple appearances which present themselves to the mind,

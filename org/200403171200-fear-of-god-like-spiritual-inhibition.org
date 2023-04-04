@@ -2,10 +2,8 @@
 :ID:       6483E7BF-9036-4415-AA7F-81C13368A488
 :SLUG:     fear-of-god-like-spiritual-inhibition
 :END:
----
-title: Fear of God like spiritual inhibition
-tags: essays
----
+#+filetags: :essays:
+#+title: Fear of God like spiritual inhibition
 
 Picture you're in a 7-11, and the clerk steps out of the store
 (unlikely, but just humor me). There you are, with all that candy in

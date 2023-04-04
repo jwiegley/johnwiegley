@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       C86B1440-03D7-4619-8A90-8BE17116E478
 :SLUG:     quality
+:LOCATION: 7373 N. 71st Place, Paradise Valley, Arizona
 :END:
----
-title: Quality
-tags: poetry
-location: 7373 N. 71st Place, Paradise Valley, Arizona
----
+#+filetags: :poetry:
+#+title: Quality
 
 #+BEGIN_VERSE
 I feel your peace on quiet nights

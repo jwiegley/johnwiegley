@@ -2,10 +2,8 @@
 :ID:       45A0F444-F067-4CAE-92C1-8230FA7E3DBF
 :SLUG:     a-metaphor-for-the-self
 :END:
----
-title: A metaphor for the self
-tags: essays
----
+#+filetags: :essays:
+#+title: A metaphor for the self
 
 The Buddhist Writings say that there is no individual self which is
 gaining, or achieving; only a combination of elements with a certain

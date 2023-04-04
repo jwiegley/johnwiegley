@@ -2,10 +2,8 @@
 :ID:       83148E07-AA58-4AEF-9DD4-3823357EFF4D
 :SLUG:     the-hearts-sparrow
 :END:
----
-title: The heart's sparrow
-tags: poetry
----
+#+filetags: :poetry:
+#+title: The heart's sparrow
 
 #+BEGIN_VERSE
 To make your way anywhere,

@@ -2,10 +2,8 @@
 :ID:       249ECA9D-70A6-4970-ACD7-F813B748288E
 :SLUG:     procession
 :END:
----
-title: Procession
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Procession
 
 #+BEGIN_VERSE
 In the palace of the sky,

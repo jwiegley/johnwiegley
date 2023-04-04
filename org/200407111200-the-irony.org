@@ -2,10 +2,8 @@
 :ID:       49E452A5-D1AC-4E2F-9575-09C2B2B631E4
 :SLUG:     the-irony
 :END:
----
-title: The irony
-tags: journal
----
+#+filetags: :journal:
+#+title: The irony
 
 After all I'd written and thought, an ironic moment: Yesterday, after a
 very good friend did practically nothing, I reacted as though it were

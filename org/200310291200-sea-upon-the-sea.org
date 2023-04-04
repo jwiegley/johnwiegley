@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       1AFD3035-5534-4864-B2D2-BAD37B1336F0
 :SLUG:     sea-upon-the-sea
+:EDITED:   [2005-04-14 Thu]
 :END:
----
-title: Sea upon the sea
-tags: poetry
-edited: 04/14/2005
----
+#+filetags: :poetry:
+#+title: Sea upon the sea
 
 #+BEGIN_VERSE
 When the foggy tides

@@ -2,10 +2,8 @@
 :ID:       87E75FAF-9C07-41F2-B842-56157F64E909
 :SLUG:     joy-rests
 :END:
----
-title: Joy rests
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Joy rests
 
 #+BEGIN_VERSE
 In a pause, to remember my life,

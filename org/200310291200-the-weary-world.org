@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       0B9B68A8-045A-4C43-8881-0ECDFCF5DDD6
 :SLUG:     the-weary-world
+:EDITED:   [2004-03-10 Wed]
 :END:
----
-title: The weary world
-tags: poetry
-edited: 03/10/2004
----
+#+filetags: :poetry:
+#+title: The weary world
 
 #+BEGIN_VERSE
 There are no poems in me today.

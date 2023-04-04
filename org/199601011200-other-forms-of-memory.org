@@ -2,10 +2,8 @@
 :ID:       86582AEB-4585-4F1C-872B-BE086450C103
 :SLUG:     other-forms-of-memory
 :END:
----
-title: Other forms of memory
-tags: journal
----
+#+filetags: :journal:
+#+title: Other forms of memory
 
 When we can't remember something, but we know what it isn't, this is a
 sign of a different kind of memory.

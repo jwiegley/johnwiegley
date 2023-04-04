@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       6C22AEF5-FEA8-467C-8A47-7A581BDB89DB
 :SLUG:     the-sun-hangs-low
+:LOCATION: Italy
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: The sun hangs low
-tags: poetry
-edited: 03/22/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: The sun hangs low
 
 #+BEGIN_VERSE
 The sun hangs low on the river Arno,

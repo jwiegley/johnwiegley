@@ -2,10 +2,8 @@
 :ID:       F28CFEA5-03F7-4B2A-A0AA-39B1B9AD4FE0
 :SLUG:     the-dark-side
 :END:
----
-title: The dark side
-tags: journal
----
+#+filetags: :journal:
+#+title: The dark side
 
 The past few months I have been working on a theory of personality to
 help me understand some of my behaviors. It follows roughly from a few

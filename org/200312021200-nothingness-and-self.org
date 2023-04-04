@@ -2,10 +2,8 @@
 :ID:       4F4D9C1C-65DF-4326-A0F1-F6289B2227D2
 :SLUG:     nothingness-and-self
 :END:
----
-title: Nothingness and self
-tags: journal
----
+#+filetags: :journal:
+#+title: Nothingness and self
 
 A friend has asked me to include my current streams of thinking, along
 with the other events that get posted here. Usually I have not shared

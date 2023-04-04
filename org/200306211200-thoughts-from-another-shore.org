@@ -2,10 +2,8 @@
 :ID:       32DFCF68-7557-404C-A6F0-09AECB8D2C60
 :SLUG:     thoughts-from-another-shore
 :END:
----
-title: Thoughts from another shore
-tags: journal
----
+#+filetags: :journal:
+#+title: Thoughts from another shore
 
 I am at the exit of the Parc Guëll now (paark-goo way), a park designed
 by Gaudí, situated in the hills overlooking Barcelona. The day was spent

@@ -2,10 +2,8 @@
 :ID:       C8A5E783-3A02-4907-B613-040642614AAE
 :SLUG:     the-inner-life
 :END:
----
-title: The inner life
-tags: journal
----
+#+filetags: :journal:
+#+title: The inner life
 
 What is the power of the imagination? As I was watching the movie "Polar
 Express", and feeling amazed by it all -- the wonderful landscapes

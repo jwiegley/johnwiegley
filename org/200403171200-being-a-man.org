@@ -2,10 +2,8 @@
 :ID:       EC7C6F34-8E4A-4AB6-9A8A-EFAC32C859AF
 :SLUG:     being-a-man
 :END:
----
-title: Being a man
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Being a man
 
 #+BEGIN_VERSE
 At times the pain of life is such that not living would be easier.

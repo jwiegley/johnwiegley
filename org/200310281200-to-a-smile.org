@@ -2,10 +2,8 @@
 :ID:       8C58B4A6-E8EB-4C91-B846-2B1A8E9DC0C7
 :SLUG:     to-a-smile
 :END:
----
-title: To a smile
-tags: poetry
----
+#+filetags: :poetry:
+#+title: To a smile
 
 #+BEGIN_VERSE
 Have you ever known a smile to catch fire?

@@ -2,10 +2,8 @@
 :ID:       F888588F-9F5D-46D8-A88F-0D4B6E0A3061
 :SLUG:     past-thoughts
 :END:
----
-title: Past thoughts
-tags: journal
----
+#+filetags: :journal:
+#+title: Past thoughts
 
 Before the advent of blogging, I used to jot my thoughts on paper in
 composition books. I've finally gathered these past entries together

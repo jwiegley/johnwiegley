@@ -2,10 +2,8 @@
 :ID:       749F0CC0-43EC-494D-8219-E541223F5DE9
 :SLUG:     the-divine-worlds-part-2
 :END:
----
-title: The divine worlds, part 2
-tags: essays
----
+#+filetags: :essays:
+#+title: The divine worlds, part 2
 
 #+BEGIN_EXAMPLE
 The rose, before it blooms,

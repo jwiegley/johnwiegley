@@ -2,10 +2,8 @@
 :ID:       693E3875-8A37-41B1-90F0-6881581AFB9D
 :SLUG:     serving-joyfully
 :END:
----
-title: Serving joyfully
-tags: essays
----
+#+filetags: :essays:
+#+title: Serving joyfully
 
 Someone asked: /What is happiness? What does the Bahá'í Faith say about
 being in a good mood? About being in a bad mood? What is the chief means

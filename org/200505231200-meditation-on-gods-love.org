@@ -2,10 +2,8 @@
 :ID:       128215B8-B43D-49EB-9DCD-68C43FDAA2C9
 :SLUG:     meditation-on-gods-love
 :END:
----
-title: Meditation on God's love
-tags: journal
----
+#+filetags: :journal:
+#+title: Meditation on God's love
 
 One of my very dear friends moved to this country a few years ago and
 has been steadily improving her English. Whenever we chat, I help her by

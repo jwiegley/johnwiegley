@@ -2,10 +2,8 @@
 :ID:       ED99F803-4927-4E10-A2D4-470AE4E2E8E7
 :SLUG:     the-faith-dynamic
 :END:
----
-title: The Faith Dynamic
-tags: essays
----
+#+filetags: :essays:
+#+title: The Faith Dynamic
 
 Quantum mechanics indicates that for all physical events on the
 subatomic level there exist multiple probable outcomes, and that each of

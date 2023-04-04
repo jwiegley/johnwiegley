@@ -2,10 +2,8 @@
 :ID:       0264D7D2-707B-4D72-B38B-796012A8AE28
 :SLUG:     melbourne-zoo
 :END:
----
-title: Melbourne Zoo
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Melbourne Zoo
 
 #+BEGIN_VERSE
 Giraffe: tall, long-headed -- a tongue of 40cm

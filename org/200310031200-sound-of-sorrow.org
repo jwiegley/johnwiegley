@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       5E334B36-6BDD-4E4F-A96F-AE8F62702884
 :SLUG:     sound-of-sorrow
+:LOCATION: Chit Chat Cafe, Pacifica, California
+:EDITED:   [2005-09-02 Fri]
 :END:
----
-title: Sound of sorrow
-tags: poetry
-edited: 09/02/2005
-location: Chit Chat Cafe, Pacifica, California
----
+#+filetags: :poetry:
+#+title: Sound of sorrow
 
 #+BEGIN_VERSE
 Is the sound of sorrow

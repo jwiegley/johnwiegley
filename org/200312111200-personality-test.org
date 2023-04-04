@@ -2,10 +2,8 @@
 :ID:       0AF4ECA4-D383-4A51-A169-02F6C4FEFF15
 :SLUG:     personality-test
 :END:
----
-title: Personality test
-tags: journal
----
+#+filetags: :journal:
+#+title: Personality test
 
 Out of interest, took the
 [[http://www.humanmetrics.com/cgi-win/JTypes2.asp][Meyers-Briggs

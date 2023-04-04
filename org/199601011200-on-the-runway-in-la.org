@@ -2,10 +2,8 @@
 :ID:       F03B9B90-92F8-44FF-AA41-E7A22A2ADD65
 :SLUG:     on-the-runway-in-la
 :END:
----
-title: On the runway in LA
-tags: poetry
----
+#+filetags: :poetry:
+#+title: On the runway in LA
 
 #+BEGIN_VERSE
 This is a schoolyard where souls learn patience:

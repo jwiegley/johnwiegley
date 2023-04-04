@@ -2,10 +2,8 @@
 :ID:       E4460CF3-C43B-43BE-B7A9-CEC8AF3F8303
 :SLUG:     a-suns-love
 :END:
----
-title: A sun's love
-tags: poetry
----
+#+filetags: :poetry:
+#+title: A sun's love
 
 #+BEGIN_VERSE
 The sun's heart burns like fire cannot burn.

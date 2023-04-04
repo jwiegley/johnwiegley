@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       570C13F3-152A-4A0E-92C0-E023CC34B5B1
 :SLUG:     a-cool-image
+:LOCATION: Italy
+:EDITED:   [2004-04-10 Sat]
 :END:
----
-title: A cool image
-tags: poetry
-edited: 04/10/2004
-location: Italy
----
+#+filetags: :poetry:
+#+title: A cool image
 
 #+BEGIN_VERSE
 The vapors rising off the ice:

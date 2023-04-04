@@ -2,10 +2,8 @@
 :ID:       656BCBC5-8B39-407D-993C-6EB22EB14208
 :SLUG:     no-more
 :END:
----
-title: No more
-tags: poetry
----
+#+filetags: :poetry:
+#+title: No more
 
 #+BEGIN_VERSE
 Why is it each time I find you I lose myself?

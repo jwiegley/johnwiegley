@@ -2,10 +2,8 @@
 :ID:       8C9D6B67-33FC-4429-A9E6-F883B0FD8861
 :SLUG:     untitled-8
 :END:
----
-title: Untitled 8
-tags: journal
----
+#+filetags: :journal:
+#+title: Untitled 8
 
 Are you saying, then, that physical continuation should be the primary
 concern of any morality, to the point of sacrificing that morality?

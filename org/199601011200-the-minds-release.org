@@ -2,10 +2,8 @@
 :ID:       BED99273-7515-401D-9505-1E76480DC11E
 :SLUG:     the-minds-release
 :END:
----
-title: The mind's release
-tags: journal
----
+#+filetags: :journal:
+#+title: The mind's release
 
 When, through meditation, the mind has a release from the conscious
 duality of opposites, there is a dawning within the person that occurs.

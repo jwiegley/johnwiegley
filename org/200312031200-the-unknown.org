@@ -2,10 +2,8 @@
 :ID:       48DC9DA8-1E3A-4459-8F70-D343824B172A
 :SLUG:     the-unknown
 :END:
----
-title: The Unknown
-tags: journal
----
+#+filetags: :journal:
+#+title: The Unknown
 
 Every Wednesday I meet up with my friend Chris at a local cafe, and we
 discuss spirituality, existentialism, society and systems. These are

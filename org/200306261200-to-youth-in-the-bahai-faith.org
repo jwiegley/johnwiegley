@@ -2,10 +2,8 @@
 :ID:       7DBEDFF0-DC24-4FCB-9235-FAEE5B5F0529
 :SLUG:     to-youth-in-the-bahai-faith
 :END:
----
-title: To Youth in the Bahá'í Faith
-tags: journal
----
+#+filetags: :journal:
+#+title: To Youth in the Bahá'í Faith
 
 You have all been hearing, countless times, about your responsibilities
 and capacities as youth, and how the future of the Faith rests on your

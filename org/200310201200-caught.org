@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       5E55F58F-5B2A-4098-8A4C-F496139DB3EA
 :SLUG:     caught
+:LOCATION: 380 Esplanade Ave #211
+:EDITED:   [2003-11-06 Thu]
 :END:
----
-title: Caught
-tags: poetry
-edited: 11/06/2003
-location: 380 Esplanade Ave #211
----
+#+filetags: :poetry:
+#+title: Caught
 
 #+BEGIN_VERSE
 I am caught.

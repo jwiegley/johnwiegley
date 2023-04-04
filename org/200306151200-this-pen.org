@@ -1,13 +1,11 @@
 :PROPERTIES:
 :ID:       DBC84A7E-D5BD-4CBD-B307-17976235B4EA
 :SLUG:     this-pen
+:LOCATION: Spain
+:EDITED:   [2004-03-22 Mon]
 :END:
----
-title: This pen
-tags: poetry
-edited: 03/22/2004
-location: Spain
----
+#+filetags: :poetry:
+#+title: This pen
 
 #+BEGIN_VERSE
 How powerful,

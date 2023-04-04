@@ -2,10 +2,8 @@
 :ID:       7F174F22-1EAE-4514-A198-73788726984A
 :SLUG:     introduction-to-the-bahai-faith
 :END:
----
-title: Introduction to the Bahá'í Faith
-tags: essays
----
+#+filetags: :essays:
+#+title: Introduction to the Bahá'í Faith
 
 People need only two things to realize their perfection as human beings:
 education and effort. Both of these take numerous forms, so I don't mean

@@ -2,10 +2,8 @@
 :ID:       3A3AE556-6F97-4E7E-B157-D6D066E6F001
 :SLUG:     idle-complaint-and-freedom
 :END:
----
-title: Idle complaint and freedom
-tags: journal
----
+#+filetags: :journal:
+#+title: Idle complaint and freedom
 
 Something I've been thinking about for several years is the phenomenon
 of idle complaint: Complaining to another when no solution can possibly

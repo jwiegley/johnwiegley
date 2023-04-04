@@ -2,10 +2,8 @@
 :ID:       12D381A6-05FB-4B31-BCC2-80598A6B76BF
 :SLUG:     paean-for-the-broken
 :END:
----
-title: Paean for the Broken
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Paean for the Broken
 
 #+BEGIN_VERSE
 My light is a feeble thing.

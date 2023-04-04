@@ -2,10 +2,8 @@
 :ID:       35EDA599-FCC7-4DC0-A31F-C4F637CD97A5
 :SLUG:     cultural-interpretations
 :END:
----
-title: Cultural interpretations
-tags: journal
----
+#+filetags: :journal:
+#+title: Cultural interpretations
 
 While reading further in one of my favorite books today, /Decline and
 Fall of the Roman Empire/ (which takes a bit of getting used to, but is

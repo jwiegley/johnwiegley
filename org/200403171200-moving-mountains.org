@@ -2,10 +2,8 @@
 :ID:       84144F7F-BFC2-4E46-872F-449E72C5331D
 :SLUG:     moving-mountains
 :END:
----
-title: Moving mountains
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Moving mountains
 
 #+BEGIN_VERSE
 One drop of water holds a grain;

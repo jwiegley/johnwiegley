@@ -2,10 +2,8 @@
 :ID:       079120AF-3998-4DD8-A62B-F7A6CB89B64E
 :SLUG:     a-single-word
 :END:
----
-title: A single word
-tags: journal
----
+#+filetags: :journal:
+#+title: A single word
 
 If the Manifestation only wished for people to know the truth of things,
 this could be achieved with a single Word. So I do not think the

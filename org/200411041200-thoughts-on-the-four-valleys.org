@@ -2,10 +2,8 @@
 :ID:       FA996578-94A8-4E1D-B282-4FCD4FF5B3EA
 :SLUG:     thoughts-on-the-four-valleys
 :END:
----
-title: Thoughts on the Four Valleys
-tags: essays
----
+#+filetags: :essays:
+#+title: Thoughts on the Four Valleys
 
 After some thought on the scheme of the Four Valleys, the following is
 an interpretation based on some time spent musing.

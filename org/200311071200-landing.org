@@ -2,10 +2,8 @@
 :ID:       0048DE61-1B29-4E93-979B-EE05A8C3049F
 :SLUG:     landing
 :END:
----
-title: Landing
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Landing
 
 #+BEGIN_VERSE
 Landing after so long a flight

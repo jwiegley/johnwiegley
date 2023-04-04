@@ -2,10 +2,8 @@
 :ID:       9192C21E-E09C-47DE-8BD8-36D60CADD7FE
 :SLUG:     hawk
 :END:
----
-title: Hawk
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Hawk
 
 #+BEGIN_VERSE
 He called,

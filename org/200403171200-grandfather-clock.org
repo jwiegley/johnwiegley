@@ -2,10 +2,8 @@
 :ID:       3D034A83-D54B-4FD6-BE1C-81DA0CF535BE
 :SLUG:     grandfather-clock
 :END:
----
-title: Grandfather clock
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Grandfather clock
 
 #+BEGIN_VERSE
 She's only six, and the tension is terrible;

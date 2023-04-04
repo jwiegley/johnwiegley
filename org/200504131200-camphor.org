@@ -2,10 +2,8 @@
 :ID:       E1A1F825-AF36-456A-A6F0-C2F6C66A8798
 :SLUG:     camphor
 :END:
----
-title: Camphor
-tags: journal
----
+#+filetags: :journal:
+#+title: Camphor
 
 "Camphor" is used as a metaphor in a some of the more mystical writings,
 so I have tried to track the symbol down to its origin. Here is what I

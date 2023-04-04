@@ -2,10 +2,8 @@
 :ID:       26296E1C-0497-46D4-BCF1-034099218145
 :SLUG:     sail
 :END:
----
-title: Sail
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Sail
 
 #+BEGIN_VERSE
 Sails full, reaching out,

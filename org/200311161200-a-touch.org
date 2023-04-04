@@ -2,10 +2,8 @@
 :ID:       B69042C8-BB00-48A3-9C48-CFA2D2F385AA
 :SLUG:     a-touch
 :END:
----
-title: A touch
-tags: poetry
----
+#+filetags: :poetry:
+#+title: A touch
 
 #+BEGIN_VERSE
 Gently against the breeze --

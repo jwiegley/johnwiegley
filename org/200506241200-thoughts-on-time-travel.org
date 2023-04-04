@@ -2,10 +2,8 @@
 :ID:       9FC81A87-F3F5-42C2-A182-E4157567D227
 :SLUG:     thoughts-on-time-travel
 :END:
----
-title: Thoughts on time travel
-tags: journal
----
+#+filetags: :journal:
+#+title: Thoughts on time travel
 
 We tend to think of the universe as a stable system progressing from one
 state to another, methodically. This has been the dominant view for

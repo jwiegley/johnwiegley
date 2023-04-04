@@ -2,10 +2,8 @@
 :ID:       F4F7A38C-D423-4668-955F-6A829B4F336B
 :SLUG:     hope
 :END:
----
-title: Hope
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Hope
 
 #+BEGIN_VERSE
 In the cracks of the sidewalk

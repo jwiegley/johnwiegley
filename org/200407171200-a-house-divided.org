@@ -2,10 +2,8 @@
 :ID:       89D14D4A-44AE-4D42-B25F-F46785EDF23A
 :SLUG:     a-house-divided
 :END:
----
-title: A house divided
-tags: journal
----
+#+filetags: :journal:
+#+title: A house divided
 
 Why is following certain standards so hard? Why can we not "whip
 ourselves into shape"? Why do some behaviors feel impossibly hard to

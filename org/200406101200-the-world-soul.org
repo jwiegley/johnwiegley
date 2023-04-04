@@ -2,10 +2,8 @@
 :ID:       BE4AD765-6501-4E26-86CA-A302D91888F6
 :SLUG:     the-world-soul
 :END:
----
-title: The world soul
-tags: journal
----
+#+filetags: :journal:
+#+title: The world soul
 
 In the [[file:detachment][entry on detachment]], the essential split was
 between reality and those of our ideas which obscure that reality. We

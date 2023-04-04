@@ -2,10 +2,8 @@
 :ID:       80BF2AD2-1D7C-428A-B82A-12C16E7C94B7
 :SLUG:     estrucan-tombs-and-the-open-sea
 :END:
----
-title: Estrucan tombs, and the open sea
-tags: journal
----
+#+filetags: :journal:
+#+title: Estrucan tombs, and the open sea
 
 I am writing this evening from an old Roman amphitheater in Fiesole,
 which is a town in the hills north of Florence, and also the oldest

@@ -2,10 +2,8 @@
 :ID:       29C61D8E-54F6-427D-A1C9-DB69BABFAFAF
 :SLUG:     further-on-the-passion-of-possibility
 :END:
----
-title: Further on the passion of possibility
-tags: journal
----
+#+filetags: :journal:
+#+title: Further on the passion of possibility
 
 It must be so wonderful to play in a band. When I listen to musicians, I
 feel how connected they are to the raw power, and the moment, of

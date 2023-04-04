@@ -2,10 +2,8 @@
 :ID:       4CB1F879-B3E9-49F6-8F4C-8C9E69709F4C
 :SLUG:     italian-skies-are-also-blue
 :END:
----
-title: Italian skies are also blue
-tags: journal
----
+#+filetags: :journal:
+#+title: Italian skies are also blue
 
 A poem with a very special place in my history, because it is the first
 I've written without thought of whether others would like it.

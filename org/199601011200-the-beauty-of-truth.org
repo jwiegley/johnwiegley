@@ -2,10 +2,8 @@
 :ID:       FA9CF3E8-6E43-4ECA-833D-88B3D015FB63
 :SLUG:     the-beauty-of-truth
 :END:
----
-title: The beauty of truth
-tags: journal
----
+#+filetags: :journal:
+#+title: The beauty of truth
 
 The beauty of truth is neither tawdry, nor specious. In fact, in the
 very pain of truth lies the cathartic essence of its beauty.

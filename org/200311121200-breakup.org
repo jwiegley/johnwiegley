@@ -1,12 +1,10 @@
 :PROPERTIES:
 :ID:       163C890B-1C57-4E1B-AD28-33252D0482CD
 :SLUG:     breakup
+:LOCATION: 380 Esplanade
 :END:
----
-title: Breakup
-tags: poetry
-location: 380 Esplanade
----
+#+filetags: :poetry:
+#+title: Breakup
 
 #+BEGIN_VERSE
 Her tongue is a jagged knife --

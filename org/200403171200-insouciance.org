@@ -2,10 +2,8 @@
 :ID:       63EF26AD-8089-45B8-9A8D-8E009378E6E8
 :SLUG:     insouciance
 :END:
----
-title: Insouciance
-tags: poetry
----
+#+filetags: :poetry:
+#+title: Insouciance
 
 #+BEGIN_VERSE
 there are soft breezes blowing

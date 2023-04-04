@@ -2,10 +2,8 @@
 :ID:       AAC92FDC-2B8E-4CA7-BE58-0CF1B2422B93
 :SLUG:     questioning-sin
 :END:
----
-title: Questioning "sin"
-tags: journal
----
+#+filetags: :journal:
+#+title: Questioning "sin"
 
 In the original Hebrew the meaning of sin was "to miss the mark": to not
 fulfill what was meant to be, to lose an opportunity. Yet I hear sin

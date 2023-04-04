@@ -2,10 +2,8 @@
 :ID:       B33D9D07-C14C-4307-ABE0-F7FCFBD3CE59
 :SLUG:     the-believers-are-like-an-ocean
 :END:
----
-title: The believers are like an ocean
-tags: essays
----
+#+filetags: :essays:
+#+title: The believers are like an ocean
 
 #+BEGIN_QUOTE
 The aim of the appearance of the Blessed Perfection -- may my life be a
