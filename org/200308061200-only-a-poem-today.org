@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6DEF61A8-BAD7-416B-870E-62F21772A582
+:SLUG:     only-a-poem-today
+:END:
+---
+title: Only a poem today
+tags: journal
+---
+
+After this, I will send only if something really beautiful comes up. If
+you want to hear more than that, just ask. I imagine you all must be
+tired now of so many words.
+
+[[file:step.outside]]

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       DBC84A7E-D5BD-4CBD-B307-17976235B4EA
+:SLUG:     this-pen
+:END:
+---
+title: This pen
+tags: poetry
+edited: 03/22/2004
+location: Spain
+---
+
+#+BEGIN_VERSE
+How powerful,
+this pen in my hand;
+capable of reshaping the world.
+
+By itself,
+lonely and impotent.
+
+But if the will of an intent mind
+wields it with intention,
+its sharp point
+begins to shine into the future,
+like a laser pointing out
+the form of tomorrow.
+#+END_VERSE

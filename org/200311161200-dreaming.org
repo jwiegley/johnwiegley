@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       D423FC23-8745-4BBB-AC69-901A9355D6EF
+:SLUG:     dreaming
+:END:
+---
+title: Dreaming
+tags: poetry
+---
+
+#+BEGIN_VERSE
+My heart has bent itself into the shape of a crescent moon,
+leaning gently: the unconcerned shape of a smile.
+
+I laze in the full deep of night,
+sprawling like a cat who remembers kittenhood;
+
+Softly the dreams whisper in,
+and the maiden-form of sleep surrounds me.
+
+My body is an easy target, stretched out full,
+baring to the night-world my secrets of manhood.
+
+I see the colors of you and me,
+and hear the laughter of unremembered thoughts;
+
+I feel textures that speak of love and dearness,
+and dialog with a concourse of shifting images.
+
+Their words are as the light of the sun,
+and they speak with the wisdom of a child's laughter, winsome:
+
+I don't recall the message, or the meaning, only --
+I feel it in the afterglow of waking, like body-knowledge:
+
+The distance between you and me is a dream.
+#+END_VERSE

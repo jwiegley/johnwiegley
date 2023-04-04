@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3A4BCE84-9D7E-4282-8CFE-232BFEBA7E2E
+:SLUG:     so-many-waves
+:END:
+---
+title: So many waves
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Out on the sea
+so many waves
+pushing and pulling
+why can't I have one?
+#+END_VERSE

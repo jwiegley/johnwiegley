@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       B1D71CDC-F098-4CEB-8767-04646A701EE9
+:SLUG:     programming
+:END:
+---
+title: Programming
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Silently I peer into my computer,
+perceiving a palette of mental dreams.
+Images flash into my brain,
+then pour out in a stream of rapid fingers --
+no less real than the world around me.
+
+And my office is bereft,
+except for the little grey box, unassuming,
+where a whole other world takes place.
+#+END_VERSE

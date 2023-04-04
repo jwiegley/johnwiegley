@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       93F29660-AD1C-4111-908E-194FD4FF4D86
+:SLUG:     blackest-night
+:END:
+---
+title: The blackest night
+tags: poetry
+---
+
+#+BEGIN_VERSE
+O my dear, moth-like soul!
+He seeks an undiscovered Sun.
+He aims himself at skies
+feeble wings have never flown.
+
+What can be done?
+Despondent and dejected
+he turns from the Infinite
+ponders his privations
+laments his limits
+makes his plaint.
+
+And thus I turned myself
+to the deepest and darkest places.
+to a night so black
+it is an ink that stains my soul.
+
+Such that someday,
+as I fly, idly along,
+I may encounter but a single spark
+and ken the secrets of glory.
+#+END_VERSE

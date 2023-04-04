@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       504DC477-CB0A-42B1-B238-D6712CBF8496
+:SLUG:     i-plead
+:END:
+---
+title: I plead
+tags: poetry
+edited: 11/13/2003
+location: Guest room in the Rhodes' house, 312 Palmer Ave
+---
+
+#+BEGIN_VERSE
+I plead to your beauty: end my pain.
+My skin is a door
+and your fingers, each a key.
+This house, wherein heaven dwells,
+awaits your soft caress...
+Awaken me.
+#+END_VERSE

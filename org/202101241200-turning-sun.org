@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       750273CD-D08C-405D-A11B-BB0D88CDF030
+:SLUG:     turning-sun
+:END:
+---
+title: Turning sun
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Day after day,
+student watches
+the sun rise and set;
+asks the master:
+
+“How long has the Sun
+turned round the Earth?”
+
+Hears reply:
+"Not yet."
+#+END_VERSE

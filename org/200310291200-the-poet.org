@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       8F131C09-678E-40DD-8C68-AC9262F7F72D
+:SLUG:     the-poet
+:END:
+---
+title: The poet
+tags: poetry
+edited: 11/16/2003
+---
+
+#+BEGIN_VERSE
+A poet never knows which way
+  his pen will go, his mind will go;
+the canvas of the soul
+heeds his worded strokes --
+but the image remains unseen.
+
+Just as we speak from feeling,
+making full sentences
+  not knowing them beforehand,
+
+there is a vastness, unfilled,
+begging for that single drop...
+whose echoes
+are the shape of my words on paper.
+#+END_VERSE

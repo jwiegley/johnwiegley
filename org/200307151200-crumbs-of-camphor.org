@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       F132C827-D6B7-4534-88BF-04AFAAEB5B1C
+:SLUG:     crumbs-of-camphor
+:END:
+---
+title: Crumbs of camphor
+tags: poetry
+edited: 03/22/2004
+location: Italy
+---
+
+#+BEGIN_VERSE
+The lights of evening above,
+crumbs of camphor
+scattered on sackcloth;
+or the leavings of a banquet in heaven
+whose connosieurs
+dine only on light.
+#+END_VERSE

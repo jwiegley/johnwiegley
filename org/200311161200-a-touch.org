@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       B69042C8-BB00-48A3-9C48-CFA2D2F385AA
+:SLUG:     a-touch
+:END:
+---
+title: A touch
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Gently against the breeze --
+a soft whisper --
+her hand comes down upon my face.
+With eyes like the incandescent sun,
+burning heat straight into my root,
+I find a connection there
+that lasts until the morning's dawn.
+#+END_VERSE

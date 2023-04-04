@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       D470AF9B-DBFD-4551-A1D7-DB044DA0C163
+:SLUG:     wandering
+:END:
+---
+title: Wandering
+tags: poetry
+---
+
+#+BEGIN_VERSE
+My soul walks on and on,
+forever, forever,
+wandering.
+
+Then a light dawns.
+I see it is you.
+I am cheered.
+#+END_VERSE

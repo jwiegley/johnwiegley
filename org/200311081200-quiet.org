@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       247B397F-A87E-4DA2-BC59-77A60344B8EB
+:SLUG:     quiet
+:END:
+---
+title: Quiet
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Sometimes,
+I'm very quiet --
+
+Like the breeze at midday,
+the stillness of a pond
+  waiting for the rains,
+frogs, patient to begin
+  their croaking at night,
+the sound of sleepy children,
+the twilight dimming,
+a thoughtful moon behind grey clouds,
+an amber sunset,
+the calling of ocean waves,
+fond memories of childhood,
+a kitten, resting at night,
+the whisper of a flame,
+the moment of a symphony's last note...
+the silence.
+
+If these things can be,
+it explains why.
+#+END_VERSE

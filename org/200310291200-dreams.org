@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       16E2BF84-2191-4526-B941-A0E2FF287D78
+:SLUG:     dreams
+:END:
+---
+title: Dreams
+tags: poetry
+---
+
+#+BEGIN_VERSE
+The waters are not blue,
+but they are still.
+And the whitish field outside
+is still a living green in my memory.
+
+As I write you, I find
+
+That my sigh has grown forgiving,
+and my heart, fond of quiet --
+
+For my mind has ceased living,
+and in dying, now dreams.
+#+END_VERSE

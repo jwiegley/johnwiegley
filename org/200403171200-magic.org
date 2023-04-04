@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       220EA0A4-D0D6-4A3A-A247-895511F51F36
+:SLUG:     magic
+:END:
+---
+title: Magic
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Magic requires that people allow it to happen.
+
+If we close our mouths, how can the food enter?
+If we close our ears, where is the sound?
+
+It may seem like a silent world,
+but this appearance is not the reality.
+#+END_VERSE

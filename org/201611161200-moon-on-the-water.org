@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       3E3F10DE-D28F-4376-B8AC-8626D5E9ABC9
+:SLUG:     moon-on-the-water
+:END:
+---
+title: Moon on the water
+tags: poetry
+---
+
+#+BEGIN_VERSE
+moon on the water
+bright faces dancing, dancing
+wind calms, they head home
+#+END_VERSE

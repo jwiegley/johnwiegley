@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       28F4E8CF-4721-4B5C-A3B3-96EA04DF5FC1
+:SLUG:     her-name-means-thoughtful
+:END:
+---
+title: Her name means "thoughtful"
+tags: poetry
+---
+
+#+BEGIN_VERSE
+How much do we ponder
+the effect we have on each other's lives --
+even if it goes no further than a single day,
+no deeper than a conversation?
+
+Sometimes, our eyes as we walk away,
+or a simple touch,
+or laughter,
+can mean everything to a person's heart.
+
+What we don't see
+is how life prepares us
+to understand this.
+#+END_VERSE

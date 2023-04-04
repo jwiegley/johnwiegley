@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       B5AC83F1-10A9-4D97-BA73-01B7DEA4507B
+:SLUG:     beauty
+:END:
+---
+title: Beauty
+tags: poetry
+---
+
+#+BEGIN_VERSE
+If I speak of sadness and sorrowful weeping,
+lachrymose wandering,
+clutching at my heart --
+perhaps I refer to the beauty of its reality.
+
+Or loneliness. Although empty beyond thought,
+vacant like the winter, without warmth,
+a terrible disease of struggling --
+yet is it a real thing, an honest thing.
+
+Such purities burn away
+the heavy sackcloth
+that hides the face of beauty.
+#+END_VERSE

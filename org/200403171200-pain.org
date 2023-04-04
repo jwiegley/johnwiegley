@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       9E95EB28-5060-44FC-9965-10E25320AABB
+:SLUG:     pain
+:END:
+---
+title: Pain
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Man clutches at his heart with an empty fist --
+  finding nothing to remove, nothing to replace --
+while the pain of it burns him like a dying ember,
+  trapped and immovable in the center of his chest.
+
+In the hope of love, he lives on --
+  hope of peace, hope of rest, hope of stillness.
+He hopes until wet tears bring the taste of salt to his mouth;
+  and yet still, there is nothing but that salt to console him.
+
+Farewell, to the fading sunset:
+  not in this life will I find relief,
+but in the next, where all things wonderful that could not be
+  find expression in ways we never dreamed of.
+#+END_VERSE

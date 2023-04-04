@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       164EC8DF-F902-4A21-8A4D-583C3B12E341
+:SLUG:     turtle
+:END:
+---
+title: Turtle
+tags: poetry
+---
+
+#+BEGIN_VERSE
+He paws the ground
+and finds it cold and solid;
+then pokes out a small, leathery head,
+and crawls to where the sun waits,
+glinting above the water.
+#+END_VERSE

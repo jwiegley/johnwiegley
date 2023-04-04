@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       0C0B4C7F-0BBE-4A69-9D2A-4CDE62ABD113
+:SLUG:     kitten-strikes-again
+:END:
+---
+title: Kitten strikes again
+tags: poetry
+---
+
+#+BEGIN_VERSE
+When the water clears
+and the moon shines back
+the kitten strikes again.
+#+END_VERSE

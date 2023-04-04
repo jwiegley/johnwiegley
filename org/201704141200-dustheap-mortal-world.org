@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       66AFA70A-5C00-43F2-B92A-421090E693E7
+:SLUG:     dustheap-mortal-world
+:END:
+---
+title: The dust-heap of this mortal world
+tags: poetry
+---
+
+#+BEGIN_VERSE
+This world is a dust-heap --
+  no better than ash;
+but even dust can be used
+to write out words of such import
+that it changes everything.
+#+END_VERSE

@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       6DC6C0C4-DCE5-4D37-958A-2F7D7CDD6700
+:SLUG:     the-tree
+:END:
+---
+title: The tree
+tags: poetry
+location: Popeye's, Thornydale Road, Tucson, AZ
+---
+
+#+BEGIN_VERSE
+The tree
+digs its roots deep
+drawing out
+nourishment and means
+from the Earth.
+
+It stands tall
+stretching out boughs
+to receive the Light
+that shines down
+from Heaven.
+
+It yields fruit
+for others to live by;
+gives shelter
+to those below
+and a home to those above.
+
+It marries
+the two Kingdoms
+of ground and sky
+into a beautiful
+bountiful creation.
+
+If a man
+could learn
+such secrets as these
+he would know
+his place in the world.
+#+END_VERSE

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       374FE018-E884-466B-A967-38B955777C0A
+:SLUG:     vanishing
+:END:
+---
+title: Vanishing
+tags: poetry
+---
+
+#+BEGIN_VERSE
+The evanescence of vapor;
+or of dreams;
+or the humble devotion
+of planets about their sun
+who in the end
+must be consumed in its fire.
+#+END_VERSE

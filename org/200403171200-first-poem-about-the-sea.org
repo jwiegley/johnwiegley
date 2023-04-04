@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       5CB5177D-7618-4344-BBD8-549A8ACD4C41
+:SLUG:     first-poem-about-the-sea
+:END:
+---
+title: First poem about the sea
+tags: poetry
+---
+
+#+BEGIN_VERSE
+If I speak to you of the sea,
+feel it rolling through your heart,
+carrying you to lands unknown
+beyond the cloudy ridge of mystery.
+
+She changes shape, temper,
+strength and rhythm,
+even as we speak of her --
+because we speak of her --
+one whose waters feed on our dreams.
+
+Last night I lay with the sea,
+her arms enfolding me a thousand times.
+#+END_VERSE

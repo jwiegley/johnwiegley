@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       4E61DEE6-B7A6-4032-B79E-944DFB83AE86
+:SLUG:     a-mime
+:END:
+---
+title: A mime
+tags: poetry
+edited: 03/22/2004
+location: Italy
+---
+
+#+BEGIN_VERSE
+I watched a mime
+think he could paint the sky with his touch;
+his hands, dipped in white paint,
+drawing strokes that left no imprint.
+
+Unless it was not the air
+he meant to reach,
+and his canvas
+not the emptiness around him...
+
+But the eyes of his watchers,
+their little easels of hearts
+capturing each vanishing motion
+in the fondness of memory.
+#+END_VERSE

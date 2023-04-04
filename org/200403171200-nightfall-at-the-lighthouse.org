@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9E758501-D7F1-42CA-9A2A-F6869FA12F55
+:SLUG:     nightfall-at-the-lighthouse
+:END:
+---
+title: Nightfall at the lighthouse
+tags: poetry
+---
+
+#+BEGIN_VERSE
+The sun's light grows cold;
+its embers, like clouds of flame,
+are put away.
+
+Blue becomes black, black becomes dream.
+The moths begin their night-journey.
+
+The moon is but a god of borrowed vesture.
+#+END_VERSE

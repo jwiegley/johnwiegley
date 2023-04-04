@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8AAFA443-FC64-4AB8-9BC0-A3ECD3DC849C
+:SLUG:     pressing-rain
+:END:
+---
+title: Pressing rain
+tags: poetry
+edited: 03/17/2004
+location: Sitges, Spain
+---
+
+#+BEGIN_VERSE
+The rain, the fog-like, pressing rain.
+A cloud has fallen low,
+it wraps itself around me.
+The drops of its inward being
+confound all hope of staying dry.
+#+END_VERSE

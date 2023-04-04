@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       F152B314-BF14-4993-B274-6585AAD697A0
+:SLUG:     someday
+:END:
+---
+title: Someday
+tags: poetry
+---
+
+#+BEGIN_VERSE
+We always know that summer will come,
+and the rainbow,
+and happiness... someday.
+
+But when is the important question.
+
+Each day, are we standing at the front
+of a thousand-day winter?
+Or is spring just around the bend...
+#+END_VERSE

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       0E97578D-6CC9-4E31-8194-E597CFF39B14
+:SLUG:     pictures-of-pacifica
+:END:
+---
+title: Pictures of Pacifica
+tags: journal
+---
+
+Finally! I can show some images of my home town, Pacifica, California
+(which is about four miles south from the city of San Francisco). I've
+done web searches before to find images of Pacifica, but couldn't turn
+up much. So here is [[file:gallery/California/Pacifica/index.html][my
+own gallery]], with a few pictures from the part of town where I live.
+
+Also, these photos represent another stage in my camera education: Most
+of them were taken in aperture priority mode, where I was able to
+manually control the depth of field. I then transferred the RAW images
+into Photoshop CS, and played around with the white balance, color
+curves, lighting levels, used the healing brush, etc. I am addicted to
+that program already! and have found it very easy to turn marginal
+photos into just what I was looking for.
+
+I have also winnowed the collection of Aptos pictures to my true
+favorites, and added
+[[file:gallery/California/Scotts%20Valley/index.html][another set of
+photos]] from a picnic this past weekend in Scotts Valley (a town about
+one hour to the south).

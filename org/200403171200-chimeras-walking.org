@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       25DF7C4C-7586-4AE2-9F8B-F7DC8B2A4E30
+:SLUG:     chimeras-walking
+:END:
+---
+title: Chimeras walking
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Caprice, clad in epidermal cloth;
+chimeras walking through the Valley of Death:
+like a shapeshifter in the night,
+a ghostly wisp of smoke,
+a dazzle of moonlight on a glistening stone:
+never the same, always changing.
+Humans beings are a flux in the middle of the universe.
+#+END_VERSE

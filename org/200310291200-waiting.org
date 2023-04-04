@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       6166D0E9-3FDA-421E-9B19-23091EE0EE1F
+:SLUG:     waiting
+:END:
+---
+title: Waiting
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Waiting for the tips of trees
+to bow at your arrival...
+waiting.
+
+Waiting for the sun's light
+to reflect your longing gaze...
+waiting.
+
+Waiting for the phone to ring --
+a letter, a foot-fall...
+waiting.
+
+Waiting in a depth of silence
+that drowns my expectations...
+waiting.
+
+Waiting for the moon to shine,
+but not so bright
+as that face near mine...
+waiting.
+
+Waiting for you, if you haven't understood --
+waiting for you.
+#+END_VERSE

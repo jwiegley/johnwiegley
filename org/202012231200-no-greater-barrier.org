@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5790D173-A0BB-44DF-8EDA-273E5CAD9A7B
+:SLUG:     no-greater-barrier
+:END:
+---
+title: No greater barrier
+tags: poetry
+---
+
+#+BEGIN_VERSE
+There is no greater barrier in our journey
+than the boundaries of self.
+It is a prison whose walls we cannot break,
+since our own desire strengthens them.
+
+We are the narrators of our existence,
+deeply believing in the stories we tell ourselves:
+a shadow world pulled over the eyes;
+a mirage of imagination.
+#+END_VERSE

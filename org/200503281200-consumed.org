@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       CD511A7C-67D3-4471-BB38-76BE86BC1AC4
+:SLUG:     consumed
+:END:
+---
+title: Consumed
+tags: poetry
+edited: 04/19/2005
+location: Tempe Bahá'í Center, Arizona
+---
+
+#+BEGIN_VERSE
+O fire, beautiful fire!
+Your pain so intense
+it tickles my soul.
+
+I am burnt today,
+my skin is black and
+puffed and ruined.
+
+Little by little
+you turn me into
+a delicate smoke;
+
+Up, up, into the vast sky I go
+floating on the finest breezes.
+#+END_VERSE

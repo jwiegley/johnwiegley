@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       84144F7F-BFC2-4E46-872F-449E72C5331D
+:SLUG:     moving-mountains
+:END:
+---
+title: Moving mountains
+tags: poetry
+---
+
+#+BEGIN_VERSE
+One drop of water holds a grain;
+one moment of time, a thought.
+
+No one noticed the little thieves
+who stole what nature'd wrought.
+
+Now a broad canyon sleeps
+where a mountain once was king --
+
+Perhaps one of the believers gestured.
+
+  “If you have faith
+  even as a grain of mustard seed
+  you will say to this mountain
+  `Remove thee from!'
+  and it will move.” -- Matthew 17:20
+#+END_VERSE

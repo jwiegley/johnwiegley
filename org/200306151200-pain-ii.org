@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       B2299C3F-F14C-44F7-820B-5B0545B65A1C
+:SLUG:     pain-ii
+:END:
+---
+title: Pain II
+tags: poetry
+edited: 11/30/2005
+location: Spain
+---
+
+#+BEGIN_VERSE
+pain reaches up
+fingers of nettles
+a hand from a dark and bitter pool
+deep within
+
+as it wraps around
+our bright, present moment
+and begins to squeeze...
+
+our mind is a flaming torch
+held high in that hand
+a tribute to the joys of tomorrow
+#+END_VERSE

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8380FF39-33BC-488C-9649-FB9D0DBEE739
+:SLUG:     a-pretty-challenge
+:END:
+---
+title: A pretty challenge
+tags: poetry
+edited: 03/27/2005
+---
+
+#+BEGIN_VERSE
+Whenever I look at the girls of the world,
+every face is a pretty challenge.
+Such beauty, beheld with my outward eyes;
+will I ever see life, inwardly, that way?
+#+END_VERSE

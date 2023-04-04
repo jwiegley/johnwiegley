@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       4D47AF3F-BDA2-4C53-9A3A-7597A78BCD0D
+:SLUG:     at-night-in-santa-cruz
+:END:
+---
+title: At night in Santa Cruz
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Pale evening and a lone, bright star;
+or Venus, and the memory of loving.
+#+END_VERSE

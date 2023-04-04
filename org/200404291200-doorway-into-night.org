@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3F4BDDAA-B0A9-4D7E-ABE9-54C3923C2FF8
+:SLUG:     doorway-into-night
+:END:
+---
+title: Doorway into Night
+tags: poetry
+location: 380 Esplanade #211
+---
+
+#+BEGIN_VERSE
+I stand on a border
+between light and shadow:
+the falling sun my gateway
+to a world beyond worlds.
+I can almost glimpse
+the guise of Tomorrow
+hidden behind the rise;
+when darkness finds me
+and sweeps me into time.
+#+END_VERSE

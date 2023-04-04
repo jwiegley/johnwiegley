@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       D4B9FF59-5681-486E-B49E-949748BD91A5
+:SLUG:     city-lights
+:END:
+---
+title: City lights
+tags: poetry
+---
+
+#+BEGIN_VERSE
+The city is strung with lights,
+pearls of white, yellow,
+glowing brilliantly
+as the sun sinks
+in the western hills.
+
+Lying on my side,
+watching the city fall to sleep,
+my thoughts wander across the ocean,
+wondering if your smiling eyes
+wouldn't dazzle me the more.
+#+END_VERSE

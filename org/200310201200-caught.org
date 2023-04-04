@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5E55F58F-5B2A-4098-8A4C-F496139DB3EA
+:SLUG:     caught
+:END:
+---
+title: Caught
+tags: poetry
+edited: 11/06/2003
+location: 380 Esplanade Ave #211
+---
+
+#+BEGIN_VERSE
+I am caught.
+The strands of your hair
+have woven a net about me.
+Your eyes -- two phantom lights --
+have lured me from the path;
+your smile's fair beacon
+led my vessel to the rocks,
+and the fineness of your gait
+has left me breathless.
+#+END_VERSE

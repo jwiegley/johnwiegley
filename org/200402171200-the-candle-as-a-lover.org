@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       AC12120F-EB1B-4F52-A05E-7FA6D8A4683F
+:SLUG:     the-candle-as-a-lover
+:END:
+---
+title: The candle as a lover
+tags: journal
+---
+
+Today a poem, using the well-known metaphor of [[file:the.candle][The
+Candle]] to depict the heights of mystic love -- in which the lover
+becomes as nothing in devotion to his friend. Or as Bahá'u'lláh words it
+in /The Seven Valleys/:
+
+#+BEGIN_QUOTE
+For when the true lover and devoted friend reacheth to the presence of
+the Beloved, the sparkling beauty of the Loved One and the fire of the
+lover's heart will kindle a blaze and burn away all veils and wrappings.
+Yea, all he hath, from heart to skin, will be set aflame, so that
+nothing will remain save the Friend.
+
+#+END_QUOTE
+
+* RSS now available
+:PROPERTIES:
+:CUSTOM_ID: rss-now-available
+:END:
+If you subscribe via RSS to
+[[http://www.newartisans.com/johnw/site.rdf]], you can receive updates
+whenever new journal entries are added.

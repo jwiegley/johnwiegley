@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       EE0A6B95-3B03-41DB-A02D-C4C862F047EF
+:SLUG:     unwritable
+:END:
+---
+title: Unwritable
+tags: poetry
+---
+
+#+BEGIN_VERSE
+A pen-painted picture
+the mind my canvas
+images of you, a recollection
+of moments stretched into hours.
+How can writing tell the ways of it?
+#+END_VERSE

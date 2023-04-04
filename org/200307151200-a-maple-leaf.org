@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       A9C9E0E1-2B3C-497F-B648-7FEF9D57A120
+:SLUG:     a-maple-leaf
+:END:
+---
+title: A maple leaf
+tags: poetry
+edited: 03/22/2004
+location: Italy
+---
+
+#+BEGIN_VERSE
+A maple leaf
+is a webbed, green hand
+that waves at the breeze.
+The trunk of its arm,
+roughened by years,
+ending in a shoulder of hill.
+Where are the feet of such a man?
+if not the pebbly toes
+still cooling in a nearby stream.
+#+END_VERSE

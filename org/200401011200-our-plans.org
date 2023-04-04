@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       64BE150F-5C80-46B2-A565-BA452297A548
+:SLUG:     our-plans
+:END:
+---
+title: Our plans
+tags: poetry
+edited: 03/27/2005
+---
+
+#+BEGIN_VERSE
+How suddenly life seizes upon one,
+breaking along the shore
+of our sand-castle plans
+like so many dissolving fingers.
+#+END_VERSE

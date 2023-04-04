@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2903EDFC-BC7D-4074-ABB9-DDC525B68149
+:SLUG:     power
+:END:
+---
+title: Power
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Into the river I cast a stone
+and the waters part immediately;
+I feel like a conqueror: powerful.
+
+Then eight thousand years go by.
+The rock is gone; I am dust.
+The meaning of power has changed.
+#+END_VERSE

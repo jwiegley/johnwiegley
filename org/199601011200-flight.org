@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       B30E1714-EF38-4EC2-B989-0D1EAE444437
+:SLUG:     flight
+:END:
+---
+title: Flight
+tags: poetry
+edited: 03/17/2004
+---
+
+#+BEGIN_VERSE
+If a bird's wings are so soft
+  that beat the air
+and so small as to be tiny dots,
+  far away,
+then why do I feel them,
+  brushing against my heart,
+whenever I gaze up at the sky
+  and join in spirit
+  their vaulting, skyward flight?
+#+END_VERSE

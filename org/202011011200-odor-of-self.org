@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       E6603B15-26AE-42EF-AFA0-C559A123CA5B
+:SLUG:     odor-of-self
+:END:
+---
+title: The odor of self
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Only the self
+takes note of
+the odor of self.
+
+To the real real
+there's just
+a mewling infant:
+
+sometimes stinking
+sometimes fresh;
+always growing
+always changing.
+#+END_VERSE

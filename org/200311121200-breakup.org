@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       163C890B-1C57-4E1B-AD28-33252D0482CD
+:SLUG:     breakup
+:END:
+---
+title: Breakup
+tags: poetry
+location: 380 Esplanade
+---
+
+#+BEGIN_VERSE
+Her tongue is a jagged knife --
+It saws me.
+It cuts the little bits
+that seem too big.
+
+Why does she need my single world
+  mosaic?
+So many motley tiles
+that won't fit neatly.
+
+She breaks it up --
+so we breakup --
+but I still can't
+find the pieces.
+#+END_VERSE

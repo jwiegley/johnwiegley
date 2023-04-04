@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       A87ACB2C-1F8F-4CFF-9EDA-5BB067D0983F
+:SLUG:     sudden-flash
+:END:
+---
+title: Sudden flash
+tags: poetry
+location: 5130 (Barbara Swenson's house), Tucson, AZ
+---
+
+#+BEGIN_VERSE
+Rainfall outside my window:
+Water sweeps the sky.
+
+A flash in the silence.
+
+Painted on my mind's eye:
+Images of distant peaks.
+
+A sudden, dark rumble.
+#+END_VERSE

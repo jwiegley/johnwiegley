@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       D188FAD9-FFE2-451B-8378-42D02353379B
+:SLUG:     enter-the-night
+:END:
+---
+title: Enter the night
+tags: poetry
+edited: 03/22/2004
+location: Italy
+---
+
+#+BEGIN_VERSE
+Wan sun is all that fills
+the somber arch of the sky;
+one Eye, closing in restful contemplation
+of the denizens below;
+one minute, before its last ray
+jousts the sky, to be no more;
+one instant -- a pause of fading day --
+before acquiescing to enter the night.
+#+END_VERSE

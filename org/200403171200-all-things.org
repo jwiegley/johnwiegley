@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8CDF3682-1B98-429B-8D0B-A89FD40093FD
+:SLUG:     all-things
+:END:
+---
+title: All things
+tags: poetry
+---
+
+#+BEGIN_VERSE
+When tasting a bitter cup,
+sprinkle sugar on the lips:
+whether raw and powder-fine
+or metaphoric:
+
+  "Say: All things are of God."
+
+Pass me the mug.
+#+END_VERSE

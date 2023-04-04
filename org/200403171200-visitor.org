@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       1BD9314F-D679-4B0B-A073-722CC6147C57
+:SLUG:     visitor
+:END:
+---
+title: Visitor
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Some only sit by
+to observe, to question,
+but not to delve.
+
+But when those others come --
+the night is filled with dancing.
+
+After candles go to sleep,
+and the sky shows its rainbow,
+I awake.
+
+I'd forgotten the day, and who I was.
+A soul'd come to visit me.
+#+END_VERSE

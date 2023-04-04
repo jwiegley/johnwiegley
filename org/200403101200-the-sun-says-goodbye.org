@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       473971A3-769B-4DB5-869E-6202C2A688D4
+:SLUG:     the-sun-says-goodbye
+:END:
+---
+title: The sun says goodbye
+tags: poetry
+---
+
+#+BEGIN_VERSE
+So gentle, the sun's light,
+moving slowly into evening;
+with her words, "I love you," just as softly,
+echoing in my ear.
+
+Young rabbits all white, and baby kittens,
+are playing with my soul;
+while I watch the last, golden ray
+disappear beyond the rise.
+#+END_VERSE

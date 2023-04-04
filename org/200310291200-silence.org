@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       4E2C6F99-4DF3-4ADA-9439-8C9B1F48B583
+:SLUG:     silence
+:END:
+---
+title: Silence
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Silence
+
+allows me to think,
+  to feel,
+  to dream,
+  to wonder,
+  to realize,
+  to awaken,
+  to know.
+
+I watch your eyes
+play silently in the light --
+what else is there?
+#+END_VERSE

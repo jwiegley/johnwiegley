@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       947472B1-2788-4270-B653-C334F8A72292
+:SLUG:     never-mind
+:END:
+---
+title: Never mind
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Never mind that I just ignored you,
+  just passed you by,
+  just voted to put you down,
+  just kicked you,
+  just ignored the fact of your being --
+
+My parents made sure the word
+"stranger"
+allowed for anything.
+#+END_VERSE

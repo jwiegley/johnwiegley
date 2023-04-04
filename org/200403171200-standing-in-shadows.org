@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2F6B9619-D0F2-4DC9-8DD7-239CFBDA5162
+:SLUG:     standing-in-shadows
+:END:
+---
+title: Standing in shadows
+tags: poetry
+---
+
+#+BEGIN_VERSE
+I say: let them burn the Mona Lisa!
+cast down the Parthenon!
+and raze the pyramids of Egypt.
+
+Any time man stands
+in the shadow of what he creates,
+we are bound for poverty.
+#+END_VERSE

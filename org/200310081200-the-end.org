@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       77BD528B-19E7-45A2-9F6C-0FC8938794B1
+:SLUG:     the-end
+:END:
+---
+title: The End
+tags: poetry
+edited: 10/22/2003
+location: Dad's house, 325 Morrow, upper room
+---
+
+#+BEGIN_VERSE
+Happiness is the real real.
+It is the fire in the dark of night --
+the sound of the Loved One's name.
+Consider it the endless blue
+when the last cloud has gone.
+
+And that blue, that emanation:
+whence comes the light?
+That you may know:
+the soul is the looking
+and the feeling
+of the forms of the Looked Upon.
+
+You carry within you,
+by the signature of your own reality,
+full knowledge of the beginning and end.
+
+When these two purposes --
+Hoped For, and hope --
+find their harmony,
+then happiness gives reason for it all.
+
+Pure, unwritten;
+not theories or words.
+Until you know it
+without reference to knowledge,
+life must remain a mystery.
+#+END_VERSE

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       68F5791E-6CF8-4481-98C1-A67C9793B1AC
+:SLUG:     something-i-thought-you-said
+:END:
+---
+title: Something I thought you said
+tags: poetry
+---
+
+#+BEGIN_VERSE
+You feel that you're past poetry;
+that it's a sentimental thing -- for children.
+
+Well, guess who I am,
+and what I strive to be:
+the ingenuousness of a child.
+#+END_VERSE

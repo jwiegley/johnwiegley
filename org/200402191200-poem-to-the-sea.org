@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       01833E6E-B650-4FB5-BBE3-4219906A1A30
+:SLUG:     poem-to-the-sea
+:END:
+---
+title: Poem to the Sea
+tags: poetry
+location: 380 Esplanade
+---
+
+#+BEGIN_VERSE
+I watch you, my friend,
+your vast belly
+undulating in rhythms
+to some mystic dance;
+your gentle suspirations
+and balming murmurs
+that leave the heart entranced;
+your cold and watery hues:
+now green in the shallows
+now black in the depths --
+where uncounted fathoms
+halt the light's advance:
+I call you the sea --
+but every moment you change.
+You defy my conceptions.
+You swallow whole
+my ships of fancy --
+as you wash away the words
+I write upon your sands.
+#+END_VERSE

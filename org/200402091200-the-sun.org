@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8936C8B4-DC68-45ED-B7A1-762D527657F7
+:SLUG:     the-sun
+:END:
+---
+title: The Sun
+tags: poetry
+location: 325 Morrow Road
+---
+
+#+BEGIN_VERSE
+I am fond of the sun.
+It reaches rays of light around me
+and gives the warmest hugs;
+it beams at me with smiles
+that light my world;
+it leaves me each day,
+to my quiet thoughts,
+but returns to wake me in the morning.
+What lover's know --
+perhaps they learn from the sun.
+#+END_VERSE

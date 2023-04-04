@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6FFDA4A0-F981-4C38-B5FE-0CE2DEC6AB7E
+:SLUG:     compass-of-the-mind
+:END:
+---
+title: The reach of mind
+tags: poetry
+---
+
+#+BEGIN_VERSE
+The mind is a capable container
+excellent at measuring;
+though it cannot substitute
+for swimming in the deeps.
+
+The compass of the mind
+is whatever it can conceive;
+but the bound of the heart
+is all that it believes.
+#+END_VERSE

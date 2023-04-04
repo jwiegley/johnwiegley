@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2EB739A5-2D61-422D-89E1-EB16BFF37EBC
+:SLUG:     the-riven-heart
+:END:
+---
+title: The riven heart
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Deep in the riven heart
+flows such molten heat
+
+That the cup of thought
+bears no drop to keep.
+#+END_VERSE

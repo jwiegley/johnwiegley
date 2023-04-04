@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       17B67CE3-006E-4F96-8390-98DD4F4BAC7D
+:SLUG:     heat
+:END:
+---
+title: Heat
+tags: poetry
+location: 380 Esplanade Ave #211
+---
+
+#+BEGIN_VERSE
+Whenever I see you,
+my eyes feel as if
+soaked in wine
+and kindled into flame...
+
+Two burning orbs,
+which lose their color
+in the ruddy fire.
+All vision is gone
+but your memory.
+#+END_VERSE

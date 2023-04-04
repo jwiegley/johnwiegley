@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9949FF9A-A63A-4F2C-8BC0-ADB10D31C919
+:SLUG:     feeling-rich
+:END:
+---
+title: Feeling rich
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Colors, like purple;
+sounds, like a lover's whisper;
+lazy Sundays in the city,
+or any day in the country.
+
+Evenings like this one:
+soft breezes that play in the flower bed,
+a lonely cat, crying for a friend,
+and my thoughts, seeking your memory...
+#+END_VERSE

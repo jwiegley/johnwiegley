@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       2DCC2545-3A32-47A6-AE13-32959C4CA5BA
+:SLUG:     constant-sun
+:END:
+---
+title: Constant sun
+tags: poetry
+---
+
+#+BEGIN_VERSE
+The sun rises and sets;
+it moves through the Zodiac;
+it shines on clear days
+or is hidden by clouds.
+
+Whatever condition
+the Earth happens to be in
+determines how we see
+the sun on that day.
+
+Meanwhile,
+it has never moved,
+never changed,
+never shined
+any more or less brightly.
+#+END_VERSE

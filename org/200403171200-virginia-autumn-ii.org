@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       07DDF735-CE85-42CB-B487-39A49FDDB86E
+:SLUG:     virginia-autumn-ii
+:END:
+---
+title: Virginia autumn II
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Virginia autumn, when leaves regale
+with their moving, wordless tale;
+
+A language of signs, each painted leaf
+like golden hands gone pale.
+
+What do they say, those flustered leaves,
+filling both hill and dale?
+
+Perhaps they warn of winter's chill
+or its biting, frosty veil;
+
+Or maybe they sorrow the loss of time
+and run to cloak the trail.
+#+END_VERSE

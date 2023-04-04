@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       0A2FBF40-29FC-4121-AFF0-2F24BEF1E13B
+:SLUG:     one-day
+:END:
+---
+title: One day
+tags: poetry
+edited: 04/25/2005
+location: Manijeh's house, Gilbert, Arizona
+---
+
+#+BEGIN_VERSE
+There came a day
+when the blood in my veins
+  turned to wine:
+now I am always drunk;
+
+When my eyes filled
+  with a special light:
+now I cannot see darkness;
+
+When my waking life
+  became as a dream:
+now I am always soaring...
+
+These things happened slowly
+  and then quickly
+the way a flower grows
+for weeks and weeks
+and one day suddenly blooms.
+
+There is no one who is not growing
+toward their heart's fulfillment.
+
+Turn to the Sun,
+drink the bountiful rains,
+strive to push through that
+  weighing soil...
+
+The rest will happen of itself.
+#+END_VERSE

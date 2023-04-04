@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       660527BB-F621-4F92-96CD-1458C1F70A5E
+:SLUG:     even-more-pictures
+:END:
+---
+title: Even more pictures
+tags: journal
+---
+
+Been having lots of fun with the new camera lately. It seems that
+shooting from a tripod greatly improves the quality of the images (which
+is really no surprise). So here are
+[[file:gallery/Colorado/Garden%20of%20the%20Gods/index.html][some new
+images]] from the "Garden of the Gods" in Colorado Springs. Also, a few
+more pictures have been added to the
+[[file:gallery/Illinois/Chicago/index.html][Chicago gallery]].

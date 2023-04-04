@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       DBBB5716-4533-4F5F-BA1C-52D94DB2FF59
+:SLUG:     butterflies
+:END:
+---
+title: Butterflies
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Why they make a nest of my stomach, I'll never know.
+But they have such beautiful colors, such rhythms!
+I forgive them.
+
+Only let my caller call,
+so that her voice may set them free.
+#+END_VERSE

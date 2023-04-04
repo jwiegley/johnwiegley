@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0B3D16E0-3FC8-4253-A3F2-395B68863E78
+:SLUG:     if-my-heart-were-to-speak
+:END:
+---
+title: If my heart were to speak...
+tags: poetry
+---
+
+#+BEGIN_VERSE
+If my heart were to speak
+it would cry.
+The words would be choked out.
+
+And if they squeaked their way
+through the din of the world,
+they would remain unheard --
+
+Like a whisper in a firestorm,
+or the footsteps of a kitten in the rain.
+#+END_VERSE

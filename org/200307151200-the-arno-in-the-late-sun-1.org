@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       F33DE00F-86C9-40B2-B94C-5489021F28A9
+:SLUG:     the-arno-in-the-late-sun-1
+:END:
+---
+title: The Arno in the late sun
+tags: poetry
+edited: 04/10/2004
+location: Italy
+---
+
+#+BEGIN_VERSE
+The Arno in the late sun:
+speckles of gold and silver
+on an olive green;
+green and gold and silver...
+a treasure of coins
+all minted in light
+on a moving, velvet green...
+#+END_VERSE

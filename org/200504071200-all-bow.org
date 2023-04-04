@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       6D28C264-5A85-448F-8926-64F5C22A2A4A
+:SLUG:     all-bow
+:END:
+---
+title: All bow
+tags: poetry
+location: Chocolate Iguana, Tucson, Arizona
+---
+
+#+BEGIN_VERSE
+The poets strung pearls
+  so I undid the strands;
+the wise crafted words
+  so I helped them understand.
+
+The sophists debated
+  so I tied up their tongues;
+the prophets prophesied
+  so I gave Destiny a hand.
+
+When all was done
+  and the smoke had cleared
+each one bowed down before me:
+  "How swift thy sword!" they exclaimed.
+
+But I, the poet madman,
+did demure:
+  “It was Love that smote thee, sires,
+  for none may play the lord
+  in His domain.”
+#+END_VERSE

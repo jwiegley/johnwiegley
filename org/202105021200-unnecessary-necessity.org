@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       FE4108F6-C380-41C8-983F-450A430EFB40
+:SLUG:     unnecessary-necessity
+:END:
+---
+title: Unnecessary necessity
+tags: poetry
+---
+
+#+BEGIN_VERSE
+To me Zen is freedom
+from unnecessary necessity;
+and in that freedom,
+time for other things.
+No longer a stone
+skipping across the surface,
+I sink to the bottom
+and hold the lakebed down.
+Though both are a fantasy:
+the one at rest
+the other in frantic motion.
+#+END_VERSE

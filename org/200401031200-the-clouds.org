@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       F4A82934-ED86-4F6D-BF14-D5E84B8BFEE1
+:SLUG:     the-clouds
+:END:
+---
+title: The clouds
+tags: poetry
+edited: 06/07/2005
+location: El Conquistador hotel, at Dave and Halleh's wedding
+---
+
+#+BEGIN_VERSE
+Do the clouds above
+feel emptied when the sun leaves?
+casting pale shadows
+of their pallid selves
+along the moonlit ground...
+
+What shape of sorrow
+steals across their misty brow?
+Loosing one tear
+and then a thousand
+upon a silence too profound.
+#+END_VERSE

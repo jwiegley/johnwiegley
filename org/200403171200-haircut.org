@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6DF17539-4F82-4CB4-928E-0E3A9999D528
+:SLUG:     haircut
+:END:
+---
+title: Haircut
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Close-cropped
+butch cut
+pulled back
+behind the brow
+wrinkles everywhere
+an old man's head
+the portrait of age.
+#+END_VERSE

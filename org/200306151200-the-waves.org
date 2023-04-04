@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       FF9183A7-59F1-4C54-892A-A4D61A0B34F5
+:SLUG:     the-waves
+:END:
+---
+title: The waves
+tags: poetry
+edited: 03/07/2004
+location: Sitges, Spain
+---
+
+#+BEGIN_VERSE
+Perhaps a great pair of hands
+seized the carpet of the sea,
+shaking it with a might thrust,
+leaving it to settle in its bed
+with the breathe of the wind
+rippling along.
+#+END_VERSE

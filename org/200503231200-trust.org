@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       16D1EBBB-FC5A-49EC-8C5F-F98D6C068F40
+:SLUG:     trust
+:END:
+---
+title: Trust
+tags: poetry
+location: between Tucson and Phoenix, at a rest stop
+---
+
+#+BEGIN_VERSE
+Once, in another world,
+I was sitting with the Shaykh of my spirit,
+a great Master.
+
+Next to us
+a huge fire was roaring,
+consuming all my books,
+my belongings, even my clothes.
+
+Then my Master said,
+"Now cast yourself into the flames."
+And so I jumped,
+without a moment's hesitation.
+
+To my great surprise, I was unburnt.
+The flames were cold to the touch
+although everything around me
+was being destroyed.
+
+I turned to my Master.
+He was shaking his head.
+"Alas, in the end you have failed me, my pupil."
+
+"How did I not obey?" I asked.
+
+He said, “Your failure was this:
+Despite your claims of complete faith in me,
+you expected to be burned.”
+#+END_VERSE

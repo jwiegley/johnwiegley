@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       34F5B962-530D-4893-A2F8-FDE597DE4389
+:SLUG:     the-sea-exhales
+:END:
+---
+title: The sea exhales
+tags: poetry
+edited: 03/17/2004
+location: Sitges
+---
+
+#+BEGIN_VERSE
+The sea exhales with its long, cool breath
+hours long... hours, hours...
+I fall asleep waiting for the end.
+#+END_VERSE

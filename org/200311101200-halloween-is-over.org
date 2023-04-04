@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       1A7C9C7B-C04A-4ABF-8322-305ED391BFAB
+:SLUG:     halloween-is-over
+:END:
+---
+title: Halloween is over
+tags: poetry
+edited: 11/21/2003
+location: 380 Esplanade
+---
+
+#+BEGIN_VERSE
+Halloween is over.
+The grey trees
+have shed every leaf.
+
+Now there are branches, alone,
+scratching at the sky.
+They scatter the moonlight
+and make it seem empty, colder.
+
+Defrocked by winter,
+they bare their secrets
+to the wind and sun.
+#+END_VERSE

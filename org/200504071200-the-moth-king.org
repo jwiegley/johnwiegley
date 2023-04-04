@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       1AF18583-9B1A-46D2-8801-D5FCE8541ED3
+:SLUG:     the-moth-king
+:END:
+---
+title: The Moth King
+tags: poetry
+location: Chocolate Iguana, Tucson, Arizona
+---
+
+#+BEGIN_VERSE
+Behold!
+I am the Moth Satan
+wreathed in flame.
+
+I glow with a heat
+only lovers
+can comprehend.
+
+My scepter
+is my burning limbs;
+my crown,
+my blazing brow;
+my throne,
+the torment
+that surrounds me...
+
+Behold!
+I am the Moth Angel --
+for fire and love
+have made me king.
+#+END_VERSE

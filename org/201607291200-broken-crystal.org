@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       2256017D-2FEB-4854-A018-04D274372D89
+:SLUG:     broken-crystal
+:END:
+---
+title: Broken crystal
+tags: poetry
+---
+
+#+BEGIN_VERSE
+I lived upon a landscape of broken crystal.
+My eyes were closed, and my feet, bleeding.
+
+One day I awoke with the sun in my face...
+And I fell in love,
+and my heart became a mortal cup, filled with light.
+
+I looked across the land as the Daystar rose
+and all those crystal thorns became as one:
+drops of the sun,
+diamonds of fire,
+a treasure of light
+unbounded.
+#+END_VERSE

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       761E2563-EE3F-43AE-BDA2-1D1813B4CC72
+:SLUG:     birthday-wishes
+:END:
+---
+title: Birthday wishes
+tags: poetry
+---
+
+#+BEGIN_VERSE
+If all the years
+that gather behind
+lay up tall in
+the stores of the mind,
+perhaps those heights
+may help us find
+what truths had found
+a younger eye blind.
+#+END_VERSE

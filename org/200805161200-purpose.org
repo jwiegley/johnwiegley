@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       C450FA35-037A-4799-8764-AC0DDB8F060A
+:SLUG:     purpose
+:END:
+---
+title: Purpose
+tags: journal
+---
+
+#+BEGIN_EXAMPLE
+Whenever I have thirsted
+though my tongue sought water
+my soul sought for this.
+
+Whenever I have yearned
+though my dreams dreamt of futures
+my soul dreamt of this.
+
+Whenever I have labored
+though my efforts aimed higher
+my soul aimed at this.
+
+Whenever I have swooned
+though my heart longed for beauty
+my soul longed for this.
+
+Experience is a gilt onion.
+I peel it back, layer by layer,
+and always I find this.
+
+This is the purpose.
+This is the meaning.
+This is the intent.
+
+Perhaps you wonder what I mean?
+In truth, you wonder about this.
+#+END_EXAMPLE

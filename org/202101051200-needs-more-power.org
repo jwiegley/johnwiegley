@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       F6166279-E1BA-423B-B36C-254B7470EC5F
+:SLUG:     needs-more-power
+:END:
+---
+title: Needs more power
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Muscle man on the beach
+pushing back the waves
+needs more power.
+#+END_VERSE

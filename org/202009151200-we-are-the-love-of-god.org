@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9D803F70-EA3F-4296-B3C1-EE7B9A41A246
+:SLUG:     we-are-the-love-of-god
+:END:
+---
+title: We are the love of God
+tags: poetry
+---
+
+#+BEGIN_VERSE
+No concept, idea or intimation of God
+will ever even be close.
+But the thirsty man
+is already joined to the river;
+the flower embraces the sun;
+the seed in the dirt struggles
+toward the unseen sky.
+We /are/ the love of God,
+if only the self be put aside.
+#+END_VERSE

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5DFCF8F0-3572-4E92-A250-01D0EB7C3996
+:SLUG:     the-sun-the-clouds
+:END:
+---
+title: The sun, the clouds
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Do the clouds have any power
+  to darken or brighten the sun?
+Only while feet are bound to the earth
+  will it seem so.
+#+END_VERSE

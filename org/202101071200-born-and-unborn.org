@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ECBFC924-41E2-47F8-B6FC-499B828C6A09
+:SLUG:     born-and-unborn
+:END:
+---
+title: The Born and the Unborn
+tags: poetry
+---
+
+#+BEGIN_VERSE
+So many drops, cast on the spray
+each unique for just a moment
+each alike for just a moment...
+
+Yet there's only the Ocean:
+the Born and the Unborn:
+with no difference between
+but the one I think I see.
+#+END_VERSE

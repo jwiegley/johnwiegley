@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4071BCF4-EDCA-455D-8E37-98761EBCAEE8
+:SLUG:     sweet-girl
+:END:
+---
+title: Sweet girl
+tags: poetry
+edited: 04/25/2005
+location: Horizon Park Center, Scottsdale, Arizona
+---
+
+#+BEGIN_VERSE
+O sweet girl!
+Do you know that I was
+solid when you met me
+but now I flow along?
+
+Love has that effect:
+It gives even a mouse
+the chance to fly!
+or a mote of dust
+to sparkle like the Sun...
+#+END_VERSE

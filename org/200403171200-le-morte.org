@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       C091D370-913E-450F-9220-6062C06C1276
+:SLUG:     le-morte
+:END:
+---
+title: Le morte
+tags: poetry
+---
+
+#+BEGIN_VERSE
+When that moment comes,
+and I hear the candle's light
+  go out in a whisper,
+where will I be then?
+
+They call it death here;
+but I wonder
+whether what I've seen so far
+you would call life.
+#+END_VERSE

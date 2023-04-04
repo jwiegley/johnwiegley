@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       AA80E3AD-5400-4E61-ABAF-E3D901EB84EA
+:SLUG:     poem-to-the-falling-sun
+:END:
+---
+title: Poem to the falling sun
+tags: poetry
+edited: 11/21/2003
+location: Plaza Industria, Sitges, Spain
+---
+
+#+BEGIN_VERSE
+Of all the sky's blue,
+its billows of uncarded wool,
+its heart of gold
+no cauldron holds
+that rainbows guide us to;
+
+Not one day can last,
+nor all the heavens vast,
+when night is come
+and day is done
+for blue and gold, alas.
+#+END_VERSE

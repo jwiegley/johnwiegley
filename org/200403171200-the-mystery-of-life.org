@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6554110F-BA97-4680-A1FE-14E3A56D5462
+:SLUG:     the-mystery-of-life
+:END:
+---
+title: The mystery of life
+tags: poetry
+---
+
+#+BEGIN_VERSE
+When this poem started,
+it needed an ocean of ink to finish it.
+But I suppose one word is sufficient:
+
+Be.
+
+Which tells more --
+  a lover's silent eyes,
+  or her words?
+#+END_VERSE

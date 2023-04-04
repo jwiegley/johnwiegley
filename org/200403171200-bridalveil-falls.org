@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       1DC61152-FA49-47B1-9BD1-4AE9B5E6F091
+:SLUG:     bridalveil-falls
+:END:
+---
+title: Bridalveil Falls
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Looking up we saw a face,
+clear, bold and gazing at the sun.
+
+Its deep lines bespoke countless years;
+its running fall of tears, a joyful sadness.
+
+It was the face of a mountain,
+Now ten thousand years old,
+
+Capturing what all faces from the beginning of time have known:
+Wonder, awe and the patience of long years;
+
+Surprise, astonishment and the mute wonder we feel
+When we imagine how all of it came to be.
+#+END_VERSE

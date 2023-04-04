@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0B3B6415-8C07-49B5-B1B1-F233ED451E68
+:SLUG:     to-sail-away
+:END:
+---
+title: To sail away
+tags: poetry
+edited: 09/13/2004
+location: 380 Esplanade #211
+---
+
+#+BEGIN_VERSE
+Globes of moonlight float along the water,
+fishes nibble at the morsels of light;
+I lean against the railing, hands pressed down,
+closing my eyes to remember the sight...
+
+Sail on, lonely barque, carry me far --
+Loose my spirit on the darkened seas!
+I'll hear no more of heaven and earth:
+only waves crashing and the constant breeze.
+#+END_VERSE

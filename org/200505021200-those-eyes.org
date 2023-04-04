@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       323A78B7-2E24-43CB-9D7D-A57373AD985E
+:SLUG:     those-eyes
+:END:
+---
+title: Those eyes
+tags: poetry
+edited: 05/07/2005
+location: Biltmore Fashion Park, Phoenix, Arizona
+---
+
+#+BEGIN_VERSE
+Young Leyla,
+with bright eyes
+like stars from another heaven.
+You guide this lonely mariner,
+his ship twice-wrecked
+against life's tormented seas.
+For now I have
+new hopes to lift me:
+that elsewhere in love's firmament
+there might be other eyes
+like these.
+#+END_VERSE

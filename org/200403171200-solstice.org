@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       D4240ED1-11DA-4683-A166-AD363879FAA3
+:SLUG:     solstice
+:END:
+---
+title: Solstice
+tags: poetry
+---
+
+#+BEGIN_VERSE
+The warm summer nights have now betrayed me,
+turned cold, winter winds that ice the bone,
+beneath a moonless sky of shadow, velvet.
+
+Yet through the dotted black, watching for the sun to rise,
+hands pressed tight to fend the zephyr's howl,
+I remember what the solstice brings, besides just cold and sorrow:
+
+It signals the eternal promise,
+that whatever was far will come near again,
+to return, just as surely, though slowly, as before.
+#+END_VERSE

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1A62BB1F-DA78-4C9E-B2BC-E984C8893627
+:SLUG:     carlton-park
+:END:
+---
+title: Carlton Park
+tags: poetry
+---
+
+#+BEGIN_VERSE
+The green army raises their swords,
+gathering at the beachhead to launch
+triumphantly into their final campaign!
+
+Sorry, my mistake...
+It was only the reeds by the lake,
+viewed at a sideways angle, dreamily.
+#+END_VERSE

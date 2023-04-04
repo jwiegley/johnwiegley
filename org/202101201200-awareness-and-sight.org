@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       94635AD5-49FE-4E75-A83B-F2B7A365158B
+:SLUG:     awareness-and-sight
+:END:
+---
+title: Awareness and sight
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Is the eye the gate of sight,
+through which all light flows
+and is not barred from entering,
+though itself cannot be witnessed?
+
+Is awareness like that sight?
+#+END_VERSE

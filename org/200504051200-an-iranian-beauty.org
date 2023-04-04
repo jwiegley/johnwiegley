@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       AF5EF6F1-4785-45BB-81F1-1D356D2AF983
+:SLUG:     an-iranian-beauty
+:END:
+---
+title: An Iranian beauty
+tags: poetry
+edited: 05/04/2005
+location: 7373 N. 71st Place, Paradise Valley, AZ
+---
+
+#+BEGIN_VERSE
+Her hair falls
+like ebon silk
+flowing to her sides;
+
+Her fair skin
+a honeyed milk
+that calms my thirsty eyes;
+
+Her sweet smile
+undoes my heart,
+time dallies in that stare;
+
+I wonder still
+those cherry lips...
+Let every man beware.
+#+END_VERSE

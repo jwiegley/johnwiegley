@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       8F4C24F5-D063-4245-A824-4052F3B6A5B8
+:SLUG:     the-lover
+:END:
+---
+title: The Lover
+tags: poetry
+edited: 11/10/2004
+location: 9700 Calle Loma Linda, Tucson, AZ
+---
+
+#+BEGIN_VERSE
+A lover hasn't the heart for knowledge
+nor the patience for study.
+He already knows to perfection
+when the Beloved is near.
+
+Does a thirsty man sit and
+debate the words for water?
+Give him one glass, and he will
+drink the truth of them all.
+
+Such a one does not notice pain.
+In him, all things are consumed.
+He glows with inner heat;
+his eyes are embers from the fire.
+
+Yet because of that negation
+he feels Her touch like no other;
+because he burns with unending thirst
+a drop tells the mystery of oceans.
+
+Thus, the lover takes to pain
+like a student to a favored lesson:
+for insofar as he writhes in agony
+Her merest word of balm is revelation.
+#+END_VERSE

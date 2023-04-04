@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       A666C6C3-993F-46C5-9874-C972D52FDC19
+:SLUG:     the-sky
+:END:
+---
+title: The sky
+tags: poetry
+edited: 11/07/2003
+location: Viva Italiano, Pacifica
+---
+
+#+BEGIN_VERSE
+One evening, like any other,
+I happened to notice the sky.
+
+Whatever I was doing, I had forgotten her;
+my eyes, so eager for beauty, had looked away.
+
+But that next moment...
+who can tell what I saw?
+Even my own memory is imperfect:
+
+It was a lake of fire,
+held by its glowing heat
+over a sea like rolling steel;
+it was a river of luminous wine
+poured in a furnace of bright warmth.
+
+The sea itself lapped, like a man half-asleep,
+dreamily curling, and uncurling, onto the shore...
+#+END_VERSE

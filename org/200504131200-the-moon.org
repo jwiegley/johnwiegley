@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       12657B6C-9B50-44F9-87C4-3C7DC75FD02C
+:SLUG:     the-moon
+:END:
+---
+title: The moon
+tags: poetry
+edited: 04/25/2005
+location: Phoenicia Cafe, 7th St, Tempe, Arizona
+---
+
+#+BEGIN_VERSE
+How strange that
+I sought you for so long;
+when Yours were the eyes
+I looked with all along...
+
+In Your voice, I cried out;
+on Your feet, I carried on;
+with Your mind
+I dreamt my troubled dreams.
+
+If only I'd paid
+more attention
+I might have noticed:
+
+Whenever You breathed, I exhaled;
+whenever Your eyes closed
+I laid myself to rest.
+
+If the moon believes
+it shines with its own light,
+yell up to Heaven: "Not quite!"
+
+If not for the Sun,
+we would know the moon only
+by its nothingness:
+the occlusion of nearby stars.
+
+Hence the mystic is nothing -- a void;
+when he shines you see only the Sun.
+
+He has no voice of his own;
+no feet to carry him on;
+no sight, no mind:
+All that he has is borrowed.
+
+Know who you are without Him
+and perhaps
+  you will know Him without you.
+#+END_VERSE

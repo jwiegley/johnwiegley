@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       6C22AEF5-FEA8-467C-8A47-7A581BDB89DB
+:SLUG:     the-sun-hangs-low
+:END:
+---
+title: The sun hangs low
+tags: poetry
+edited: 03/22/2004
+location: Italy
+---
+
+#+BEGIN_VERSE
+The sun hangs low on the river Arno,
+a goblet of fire over a lake of wine;
+casting images of gold on panes above the knoll
+of the bank and bridges where was an empire.
+#+END_VERSE

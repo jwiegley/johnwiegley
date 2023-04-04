@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       AE75FE42-E978-4902-B5C2-F6DCE82898A3
+:SLUG:     jennifer
+:END:
+---
+title: Jennifer
+tags: poetry
+---
+
+#+BEGIN_VERSE
+That night, when my head was back,
+counting stars in the awesome blackness of the sky,
+
+I remember you wondered at my strangeness --
+why I waited so long to leave.
+
+Perhaps love isn't a thing common
+  to a child's heart,
+but what I knew then, I still know now:
+
+The rest is up to you.
+#+END_VERSE

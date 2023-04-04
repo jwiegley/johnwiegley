@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ADB8B475-5117-4171-8ECA-E0EDA2AACAAC
+:SLUG:     a-young-kitten
+:END:
+---
+title: A young kitten
+tags: poetry
+---
+
+#+BEGIN_VERSE
+I feel like a young kitten,
+head on its mother's lap,
+kneading gently and
+taking in the milk of truth and reality,
+until soon it's strong enough
+to open new, curious eyes
+and bear the light.
+#+END_VERSE

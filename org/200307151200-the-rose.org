@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       A8158FAA-A0F6-4209-995E-E42FD4DA3885
+:SLUG:     the-rose
+:END:
+---
+title: The rose
+tags: poetry
+edited: 03/22/2004
+location: Italy
+---
+
+#+BEGIN_VERSE
+The rose
+over time
+weeps its petals
+in crimson drops of tears,
+still forms
+of velvet blood:
+its last claim to beauty.
+#+END_VERSE

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       862B2C15-B8EF-466E-87E0-37B9558F86A1
+:SLUG:     moving-with-alacrity
+:END:
+---
+title: Moving with alacrity
+tags: poetry
+---
+
+#+BEGIN_VERSE
+We move forward with alacrity
+when it stems from love
+of what we're aiming toward,
+rather than anger or dislike
+of what we want to get beyond.
+The latter makes it real;
+the former makes it worthwhile.
+#+END_VERSE

@@ -1,0 +1,82 @@
+:PROPERTIES:
+:ID:       3FAF4A41-FE9F-4362-BA01-8EC56CF613F1
+:SLUG:     free-will
+:END:
+---
+title: Free will
+tags: journal
+---
+
+The idea of free will was first put forth in the West by Epicurus,
+around 300 BC. He believed we had freedom because of the "clinamen": an
+ability of human desire to change the way atoms interact. It wasn't
+really a big issue then, however, since most societies comfortably
+assumed that human affairs were in the hands of the gods and they
+therefore had a natural belief in determinism.
+
+It came up as a serious question in Christianity with the moral question
+of repercussions in a future life. Augustine thought we had the freedom
+to choose between good and evil. Pelagius argued we must also possess
+the ability to act on our choices. Later church figures debated that the
+will of man is enough; he is at least 99% dependent on the grace of God
+to accomplish what he intends.
+
+At the time of the Enlightenment, science founded its own view by
+including man in the mechanistic scheme of physical law, thus stripping
+him again of free will, completely. This view persisted for several
+centuries, becoming highly popular, and leading to the belief that
+sciences could be formulated to describe human behavior with precision,
+such as psychology and sociology. The "nature versus nurture" argument
+still rages on, and the influence of Darwinism only strengthened the
+idea that we act according to programmed motives and not by free choice.
+
+When quantum physics appeared, science noticed that nature itself is not
+deterministic, but in some way involves the observer in the outcome of
+probability. This harkens back to Epicurus' clinamen, providing a
+foothold once again for serious argument in favor of a free will.
+
+The Bahá'í view expresses elements of all these past schemes of thought:
+
+1. That man is bound by fate in many things which he cannot change,
+   except through supplication to God.
+2. That man is free in his choice between good and evil.
+3. That man relies entirely upon the grace of God to act on his choices.
+
+'Abdu'l-Bahá explains
+
+#+BEGIN_QUOTE
+....this condition is like that of a ship which is moved by the power of
+the wind or steam; if this power ceases, the ship cannot move at all.
+Nevertheless, the rudder of the ship turns it to either side, and the
+power of the steam moves it in the desired direction. If it is directed
+to the east, it goes to the east; or if it is directed to the west, it
+goes to the west. This motion does not come from the ship; no, it comes
+from the wind or the steam.
+
+In the same way, in all the action or inaction of man, he receives power
+from the help of God; but the choice of good or evil belongs to the man
+himself....[fn:1]
+
+#+END_QUOTE
+
+This means we have both a contingent freedom -- that is, we cannot
+choose the /scope/ of what we are free to do and not do -- and the
+conferred ability to act on those choices.
+
+#+BEGIN_QUOTE
+That is to say, though the choice of good and evil belongs to man, under
+all circumstances he is dependent upon the sustaining help of life,
+which comes from the Omnipotent. The Kingdom of God is very great, and
+all are captives in the grasp of His Power. The servant cannot do
+anything by his own will; God is powerful, omnipotent, and the Helper of
+all beings.[fn:2]
+
+#+END_QUOTE
+
+We have freedom to choose, but not a true freedom to act; the latter is
+given to us invisibly in the form of divine assistance, which may be
+increased by faith and prayer.
+
+[fn:1] 'Abdu'l-Bahá, /Some Answered Questions/, p.289
+
+[fn:2] ibid

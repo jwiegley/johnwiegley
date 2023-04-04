@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       2FFF1988-76D6-4AB5-983D-4ED8E12D336F
+:SLUG:     intimacy
+:END:
+---
+title: Intimacy
+tags: poetry
+---
+
+#+BEGIN_VERSE
+A calm wind rises up,
+carrying rose petals in a lazy spiral,
+touching you in places
+too intimate for words to picture.
+
+Are my thoughts that wind?
+and fond memories the roses
+that shed petals in long sighs
+of remembrance, adoration and longing?
+
+The image is frail glass, blown gossamer
+over a canvas of gentle nature;
+let no words intrude -- lest the silence break
+and shatter the peace in a weeping of broken glass.
+#+END_VERSE

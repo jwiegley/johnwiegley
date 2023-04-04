@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       C2800882-05FA-4C44-9967-799F9F9FF781
+:SLUG:     a-cherished-sound
+:END:
+---
+title: A cherished sound
+tags: poetry
+edited: 08/20/2004
+location: 380 Esplanade #211
+---
+
+#+BEGIN_VERSE
+The lilt of your gentle voice,
+its dulcet tones,
+its warm, mellifluous sound...
+to a man's ears, what balm,
+what anodyne peace;
+I linger there in memory
+until the pain of absence
+grows profound.
+#+END_VERSE

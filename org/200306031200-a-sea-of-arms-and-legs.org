@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       9A485FB5-294F-4E73-BFAE-01B2173803BB
+:SLUG:     a-sea-of-arms-and-legs
+:END:
+---
+title: A sea of arms and legs
+tags: poetry
+edited: 03/17/2004
+location: Sitges, Spain
+---
+
+#+BEGIN_VERSE
+They spill like a sea,
+all walking, tan and colored drops,
+into the greater, deeper sea...
+
+One blue, above, endless from east to west
+but for its radiant Jewel;
+the other, blue, lapping at the sand,
+receiving great hordes --
+this clash of seas, splashing, playing...
+
+And the boats wander by --
+the arms, the legs! --
+and wander by again.
+#+END_VERSE

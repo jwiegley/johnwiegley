@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       FEE46A93-DB9C-41A2-A927-8AEE819B01B5
+:SLUG:     kitten-catches-his-tail
+:END:
+---
+title: Kitten catches his tail
+tags: poetry
+---
+
+#+BEGIN_VERSE
+The kitten catches his tail
+panting, out of breath
+a perplexing victory
+#+END_VERSE

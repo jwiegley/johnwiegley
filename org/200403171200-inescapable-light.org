@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       DF4F0255-4268-4470-9AB5-468C8D203099
+:SLUG:     inescapable-light
+:END:
+---
+title: Inescapable light
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Each drop of light
+  that falls from the sun
+splashes dazzling in my eye.
+And if I blink away
+  the brilliant, blinding rays,
+on opening I am immersed again.
+#+END_VERSE

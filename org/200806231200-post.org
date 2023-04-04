@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       D027CF57-3B7A-464A-BFFE-4E7D780BBA30
+:SLUG:     post
+:END:
+---
+title: اسير نشدنی
+tags: journal
+---
+
+#+BEGIN_EXAMPLE
+A mirror cannot capture the light of the sun,
+nor can words -- but for a moment --
+contain all that a heart may feel.
+#+END_EXAMPLE
+
+Written for my wife Nasim on her birthday yesterday.

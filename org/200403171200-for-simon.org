@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       073A06BD-2D97-40B3-9A98-201CA094C2A7
+:SLUG:     for-simon
+:END:
+---
+title: For Simón
+tags: poetry
+---
+
+#+BEGIN_VERSE
+How many kind eyes
+look out at the world?
+
+How much laughter
+do we hear?
+
+How much courtesy
+graces the name "humanity"?
+
+Today, we are one less.
+
+And outside my window,
+where I used to see his truck,
+the great arms of the loquat tree
+have folded, and broken.
+
+Half of that tree lies silent now on the ground.
+
+It could no longer sustain
+its burden of sorrow.
+#+END_VERSE

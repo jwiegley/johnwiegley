@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       581BD587-C902-4035-9CCA-DE27F273FBBB
+:SLUG:     the-waves-of-blue
+:END:
+---
+title: The waves of blue
+tags: poetry
+---
+
+#+BEGIN_VERSE
+Remind me of that time
+when the brilliance of dreaming
+was the color of a sunrise;
+
+When the rippling waters of Glacier Lake
+and the waves of blue
+that gathered at my toes
+
+Were exactly what my heart desired,
+on a warm day,
+beneath the pale clouds of a lazy summer.
+#+END_VERSE

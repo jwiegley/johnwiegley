@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ACC3D698-F1AD-49D7-93DF-280BAC912538
+:SLUG:     made-to-love-the-sun
+:END:
+---
+title: Made to love the sun
+tags: poetry
+---
+
+#+BEGIN_VERSE
+A flower is made
+to love the sun;
+by opening its arms
+it discovers
+the fulfillment of its being,
+becoming radiant
+and full of color
+through that connection.
+#+END_VERSE

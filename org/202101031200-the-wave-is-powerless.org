@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       765EB957-D006-4179-B4BA-3A41C721FECB
+:SLUG:     the-wave-is-powerless
+:END:
+---
+title: The wave is powerless
+tags: poetry
+---
+
+#+BEGIN_VERSE
+The wave is powerless
+to step away from the ocean...
+all his substance is borrowed.
+It doesn't mean he doesn't move about,
+play and crash,
+only that he
+has no existence
+separate from the sea,
+and should recognize this
+when regarding it.
+#+END_VERSE

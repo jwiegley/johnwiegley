@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       BDDDD756-9668-46E6-ACD4-F0EFBC05DFAA
+:SLUG:     far-afield
+:END:
+---
+title: Far afield
+tags: poetry
+edited: 09/13/2004
+location: 380 Esplanade Ave #211, Pacifica
+---
+
+#+BEGIN_VERSE
+The more foolish I know myself to be
+the wiser I seem.
+For then my words are not fully mine.
+I take the breath, but He exhales.
+I man the tiller, but He sends me
+in discourses of gale and wonder
+throughout the wide yards of the sea.
+#+END_VERSE

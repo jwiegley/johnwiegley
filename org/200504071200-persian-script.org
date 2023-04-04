@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       A929EBCB-D4C6-42E7-89F2-310FA3D63233
+:SLUG:     persian-script
+:END:
+---
+title: Persian script
+tags: poetry
+edited: 04/19/2005
+location: Kerr Cultural Center, Scottsdale, Arizona
+---
+
+#+BEGIN_VERSE
+As if my pen
+had drunk too much
+its joy beyond all keeping --
+dancing across the page,
+wild with meaning.
+
+A slender reed
+thrumming with songs
+of passion and Persian princes;
+these are not mere lines,
+but the tracings of a pen
+  turned whirling dervish.
+#+END_VERSE

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       B88F0255-AD99-4CC2-B36A-0F037DE7122B
+:SLUG:     the-pretty-girls
+:END:
+---
+title: The pretty girls
+tags: poetry
+edited: 03/17/2004
+location: Sitges, Spain
+---
+
+#+BEGIN_VERSE
+Coffee-skinned, with chocolate eyes,
+following hair, like bolts of silk;
+Pendulum hips, that keep no time --
+and teeth the white of richest milk.
+#+END_VERSE

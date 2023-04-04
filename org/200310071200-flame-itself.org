@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       AD09C897-2730-4678-9979-EDB9481401BB
+:SLUG:     flame-itself
+:END:
+---
+title: Flame itself
+tags: poetry
+edited: 11/07/2003
+location: Cafe Torrefazione Italiano
+---
+
+#+BEGIN_VERSE
+If I were flame itself
+and all the seas heaped upon me;
+yet, undimmed, a spark would remain
+to show my Love that I had been.
+#+END_VERSE

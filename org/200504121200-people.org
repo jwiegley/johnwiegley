@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       242BF982-E0CD-49A2-B13E-D73E0263A5C1
+:SLUG:     people
+:END:
+---
+title: People
+tags: poetry
+location: 7373 N. 71st Place, PV, AZ
+---
+
+#+BEGIN_VERSE
+Before it blooms
+a rosebush is little more than
+a useless bunch of thorns.
+
+Yet once the rose appears
+we sing only its praise!
+
+Then be like that Gardener
+Who planted the bush,
+and Who loves it
+  at every stage
+for what it will become.
+#+END_VERSE
