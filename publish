@@ -1,4 +1,0 @@
-#!/bin/bash
-exec rclone sync -v                                             \
-       ./result/share/html/johnwiegley                          \
-       fastmail:/johnw.newartisans.com/files/johnwiegley
